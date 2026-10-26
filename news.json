@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-26T10:00:53.384Z",
+  "updatedAt": "2026-10-26T10:15:33.308Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "サイバー攻撃に緊急対策 首相方針",
+      "link": "https://news.yahoo.co.jp/pickup/6600219?source=rss",
+      "pubDate": "2026-10-26T10:11:04.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "中国媒体の「VIVANT」批判 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6600218?source=rss",
+      "pubDate": "2026-10-26T10:07:04.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "Joshin 600万件超の情報漏えいか",
       "link": "https://news.yahoo.co.jp/pickup/6600214?source=rss",
       "pubDate": "2026-10-26T09:47:14.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「年齢は合ってますが、人間ではありません」　6歳の飼い猫に届いた“進研ゼミの案内”　なぜ届いたのかベネッセに聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002597/",
+      "pubDate": "2026-10-26T09:41:28.000Z"
     },
     {
       "category": "国内",
@@ -74,14 +98,6 @@
       "pubDate": "2026-10-26T08:14:42.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「iPhone Duo」画面不具合の報告がSNSで話題　店頭デモ機の過酷な使用環境が起因か",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news040.html",
-      "pubDate": "2026-10-26T08:00:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -122,14 +138,6 @@
       "pubDate": "2026-10-26T05:26:54.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "セルビア 14年ぶり政権交代へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600182?source=rss",
-      "pubDate": "2026-10-26T05:21:06.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -168,14 +176,6 @@
       "title": "Netflix会員 アプリ利用頻度低下",
       "link": "https://news.yahoo.co.jp/pickup/6600167?source=rss",
       "pubDate": "2026-10-26T03:26:33.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "関東 低気圧と前線で27日にかけ雨",
-      "link": "https://news.yahoo.co.jp/pickup/6600164?source=rss",
-      "pubDate": "2026-10-26T02:50:03.000Z"
     },
     {
       "category": "経済",
