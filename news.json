@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:00:49.333Z",
+  "updatedAt": "2026-10-26T23:15:33.054Z",
   "items": [
     {
       "category": "経済",
@@ -8,6 +8,14 @@
       "title": "立ち飲み なぜ今若者に選ばれる",
       "link": "https://news.yahoo.co.jp/pickup/6600252?source=rss",
       "pubDate": "2026-10-26T22:58:08.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「楽天トラベル」に不正アクセス　顧客情報最大約260万件など流出か　予約者約3.6万件のクレカ情報も",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002606/",
+      "pubDate": "2026-10-26T22:44:55.000Z"
     },
     {
       "category": "国際",
@@ -71,14 +79,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] 熊本地震「避難状況マップ」秘話　2日で開発も「こんなの使えない」と突き返され……",
       "link": "https://www.itmedia.co.jp/business/articles/2610/27/news014.html",
-      "pubDate": "2026-10-26T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] FDEは「スーパーマンと思われがちだが……」　脱・人月モデルで期待大、AI時代の“花形職種”の実像は？",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news013.html",
       "pubDate": "2026-10-26T22:00:00.000Z"
     },
     {
