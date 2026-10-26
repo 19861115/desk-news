@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-26T10:15:33.308Z",
+  "updatedAt": "2026-10-26T10:30:41.108Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMOに攻撃 当初は約80億円要求",
+      "link": "https://news.yahoo.co.jp/pickup/6600222?source=rss",
+      "pubDate": "2026-10-26T10:28:04.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -208,14 +216,6 @@
       "title": "新局面 漏洩被害者に迫る「脅威」",
       "link": "https://news.yahoo.co.jp/pickup/6600145?source=rss",
       "pubDate": "2026-10-26T00:27:36.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "不正アクセス GMO代表が謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6600119?source=rss",
-      "pubDate": "2026-10-25T14:05:35.000Z"
     },
     {
       "category": "科学",
