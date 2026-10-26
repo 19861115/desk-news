@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-26T23:30:42.241Z",
+  "updatedAt": "2026-10-26T23:45:32.889Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "バズは狙わない「ちふれ」の工夫",
+      "link": "https://news.yahoo.co.jp/pickup/6600259?source=rss",
+      "pubDate": "2026-10-26T23:38:04.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -21,9 +29,41 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「楽天トラベル」に不正アクセス　顧客情報最大約260万件など流出か　予約者約3.6万件のクレカ情報も",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002606/",
-      "pubDate": "2026-10-26T22:44:55.000Z"
+      "title": "[ITmedia エグゼクティブ] 貨物の搬送車両で自動運転「レベル4」 福岡空港、国内3カ所目",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/27/2000002609/",
+      "pubDate": "2026-10-26T23:10:24.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「一番くじ ONLINE」の配送情報漏えいか　バンダイナムコの物流子会社に不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002608/",
+      "pubDate": "2026-10-26T23:07:15.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 大企業はAIコストを管理できていない　サイボウズ調査で浮かび上がった「3割の壁」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news032.html",
+      "pubDate": "2026-10-26T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 「顧客アプリ」は格好の餌食に　相次ぐ不正アクセス、自社を守る手立ては？",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news008.html",
+      "pubDate": "2026-10-26T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 「対策している」と「守れている」は違う - 防御力を経営に見せる富士通のサイバーセキュリティ戦略",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/27/2000002560/",
+      "pubDate": "2026-10-26T23:00:00.000Z"
     },
     {
       "category": "国際",
@@ -50,44 +90,12 @@
       "pubDate": "2026-10-26T22:27:23.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Meta、AI投資拡大に向け最大950億ドル規模の株式発行計画　NVIDIA、AMD、Broadcomも出資に関心",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002605/",
-      "pubDate": "2026-10-26T22:26:55.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "イスラエル総選挙 政権維持が焦点",
       "link": "https://news.yahoo.co.jp/pickup/6600247?source=rss",
       "pubDate": "2026-10-26T22:20:32.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 「今夜に対応して頂きたい」総理の異例投稿　PHP騒動が残した「運用」という教訓",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/27/news021.html",
-      "pubDate": "2026-10-26T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 「遅延なきネットワーク」ソブリンAIの鍵に　NTT川添氏が語る「IOWN」実装後の社会",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news024.html",
-      "pubDate": "2026-10-26T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 熊本地震「避難状況マップ」秘話　2日で開発も「こんなの使えない」と突き返され……",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news014.html",
-      "pubDate": "2026-10-26T22:00:00.000Z"
     },
     {
       "category": "IT",
@@ -136,14 +144,6 @@
       "title": "新幹線予約の個人情報17万件流出",
       "link": "https://news.yahoo.co.jp/pickup/6600235?source=rss",
       "pubDate": "2026-10-26T14:07:55.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "「弁当男子」増 力入れる食品業界",
-      "link": "https://news.yahoo.co.jp/pickup/6600237?source=rss",
-      "pubDate": "2026-10-26T13:59:07.000Z"
     },
     {
       "category": "国際",
