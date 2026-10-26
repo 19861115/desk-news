@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <!-- iPhone常駐用のViewport・PWA設定 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Desk News</title>
+  <style>
+    :root {
+      --bg: #121212;
+      --card-bg: #1e1e1e;
+      --text: #e0e0e0;
+      --accent: #4da3ff;
+      --sub: #888;
+    }
+    body {
+      margin: 0;
+      padding: 16px;
+      padding-top: env(safe-area-inset-top, 20px);
+      background-color: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      user-select: none;
+      -webkit-user-select: none;
+    }
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+      border-bottom: 1px solid #333;
+      padding-bottom: 8px;
+    }
+    .clock {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #fff;
+    }
+    .status {
+      font-size: 0.8rem;
+      color: var(--sub);
+    }
+    .news-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .news-item {
+      display: block;
+      background: var(--card-bg);
+      padding: 12px 14px;
+      border-radius: 10px;
+      text-decoration: none;
+      color: var(--text);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      transition: background 0.15s ease;
+    }
+    .news-item:active {
+      background: #2a2a2a;
+    }
+    .news-title {
+      font-size: 0.95rem;
+      line-height: 1.4;
+      font-weight: 500;
+      margin-bottom: 4px;
+    }
+    .news-time {
+      font-size: 0.75rem;
+      color: var(--sub);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="clock" id="clock">--:--</div>
+    <div class="status" id="status">更新中...</div>
+  </header>
+
+  <main class="news-list" id="newsList">
+    <!-- ニュースがここに挿入されます -->
+  </main>
+
+<script>
+  // 取得したいRSSフィード（例: Yahoo!ニュース 主要）
+  const RSS_URL = 'https://news.yahoo.co.jp/rss/topics/top-picks.xml';
+  
+  // allorigins の raw エンドポイント（CORS回避用）
+  const PROXY_URL = 'https://api.allorigins.win/raw?url=';
+  
+  // 更新間隔 (ミリ秒) : 5分
+  const REFRESH_INTERVAL = 5 * 60 * 1000;
+
+  // 時計の更新
+  function updateClock() {
+    const now = new Date();
+    const h = String(now.getHours()).padStart(2, '0');
+    const m = String(now.getMinutes()).padStart(2, '0');
+    document.getElementById('clock').textContent = `${h}:${m}`;
+  }
+  setInterval(updateClock, 1000);
+  updateClock();
+
+  // ニュース取得＆描画
+  async function fetchNews() {
+    const statusEl = document.getElementById('status');
+    const listEl = document.getElementById('newsList');
+    statusEl.textContent = '更新中...';
+
+    try {
+      // キャッシュ対策でタイムスタンプを付与
+      // const targetUrl = `${RSS_URL}?_t=${Date.now()}`;
+      const targetUrl = `${RSS_URL}`;
+      const res = await fetch(`${PROXY_URL}${encodeURIComponent(targetUrl)}`);
+      if (!res.ok) throw new Error(`HTTPエラー: ${res.status}`);
+
+      const xmlText = await res.text();
+      const parser = new DOMParser();
+      const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+
+      // XMLパース失敗の検知
+      if (xmlDoc.querySelector('parsererror')) {
+        throw new Error('XML解析エラー');
+      }
+
+      // <item> を最大10件取得
+      const items = Array.from(xmlDoc.querySelectorAll('item')).slice(0, 10);
+      listEl.innerHTML = '';
+
+      items.forEach(item => {
+        const title = item.querySelector('title')?.textContent || 'タイトルなし';
+        const link = item.querySelector('link')?.textContent || '#';
+        const pubDateStr = item.querySelector('pubDate')?.textContent;
+
+        const pubDate = pubDateStr ? new Date(pubDateStr) : new Date();
+        const timeStr = `${pubDate.getHours()}:${String(pubDate.getMinutes()).padStart(2, '0')}`;
+
+        const a = document.createElement('a');
+        a.className = 'news-item';
+        a.href = link;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        a.innerHTML = `
+          <div class="news-title">${title}</div>
+          <div class="news-time">${timeStr}</div>
+        `;
+        listEl.appendChild(a);
+      });
+
+      const now = new Date();
+      statusEl.textContent = `最終更新: ${now.getHours()}:${String(now.getMinutes()).padStart(2, '0')}`;
+    } catch (err) {
+      console.error(err);
+      statusEl.textContent = '接続エラー (再試行待ち)';
+    }
+  }
+
+  // 初回取得 & 定期実行
+  fetchNews();
+  setInterval(fetchNews, REFRESH_INTERVAL);
+</script>
+</body>
+</html>
