@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <title>Desk News</title>
   <style>
@@ -13,22 +13,17 @@
       --text-main: #1f2937;
       --text-sub: #6b7280;
       --border-color: #e5e7eb;
-      --badge-bg: #e0e7ff;
-      --badge-text: #3730a3;
-      --accent: #2563eb;
     }
-
     body {
       margin: 0;
       padding: 16px;
       padding-top: env(safe-area-inset-top, 20px);
       background-color: var(--bg);
       color: var(--text-main);
-      font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", "Segoe UI", Roboto, sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", sans-serif;
       user-select: none;
       -webkit-user-select: none;
     }
-
     header {
       display: flex;
       justify-content: space-between;
@@ -37,40 +32,10 @@
       border-bottom: 2px solid var(--border-color);
       padding-bottom: 10px;
     }
-
-    .clock-area {
-      display: flex;
-      flex-direction: column;
-    }
-
-    .date {
-      font-size: 0.8rem;
-      font-weight: 500;
-      color: var(--text-sub);
-    }
-
-    .clock {
-      font-size: 1.8rem;
-      font-weight: 700;
-      letter-spacing: -0.5px;
-      color: var(--text-main);
-      line-height: 1.1;
-    }
-
-    .status {
-      font-size: 0.75rem;
-      color: var(--text-sub);
-      background: #e5e7eb;
-      padding: 4px 8px;
-      border-radius: 12px;
-    }
-
-    .news-list {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-    }
-
+    .date { font-size: 0.8rem; font-weight: 500; color: var(--text-sub); }
+    .clock { font-size: 1.8rem; font-weight: 700; color: var(--text-main); line-height: 1.1; }
+    .status { font-size: 0.75rem; color: var(--text-sub); background: #e5e7eb; padding: 4px 8px; border-radius: 12px; }
+    .news-list { display: flex; flex-direction: column; gap: 10px; }
     .news-item {
       display: block;
       background: var(--card-bg);
@@ -78,81 +43,33 @@
       border-radius: 12px;
       text-decoration: none;
       color: var(--text-main);
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.03);
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
       border: 1px solid var(--border-color);
-      transition: background 0.15s ease, transform 0.05s ease;
     }
-
-    .news-item:active {
-      background: #f9fafb;
-      transform: scale(0.99);
-    }
-
-    .news-meta {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      margin-bottom: 6px;
-    }
-
-    .category-badge {
-      font-size: 0.7rem;
-      font-weight: 600;
-      padding: 2px 7px;
-      border-radius: 6px;
-      background-color: var(--badge-bg);
-      color: var(--badge-text);
-    }
-
-    /* カテゴリ別の色分け */
-    .badge-business { background-color: #dbeafe; color: #1e40af; } /* 経済: 青 */
-    .badge-domestic { background-color: #fef3c7; color: #92400e; } /* 政治・国内: オレンジ */
-    .badge-it       { background-color: #e0e7ff; color: #3730a3; } /* IT: 紫 */
-
-    .news-time {
-      font-size: 0.75rem;
-      color: var(--text-sub);
-    }
-
-    .news-title {
-      font-size: 0.95rem;
-      line-height: 1.45;
-      font-weight: 600;
-      margin: 0;
-    }
+    .news-item:active { background: #f9fafb; transform: scale(0.99); }
+    .news-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+    .category-badge { font-size: 0.7rem; font-weight: 600; padding: 2px 7px; border-radius: 6px; }
+    .badge-business { background-color: #dbeafe; color: #1e40af; }
+    .badge-domestic { background-color: #fef3c7; color: #92400e; }
+    .badge-it       { background-color: #e0e7ff; color: #3730a3; }
+    .news-time { font-size: 0.75rem; color: var(--text-sub); }
+    .news-title { font-size: 0.95rem; line-height: 1.45; font-weight: 600; margin: 0; }
   </style>
 </head>
 <body>
 
   <header>
-    <div class="clock-area">
+    <div>
       <div class="date" id="date">--月--日(--)</div>
       <div class="clock" id="clock">--:--</div>
     </div>
-    <div class="status" id="status">更新中...</div>
+    <div class="status" id="status">読込中...</div>
   </header>
 
-  <main class="news-list" id="newsList">
-    <!-- ニュースがここに挿入されます -->
-  </main>
+  <main class="news-list" id="newsList"></main>
 
   <script>
-    // ==========================================
-    // 取得したいカテゴリの設定
-    // （不要なものは行頭に // をつけるか削除してください）
-    // ==========================================
-    const FEEDS = [
-      { name: '経済', class: 'badge-business', url: 'https://news.yahoo.co.jp/rss/topics/business.xml' },
-      { name: '国内', class: 'badge-domestic', url: 'https://news.yahoo.co.jp/rss/topics/domestic.xml' },
-      { name: '国際', class: 'badge-world', url: 'https://news.yahoo.co.jp/rss/topics/world.xml' },
-      { name: 'IT', class: 'badge-it', url: 'https://news.yahoo.co.jp/rss/topics/it.xml' },
-      { name: '科学', class: 'badge-science', url: 'hhttps://news.yahoo.co.jp/rss/topics/.xml' },
-    ];
-
-    // 更新間隔 (ミリ秒) : 5分
-    const REFRESH_INTERVAL = 5 * 60 * 1000;
-
-    // 時計と日付の更新
+    // 時計更新
     function updateClock() {
       const now = new Date();
       const h = String(now.getHours()).padStart(2, '0');
@@ -160,101 +77,25 @@
       document.getElementById('clock').textContent = `${h}:${m}`;
 
       const days = ['日', '月', '火', '水', '木', '金', '土'];
-      const month = now.getMonth() + 1;
-      const date = now.getDate();
-      const day = days[now.getDay()];
-      document.getElementById('date').textContent = `${month}月${date}日(${day})`;
+      document.getElementById('date').textContent = `${now.getMonth() + 1}月${now.getDate()}日(${days[now.getDay()]})`;
     }
     setInterval(updateClock, 1000);
     updateClock();
 
-    // 複数プロキシの自動切り替え
-    async function fetchRSSWithFallback(url) {
-      const targetUrl = `${url}?_t=${Date.now()}`;
-      const encoded = encodeURIComponent(targetUrl);
-
-      const proxyFetchers = [
-        async () => {
-          const res = await fetch(`https://corsproxy.io/?url=${encoded}`);
-          if (!res.ok) throw new Error(`corsproxy: ${res.status}`);
-          return await res.text();
-        },
-        async () => {
-          const res = await fetch(`https://api.allorigins.win/get?url=${encoded}`);
-          if (!res.ok) throw new Error(`allorigins: ${res.status}`);
-          const data = await res.json();
-          if (!data.contents) throw new Error('allorigins: empty');
-          return data.contents;
-        },
-        async () => {
-          const res = await fetch(`https://api.codetabs.com/v1/proxy?quest=${encoded}`);
-          if (!res.ok) throw new Error(`codetabs: ${res.status}`);
-          return await res.text();
-        }
-      ];
-
-      for (const fetcher of proxyFetchers) {
-        try {
-          const xmlText = await fetcher();
-          if (xmlText && xmlText.includes('<item>')) {
-            return xmlText;
-          }
-        } catch (err) {
-          console.warn('プロキシ切替:', err.message);
-        }
-      }
-      throw new Error('RSS取得失敗');
-    }
-
-    // 各フィードを取得してパース
-    async function fetchSingleFeed(feed) {
-      try {
-        const xmlText = await fetchRSSWithFallback(feed.url);
-        const parser = new DOMParser();
-        const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
-
-        return Array.from(xmlDoc.querySelectorAll('item')).map(item => {
-          const title = item.querySelector('title')?.textContent || 'タイトルなし';
-          const link = item.querySelector('link')?.textContent || '#';
-          const pubDateStr = item.querySelector('pubDate')?.textContent;
-          const pubDate = pubDateStr ? new Date(pubDateStr) : new Date();
-
-          return {
-            category: feed.name,
-            badgeClass: feed.class,
-            title,
-            link,
-            pubDate
-          };
-        });
-      } catch (e) {
-        console.warn(`${feed.name} の取得失敗:`, e);
-        return [];
-      }
-    }
-
-    // 全フィードを並行取得して結合・時間順ソート
-    async function fetchAllNews() {
+    // 自前生成した news.json を取得（CORSエラーは絶対に出ません）
+    async function loadNews() {
       const statusEl = document.getElementById('status');
       const listEl = document.getElementById('newsList');
-      statusEl.textContent = '更新中...';
 
       try {
-        // 並行取得
-        const results = await Promise.all(FEEDS.map(feed => fetchSingleFeed(feed)));
-        const allItems = results.flat();
+        const res = await fetch(`./news.json?_t=${Date.now()}`);
+        if (!res.ok) throw new Error('news.json 未生成');
+        const data = await res.json();
 
-        if (allItems.length === 0) {
-          throw new Error('ニュースが0件でした');
-        }
-
-        // 新しい順にソート
-        allItems.sort((a, b) => b.pubDate - a.pubDate);
-
-        // 画面に最大12件描画
         listEl.innerHTML = '';
-        allItems.slice(0, 12).forEach(item => {
-          const timeStr = `${item.pubDate.getHours()}:${String(item.pubDate.getMinutes()).padStart(2, '0')}`;
+        data.items.slice(0, 12).forEach(item => {
+          const pubDate = new Date(item.pubDate);
+          const timeStr = `${pubDate.getHours()}:${String(pubDate.getMinutes()).padStart(2, '0')}`;
 
           const a = document.createElement('a');
           a.className = 'news-item';
@@ -271,17 +112,16 @@
           listEl.appendChild(a);
         });
 
-        const now = new Date();
-        statusEl.textContent = `更新: ${now.getHours()}:${String(now.getMinutes()).padStart(2, '0')}`;
+        const updated = new Date(data.updatedAt);
+        statusEl.textContent = `更新: ${updated.getHours()}:${String(updated.getMinutes()).padStart(2, '0')}`;
       } catch (err) {
-        console.error(err);
-        statusEl.textContent = '取得エラー';
+        statusEl.textContent = '取得待機中';
       }
     }
 
-    // 初回取得 & 定期更新
-    fetchAllNews();
-    setInterval(fetchAllNews, REFRESH_INTERVAL);
+    // 初回取得 & 3分おきに再確認
+    loadNews();
+    setInterval(loadNews, 3 * 60 * 1000);
   </script>
 </body>
 </html>
