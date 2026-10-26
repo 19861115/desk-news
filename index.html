@@ -16,8 +16,8 @@
     }
     body {
       margin: 0;
-      padding: 16px;
-      padding-top: env(safe-area-inset-top, 20px);
+      padding: 14px;
+      padding-top: env(safe-area-inset-top, 14px);
       background-color: var(--bg);
       color: var(--text-main);
       font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", sans-serif;
@@ -28,18 +28,44 @@
       display: flex;
       justify-content: space-between;
       align-items: flex-end;
-      margin-bottom: 14px;
-      border-bottom: 2px solid var(--border-color);
-      padding-bottom: 10px;
+      margin-bottom: 10px;
     }
     .date { font-size: 0.8rem; font-weight: 500; color: var(--text-sub); }
     .clock { font-size: 1.8rem; font-weight: 700; color: var(--text-main); line-height: 1.1; }
     .status { font-size: 0.75rem; color: var(--text-sub); background: #e5e7eb; padding: 4px 8px; border-radius: 12px; }
-    .news-list { display: flex; flex-direction: column; gap: 10px; }
+
+    /* カテゴリ切り替えタブ */
+    .tabs {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding-bottom: 8px;
+      margin-bottom: 10px;
+      border-bottom: 1px solid var(--border-color);
+      -webkit-overflow-scrolling: touch;
+    }
+    .tabs::-webkit-scrollbar { display: none; }
+    .tab-btn {
+      white-space: nowrap;
+      border: none;
+      background: #e5e7eb;
+      color: var(--text-sub);
+      padding: 5px 12px;
+      border-radius: 16px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .tab-btn.active {
+      background: var(--text-main);
+      color: #fff;
+    }
+
+    .news-list { display: flex; flex-direction: column; gap: 9px; }
     .news-item {
       display: block;
       background: var(--card-bg);
-      padding: 12px 14px;
+      padding: 11px 13px;
       border-radius: 12px;
       text-decoration: none;
       color: var(--text-main);
@@ -47,13 +73,17 @@
       border: 1px solid var(--border-color);
     }
     .news-item:active { background: #f9fafb; transform: scale(0.99); }
-    .news-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+    .news-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
     .category-badge { font-size: 0.7rem; font-weight: 600; padding: 2px 7px; border-radius: 6px; }
+    
+    /* バッジカラー */
     .badge-business { background-color: #dbeafe; color: #1e40af; }
     .badge-domestic { background-color: #fef3c7; color: #92400e; }
     .badge-it       { background-color: #e0e7ff; color: #3730a3; }
+    .badge-camera   { background-color: #fce7f3; color: #9d174d; } /* デジカメ: ピンク系 */
+
     .news-time { font-size: 0.75rem; color: var(--text-sub); }
-    .news-title { font-size: 0.95rem; line-height: 1.45; font-weight: 600; margin: 0; }
+    .news-title { font-size: 0.92rem; line-height: 1.4; font-weight: 600; margin: 0; }
   </style>
 </head>
 <body>
@@ -66,9 +96,20 @@
     <div class="status" id="status">読込中...</div>
   </header>
 
+  <!-- タブ切り替えバー -->
+  <nav class="tabs" id="tabs">
+    <button class="tab-btn active" data-filter="all">すべて</button>
+    <button class="tab-btn" data-filter="ニュース">ニュース</button>
+    <button class="tab-btn" data-filter="IT・メディア">ITmedia</button>
+    <button class="tab-btn" data-filter="カメラ・ホビー">デジカメinfo</button>
+  </nav>
+
   <main class="news-list" id="newsList"></main>
 
   <script>
+    let allNewsData = [];
+    let currentFilter = 'all';
+
     // 時計更新
     function updateClock() {
       const now = new Date();
@@ -82,35 +123,58 @@
     setInterval(updateClock, 1000);
     updateClock();
 
-    // 自前生成した news.json を取得（CORSエラーは絶対に出ません）
+    // 画面描画
+    function renderNews() {
+      const listEl = document.getElementById('newsList');
+      listEl.innerHTML = '';
+
+      const filtered = currentFilter === 'all' 
+        ? allNewsData 
+        : allNewsData.filter(item => item.group === currentFilter);
+
+      if (filtered.length === 0) {
+        listEl.innerHTML = '<div style="color: #888; text-align: center; padding: 20px;">記事がありません</div>';
+        return;
+      }
+
+      filtered.forEach(item => {
+        const pubDate = new Date(item.pubDate);
+        const timeStr = `${pubDate.getHours()}:${String(pubDate.getMinutes()).padStart(2, '0')}`;
+
+        const a = document.createElement('a');
+        a.className = 'news-item';
+        a.href = item.link;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        a.innerHTML = `
+          <div class="news-meta">
+            <span class="category-badge ${item.badgeClass}">${item.category}</span>
+            <span class="news-time">${timeStr}</span>
+          </div>
+          <div class="news-title">${item.title}</div>
+        `;
+        listEl.appendChild(a);
+      });
+    }
+
+    // タブクリックイベント
+    document.getElementById('tabs').addEventListener('click', (e) => {
+      if (!e.target.classList.contains('tab-btn')) return;
+      document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+      e.target.classList.add('active');
+      currentFilter = e.target.dataset.filter;
+      renderNews();
+    });
+
+    // データ読み込み
     async function loadNews() {
       const statusEl = document.getElementById('status');
-      const listEl = document.getElementById('newsList');
-
       try {
         const res = await fetch(`./news.json?_t=${Date.now()}`);
         if (!res.ok) throw new Error('news.json 未生成');
         const data = await res.json();
-
-        listEl.innerHTML = '';
-        data.items.slice(0, 12).forEach(item => {
-          const pubDate = new Date(item.pubDate);
-          const timeStr = `${pubDate.getHours()}:${String(pubDate.getMinutes()).padStart(2, '0')}`;
-
-          const a = document.createElement('a');
-          a.className = 'news-item';
-          a.href = item.link;
-          a.target = '_blank';
-          a.rel = 'noopener noreferrer';
-          a.innerHTML = `
-            <div class="news-meta">
-              <span class="category-badge ${item.badgeClass}">${item.category}</span>
-              <span class="news-time">${timeStr}</span>
-            </div>
-            <div class="news-title">${item.title}</div>
-          `;
-          listEl.appendChild(a);
-        });
+        allNewsData = data.items;
+        renderNews();
 
         const updated = new Date(data.updatedAt);
         statusEl.textContent = `更新: ${updated.getHours()}:${String(updated.getMinutes()).padStart(2, '0')}`;
@@ -119,7 +183,7 @@
       }
     }
 
-    // 初回取得 & 3分おきに再確認
+    // 初回取得 & 3分おきに再読み込み
     loadNews();
     setInterval(loadNews, 3 * 60 * 1000);
   </script>
