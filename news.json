@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T11:33:15.501Z",
+  "updatedAt": "2026-10-26T11:45:33.512Z",
   "items": [
     {
       "category": "IT",
@@ -8,6 +8,14 @@
       "title": "ユミルリンク 延べ5162万件漏えい",
       "link": "https://news.yahoo.co.jp/pickup/6600228?source=rss",
       "pubDate": "2026-10-26T11:29:04.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ジョーシンへの不正アクセス、最大623万件漏えいか　運転免許証2件・マイナカード1件なども",
+      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002601/",
+      "pubDate": "2026-10-26T11:06:41.000Z"
     },
     {
       "category": "IT",
@@ -58,6 +66,14 @@
       "pubDate": "2026-10-26T09:41:28.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモ、「TVer」のデータ活用でdアカウント連携へ　広告配信の高度化を目指す",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news076.html",
+      "pubDate": "2026-10-26T09:40:00.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -82,14 +98,6 @@
       "pubDate": "2026-10-26T09:15:49.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 折りたたみ「iPhone Duo」対応ケース12選　ヒンジ保護、スタンド付き、耐衝撃性能など多彩なラインアップ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news075.html",
-      "pubDate": "2026-10-26T09:13:00.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -104,14 +112,6 @@
       "title": "福田元首相が死去 中国が哀悼の意",
       "link": "https://news.yahoo.co.jp/pickup/6600203?source=rss",
       "pubDate": "2026-10-26T08:50:33.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「きのこの山ワイヤレスイヤフォン Pro」登場　完売劇から2年半、進化し高音質化",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news074.html",
-      "pubDate": "2026-10-26T08:42:00.000Z"
     },
     {
       "category": "国際",
