@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T07:30:43.138Z",
+  "updatedAt": "2026-10-26T07:45:31.561Z",
   "items": [
     {
       "category": "国際",
@@ -8,6 +8,14 @@
       "title": "フーシ派 サウジ石油施設など攻撃",
       "link": "https://news.yahoo.co.jp/pickup/6600192?source=rss",
       "pubDate": "2026-10-26T07:23:36.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 売り場スペース競争が激化!?　多様化するPCパーツのカラー＆デザイン事情",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/26/news067.html",
+      "pubDate": "2026-10-26T07:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -72,14 +80,6 @@
       "title": "福田元首相が死去 中国でも速報",
       "link": "https://news.yahoo.co.jp/pickup/6600183?source=rss",
       "pubDate": "2026-10-26T05:26:54.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] AI連携機能も備えた小型軽量ボイスレコーダー「RoroLee」　Makuakeで先行販売を開始",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/26/news066.html",
-      "pubDate": "2026-10-26T05:25:00.000Z"
     },
     {
       "category": "国際",
