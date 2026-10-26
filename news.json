@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-26T06:33:32.371Z",
+  "updatedAt": "2026-10-26T07:26:58.373Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "フーシ派 サウジ石油施設など攻撃",
+      "link": "https://news.yahoo.co.jp/pickup/6600192?source=rss",
+      "pubDate": "2026-10-26T07:23:36.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] HyperX、クリアな音声収録が可能な小型設計のゲーミングマイク",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/26/news069.html",
+      "pubDate": "2026-10-26T06:39:00.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO 攻撃側が100万ドル要求か",
+      "link": "https://news.yahoo.co.jp/pickup/6600188?source=rss",
+      "pubDate": "2026-10-26T06:38:31.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 多機能グループウェア「Chat＆Messenger」でMicrosoft Office互換Officeスイートが利用可能に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/26/news068.html",
+      "pubDate": "2026-10-26T06:28:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -16,6 +48,22 @@
       "title": "温泉「無断持ち帰り」 若旦那困惑",
       "link": "https://news.yahoo.co.jp/pickup/6600187?source=rss",
       "pubDate": "2026-10-26T06:19:43.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] AIガバナンス一元化の「理想と限界」とは？　 米Dataikuの新サービスから考察",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news060.html",
+      "pubDate": "2026-10-26T06:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] なぜ日本の大企業はAIを活用しても「会社を変えられない」のか？　サイボウズが551社を調査",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/24/news003.html",
+      "pubDate": "2026-10-26T06:00:00.000Z"
     },
     {
       "category": "国際",
@@ -42,14 +90,6 @@
       "pubDate": "2026-10-26T05:21:06.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ドコモが緊急速報「エリアメール」などの配信を再開　緊急メンテナンスが完了",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news064.html",
-      "pubDate": "2026-10-26T04:57:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -64,30 +104,6 @@
       "title": "ドクターイエロー後継 客乗せ走行",
       "link": "https://news.yahoo.co.jp/pickup/6600178?source=rss",
       "pubDate": "2026-10-26T04:29:04.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] EIZO、120Hz駆動をサポートしたビジネス向け24型フルHD液晶ディスプレイ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/26/news059.html",
-      "pubDate": "2026-10-26T04:23:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] AIエージェント同士が勝手に売買する時代に？　取引を成立させる「信頼基盤」の実証で見えたこと",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/23/news017.html",
-      "pubDate": "2026-10-26T04:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] AI活用で処遇改善、週休3日を導入　建設会社社長から介護事業を“起業”した経営者の「実行力」",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/26/news054.html",
-      "pubDate": "2026-10-26T04:00:00.000Z"
     },
     {
       "category": "経済",
@@ -162,14 +178,6 @@
       "pubDate": "2026-10-26T01:48:55.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "ブラジル大統領に現職ルラ氏再選",
-      "link": "https://news.yahoo.co.jp/pickup/6600147?source=rss",
-      "pubDate": "2026-10-26T00:35:29.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -208,14 +216,6 @@
       "title": "ブルアカ 日本向け運営全面移管へ",
       "link": "https://news.yahoo.co.jp/pickup/6600117?source=rss",
       "pubDate": "2026-10-25T13:48:55.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ドコモ 「エリアメール」完全再開",
-      "link": "https://news.yahoo.co.jp/pickup/6600114?source=rss",
-      "pubDate": "2026-10-25T13:21:19.000Z"
     },
     {
       "category": "科学",
