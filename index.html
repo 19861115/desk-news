@@ -71,6 +71,7 @@
       color: var(--text-main);
       box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
       border: 1px solid var(--border-color);
+      transition: background 0.15s ease, transform 0.05s ease;
     }
     .news-item:active { background: #f9fafb; transform: scale(0.99); }
     .news-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
@@ -80,7 +81,7 @@
     .badge-business { background-color: #dbeafe; color: #1e40af; }
     .badge-domestic { background-color: #fef3c7; color: #92400e; }
     .badge-it       { background-color: #e0e7ff; color: #3730a3; }
-    .badge-camera   { background-color: #fce7f3; color: #9d174d; } /* デジカメ: ピンク系 */
+    .badge-camera   { background-color: #fce7f3; color: #9d174d; }
 
     .news-time { font-size: 0.75rem; color: var(--text-sub); }
     .news-title { font-size: 0.92rem; line-height: 1.4; font-weight: 600; margin: 0; }
@@ -109,8 +110,9 @@
   <script>
     let allNewsData = [];
     let currentFilter = 'all';
+    let currentUpdatedAt = ''; // 前回取得したデータの更新日時
 
-    // 時計更新
+    // 時計・日付の更新（1秒ごと）
     function updateClock() {
       const now = new Date();
       const h = String(now.getHours()).padStart(2, '0');
@@ -166,13 +168,20 @@
       renderNews();
     });
 
-    // データ読み込み
+    // データ読み込み（5分おき）
     async function loadNews() {
       const statusEl = document.getElementById('status');
       try {
         const res = await fetch(`./news.json?_t=${Date.now()}`);
         if (!res.ok) throw new Error('news.json 未生成');
         const data = await res.json();
+
+        // データが更新されていない場合は再描画をスキップ（無駄な処理・チラつきを防止）
+        if (data.updatedAt === currentUpdatedAt) {
+          return;
+        }
+        currentUpdatedAt = data.updatedAt;
+
         allNewsData = data.items;
         renderNews();
 
@@ -183,9 +192,9 @@
       }
     }
 
-    // 初回取得 & 3分おきに再読み込み
+    // 初回取得 & 5分おきにチェック
     loadNews();
-    setInterval(loadNews, 3 * 60 * 1000);
+    setInterval(loadNews, 5 * 60 * 1000);
   </script>
 </body>
 </html>
