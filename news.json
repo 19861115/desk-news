@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-26T08:00:51.685Z",
+  "updatedAt": "2026-10-26T08:15:32.036Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "西山女流四冠が棋士に 決意語る",
+      "link": "https://news.yahoo.co.jp/pickup/6600194?source=rss",
+      "pubDate": "2026-10-26T08:01:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 野村総研、サイバー攻撃時の「能動的なシステム停止」を支援する新サービス",
+      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002591/",
+      "pubDate": "2026-10-26T07:41:28.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -63,14 +79,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia エンタープライズ] AIガバナンス一元化の「理想と限界」とは？　 米Dataikuの新サービスから考察",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news060.html",
-      "pubDate": "2026-10-26T06:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] なぜ日本の大企業はAIを活用しても「会社を変えられない」のか？　サイボウズが551社を調査",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/24/news003.html",
       "pubDate": "2026-10-26T06:00:00.000Z"
     },
     {
@@ -192,14 +200,6 @@
       "title": "新局面 漏洩被害者に迫る「脅威」",
       "link": "https://news.yahoo.co.jp/pickup/6600145?source=rss",
       "pubDate": "2026-10-26T00:27:36.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "次の首相「高市氏」27% 毎日調査",
-      "link": "https://news.yahoo.co.jp/pickup/6600130?source=rss",
-      "pubDate": "2026-10-25T21:58:20.000Z"
     },
     {
       "category": "IT",
