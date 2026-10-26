@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-26T09:30:41.892Z",
+  "updatedAt": "2026-10-26T09:45:32.699Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "3カ月の付き添い入院 心身は限界",
+      "link": "https://news.yahoo.co.jp/pickup/6600212?source=rss",
+      "pubDate": "2026-10-26T09:39:41.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "ガソリン補助の段階縮小 自民提言",
+      "link": "https://news.yahoo.co.jp/pickup/6600211?source=rss",
+      "pubDate": "2026-10-26T09:32:48.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 野村総研、サイバー攻撃時の「能動的なシステム停止」を支援する新サービス",
+      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002591/",
+      "pubDate": "2026-10-26T09:15:49.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 折りたたみ「iPhone Duo」対応ケース12選　ヒンジ保護、スタンド付き、耐衝撃性能など多彩なラインアップ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news075.html",
+      "pubDate": "2026-10-26T09:13:00.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -26,14 +58,6 @@
       "pubDate": "2026-10-26T08:29:45.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "西山女流 もっと強い方と戦いたい",
-      "link": "https://news.yahoo.co.jp/pickup/6600201?source=rss",
-      "pubDate": "2026-10-26T08:25:36.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -50,28 +74,12 @@
       "pubDate": "2026-10-26T08:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 野村総研、サイバー攻撃時の「能動的なシステム停止」を支援する新サービス",
-      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002591/",
-      "pubDate": "2026-10-26T07:41:28.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "フーシ派 サウジ石油施設など攻撃",
       "link": "https://news.yahoo.co.jp/pickup/6600192?source=rss",
       "pubDate": "2026-10-26T07:23:36.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 売り場スペース競争が激化!?　多様化するPCパーツのカラー＆デザイン事情",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/26/news067.html",
-      "pubDate": "2026-10-26T07:00:00.000Z"
     },
     {
       "category": "IT",
@@ -168,14 +176,6 @@
       "title": "ドトール なぜ安いのに過去最高益",
       "link": "https://news.yahoo.co.jp/pickup/6600163?source=rss",
       "pubDate": "2026-10-26T02:48:09.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "西山朋佳女流四冠 女性初の棋士に",
-      "link": "https://news.yahoo.co.jp/pickup/6600157?source=rss",
-      "pubDate": "2026-10-26T01:50:45.000Z"
     },
     {
       "category": "経済",
