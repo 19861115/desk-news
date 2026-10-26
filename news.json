@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-26T05:00:00.799Z",
+  "updatedAt": "2026-10-26T05:41:16.541Z",
   "items": [
+    {
+      "category": "国際",
+      "badgeClass": "badge-world",
+      "title": "福田元首相が死去 中国でも速報",
+      "link": "https://news.yahoo.co.jp/pickup/6600183?source=rss",
+      "pubDate": "2026-10-26T05:26:54.000Z"
+    },
+    {
+      "category": "国際",
+      "badgeClass": "badge-world",
+      "title": "セルビア 14年ぶり政権交代へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600182?source=rss",
+      "pubDate": "2026-10-26T05:21:06.000Z"
+    },
     {
       "category": "国内",
       "badgeClass": "badge-domestic",
@@ -126,20 +140,6 @@
       "title": "次の首相「高市氏」27% 毎日調査",
       "link": "https://news.yahoo.co.jp/pickup/6600130?source=rss",
       "pubDate": "2026-10-25T21:58:20.000Z"
-    },
-    {
-      "category": "国内",
-      "badgeClass": "badge-domestic",
-      "title": "チャイルドシートの義務拡大 検討",
-      "link": "https://news.yahoo.co.jp/pickup/6600127?source=rss",
-      "pubDate": "2026-10-25T21:26:47.000Z"
-    },
-    {
-      "category": "IT",
-      "badgeClass": "badge-it",
-      "title": "不正アクセス GMO代表が謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6600119?source=rss",
-      "pubDate": "2026-10-25T14:05:35.000Z"
     }
   ]
 }
