@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T09:00:56.090Z",
+  "updatedAt": "2026-10-26T09:15:33.245Z",
   "items": [
     {
       "category": "国際",
@@ -8,6 +8,22 @@
       "title": "福田元首相が死去 中国が哀悼の意",
       "link": "https://news.yahoo.co.jp/pickup/6600203?source=rss",
       "pubDate": "2026-10-26T08:50:33.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「きのこの山ワイヤレスイヤフォン Pro」登場　完売劇から2年半、進化し高音質化",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news074.html",
+      "pubDate": "2026-10-26T08:42:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 「ITmedia エグゼクティブ セキュリティ eマガジン 2026 秋」（PDF）の提供開始",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/26/2000002586/",
+      "pubDate": "2026-10-26T08:29:45.000Z"
     },
     {
       "category": "国内",
@@ -58,28 +74,12 @@
       "pubDate": "2026-10-26T07:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] HyperX、クリアな音声収録が可能な小型設計のゲーミングマイク",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/26/news069.html",
-      "pubDate": "2026-10-26T06:39:00.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "GMO 攻撃側が100万ドル要求か",
       "link": "https://news.yahoo.co.jp/pickup/6600188?source=rss",
       "pubDate": "2026-10-26T06:38:31.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 多機能グループウェア「Chat＆Messenger」でMicrosoft Office互換Officeスイートが利用可能に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/26/news068.html",
-      "pubDate": "2026-10-26T06:28:00.000Z"
     },
     {
       "category": "国内",
