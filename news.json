@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-26T06:04:40.036Z",
+  "updatedAt": "2026-10-26T06:33:32.371Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "福田元首相が死去 高市首相が談話",
+      "link": "https://news.yahoo.co.jp/pickup/6600189?source=rss",
+      "pubDate": "2026-10-26T06:24:50.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "温泉「無断持ち帰り」 若旦那困惑",
+      "link": "https://news.yahoo.co.jp/pickup/6600187?source=rss",
+      "pubDate": "2026-10-26T06:19:43.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "福田元首相が死去 中国でも速報",
       "link": "https://news.yahoo.co.jp/pickup/6600183?source=rss",
       "pubDate": "2026-10-26T05:26:54.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] AI連携機能も備えた小型軽量ボイスレコーダー「RoroLee」　Makuakeで先行販売を開始",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/26/news066.html",
+      "pubDate": "2026-10-26T05:25:00.000Z"
     },
     {
       "category": "国際",
@@ -66,14 +90,6 @@
       "pubDate": "2026-10-26T04:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 20～30代限定の「ダイナースクラブ ゴールド」登場　スタバやスマホで10倍還元、「食べログプレミアム」が実質無料",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news057.html",
-      "pubDate": "2026-10-26T03:55:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -130,14 +146,6 @@
       "pubDate": "2026-10-26T02:14:14.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "カスハラ対策 企業の3割は未着手",
-      "link": "https://news.yahoo.co.jp/pickup/6600159?source=rss",
-      "pubDate": "2026-10-26T02:07:52.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -184,14 +192,6 @@
       "title": "次の首相「高市氏」27% 毎日調査",
       "link": "https://news.yahoo.co.jp/pickup/6600130?source=rss",
       "pubDate": "2026-10-25T21:58:20.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "チャイルドシートの義務拡大 検討",
-      "link": "https://news.yahoo.co.jp/pickup/6600127?source=rss",
-      "pubDate": "2026-10-25T21:26:47.000Z"
     },
     {
       "category": "IT",
