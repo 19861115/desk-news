@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-26T11:15:32.680Z",
+  "updatedAt": "2026-10-26T11:33:15.501Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ユミルリンク 延べ5162万件漏えい",
+      "link": "https://news.yahoo.co.jp/pickup/6600228?source=rss",
+      "pubDate": "2026-10-26T11:29:04.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -216,14 +224,6 @@
       "title": "熊本地震 液状化地点の96%で再発",
       "link": "https://news.yahoo.co.jp/pickup/6600146?source=rss",
       "pubDate": "2026-10-26T00:29:03.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "新局面 漏洩被害者に迫る「脅威」",
-      "link": "https://news.yahoo.co.jp/pickup/6600145?source=rss",
-      "pubDate": "2026-10-26T00:27:36.000Z"
     },
     {
       "category": "科学",
