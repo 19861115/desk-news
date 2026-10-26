@@ -1,13 +1,21 @@
 {
-  "updatedAt": "2026-10-26T23:15:33.054Z",
+  "updatedAt": "2026-10-26T23:30:42.241Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米中間選挙 下院は民主党優勢か",
+      "link": "https://news.yahoo.co.jp/pickup/6600255?source=rss",
+      "pubDate": "2026-10-26T23:25:23.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
-      "title": "立ち飲み なぜ今若者に選ばれる",
-      "link": "https://news.yahoo.co.jp/pickup/6600252?source=rss",
-      "pubDate": "2026-10-26T22:58:08.000Z"
+      "title": "立ち飲み 若者中心に新たなブーム",
+      "link": "https://news.yahoo.co.jp/pickup/6600257?source=rss",
+      "pubDate": "2026-10-26T23:14:24.000Z"
     },
     {
       "category": "ITmedia",
@@ -208,14 +216,6 @@
       "title": "シグマ「FP2」は予想以上に使い心地が良く真剣に検討する価値のあるカメラ（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/fp2-2.html",
       "pubDate": "2026-10-26T08:56:39.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "福田元首相が死去 中国が哀悼の意",
-      "link": "https://news.yahoo.co.jp/pickup/6600203?source=rss",
-      "pubDate": "2026-10-26T08:50:33.000Z"
     },
     {
       "category": "科学",
