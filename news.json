@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T08:30:43.200Z",
+  "updatedAt": "2026-10-26T08:45:35.572Z",
   "items": [
     {
       "category": "国内",
@@ -16,6 +16,14 @@
       "title": "中国紙「VIVANT」批判記事を掲載",
       "link": "https://news.yahoo.co.jp/pickup/6600197?source=rss",
       "pubDate": "2026-10-26T08:14:42.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「iPhone Duo」画面不具合の報告がSNSで話題　店頭デモ機の過酷な使用環境が起因か",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news040.html",
+      "pubDate": "2026-10-26T08:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -80,14 +88,6 @@
       "title": "温泉「無断持ち帰り」 若旦那困惑",
       "link": "https://news.yahoo.co.jp/pickup/6600187?source=rss",
       "pubDate": "2026-10-26T06:19:43.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] AIガバナンス一元化の「理想と限界」とは？　 米Dataikuの新サービスから考察",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news060.html",
-      "pubDate": "2026-10-26T06:00:00.000Z"
     },
     {
       "category": "国際",
