@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-10-26T05:41:16.541Z",
+  "updatedAt": "2026-10-26T06:04:40.036Z",
   "items": [
     {
       "category": "国際",
+      "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "福田元首相が死去 中国でも速報",
       "link": "https://news.yahoo.co.jp/pickup/6600183?source=rss",
@@ -10,13 +11,23 @@
     },
     {
       "category": "国際",
+      "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "セルビア 14年ぶり政権交代へ",
       "link": "https://news.yahoo.co.jp/pickup/6600182?source=rss",
       "pubDate": "2026-10-26T05:21:06.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモが緊急速報「エリアメール」などの配信を再開　緊急メンテナンスが完了",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news064.html",
+      "pubDate": "2026-10-26T04:57:00.000Z"
+    },
+    {
       "category": "国内",
+      "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "福田康夫元首相が死去 90歳",
       "link": "https://news.yahoo.co.jp/pickup/6600180?source=rss",
@@ -24,13 +35,47 @@
     },
     {
       "category": "経済",
+      "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "ドクターイエロー後継 客乗せ走行",
       "link": "https://news.yahoo.co.jp/pickup/6600178?source=rss",
       "pubDate": "2026-10-26T04:29:04.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] EIZO、120Hz駆動をサポートしたビジネス向け24型フルHD液晶ディスプレイ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/26/news059.html",
+      "pubDate": "2026-10-26T04:23:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] AIエージェント同士が勝手に売買する時代に？　取引を成立させる「信頼基盤」の実証で見えたこと",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/23/news017.html",
+      "pubDate": "2026-10-26T04:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] AI活用で処遇改善、週休3日を導入　建設会社社長から介護事業を“起業”した経営者の「実行力」",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/26/news054.html",
+      "pubDate": "2026-10-26T04:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 20～30代限定の「ダイナースクラブ ゴールド」登場　スタバやスマホで10倍還元、「食べログプレミアム」が実質無料",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/26/news057.html",
+      "pubDate": "2026-10-26T03:55:00.000Z"
+    },
+    {
       "category": "経済",
+      "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "退職倒産が最多 中小企業どう対応",
       "link": "https://news.yahoo.co.jp/pickup/6600166?source=rss",
@@ -38,13 +83,23 @@
     },
     {
       "category": "国際",
+      "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "SHEIN 米FTCと1億ドルで和解へ",
       "link": "https://news.yahoo.co.jp/pickup/6600173?source=rss",
       "pubDate": "2026-10-26T03:46:53.000Z"
     },
     {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "武田薬品 胃がん新薬を来年申請へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600169?source=rss",
+      "pubDate": "2026-10-26T03:31:59.000Z"
+    },
+    {
       "category": "IT",
+      "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "Netflix会員 アプリ利用頻度低下",
       "link": "https://news.yahoo.co.jp/pickup/6600167?source=rss",
@@ -52,6 +107,7 @@
     },
     {
       "category": "国内",
+      "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "関東 低気圧と前線で27日にかけ雨",
       "link": "https://news.yahoo.co.jp/pickup/6600164?source=rss",
@@ -59,6 +115,7 @@
     },
     {
       "category": "経済",
+      "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "ドトール なぜ安いのに過去最高益",
       "link": "https://news.yahoo.co.jp/pickup/6600163?source=rss",
@@ -66,6 +123,7 @@
     },
     {
       "category": "国際",
+      "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "英ジャガイモ生産 害虫被害が拡大",
       "link": "https://news.yahoo.co.jp/pickup/6600162?source=rss",
@@ -73,6 +131,7 @@
     },
     {
       "category": "経済",
+      "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "カスハラ対策 企業の3割は未着手",
       "link": "https://news.yahoo.co.jp/pickup/6600159?source=rss",
@@ -80,6 +139,7 @@
     },
     {
       "category": "国内",
+      "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "西山朋佳女流四冠 女性初の棋士に",
       "link": "https://news.yahoo.co.jp/pickup/6600157?source=rss",
@@ -87,6 +147,7 @@
     },
     {
       "category": "経済",
+      "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "プロ野球観客動員最多 球場で何が",
       "link": "https://news.yahoo.co.jp/pickup/6600158?source=rss",
@@ -94,52 +155,131 @@
     },
     {
       "category": "国際",
+      "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "ブラジル大統領に現職ルラ氏再選",
       "link": "https://news.yahoo.co.jp/pickup/6600147?source=rss",
       "pubDate": "2026-10-26T00:35:29.000Z"
     },
     {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "熊本地震 液状化地点の96%で再発",
+      "link": "https://news.yahoo.co.jp/pickup/6600146?source=rss",
+      "pubDate": "2026-10-26T00:29:03.000Z"
+    },
+    {
       "category": "IT",
+      "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "新局面 漏洩被害者に迫る「脅威」",
       "link": "https://news.yahoo.co.jp/pickup/6600145?source=rss",
       "pubDate": "2026-10-26T00:27:36.000Z"
     },
     {
-      "category": "経済",
-      "badgeClass": "badge-business",
-      "title": "電車が駅で140m過ぎて停車 戻らず",
-      "link": "https://news.yahoo.co.jp/pickup/6600144?source=rss",
-      "pubDate": "2026-10-25T23:50:31.000Z"
-    },
-    {
-      "category": "経済",
-      "badgeClass": "badge-business",
-      "title": "民間金融機関に資金供給拡大 方針",
-      "link": "https://news.yahoo.co.jp/pickup/6600143?source=rss",
-      "pubDate": "2026-10-25T23:42:33.000Z"
-    },
-    {
-      "category": "国際",
-      "badgeClass": "badge-world",
-      "title": "平和賞マチャド氏 ベネズエラ帰国",
-      "link": "https://news.yahoo.co.jp/pickup/6600141?source=rss",
-      "pubDate": "2026-10-25T23:22:57.000Z"
-    },
-    {
-      "category": "経済",
-      "badgeClass": "badge-business",
-      "title": "コニカミノルタ「社内副業」狙い",
-      "link": "https://news.yahoo.co.jp/pickup/6600138?source=rss",
-      "pubDate": "2026-10-25T23:02:18.000Z"
-    },
-    {
       "category": "国内",
+      "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "次の首相「高市氏」27% 毎日調査",
       "link": "https://news.yahoo.co.jp/pickup/6600130?source=rss",
       "pubDate": "2026-10-25T21:58:20.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "チャイルドシートの義務拡大 検討",
+      "link": "https://news.yahoo.co.jp/pickup/6600127?source=rss",
+      "pubDate": "2026-10-25T21:26:47.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "不正アクセス GMO代表が謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6600119?source=rss",
+      "pubDate": "2026-10-25T14:05:35.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ブルアカ 日本向け運営全面移管へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600117?source=rss",
+      "pubDate": "2026-10-25T13:48:55.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ドコモ 「エリアメール」完全再開",
+      "link": "https://news.yahoo.co.jp/pickup/6600114?source=rss",
+      "pubDate": "2026-10-25T13:21:19.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "有毒植物誤食 AI判定も過信は禁物",
+      "link": "https://news.yahoo.co.jp/pickup/6600056?source=rss",
+      "pubDate": "2026-10-25T06:06:37.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "妊娠中にがん宣告 選択迫られた母",
+      "link": "https://news.yahoo.co.jp/pickup/6600042?source=rss",
+      "pubDate": "2026-10-25T04:43:58.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ニコン「Z 120-300mm f/2.8 TC VR S」の価格は16000ドルではなく13999ドル？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/10/z-120-300mm-f28-tc-vr-s1600013.html",
+      "pubDate": "2026-10-25T04:19:10.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "14歳で美容整形 心ない言葉で決意",
+      "link": "https://news.yahoo.co.jp/pickup/6600039?source=rss",
+      "pubDate": "2026-10-25T03:20:48.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ライカが「M12」を2027年初頭に発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/10/m122027.html",
+      "pubDate": "2026-10-25T02:39:42.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ニコン「Z 120-300mm f/2.8 TC VR S」は10月28日か29日に発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/10/z-120-300mm-f28-tc-vr-s102829.html",
+      "pubDate": "2026-10-24T08:19:28.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "シグマ「FP2」の動体追尾AFはソニー機のような性能（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/10/fp2-1.html",
+      "pubDate": "2026-10-24T03:21:12.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "シグマが「50mm F1.4 CL DG | Contemporary」を正式発表（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/10/50mm-f14-cl-dg-contemporary.html",
+      "pubDate": "2026-10-23T08:03:46.000Z"
     }
   ]
 }
