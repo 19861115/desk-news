@@ -1,9 +1,6 @@
 name: Update News
 
 on:
-  schedule:
-    # 20分おきに自動実行 (UTC)
-    - cron: '*/20 * * * *'
   workflow_dispatch: # 手動実行ボタンを有効化
 
 permissions:
