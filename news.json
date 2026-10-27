@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-27T02:30:40.451Z",
+  "updatedAt": "2026-10-27T02:45:32.971Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "ピル服用と更年期の関係 医師解説",
+      "link": "https://news.yahoo.co.jp/pickup/6600279?source=rss",
+      "pubDate": "2026-10-27T02:36:37.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "米大統領との面会後悔 司教ら謝罪",
       "link": "https://news.yahoo.co.jp/pickup/6600278?source=rss",
       "pubDate": "2026-10-27T02:22:48.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] JR「スマートEX」会員メアドなど漏えい、約17万件か　ユミルリンクへの不正アクセスで",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002615/",
+      "pubDate": "2026-10-27T02:22:26.000Z"
     },
     {
       "category": "経済",
@@ -112,14 +128,6 @@
       "title": "新iPad mini発表 防水を初搭載",
       "link": "https://news.yahoo.co.jp/pickup/6600262?source=rss",
       "pubDate": "2026-10-27T00:01:50.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 50代「まだまだやれるのに」　給料はダウン、上司は年下……役職定年廃止は進むのか？",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news007.html",
-      "pubDate": "2026-10-27T00:00:00.000Z"
     },
     {
       "category": "経済",
@@ -248,14 +256,6 @@
       "title": "有毒植物誤食 AI判定も過信は禁物",
       "link": "https://news.yahoo.co.jp/pickup/6600056?source=rss",
       "pubDate": "2026-10-25T06:06:37.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "妊娠中にがん宣告 選択迫られた母",
-      "link": "https://news.yahoo.co.jp/pickup/6600042?source=rss",
-      "pubDate": "2026-10-25T04:43:58.000Z"
     },
     {
       "category": "デジカメinfo",
