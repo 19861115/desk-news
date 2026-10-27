@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-27T06:45:32.216Z",
+  "updatedAt": "2026-10-27T07:00:50.266Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "武部農相 選挙運動費報告「訂正」",
+      "link": "https://news.yahoo.co.jp/pickup/6600308?source=rss",
+      "pubDate": "2026-10-27T06:55:16.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -216,14 +224,6 @@
       "title": "ZEISSがOtus MLシリーズの新レンズ（100mm F1.4？）を準備中？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/zeissotus-ml100mm-f14.html",
       "pubDate": "2026-10-26T12:03:31.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "スパイ防止へ登録制度案 政府提示",
-      "link": "https://news.yahoo.co.jp/pickup/6600226?source=rss",
-      "pubDate": "2026-10-26T11:49:19.000Z"
     },
     {
       "category": "デジカメinfo",
