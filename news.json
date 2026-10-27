@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-27T23:30:40.315Z",
+  "updatedAt": "2026-10-27T23:45:36.258Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "サイバー攻撃 サイト経由型が急増",
+      "link": "https://news.yahoo.co.jp/pickup/6600375?source=rss",
+      "pubDate": "2026-10-27T23:36:34.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -16,6 +24,14 @@
       "title": "ボルソナロ氏亡命か 米認める方針",
       "link": "https://news.yahoo.co.jp/pickup/6600370?source=rss",
       "pubDate": "2026-10-27T23:16:19.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 「昆虫サイボーグ」で災害現地の行方不明者ゼロに挑む",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/28/2000002565/",
+      "pubDate": "2026-10-27T23:00:00.000Z"
     },
     {
       "category": "国際",
@@ -74,14 +90,6 @@
       "pubDate": "2026-10-27T22:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] ユニクロ絶好調　「売上高10兆円」が視野に入ったファストリ、柳井氏が挙げる「最大の経営課題」",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/28/news038.html",
-      "pubDate": "2026-10-27T22:00:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -120,14 +128,6 @@
       "title": "GMO 被害者に最大300万円見舞金",
       "link": "https://news.yahoo.co.jp/pickup/6600341?source=rss",
       "pubDate": "2026-10-27T12:34:38.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "So-netなど258万件超が漏えい",
-      "link": "https://news.yahoo.co.jp/pickup/6600338?source=rss",
-      "pubDate": "2026-10-27T11:46:12.000Z"
     },
     {
       "category": "経済",
