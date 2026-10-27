@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-27T00:30:41.753Z",
+  "updatedAt": "2026-10-27T00:45:32.365Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "大手生保 国債の入れ替え加速",
+      "link": "https://news.yahoo.co.jp/pickup/6600265?source=rss",
+      "pubDate": "2026-10-27T00:38:54.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "乳がん 人間ドック2年空き悔しさ",
+      "link": "https://news.yahoo.co.jp/pickup/6600264?source=rss",
+      "pubDate": "2026-10-27T00:35:18.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -10,12 +26,28 @@
       "pubDate": "2026-10-27T00:22:19.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] GMO不正アクセス、犯人側は「27日に顧客のPC攻撃」予告　GMOが端末回収、ホワイトハッカーが解析中",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002610/",
+      "pubDate": "2026-10-27T00:07:08.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "新iPad mini発表 防水を初搭載",
       "link": "https://news.yahoo.co.jp/pickup/6600262?source=rss",
       "pubDate": "2026-10-27T00:01:50.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 50代「まだまだやれるのに」　給料はダウン、上司は年下……役職定年廃止は進むのか？",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news007.html",
+      "pubDate": "2026-10-27T00:00:00.000Z"
     },
     {
       "category": "経済",
@@ -66,22 +98,6 @@
       "pubDate": "2026-10-26T23:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 「顧客アプリ」は格好の餌食に　相次ぐ不正アクセス、自社を守る手立ては？",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news008.html",
-      "pubDate": "2026-10-26T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 「対策している」と「守れている」は違う - 防御力を経営に見せる富士通のサイバーセキュリティ戦略",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/27/2000002560/",
-      "pubDate": "2026-10-26T23:00:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -128,14 +144,6 @@
       "title": "GMOに予告 正午に顧客情報公開",
       "link": "https://news.yahoo.co.jp/pickup/6600241?source=rss",
       "pubDate": "2026-10-26T21:08:19.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "米Anthropic IPO申請書類を公開",
-      "link": "https://news.yahoo.co.jp/pickup/6600240?source=rss",
-      "pubDate": "2026-10-26T15:02:06.000Z"
     },
     {
       "category": "国内",
@@ -256,14 +264,6 @@
       "title": "ニコン「Z 120-300mm f/2.8 TC VR S」の価格は16000ドルではなく13999ドル？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/z-120-300mm-f28-tc-vr-s1600013.html",
       "pubDate": "2026-10-25T04:19:10.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "14歳で美容整形 心ない言葉で決意",
-      "link": "https://news.yahoo.co.jp/pickup/6600039?source=rss",
-      "pubDate": "2026-10-25T03:20:48.000Z"
     },
     {
       "category": "デジカメinfo",
