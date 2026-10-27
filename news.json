@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T08:00:50.156Z",
+  "updatedAt": "2026-10-27T08:15:31.430Z",
   "items": [
     {
       "category": "国際",
@@ -8,6 +8,22 @@
       "title": "中国2社 エムバペ選手と関係解消",
       "link": "https://news.yahoo.co.jp/pickup/6600312?source=rss",
       "pubDate": "2026-10-27T07:50:41.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] GMO、攻撃者による情報公開を確認　顧客データ含むか調査中　追加の見舞金も検討",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002630/",
+      "pubDate": "2026-10-27T07:40:32.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] タイムズカー、お見舞金3000円の算定基準は？　パーク24に聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002627/",
+      "pubDate": "2026-10-27T07:34:57.000Z"
     },
     {
       "category": "ITmedia",
@@ -56,22 +72,6 @@
       "title": "浜岡原発差し止め裁判 請求却下",
       "link": "https://news.yahoo.co.jp/pickup/6600307?source=rss",
       "pubDate": "2026-10-27T06:43:52.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] タイムズカー、お見舞金3000円の算定基準は？　支払い時期や対象かの確認方法をパーク24に聞いた",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002627/",
-      "pubDate": "2026-10-27T06:36:51.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 富士フイルム、デジタル撮影に対応したハイブリッドインスタントカメラ「instax mini Evo 2」　タッチ対応大画面液晶パネルを装備",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news083.html",
-      "pubDate": "2026-10-27T06:22:00.000Z"
     },
     {
       "category": "国内",
