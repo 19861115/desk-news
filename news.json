@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-27T02:00:48.033Z",
+  "updatedAt": "2026-10-27T02:15:33.866Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "千代田区 マンション転売巡り要請",
+      "link": "https://news.yahoo.co.jp/pickup/6600275?source=rss",
+      "pubDate": "2026-10-27T02:08:50.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "米メタ15兆円資金調達へ 計画発表",
+      "link": "https://news.yahoo.co.jp/pickup/6600273?source=rss",
+      "pubDate": "2026-10-27T02:08:41.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO 利用者に「PC電源切って」",
+      "link": "https://news.yahoo.co.jp/pickup/6600274?source=rss",
+      "pubDate": "2026-10-27T02:02:32.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] NECのルータ「Aterm」、PHP脆弱性の影響なし　設定画面URLの「.php」は無関係",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002614/",
+      "pubDate": "2026-10-27T01:53:22.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -106,14 +138,6 @@
       "pubDate": "2026-10-26T23:14:24.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 貨物の搬送車両で自動運転「レベル4」 福岡空港、国内3カ所目",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/27/2000002609/",
-      "pubDate": "2026-10-26T23:10:24.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -128,14 +152,6 @@
       "title": "ウイスキー1本4億円超で落札 なぜ",
       "link": "https://news.yahoo.co.jp/pickup/6600250?source=rss",
       "pubDate": "2026-10-26T22:34:48.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "米MS 6万人に退職パッケージ提示",
-      "link": "https://news.yahoo.co.jp/pickup/6600248?source=rss",
-      "pubDate": "2026-10-26T22:27:23.000Z"
     },
     {
       "category": "国際",
@@ -154,14 +170,6 @@
       "pubDate": "2026-10-26T21:58:24.000Z"
     },
     {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMOに予告 正午に顧客情報公開",
-      "link": "https://news.yahoo.co.jp/pickup/6600241?source=rss",
-      "pubDate": "2026-10-26T21:08:19.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -176,14 +184,6 @@
       "title": "楽天トラベル 約260万件が流出か",
       "link": "https://news.yahoo.co.jp/pickup/6600238?source=rss",
       "pubDate": "2026-10-26T14:08:22.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "新幹線予約の個人情報17万件流出",
-      "link": "https://news.yahoo.co.jp/pickup/6600235?source=rss",
-      "pubDate": "2026-10-26T14:07:55.000Z"
     },
     {
       "category": "国内",
