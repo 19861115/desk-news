@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-27T02:45:32.971Z",
+  "updatedAt": "2026-10-27T03:00:49.500Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "露占領下のウ南部が停戦 人道支援",
+      "link": "https://news.yahoo.co.jp/pickup/6600280?source=rss",
+      "pubDate": "2026-10-27T02:44:40.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -152,14 +160,6 @@
       "title": "立ち飲み 若者中心に新たなブーム",
       "link": "https://news.yahoo.co.jp/pickup/6600257?source=rss",
       "pubDate": "2026-10-26T23:14:24.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米大統領 ブラジル大統領選は不正",
-      "link": "https://news.yahoo.co.jp/pickup/6600251?source=rss",
-      "pubDate": "2026-10-26T22:43:14.000Z"
     },
     {
       "category": "経済",
