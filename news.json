@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-27T10:30:44.298Z",
+  "updatedAt": "2026-10-27T10:45:36.471Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "キーウの「京都公園」にミサイル",
+      "link": "https://news.yahoo.co.jp/pickup/6600333?source=rss",
+      "pubDate": "2026-10-27T10:41:37.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -176,14 +184,6 @@
       "title": "GMO攻撃者 個人情報1件を公開か",
       "link": "https://news.yahoo.co.jp/pickup/6600296?source=rss",
       "pubDate": "2026-10-27T04:24:03.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米中間選挙 共和党牙城で野党猛追",
-      "link": "https://news.yahoo.co.jp/pickup/6600291?source=rss",
-      "pubDate": "2026-10-27T03:31:05.000Z"
     },
     {
       "category": "科学",
