@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-27T04:30:41.885Z",
+  "updatedAt": "2026-10-27T04:45:32.660Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "習近平氏「弱い官僚」求める背景",
+      "link": "https://news.yahoo.co.jp/pickup/6600281?source=rss",
+      "pubDate": "2026-10-27T04:42:02.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "FX不正アクセス 5社で顧客被害",
+      "link": "https://news.yahoo.co.jp/pickup/6600277?source=rss",
+      "pubDate": "2026-10-27T04:33:20.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -114,14 +130,6 @@
       "pubDate": "2026-10-27T00:46:52.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米大統領 賞ならずノルウェー罵倒",
-      "link": "https://news.yahoo.co.jp/pickup/6600266?source=rss",
-      "pubDate": "2026-10-27T00:45:04.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -184,14 +192,6 @@
       "title": "露拘束の記者 大使館員が領事面会",
       "link": "https://news.yahoo.co.jp/pickup/6600239?source=rss",
       "pubDate": "2026-10-26T14:20:32.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "楽天トラベル 約260万件が流出か",
-      "link": "https://news.yahoo.co.jp/pickup/6600238?source=rss",
-      "pubDate": "2026-10-26T14:08:22.000Z"
     },
     {
       "category": "国内",
