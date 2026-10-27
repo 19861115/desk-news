@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T23:00:52.625Z",
+  "updatedAt": "2026-10-27T23:15:32.103Z",
   "items": [
     {
       "category": "国際",
@@ -10,12 +10,28 @@
       "pubDate": "2026-10-27T22:54:29.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] auメールで朝から障害　全国で利用しづらい状況に",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002650/",
+      "pubDate": "2026-10-27T22:51:10.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "GMO攻撃 被害者は「恐怖しか」",
       "link": "https://news.yahoo.co.jp/pickup/6600364?source=rss",
       "pubDate": "2026-10-27T22:40:24.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Apple、M6搭載の14インチ「MacBook Pro」発表　AI性能向上、33万9800円から",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002649/",
+      "pubDate": "2026-10-27T22:30:52.000Z"
     },
     {
       "category": "国内",
@@ -47,22 +63,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] ユニクロ絶好調　「売上高10兆円」が視野に入ったファストリ、柳井氏が挙げる「最大の経営課題」",
       "link": "https://www.itmedia.co.jp/business/articles/2610/28/news038.html",
-      "pubDate": "2026-10-27T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] IT運用から“人が消える”？　2030年に組織の半数がAIエージェント活用、Gartner予測",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news024.html",
-      "pubDate": "2026-10-27T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] AIに分析させる前に整えるべきもの　大阪ガスが目指す「システム」「データ」「メタデータ」の循環",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news002.html",
       "pubDate": "2026-10-27T22:00:00.000Z"
     },
     {
