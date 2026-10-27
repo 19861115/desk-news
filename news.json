@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-27T00:15:34.816Z",
+  "updatedAt": "2026-10-27T00:30:41.753Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "小学生「読書ゼロ」25年ぶり1割超",
+      "link": "https://news.yahoo.co.jp/pickup/6600263?source=rss",
+      "pubDate": "2026-10-27T00:22:19.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -200,14 +208,6 @@
       "title": "中国媒体の「VIVANT」批判 背景",
       "link": "https://news.yahoo.co.jp/pickup/6600218?source=rss",
       "pubDate": "2026-10-26T10:07:04.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "3カ月の付き添い入院 心身は限界",
-      "link": "https://news.yahoo.co.jp/pickup/6600212?source=rss",
-      "pubDate": "2026-10-26T09:39:41.000Z"
     },
     {
       "category": "デジカメinfo",
