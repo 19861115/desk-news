@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-27T11:30:41.286Z",
+  "updatedAt": "2026-10-27T11:45:36.308Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ユニクロ 50色ソックス値上げ撤回",
+      "link": "https://news.yahoo.co.jp/pickup/6600339?source=rss",
+      "pubDate": "2026-10-27T11:42:48.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO 情報提供者に総額1.5億円",
+      "link": "https://news.yahoo.co.jp/pickup/6600337?source=rss",
+      "pubDate": "2026-10-27T11:39:38.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "習近平氏 福田康夫氏の遺族に弔電",
+      "link": "https://news.yahoo.co.jp/pickup/6600336?source=rss",
+      "pubDate": "2026-10-27T11:30:45.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] GMO、不正アクセス実行犯の手がかりに懸賞金　1億5000万円規模",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/",
+      "pubDate": "2026-10-27T10:58:09.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -50,6 +82,14 @@
       "pubDate": "2026-10-27T10:20:28.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「auじぶん銀行」アプリをリニューアル　無料回数や資金の流れが確認しやすく",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news092.html",
+      "pubDate": "2026-10-27T09:30:00.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -58,28 +98,12 @@
       "pubDate": "2026-10-27T09:28:41.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] IIJmioの「OPPO Reno11 A」がMNPで一括9980円　11月4日まで【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news087.html",
-      "pubDate": "2026-10-27T09:28:00.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
       "title": "富士フイルムが「instax mini Evo 2」を正式発表（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/instax-mini-evo-2.html",
       "pubDate": "2026-10-27T09:22:30.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ユニクロ ソックス価格改定を中止",
-      "link": "https://news.yahoo.co.jp/pickup/6600324?source=rss",
-      "pubDate": "2026-10-27T09:22:21.000Z"
     },
     {
       "category": "経済",
@@ -96,14 +120,6 @@
       "title": "ミセス×ガスト企画で持ち去り被害",
       "link": "https://news.yahoo.co.jp/pickup/6600320?source=rss",
       "pubDate": "2026-10-27T09:06:52.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] GMO、攻撃者の公開情報に「アクセスは絶対に控えて」　悪質な拡散者には法的措置を準備",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002640/",
-      "pubDate": "2026-10-27T08:58:00.000Z"
     },
     {
       "category": "経済",
@@ -200,22 +216,6 @@
       "title": "ピル服用と更年期の関係 医師解説",
       "link": "https://news.yahoo.co.jp/pickup/6600279?source=rss",
       "pubDate": "2026-10-27T02:36:37.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米大統領との面会後悔 司教ら謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6600278?source=rss",
-      "pubDate": "2026-10-27T02:22:48.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "米メタ15兆円資金調達へ 計画発表",
-      "link": "https://news.yahoo.co.jp/pickup/6600273?source=rss",
-      "pubDate": "2026-10-27T02:08:41.000Z"
     },
     {
       "category": "国内",
