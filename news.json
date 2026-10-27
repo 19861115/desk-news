@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-10-27T11:45:36.308Z",
+  "updatedAt": "2026-10-27T23:00:52.625Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "イスラエル総選挙 連立協議難航か",
+      "link": "https://news.yahoo.co.jp/pickup/6600366?source=rss",
+      "pubDate": "2026-10-27T22:54:29.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO攻撃 被害者は「恐怖しか」",
+      "link": "https://news.yahoo.co.jp/pickup/6600364?source=rss",
+      "pubDate": "2026-10-27T22:40:24.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "安保3文書で「拒否力」防衛の柱に",
+      "link": "https://news.yahoo.co.jp/pickup/6600361?source=rss",
+      "pubDate": "2026-10-27T22:04:42.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 「AIデータセンター」どこに作る？　工場跡地、廃校、洋上、宇宙――ユニークな立地戦略の狙いは",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/28/news039.html",
+      "pubDate": "2026-10-27T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 立花・吟醸造り・京料理を重要無形文化財に指定へ、3人を保持者に認定",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/28/2000002625/",
+      "pubDate": "2026-10-27T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] ユニクロ絶好調　「売上高10兆円」が視野に入ったファストリ、柳井氏が挙げる「最大の経営課題」",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/28/news038.html",
+      "pubDate": "2026-10-27T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] IT運用から“人が消える”？　2030年に組織の半数がAIエージェント活用、Gartner予測",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news024.html",
+      "pubDate": "2026-10-27T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] AIに分析させる前に整えるべきもの　大阪ガスが目指す「システム」「データ」「メタデータ」の循環",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news002.html",
+      "pubDate": "2026-10-27T22:00:00.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "イオン熊本 一部再開意向を伝える",
+      "link": "https://news.yahoo.co.jp/pickup/6600353?source=rss",
+      "pubDate": "2026-10-27T14:36:01.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO不正アクセス 警視庁が捜査",
+      "link": "https://news.yahoo.co.jp/pickup/6600351?source=rss",
+      "pubDate": "2026-10-27T14:14:04.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "農相の関連団体 計85万円の不記載",
+      "link": "https://news.yahoo.co.jp/pickup/6600346?source=rss",
+      "pubDate": "2026-10-27T13:26:11.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "副首都 要件満たせば4道府県指定",
+      "link": "https://news.yahoo.co.jp/pickup/6600343?source=rss",
+      "pubDate": "2026-10-27T12:56:31.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO 被害者に最大300万円見舞金",
+      "link": "https://news.yahoo.co.jp/pickup/6600341?source=rss",
+      "pubDate": "2026-10-27T12:34:38.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "So-netなど258万件超が漏えい",
+      "link": "https://news.yahoo.co.jp/pickup/6600338?source=rss",
+      "pubDate": "2026-10-27T11:46:12.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -26,44 +138,12 @@
       "pubDate": "2026-10-27T11:30:45.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] GMO、不正アクセス実行犯の手がかりに懸賞金　1億5000万円規模",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/",
-      "pubDate": "2026-10-27T10:58:09.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] So-net、会員情報約259万件が漏えい　一部メールサービスではパスワードも流出",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002643/",
-      "pubDate": "2026-10-27T10:48:13.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 「LAVIE Tab」の8型スタンダードモデルと12型クリエイティブモデルをマイナーチェンジ　想定ユーザー層を踏まえたスペック変更",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news094.html",
-      "pubDate": "2026-10-27T10:45:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "キーウの「京都公園」にミサイル",
       "link": "https://news.yahoo.co.jp/pickup/6600333?source=rss",
       "pubDate": "2026-10-27T10:41:37.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] auショップの問い合わせ半減、通信品質の最適化は2年から1カ月へ短縮　KDDIが示す「AI前提社会」の道筋",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news095.html",
-      "pubDate": "2026-10-27T10:34:00.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -82,14 +162,6 @@
       "pubDate": "2026-10-27T10:20:28.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「auじぶん銀行」アプリをリニューアル　無料回数や資金の流れが確認しやすく",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news092.html",
-      "pubDate": "2026-10-27T09:30:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -104,14 +176,6 @@
       "title": "富士フイルムが「instax mini Evo 2」を正式発表（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/instax-mini-evo-2.html",
       "pubDate": "2026-10-27T09:22:30.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "「FENDI」広尾でレジデンス開発へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600322?source=rss",
-      "pubDate": "2026-10-27T09:09:52.000Z"
     },
     {
       "category": "経済",
@@ -146,46 +210,6 @@
       "pubDate": "2026-10-27T06:55:16.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "浜岡原発差し止め裁判 請求却下",
-      "link": "https://news.yahoo.co.jp/pickup/6600307?source=rss",
-      "pubDate": "2026-10-27T06:43:52.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "モンゴル火災 政府が専門家派遣へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600304?source=rss",
-      "pubDate": "2026-10-27T05:59:24.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "イラン攻撃長期化 米兵遺族の訴え",
-      "link": "https://news.yahoo.co.jp/pickup/6600303?source=rss",
-      "pubDate": "2026-10-27T05:58:25.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMO攻撃者「個人情報毎日公開」",
-      "link": "https://news.yahoo.co.jp/pickup/6600302?source=rss",
-      "pubDate": "2026-10-27T05:38:34.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "AI社員の失敗 問われる人間の責任",
-      "link": "https://news.yahoo.co.jp/pickup/6600286?source=rss",
-      "pubDate": "2026-10-27T04:52:18.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -194,36 +218,12 @@
       "pubDate": "2026-10-27T04:42:02.000Z"
     },
     {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "FX不正アクセス 5社で顧客被害",
-      "link": "https://news.yahoo.co.jp/pickup/6600277?source=rss",
-      "pubDate": "2026-10-27T04:33:20.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMO攻撃者 個人情報1件を公開か",
-      "link": "https://news.yahoo.co.jp/pickup/6600296?source=rss",
-      "pubDate": "2026-10-27T04:24:03.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "ピル服用と更年期の関係 医師解説",
       "link": "https://news.yahoo.co.jp/pickup/6600279?source=rss",
       "pubDate": "2026-10-27T02:36:37.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "小学生 漫画「読まない」3割弱",
-      "link": "https://news.yahoo.co.jp/pickup/6600268?source=rss",
-      "pubDate": "2026-10-27T00:46:52.000Z"
     },
     {
       "category": "科学",
