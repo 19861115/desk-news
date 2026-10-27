@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-27T07:45:33.562Z",
+  "updatedAt": "2026-10-27T08:00:50.156Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "中国2社 エムバペ選手と関係解消",
+      "link": "https://news.yahoo.co.jp/pickup/6600312?source=rss",
+      "pubDate": "2026-10-27T07:50:41.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -128,14 +136,6 @@
       "title": "米中間選挙 共和党牙城で野党猛追",
       "link": "https://news.yahoo.co.jp/pickup/6600291?source=rss",
       "pubDate": "2026-10-27T03:31:05.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "露占領下のウ南部が停戦 人道支援",
-      "link": "https://news.yahoo.co.jp/pickup/6600280?source=rss",
-      "pubDate": "2026-10-27T02:44:40.000Z"
     },
     {
       "category": "科学",
