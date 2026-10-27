@@ -1,21 +1,53 @@
 {
-  "updatedAt": "2026-10-27T03:30:43.756Z",
+  "updatedAt": "2026-10-27T03:45:32.799Z",
   "items": [
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「自分の個人情報が漏えいした……どうすれば？」　IPAが対処法公開",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002617/",
-      "pubDate": "2026-10-27T02:51:20.000Z"
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米中間選挙 共和党牙城で野党猛追",
+      "link": "https://news.yahoo.co.jp/pickup/6600291?source=rss",
+      "pubDate": "2026-10-27T03:31:05.000Z"
     },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] HTC、日常的に交流を楽しめる手乗りサイズのAIデバイス「VIVEE」",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news063.html",
-      "pubDate": "2026-10-27T02:46:00.000Z"
+      "title": "[ITmedia News] 政府、サイバー攻撃の「緊急対策パッケージ」来週中に策定へ　高市首相がサイバー閣僚会議の初会合で指示",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002620/",
+      "pubDate": "2026-10-27T03:18:21.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 貨物の搬送車両で自動運転「レベル4」　福岡空港、国内3カ所目",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002619/",
+      "pubDate": "2026-10-27T03:09:03.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] サードウェーブ、Radeon AI PRO R9700を搭載したローカルAI活用向けデスクトップ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news066.html",
+      "pubDate": "2026-10-27T03:09:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] HISが月100時間を削減　AIエージェントで法人出張の見積もり、どう自動化した？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news033.html",
+      "pubDate": "2026-10-27T03:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 機能は同じでも印象はガラリ　カメラなしスマートグラス「Even G2」にべっ甲柄の新色　新しい偏光サングラスクリップやチェーンも登場",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news010.html",
+      "pubDate": "2026-10-27T03:00:00.000Z"
     },
     {
       "category": "国際",
@@ -26,36 +58,12 @@
       "pubDate": "2026-10-27T02:44:40.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] LINEで通話の録音／録画が可能に　音声通話は文字起こしも　今冬からは有料に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news062.html",
-      "pubDate": "2026-10-27T02:37:00.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "ピル服用と更年期の関係 医師解説",
       "link": "https://news.yahoo.co.jp/pickup/6600279?source=rss",
       "pubDate": "2026-10-27T02:36:37.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] GMO、PCのバックアップと電源オフ呼びかけ　VPS利用者に　きょう正午の攻撃予告受け",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002616/",
-      "pubDate": "2026-10-27T02:32:21.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] GMO、27日正午までに「ネット切断、PCの電源落として」　不正アクセスで顧客に呼びかけ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news061.html",
-      "pubDate": "2026-10-27T02:32:00.000Z"
     },
     {
       "category": "国際",
@@ -144,14 +152,6 @@
       "title": "バズは狙わない「ちふれ」の工夫",
       "link": "https://news.yahoo.co.jp/pickup/6600259?source=rss",
       "pubDate": "2026-10-26T23:38:04.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米中間選挙 下院は民主党優勢か",
-      "link": "https://news.yahoo.co.jp/pickup/6600255?source=rss",
-      "pubDate": "2026-10-26T23:25:23.000Z"
     },
     {
       "category": "経済",
