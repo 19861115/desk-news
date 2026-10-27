@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-27T05:00:48.858Z",
+  "updatedAt": "2026-10-27T05:15:34.025Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ノートPCとスマホを同時に急速充電できる「UGREEN Nexode 100W急速充電器」が37％オフの4586円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news075.html",
+      "pubDate": "2026-10-27T04:55:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] GPS＆Wi-Fi対応で前後2カメラ構成のドラレコ「70mai Dash Cam A410 Neo」が37％オフの9999円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news074.html",
+      "pubDate": "2026-10-27T04:54:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ポート不足のノートPCに適した「Anker Nano USB-C ハブ」が40％オフの2990円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news073.html",
+      "pubDate": "2026-10-27T04:53:00.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -8,6 +32,22 @@
       "title": "AI社員の失敗 問われる人間の責任",
       "link": "https://news.yahoo.co.jp/pickup/6600286?source=rss",
       "pubDate": "2026-10-27T04:52:18.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] お気に入りのキーボードを収納して持ち運べる「LEOPOLD キーボードポーチ LEO-KBP-M」が35％オフの1680円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news072.html",
+      "pubDate": "2026-10-27T04:51:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 非常時やキャンプの電源確保に適した「BLUETTI ポータブル電源 AORA100 V2 130Wソーラーパネルセット」が57％オフの7万9649円で販売中",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news070.html",
+      "pubDate": "2026-10-27T04:45:00.000Z"
     },
     {
       "category": "国際",
@@ -40,46 +80,6 @@
       "title": "米中間選挙 共和党牙城で野党猛追",
       "link": "https://news.yahoo.co.jp/pickup/6600291?source=rss",
       "pubDate": "2026-10-27T03:31:05.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 3時間で権限奪取、毎分2900回攻撃　中国系ハッカー「AI悪用侵入」の脅威",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news064.html",
-      "pubDate": "2026-10-27T03:30:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 政府、サイバー攻撃の「緊急対策パッケージ」来週中に策定へ　高市首相がサイバー閣僚会議の初会合で指示",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002620/",
-      "pubDate": "2026-10-27T03:18:21.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 貨物の搬送車両で自動運転「レベル4」　福岡空港、国内3カ所目",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002619/",
-      "pubDate": "2026-10-27T03:09:03.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] サードウェーブ、Radeon AI PRO R9700を搭載したローカルAI活用向けデスクトップ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news066.html",
-      "pubDate": "2026-10-27T03:09:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] HISが月100時間を削減　AIエージェントで法人出張の見積もり、どう自動化した？",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news033.html",
-      "pubDate": "2026-10-27T03:00:00.000Z"
     },
     {
       "category": "国際",
