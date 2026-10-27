@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-27T01:15:32.813Z",
+  "updatedAt": "2026-10-27T01:30:41.216Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "高校生らのデモ受け改革案発表 仏",
+      "link": "https://news.yahoo.co.jp/pickup/6600269?source=rss",
+      "pubDate": "2026-10-27T01:27:22.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -176,14 +184,6 @@
       "title": "新幹線予約の個人情報17万件流出",
       "link": "https://news.yahoo.co.jp/pickup/6600235?source=rss",
       "pubDate": "2026-10-26T14:07:55.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "中国が福田氏評価 高市政権は批判",
-      "link": "https://news.yahoo.co.jp/pickup/6600236?source=rss",
-      "pubDate": "2026-10-26T13:56:14.000Z"
     },
     {
       "category": "国内",
