@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T09:30:41.256Z",
+  "updatedAt": "2026-10-27T09:45:36.265Z",
   "items": [
     {
       "category": "国内",
@@ -32,6 +32,14 @@
       "title": "ミセス×ガスト企画で持ち去り被害",
       "link": "https://news.yahoo.co.jp/pickup/6600320?source=rss",
       "pubDate": "2026-10-27T09:06:52.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] GMO、攻撃者の公開情報に「アクセスは絶対に控えて」　悪質な拡散者には法的措置を準備",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002640/",
+      "pubDate": "2026-10-27T08:58:00.000Z"
     },
     {
       "category": "経済",
@@ -80,14 +88,6 @@
       "title": "[ITmedia News] タイムズカー、お見舞金3000円の算定基準は？　パーク24に聞いた",
       "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002627/",
       "pubDate": "2026-10-27T07:34:57.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 専門AIで肌カウンセリング、ファンケルが新サービス　チャットと顔画像解析で",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002629/",
-      "pubDate": "2026-10-27T07:24:32.000Z"
     },
     {
       "category": "経済",
