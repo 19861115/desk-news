@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-27T02:15:33.866Z",
+  "updatedAt": "2026-10-27T02:30:40.451Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米大統領との面会後悔 司教ら謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6600278?source=rss",
+      "pubDate": "2026-10-27T02:22:48.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -152,14 +160,6 @@
       "title": "ウイスキー1本4億円超で落札 なぜ",
       "link": "https://news.yahoo.co.jp/pickup/6600250?source=rss",
       "pubDate": "2026-10-26T22:34:48.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "イスラエル総選挙 政権維持が焦点",
-      "link": "https://news.yahoo.co.jp/pickup/6600247?source=rss",
-      "pubDate": "2026-10-26T22:20:32.000Z"
     },
     {
       "category": "IT",
