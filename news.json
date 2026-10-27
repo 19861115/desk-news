@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-27T09:15:33.036Z",
+  "updatedAt": "2026-10-27T09:30:41.256Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "北日本 今季一番強い寒気襲来へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600325?source=rss",
+      "pubDate": "2026-10-27T09:28:41.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ユニクロ ソックス価格改定を中止",
+      "link": "https://news.yahoo.co.jp/pickup/6600324?source=rss",
+      "pubDate": "2026-10-27T09:22:21.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -178,14 +194,6 @@
       "pubDate": "2026-10-27T02:22:48.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "千代田区 マンション転売巡り要請",
-      "link": "https://news.yahoo.co.jp/pickup/6600275?source=rss",
-      "pubDate": "2026-10-27T02:08:50.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -208,14 +216,6 @@
       "title": "乳がん 人間ドック2年空き悔しさ",
       "link": "https://news.yahoo.co.jp/pickup/6600264?source=rss",
       "pubDate": "2026-10-27T00:35:18.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "福田康夫さん死去 親子2代で首相",
-      "link": "https://news.yahoo.co.jp/pickup/6600231?source=rss",
-      "pubDate": "2026-10-26T12:40:24.000Z"
     },
     {
       "category": "デジカメinfo",
