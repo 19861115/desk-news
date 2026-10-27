@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T01:30:41.216Z",
+  "updatedAt": "2026-10-27T01:45:32.607Z",
   "items": [
     {
       "category": "国際",
@@ -8,6 +8,22 @@
       "title": "高校生らのデモ受け改革案発表 仏",
       "link": "https://news.yahoo.co.jp/pickup/6600269?source=rss",
       "pubDate": "2026-10-27T01:27:22.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] プレステサービスで不正アクセスの恐れ　家族アカウントが「勝手に追加」されたとの投稿相次ぐ",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news044.html",
+      "pubDate": "2026-10-27T01:15:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 【ニトリ】1290円の「縦型スマホポーチ」　はっ水加工、ストラップは取り外して使える",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news039.html",
+      "pubDate": "2026-10-27T01:00:00.000Z"
     },
     {
       "category": "国内",
@@ -96,22 +112,6 @@
       "title": "[ITmedia エグゼクティブ] 貨物の搬送車両で自動運転「レベル4」 福岡空港、国内3カ所目",
       "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/27/2000002609/",
       "pubDate": "2026-10-26T23:10:24.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「一番くじ ONLINE」の配送情報漏えいか　バンダイナムコの物流子会社に不正アクセス",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002608/",
-      "pubDate": "2026-10-26T23:07:15.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 大企業はAIコストを管理できていない　サイボウズ調査で浮かび上がった「3割の壁」",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news032.html",
-      "pubDate": "2026-10-26T23:00:00.000Z"
     },
     {
       "category": "国際",
