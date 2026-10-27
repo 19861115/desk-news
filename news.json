@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-27T09:00:51.530Z",
+  "updatedAt": "2026-10-27T09:15:33.036Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "「FENDI」広尾でレジデンス開発へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600322?source=rss",
+      "pubDate": "2026-10-27T09:09:52.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ミセス×ガスト企画で持ち去り被害",
+      "link": "https://news.yahoo.co.jp/pickup/6600320?source=rss",
+      "pubDate": "2026-10-27T09:06:52.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "ニデック 創業者ら9人を提訴へ",
       "link": "https://news.yahoo.co.jp/pickup/6600319?source=rss",
       "pubDate": "2026-10-27T08:45:36.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] NECPCが個人向け「LAVIE」ノートPCの新モデルを10月29日に発売　一人一人の“LAVIE（人生）”に寄り添う製品を拡充",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news089.html",
+      "pubDate": "2026-10-27T08:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -48,14 +72,6 @@
       "title": "[ITmedia News] 専門AIで肌カウンセリング、ファンケルが新サービス　チャットと顔画像解析で",
       "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002629/",
       "pubDate": "2026-10-27T07:24:32.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 「切磋琢磨する関係だが……」　日本郵船、今治造船ら7社が「オールジャパン」で挑む“次世代船”、対中韓の勝ち筋は",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news082.html",
-      "pubDate": "2026-10-27T07:15:00.000Z"
     },
     {
       "category": "経済",
@@ -186,28 +202,12 @@
       "pubDate": "2026-10-27T00:46:52.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "大手生保 国債の入れ替え加速",
-      "link": "https://news.yahoo.co.jp/pickup/6600265?source=rss",
-      "pubDate": "2026-10-27T00:38:54.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "乳がん 人間ドック2年空き悔しさ",
       "link": "https://news.yahoo.co.jp/pickup/6600264?source=rss",
       "pubDate": "2026-10-27T00:35:18.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "バズは狙わない「ちふれ」の工夫",
-      "link": "https://news.yahoo.co.jp/pickup/6600259?source=rss",
-      "pubDate": "2026-10-26T23:38:04.000Z"
     },
     {
       "category": "国内",
