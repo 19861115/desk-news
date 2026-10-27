@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-27T07:30:42.345Z",
+  "updatedAt": "2026-10-27T07:45:33.562Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 専門AIで肌カウンセリング、ファンケルが新サービス　チャットと顔画像解析で",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002629/",
+      "pubDate": "2026-10-27T07:24:32.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 「切磋琢磨する関係だが……」　日本郵船、今治造船ら7社が「オールジャパン」で挑む“次世代船”、対中韓の勝ち筋は",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news082.html",
+      "pubDate": "2026-10-27T07:15:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -50,14 +66,6 @@
       "pubDate": "2026-10-27T06:22:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「ポケモンユナイト」2027年3月にサービス終了　Switch版・スマホ版とも　未使用の有償ジェムは払い戻しへ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news080.html",
-      "pubDate": "2026-10-27T06:12:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -80,14 +88,6 @@
       "title": "GMO攻撃者「個人情報毎日公開」",
       "link": "https://news.yahoo.co.jp/pickup/6600302?source=rss",
       "pubDate": "2026-10-27T05:38:34.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] サンワ、前腕を温めながら支えられるヒーター内蔵肘置き台",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news079.html",
-      "pubDate": "2026-10-27T05:33:00.000Z"
     },
     {
       "category": "IT",
