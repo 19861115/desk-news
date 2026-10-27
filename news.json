@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-27T05:45:31.795Z",
+  "updatedAt": "2026-10-27T06:00:49.764Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "モンゴル火災 政府が専門家派遣へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600304?source=rss",
+      "pubDate": "2026-10-27T05:59:24.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "イラン攻撃長期化 米兵遺族の訴え",
+      "link": "https://news.yahoo.co.jp/pickup/6600303?source=rss",
+      "pubDate": "2026-10-27T05:58:25.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -130,14 +146,6 @@
       "pubDate": "2026-10-27T02:08:41.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "高校生らのデモ受け改革案発表 仏",
-      "link": "https://news.yahoo.co.jp/pickup/6600269?source=rss",
-      "pubDate": "2026-10-27T01:27:22.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -216,14 +224,6 @@
       "title": "スパイ防止へ登録制度案 政府提示",
       "link": "https://news.yahoo.co.jp/pickup/6600226?source=rss",
       "pubDate": "2026-10-26T11:49:19.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "サイバー攻撃に緊急対策 首相方針",
-      "link": "https://news.yahoo.co.jp/pickup/6600219?source=rss",
-      "pubDate": "2026-10-26T10:11:04.000Z"
     },
     {
       "category": "デジカメinfo",
