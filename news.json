@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-27T06:30:44.131Z",
+  "updatedAt": "2026-10-27T06:45:32.216Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "浜岡原発差し止め裁判 請求却下",
+      "link": "https://news.yahoo.co.jp/pickup/6600307?source=rss",
+      "pubDate": "2026-10-27T06:43:52.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「ポケモンユナイト」2027年3月にサービス終了　Switch版・スマホ版とも　未使用の有償ジェムは払い戻しへ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news080.html",
+      "pubDate": "2026-10-27T06:12:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -56,14 +72,6 @@
       "title": "[ITmedia Mobile] ノートPCとスマホを同時に急速充電できる「UGREEN Nexode 100W急速充電器」が37％オフの4586円に",
       "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news075.html",
       "pubDate": "2026-10-27T04:55:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] GPS＆Wi-Fi対応で前後2カメラ構成のドラレコ「70mai Dash Cam A410 Neo」が37％オフの9999円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news074.html",
-      "pubDate": "2026-10-27T04:54:00.000Z"
     },
     {
       "category": "IT",
@@ -192,14 +200,6 @@
       "title": "ウイスキー1本4億円超で落札 なぜ",
       "link": "https://news.yahoo.co.jp/pickup/6600250?source=rss",
       "pubDate": "2026-10-26T22:34:48.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "露拘束の記者 大使館員が領事面会",
-      "link": "https://news.yahoo.co.jp/pickup/6600239?source=rss",
-      "pubDate": "2026-10-26T14:20:32.000Z"
     },
     {
       "category": "国内",
