@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T06:00:49.764Z",
+  "updatedAt": "2026-10-27T06:15:35.486Z",
   "items": [
     {
       "category": "国内",
@@ -24,6 +24,14 @@
       "title": "GMO攻撃者「個人情報毎日公開」",
       "link": "https://news.yahoo.co.jp/pickup/6600302?source=rss",
       "pubDate": "2026-10-27T05:38:34.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] サンワ、前腕を温めながら支えられるヒーター内蔵肘置き台",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news079.html",
+      "pubDate": "2026-10-27T05:33:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -56,14 +64,6 @@
       "title": "[ITmedia Mobile] GPS＆Wi-Fi対応で前後2カメラ構成のドラレコ「70mai Dash Cam A410 Neo」が37％オフの9999円に",
       "link": "https://www.itmedia.co.jp/mobile/articles/2610/27/news074.html",
       "pubDate": "2026-10-27T04:54:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ポート不足のノートPCに適した「Anker Nano USB-C ハブ」が40％オフの2990円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news073.html",
-      "pubDate": "2026-10-27T04:53:00.000Z"
     },
     {
       "category": "IT",
