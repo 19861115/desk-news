@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-27T05:30:40.519Z",
+  "updatedAt": "2026-10-27T05:45:31.795Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO攻撃者「個人情報毎日公開」",
+      "link": "https://news.yahoo.co.jp/pickup/6600302?source=rss",
+      "pubDate": "2026-10-27T05:38:34.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] GMO、ランサム被害にあった顧客に新しいPC提供へ　犯行グループは1人の顧客情報公開か",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002624/",
+      "pubDate": "2026-10-27T05:19:20.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] パレスホテル箱根が2029年秋開業へ、国立公園内にマウンテンリゾート誕生",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/23/2000002524/",
+      "pubDate": "2026-10-27T05:15:44.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -32,22 +56,6 @@
       "title": "AI社員の失敗 問われる人間の責任",
       "link": "https://news.yahoo.co.jp/pickup/6600286?source=rss",
       "pubDate": "2026-10-27T04:52:18.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] お気に入りのキーボードを収納して持ち運べる「LEOPOLD キーボードポーチ LEO-KBP-M」が35％オフの1680円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news072.html",
-      "pubDate": "2026-10-27T04:51:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 非常時やキャンプの電源確保に適した「BLUETTI ポータブル電源 AORA100 V2 130Wソーラーパネルセット」が57％オフの7万9649円で販売中",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news070.html",
-      "pubDate": "2026-10-27T04:45:00.000Z"
     },
     {
       "category": "国際",
@@ -152,14 +160,6 @@
       "title": "乳がん 人間ドック2年空き悔しさ",
       "link": "https://news.yahoo.co.jp/pickup/6600264?source=rss",
       "pubDate": "2026-10-27T00:35:18.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "新iPad mini発表 防水を初搭載",
-      "link": "https://news.yahoo.co.jp/pickup/6600262?source=rss",
-      "pubDate": "2026-10-27T00:01:50.000Z"
     },
     {
       "category": "経済",
