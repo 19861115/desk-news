@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T04:00:51.004Z",
+  "updatedAt": "2026-10-27T04:15:31.638Z",
   "items": [
     {
       "category": "国際",
@@ -8,6 +8,14 @@
       "title": "米中間選挙 共和党牙城で野党猛追",
       "link": "https://news.yahoo.co.jp/pickup/6600291?source=rss",
       "pubDate": "2026-10-27T03:31:05.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 3時間で権限奪取、毎分2900回攻撃　中国系ハッカー「AI悪用侵入」の脅威",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news064.html",
+      "pubDate": "2026-10-27T03:30:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -39,14 +47,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia エンタープライズ] HISが月100時間を削減　AIエージェントで法人出張の見積もり、どう自動化した？",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news033.html",
-      "pubDate": "2026-10-27T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 機能は同じでも印象はガラリ　カメラなしスマートグラス「Even G2」にべっ甲柄の新色　新しい偏光サングラスクリップやチェーンも登場",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news010.html",
       "pubDate": "2026-10-27T03:00:00.000Z"
     },
     {
