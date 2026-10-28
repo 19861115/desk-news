@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-28T09:45:31.319Z",
+  "updatedAt": "2026-10-28T10:00:51.734Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "29日朝 各地で今季一番の冷え込み",
+      "link": "https://news.yahoo.co.jp/pickup/6600461?source=rss",
+      "pubDate": "2026-10-28T09:51:16.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -152,14 +160,6 @@
       "title": "NHKがIP活用などに注力へ 中計案",
       "link": "https://news.yahoo.co.jp/pickup/6600409?source=rss",
       "pubDate": "2026-10-28T03:51:49.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "東京・近畿で木枯らし1号 気象庁",
-      "link": "https://news.yahoo.co.jp/pickup/6600406?source=rss",
-      "pubDate": "2026-10-28T03:43:01.000Z"
     },
     {
       "category": "国際",
