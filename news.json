@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T03:00:52.549Z",
+  "updatedAt": "2026-10-28T03:15:35.862Z",
   "items": [
     {
       "category": "経済",
@@ -26,6 +26,14 @@
       "pubDate": "2026-10-28T02:47:55.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] LINE、トーク画面から食事写真を送るだけでカロリーと栄養素を分析する食事管理AIエージェントを公開",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news059.html",
+      "pubDate": "2026-10-28T02:46:00.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -45,17 +53,33 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ヤクルト本社サイト、不正アクセスで停止中　顧客情報への影響は「調査中」",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002657/",
-      "pubDate": "2026-10-28T02:17:38.000Z"
+      "title": "[ITmedia エンタープライズ] 「導入は進んだが、成果はまだ」　デル新社長が指摘する日本企業の“AIギャップ”",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news032.html",
+      "pubDate": "2026-10-28T02:30:00.000Z"
     },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Discord、公開サーバの会話をGoogle検索などの対象に　プライバシーへの懸念も",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002656/",
-      "pubDate": "2026-10-28T02:07:59.000Z"
+      "title": "[ITmedia Mobile] LINE、Androidでも“長押し”で既読付けずにメッセージ確認可能に　未読のままトーク全体をさかのぼれる有料機能も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news054.html",
+      "pubDate": "2026-10-28T02:30:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] auとUQ mobileのキャリアメールで障害　音声通話やデータ通信への影響はなし",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news055.html",
+      "pubDate": "2026-10-28T02:27:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ヤクルト本社サイト、不正アクセスで停止中　顧客情報への影響は「調査中」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002657/",
+      "pubDate": "2026-10-28T02:17:38.000Z"
     },
     {
       "category": "IT",
@@ -72,30 +96,6 @@
       "title": "不正アクセス GMOの急成長に影",
       "link": "https://news.yahoo.co.jp/pickup/6600390?source=rss",
       "pubDate": "2026-10-28T01:33:48.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] GMO、サイバー犯罪情報に「懸賞金1.5億円」　最大300万円の特別見舞金も",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/28/news043.html",
-      "pubDate": "2026-10-28T01:30:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] IDCFクラウドのランサム被害、OSSの脆弱性悪用される　サーバ内データ流出なし　再発防止へSBOM化",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002655/",
-      "pubDate": "2026-10-28T01:13:58.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] GMO、不正アクセス実行犯の手がかりに懸賞金　1億5000万円規模",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/",
-      "pubDate": "2026-10-28T01:08:21.000Z"
     },
     {
       "category": "経済",
