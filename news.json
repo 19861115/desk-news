@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-28T09:00:53.805Z",
+  "updatedAt": "2026-10-28T09:15:34.322Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "プルデンシャル 新たな不正事案",
+      "link": "https://news.yahoo.co.jp/pickup/6600452?source=rss",
+      "pubDate": "2026-10-28T09:07:38.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] AIの導入から“成果”へ　デル新社長のジョン・ロボトム氏が掲げる「日本への貢献」と実行力",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/28/news068.html",
+      "pubDate": "2026-10-28T08:35:00.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -37,17 +53,17 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「推しがそばにいる日常」を　ソニー、5万円台の裸眼3Dディスプレイ　アニメ公式コンテンツに対応",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002670/",
-      "pubDate": "2026-10-28T07:06:07.000Z"
+      "title": "[ITmedia Mobile] AI利用時のリスク対策を強化した「ESET HOME セキュリティ」新バージョンを提供　iPhoneアプリも登場",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news070.html",
+      "pubDate": "2026-10-28T07:26:00.000Z"
     },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] バッファロー、薄型軽量設計のメンブレン式ワイヤレスキーボード",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/28/news071.html",
-      "pubDate": "2026-10-28T06:41:00.000Z"
+      "title": "[ITmedia News] 「推しがそばにいる日常」を　ソニー、5万円台の裸眼3Dディスプレイ　アニメ公式コンテンツに対応",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002670/",
+      "pubDate": "2026-10-28T07:06:07.000Z"
     },
     {
       "category": "IT",
@@ -56,14 +72,6 @@
       "title": "KDDIメールサービス通信障害 復旧",
       "link": "https://news.yahoo.co.jp/pickup/6600431?source=rss",
       "pubDate": "2026-10-28T06:32:56.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 「禁止」するだけでは防げない？　パナソニックグループで約33万人分の個人情報が外部生成AIに",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html",
-      "pubDate": "2026-10-28T06:30:00.000Z"
     },
     {
       "category": "国際",
@@ -200,14 +208,6 @@
       "title": "元寇の船から「遊び道具」発見",
       "link": "https://news.yahoo.co.jp/pickup/6600395?source=rss",
       "pubDate": "2026-10-28T02:30:52.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "不正アクセス GMOの急成長に影",
-      "link": "https://news.yahoo.co.jp/pickup/6600390?source=rss",
-      "pubDate": "2026-10-28T01:33:48.000Z"
     },
     {
       "category": "国際",
