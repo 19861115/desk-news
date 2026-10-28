@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T10:00:51.734Z",
+  "updatedAt": "2026-10-28T10:15:32.612Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,22 @@
       "title": "29日朝 各地で今季一番の冷え込み",
       "link": "https://news.yahoo.co.jp/pickup/6600461?source=rss",
       "pubDate": "2026-10-28T09:51:16.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Oracle CloudがGoogle TPU導入へ　2027年に提供を開始",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
+      "pubDate": "2026-10-28T09:48:42.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 折りたたみ「iPhone Duo」標準キーボードの使い心地は？　分割表示や片手用キーボードへの切り替え方法も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news076.html",
+      "pubDate": "2026-10-28T09:40:00.000Z"
     },
     {
       "category": "科学",
@@ -50,28 +66,12 @@
       "pubDate": "2026-10-28T08:21:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「対策を後回しにしたサーバが軒並み狙われている」　相次ぐ不正アクセスにラックCTOが警鐘",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002675/",
-      "pubDate": "2026-10-28T08:19:23.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "キッチンタイマーを回収 TDR運営",
       "link": "https://news.yahoo.co.jp/pickup/6600444?source=rss",
       "pubDate": "2026-10-28T08:11:52.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 携帯で通話するだけでAIが業務代行、カスハラ判定も　アドバンスト・メディアが「AmiVoice Mobile Genie」発表",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news063.html",
-      "pubDate": "2026-10-28T07:48:00.000Z"
     },
     {
       "category": "国内",
