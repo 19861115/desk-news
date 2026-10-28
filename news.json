@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-28T23:15:32.058Z",
+  "updatedAt": "2026-10-28T23:30:38.433Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "多くで今季一冷え込み 東京10℃台",
+      "link": "https://news.yahoo.co.jp/pickup/6600505?source=rss",
+      "pubDate": "2026-10-28T23:20:43.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -112,14 +120,6 @@
       "title": "武部農相 衆院選の人件費巡り疑惑",
       "link": "https://news.yahoo.co.jp/pickup/6600466?source=rss",
       "pubDate": "2026-10-28T11:01:51.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "衆院比例31削減案 識者の見解",
-      "link": "https://news.yahoo.co.jp/pickup/6600453?source=rss",
-      "pubDate": "2026-10-28T10:52:36.000Z"
     },
     {
       "category": "科学",
