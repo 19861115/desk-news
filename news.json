@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-28T04:30:42.799Z",
+  "updatedAt": "2026-10-28T04:45:34.371Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "飲食店 テイクアウトに慎重な理由",
+      "link": "https://news.yahoo.co.jp/pickup/6600420?source=rss",
+      "pubDate": "2026-10-28T04:34:47.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "子宮移植 藤田医大が計画申請",
+      "link": "https://news.yahoo.co.jp/pickup/6600419?source=rss",
+      "pubDate": "2026-10-28T04:33:39.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +24,22 @@
       "title": "増える正社員の副業 実状とリスク",
       "link": "https://news.yahoo.co.jp/pickup/6600415?source=rss",
       "pubDate": "2026-10-28T04:11:53.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Anthropic、独自の“創薬活動”に着手　社員1人のバイオ企業を買収、小児難病の治療薬研究を進める",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002661/",
+      "pubDate": "2026-10-28T04:07:50.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ESET、個人向けセキュリティソフト「ESET HOMEセキュリティ」最新版“V20”を発表　AIエージェントの監視機能を実装",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/28/news057.html",
+      "pubDate": "2026-10-28T04:01:00.000Z"
     },
     {
       "category": "国内",
@@ -37,6 +69,14 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ソニーが6型の空間再現ディスプレイ「ELF-MN1」発売　デジタルフィギュアなど立体映像を裸眼で楽しめる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news061.html",
+      "pubDate": "2026-10-28T03:42:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia News] GMO不正アクセスの犯人サイト、ドメイン停止を確認",
       "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002659/",
       "pubDate": "2026-10-28T03:22:30.000Z"
@@ -56,30 +96,6 @@
       "title": "キヤノン「EOS R7 Mark II」には部分積層型センサーが採用される？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/eos-r7-mark-ii-10.html",
       "pubDate": "2026-10-28T03:12:20.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ゴジラ襲来の避難検証からマンドレイクの試食まで！　「CEATEC 2026」で見つけた驚きの技術5選",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/28/news056.html",
-      "pubDate": "2026-10-28T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「エアコンをつけるほどではない日」のデスクワークは足元で対策　温風・涼風を出せる山善のフットレストを試す",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002646/",
-      "pubDate": "2026-10-28T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 「オールジャパンで」「世界で戦う」　海運・造船“競合”が異例の協業　トップの熱い意気込み【社長コメントまとめ】",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/28/news046.html",
-      "pubDate": "2026-10-28T03:00:00.000Z"
     },
     {
       "category": "経済",
@@ -144,14 +160,6 @@
       "title": "昆布・かつお節が高騰 飲食店悲鳴",
       "link": "https://news.yahoo.co.jp/pickup/6600385?source=rss",
       "pubDate": "2026-10-28T01:00:43.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "タマゴなど高値 家計でどう対策",
-      "link": "https://news.yahoo.co.jp/pickup/6600384?source=rss",
-      "pubDate": "2026-10-28T00:59:05.000Z"
     },
     {
       "category": "国際",
@@ -272,14 +280,6 @@
       "title": "シグマ「FP2」は予想以上に使い心地が良く真剣に検討する価値のあるカメラ（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/fp2-2.html",
       "pubDate": "2026-10-26T08:56:39.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "武田薬品 胃がん新薬を来年申請へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600169?source=rss",
-      "pubDate": "2026-10-26T03:31:59.000Z"
     }
   ]
 }
