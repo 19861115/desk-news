@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-28T09:15:34.322Z",
+  "updatedAt": "2026-10-28T09:30:41.369Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "小型恐竜の骨格標本 75億円で落札",
+      "link": "https://news.yahoo.co.jp/pickup/6600458?source=rss",
+      "pubDate": "2026-10-28T09:15:30.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -256,14 +264,6 @@
       "title": "富士フイルムが「instax mini Evo 2」を正式発表（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/instax-mini-evo-2.html",
       "pubDate": "2026-10-27T09:22:30.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "ピル服用と更年期の関係 医師解説",
-      "link": "https://news.yahoo.co.jp/pickup/6600279?source=rss",
-      "pubDate": "2026-10-27T02:36:37.000Z"
     },
     {
       "category": "デジカメinfo",
