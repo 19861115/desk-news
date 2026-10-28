@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-28T05:15:32.323Z",
+  "updatedAt": "2026-10-28T05:30:40.928Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "ヒョウ襲撃 オランダで飼育員死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6600426?source=rss",
+      "pubDate": "2026-10-28T05:27:35.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "衆院比例定数 31減案で自維国合意",
+      "link": "https://news.yahoo.co.jp/pickup/6600428?source=rss",
+      "pubDate": "2026-10-28T05:25:41.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -194,14 +210,6 @@
       "pubDate": "2026-10-28T00:45:41.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "自民 衆院比例で「統一名簿」提案",
-      "link": "https://news.yahoo.co.jp/pickup/6600379?source=rss",
-      "pubDate": "2026-10-28T00:09:13.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -224,14 +232,6 @@
       "title": "Siri AIが日本語対応 使い勝手は",
       "link": "https://news.yahoo.co.jp/pickup/6600371?source=rss",
       "pubDate": "2026-10-27T23:24:43.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "イスラエル総選挙 連立協議難航か",
-      "link": "https://news.yahoo.co.jp/pickup/6600366?source=rss",
-      "pubDate": "2026-10-27T22:54:29.000Z"
     },
     {
       "category": "国内",
