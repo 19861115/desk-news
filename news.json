@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-28T23:30:38.433Z",
+  "updatedAt": "2026-10-28T23:45:29.825Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "教員「特別免許」の基準明確化へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600506?source=rss",
+      "pubDate": "2026-10-28T23:39:26.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "本や雑誌発売日 大阪も1日遅れに",
+      "link": "https://news.yahoo.co.jp/pickup/6600504?source=rss",
+      "pubDate": "2026-10-28T23:34:37.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -10,12 +26,36 @@
       "pubDate": "2026-10-28T23:20:43.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Microsoft、7?9月期は19％増収　Azureは48％増、AI需要が成長けん引",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002691/",
+      "pubDate": "2026-10-28T23:19:34.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "スペイン 衝突列車に誤った指示か",
       "link": "https://news.yahoo.co.jp/pickup/6600500?source=rss",
       "pubDate": "2026-10-28T23:03:35.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 製造業のAIネイティブ化の道筋は？　将来のAIの役割から「逆算」で診断するサービスが登場",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news011.html",
+      "pubDate": "2026-10-28T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 「現実にCtrl+Zはない」──フィジカルAI時代に企業が備えるべき新役務「AIスチュワード」とは",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/29/2000002622/",
+      "pubDate": "2026-10-28T23:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -34,44 +74,12 @@
       "pubDate": "2026-10-28T22:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 月末に「600行の承認作業」が集中……「紙とハンコ」「現金手渡し」の経費申請を変えた、老舗メーカーの経理DX",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/29/news033.html",
-      "pubDate": "2026-10-28T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] AI推進は5人、削減見込みは年間5600時間　京進が“PoC止まり”を抜け出せた理由",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news015.html",
-      "pubDate": "2026-10-28T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 件数の多い脆弱性から直すのは正解か　ネットワーク診断の指摘、半数超は「パッチ管理」",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news013.html",
-      "pubDate": "2026-10-28T22:00:00.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "GMO脅迫サイト 国が遮断を要請",
       "link": "https://news.yahoo.co.jp/pickup/6600494?source=rss",
       "pubDate": "2026-10-28T21:55:03.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "千葉県で震度5弱 津波の心配なし",
-      "link": "https://news.yahoo.co.jp/pickup/6600489?source=rss",
-      "pubDate": "2026-10-28T15:19:26.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -200,14 +208,6 @@
       "title": "子宮移植 藤田医大が計画申請",
       "link": "https://news.yahoo.co.jp/pickup/6600419?source=rss",
       "pubDate": "2026-10-28T04:33:39.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "増える正社員の副業 実状とリスク",
-      "link": "https://news.yahoo.co.jp/pickup/6600415?source=rss",
-      "pubDate": "2026-10-28T04:11:53.000Z"
     },
     {
       "category": "国際",
