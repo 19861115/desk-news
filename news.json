@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-28T00:00:55.484Z",
+  "updatedAt": "2026-10-28T00:15:32.682Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "自民 衆院比例で「統一名簿」提案",
+      "link": "https://news.yahoo.co.jp/pickup/6600379?source=rss",
+      "pubDate": "2026-10-28T00:09:13.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] NVIDIAとAMD、MetaとのAI分野での提携拡大を発表　「Muse」の強化や次世代インフラ構築で協力",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
+      "pubDate": "2026-10-27T23:55:26.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -87,14 +103,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] 「AIデータセンター」どこに作る？　工場跡地、廃校、洋上、宇宙――ユニークな立地戦略の狙いは",
       "link": "https://www.itmedia.co.jp/business/articles/2610/28/news039.html",
-      "pubDate": "2026-10-27T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 立花・吟醸造り・京料理を重要無形文化財に指定へ、3人を保持者に認定",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/28/2000002625/",
       "pubDate": "2026-10-27T22:00:00.000Z"
     },
     {
@@ -208,14 +216,6 @@
       "title": "ニデック 創業者ら9人を提訴へ",
       "link": "https://news.yahoo.co.jp/pickup/6600319?source=rss",
       "pubDate": "2026-10-27T08:45:36.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "武部農相 選挙運動費報告「訂正」",
-      "link": "https://news.yahoo.co.jp/pickup/6600308?source=rss",
-      "pubDate": "2026-10-27T06:55:16.000Z"
     },
     {
       "category": "科学",
