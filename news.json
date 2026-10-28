@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-28T04:45:34.371Z",
+  "updatedAt": "2026-10-28T05:00:51.206Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "韓国 シャインマスカット価格急落",
+      "link": "https://news.yahoo.co.jp/pickup/6600418?source=rss",
+      "pubDate": "2026-10-28T04:59:04.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "異例 放鳥ツルが単独で「越夏」",
+      "link": "https://news.yahoo.co.jp/pickup/6600416?source=rss",
+      "pubDate": "2026-10-28T04:46:41.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -226,14 +242,6 @@
       "pubDate": "2026-10-27T22:04:42.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "習近平氏 福田康夫氏の遺族に弔電",
-      "link": "https://news.yahoo.co.jp/pickup/6600336?source=rss",
-      "pubDate": "2026-10-27T11:30:45.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -256,14 +264,6 @@
       "title": "ピル服用と更年期の関係 医師解説",
       "link": "https://news.yahoo.co.jp/pickup/6600279?source=rss",
       "pubDate": "2026-10-27T02:36:37.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "乳がん 人間ドック2年空き悔しさ",
-      "link": "https://news.yahoo.co.jp/pickup/6600264?source=rss",
-      "pubDate": "2026-10-27T00:35:18.000Z"
     },
     {
       "category": "デジカメinfo",
