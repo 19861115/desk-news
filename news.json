@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-28T06:30:42.439Z",
+  "updatedAt": "2026-10-28T06:45:31.348Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "KDDIメールサービス通信障害 復旧",
+      "link": "https://news.yahoo.co.jp/pickup/6600431?source=rss",
+      "pubDate": "2026-10-28T06:32:56.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 資さんうどん、従業員の退職理由などが外部から閲覧可能に　委託先の勤怠システムに設定不備",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002667/",
+      "pubDate": "2026-10-28T06:02:29.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ASUS、有機ELディスプレイを採用したSnapdragon X搭載14型／16型スリムノート",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/28/news067.html",
+      "pubDate": "2026-10-28T05:56:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -114,22 +138,6 @@
       "pubDate": "2026-10-28T03:43:01.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 顧客も巻き込むサイバー脅迫　GMO攻撃が問う企業の防御と国の対処、被害の連鎖どう断つ",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002660/",
-      "pubDate": "2026-10-28T03:42:31.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ソニーが6型の空間再現ディスプレイ「ELF-MN1」発売　デジタルフィギュアなど立体映像を裸眼で楽しめる",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news061.html",
-      "pubDate": "2026-10-28T03:42:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -184,14 +192,6 @@
       "title": "元寇の船から「遊び道具」発見",
       "link": "https://news.yahoo.co.jp/pickup/6600395?source=rss",
       "pubDate": "2026-10-28T02:30:52.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "auメール障害 全国で利用しづらく",
-      "link": "https://news.yahoo.co.jp/pickup/6600391?source=rss",
-      "pubDate": "2026-10-28T02:04:30.000Z"
     },
     {
       "category": "経済",
