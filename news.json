@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T06:00:53.907Z",
+  "updatedAt": "2026-10-28T06:15:32.301Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,14 @@
       "title": "日米防衛相 中国抑止へ協力強化",
       "link": "https://news.yahoo.co.jp/pickup/6600429?source=rss",
       "pubDate": "2026-10-28T05:50:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] XPPen、1万6384レベルに対応した筆圧ペンを備えた12.95型Androidタブレット　外付け液タブとしても利用可",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/28/news065.html",
+      "pubDate": "2026-10-28T05:43:00.000Z"
     },
     {
       "category": "国際",
@@ -120,14 +128,6 @@
       "title": "[ITmedia Mobile] ソニーが6型の空間再現ディスプレイ「ELF-MN1」発売　デジタルフィギュアなど立体映像を裸眼で楽しめる",
       "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news061.html",
       "pubDate": "2026-10-28T03:42:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] GMO不正アクセスの犯人サイト、ドメイン停止を確認",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002659/",
-      "pubDate": "2026-10-28T03:22:30.000Z"
     },
     {
       "category": "国際",
