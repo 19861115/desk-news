@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T00:30:41.629Z",
+  "updatedAt": "2026-10-28T00:45:31.654Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,14 @@
       "title": "自民 衆院比例で「統一名簿」提案",
       "link": "https://news.yahoo.co.jp/pickup/6600379?source=rss",
       "pubDate": "2026-10-28T00:09:13.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] Oracle、AIで業務アプリを「記録」から「成果」の基盤へ　人の判断はどこに残る",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news019.html",
+      "pubDate": "2026-10-28T00:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -96,14 +104,6 @@
       "title": "安保3文書で「拒否力」防衛の柱に",
       "link": "https://news.yahoo.co.jp/pickup/6600361?source=rss",
       "pubDate": "2026-10-27T22:04:42.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 「AIデータセンター」どこに作る？　工場跡地、廃校、洋上、宇宙――ユニークな立地戦略の狙いは",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/28/news039.html",
-      "pubDate": "2026-10-27T22:00:00.000Z"
     },
     {
       "category": "経済",
