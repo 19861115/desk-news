@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-28T10:15:32.612Z",
+  "updatedAt": "2026-10-28T10:30:44.418Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "スペインで列車衝突 10人死亡か",
+      "link": "https://news.yahoo.co.jp/pickup/6600464?source=rss",
+      "pubDate": "2026-10-28T10:20:41.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -224,14 +232,6 @@
       "title": "米とキューバ 国連で怒声の応酬",
       "link": "https://news.yahoo.co.jp/pickup/6600382?source=rss",
       "pubDate": "2026-10-28T00:45:41.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米大統領「AI」名称禁止する方針",
-      "link": "https://news.yahoo.co.jp/pickup/6600376?source=rss",
-      "pubDate": "2026-10-27T23:49:12.000Z"
     },
     {
       "category": "IT",
