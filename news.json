@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-28T08:30:42.940Z",
+  "updatedAt": "2026-10-28T08:45:32.587Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「対策を後回しにしたサーバが軒並み狙われている」　相次ぐ不正アクセスにラックCTOが警鐘",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002675/",
+      "pubDate": "2026-10-28T08:19:23.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "キッチンタイマーを回収 TDR運営",
       "link": "https://news.yahoo.co.jp/pickup/6600444?source=rss",
       "pubDate": "2026-10-28T08:11:52.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 携帯で通話するだけでAIが業務代行、カスハラ判定も　アドバンスト・メディアが「AmiVoice Mobile Genie」発表",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news063.html",
+      "pubDate": "2026-10-28T07:48:00.000Z"
     },
     {
       "category": "国内",
@@ -48,22 +64,6 @@
       "title": "[ITmedia エンタープライズ] 「禁止」するだけでは防げない？　パナソニックグループで約33万人分の個人情報が外部生成AIに",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html",
       "pubDate": "2026-10-28T06:30:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] Turtle Beach、小型タッチディスプレイを内蔵したワイヤレスゲーミングマウス",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/28/news069.html",
-      "pubDate": "2026-10-28T06:22:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 資さんうどん、従業員の退職理由などが外部から閲覧可能に　委託先の勤怠システムに設定不備",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002667/",
-      "pubDate": "2026-10-28T06:02:29.000Z"
     },
     {
       "category": "国際",
