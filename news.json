@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-28T01:00:52.098Z",
+  "updatedAt": "2026-10-28T01:15:31.373Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "昆布・かつお節が高騰 飲食店悲鳴",
+      "link": "https://news.yahoo.co.jp/pickup/6600385?source=rss",
+      "pubDate": "2026-10-28T01:00:43.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "タマゴなど高値 家計でどう対策",
       "link": "https://news.yahoo.co.jp/pickup/6600384?source=rss",
       "pubDate": "2026-10-28T00:59:05.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] チェキの新製品、タッチパネル式大画面を初搭載　富士フイルムが2機種新発売へ",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/28/2000002654/",
+      "pubDate": "2026-10-28T00:51:12.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] AndurilとQualcomm、米国製PC「BlueChip」を発表　Snapdragon X搭載、2027年に受注開始へ",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002653/",
+      "pubDate": "2026-10-28T00:48:10.000Z"
     },
     {
       "category": "国際",
@@ -90,28 +114,12 @@
       "pubDate": "2026-10-27T22:54:29.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] auメールで朝から障害　全国で利用しづらい状況に",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002650/",
-      "pubDate": "2026-10-27T22:51:10.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "GMO攻撃 被害者は「恐怖しか」",
       "link": "https://news.yahoo.co.jp/pickup/6600364?source=rss",
       "pubDate": "2026-10-27T22:40:24.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Apple、M6搭載の14インチ「MacBook Pro」発表　AI性能向上、33万9800円から",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002649/",
-      "pubDate": "2026-10-27T22:30:52.000Z"
     },
     {
       "category": "国内",
@@ -208,14 +216,6 @@
       "title": "富士フイルムが「instax mini Evo 2」を正式発表（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/instax-mini-evo-2.html",
       "pubDate": "2026-10-27T09:22:30.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ミセス×ガスト企画で持ち去り被害",
-      "link": "https://news.yahoo.co.jp/pickup/6600320?source=rss",
-      "pubDate": "2026-10-27T09:06:52.000Z"
     },
     {
       "category": "科学",
