@@ -1,13 +1,109 @@
 {
-  "updatedAt": "2026-10-28T11:45:31.686Z",
+  "updatedAt": "2026-10-28T23:00:51.145Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Google、「Gemini 4 Carbon」発表　「Argon」公開から2週間、サイバー防御能力などを強化",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
+      "pubDate": "2026-10-28T22:13:47.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 20年前は“門前払い”？　デル社長が語る、日本企業の今昔　「IT後進国」から抜け出せたのか",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/29/news023.html",
+      "pubDate": "2026-10-28T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 月末に「600行の承認作業」が集中……「紙とハンコ」「現金手渡し」の経費申請を変えた、老舗メーカーの経理DX",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/29/news033.html",
+      "pubDate": "2026-10-28T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] AI推進は5人、削減見込みは年間5600時間　京進が“PoC止まり”を抜け出せた理由",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news015.html",
+      "pubDate": "2026-10-28T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 件数の多い脆弱性から直すのは正解か　ネットワーク診断の指摘、半数超は「パッチ管理」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news013.html",
+      "pubDate": "2026-10-28T22:00:00.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO脅迫サイト 国が遮断を要請",
+      "link": "https://news.yahoo.co.jp/pickup/6600494?source=rss",
+      "pubDate": "2026-10-28T21:55:03.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "千葉県で震度5弱 津波の心配なし",
+      "link": "https://news.yahoo.co.jp/pickup/6600489?source=rss",
+      "pubDate": "2026-10-28T15:19:26.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ニコン「Z5IIC」は実際に使ったら想像以上に楽しめるカメラ（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/10/z5iic-5.html",
+      "pubDate": "2026-10-28T15:00:08.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
-      "title": "スペインで列車衝突 30人死亡か",
-      "link": "https://news.yahoo.co.jp/pickup/6600470?source=rss",
-      "pubDate": "2026-10-28T11:23:33.000Z"
+      "title": "スペインで列車衝突 64人死亡か",
+      "link": "https://news.yahoo.co.jp/pickup/6600486?source=rss",
+      "pubDate": "2026-10-28T13:57:36.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO懸賞金 6hで113件の情報提供",
+      "link": "https://news.yahoo.co.jp/pickup/6600483?source=rss",
+      "pubDate": "2026-10-28T13:44:01.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "中道代表 政党交付金の使途を回答",
+      "link": "https://news.yahoo.co.jp/pickup/6600480?source=rss",
+      "pubDate": "2026-10-28T13:25:39.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "日独首脳会談 経済安保で共同宣言",
+      "link": "https://news.yahoo.co.jp/pickup/6600479?source=rss",
+      "pubDate": "2026-10-28T13:06:23.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "「千鳥饅頭」千鳥屋本家が破産へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600474?source=rss",
+      "pubDate": "2026-10-28T12:24:14.000Z"
     },
     {
       "category": "国内",
@@ -26,46 +122,6 @@
       "pubDate": "2026-10-28T10:52:36.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] JAL、9万件超の予約情報が漏えいか　一部は「氏名」「パスポート番号」「電話番号」も　海外委託先に不正アクセス",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/28/news078.html",
-      "pubDate": "2026-10-28T10:08:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 日本通信のフルMVNOサービス、開始時期を5カ月延長へ　「テクニカルな課題が判明」",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news080.html",
-      "pubDate": "2026-10-28T10:05:00.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "29日朝 各地で今季一番の冷え込み",
-      "link": "https://news.yahoo.co.jp/pickup/6600461?source=rss",
-      "pubDate": "2026-10-28T09:51:16.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Oracle CloudがGoogle TPU導入へ　2027年に提供を開始",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
-      "pubDate": "2026-10-28T09:48:42.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 折りたたみ「iPhone Duo」標準キーボードの使い心地は？　分割表示や片手用キーボードへの切り替え方法も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news076.html",
-      "pubDate": "2026-10-28T09:40:00.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -82,28 +138,12 @@
       "pubDate": "2026-10-28T09:07:38.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 約260gの軽量化！　15.6型×2画面の変幻自在ディスプレイ「LCD15HC-IPSDUAL2」を使って分かったこと",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/28/news073.html",
-      "pubDate": "2026-10-28T09:00:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "キッチンタイマーを回収 TDR運営",
       "link": "https://news.yahoo.co.jp/pickup/6600444?source=rss",
       "pubDate": "2026-10-28T08:11:52.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "日米防衛相 中国抑止へ協力で一致",
-      "link": "https://news.yahoo.co.jp/pickup/6600438?source=rss",
-      "pubDate": "2026-10-28T07:41:19.000Z"
     },
     {
       "category": "IT",
@@ -120,14 +160,6 @@
       "title": "ヒョウ襲撃 オランダで飼育員死亡",
       "link": "https://news.yahoo.co.jp/pickup/6600426?source=rss",
       "pubDate": "2026-10-28T05:27:35.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "衆院比例定数 31減案で自維国合意",
-      "link": "https://news.yahoo.co.jp/pickup/6600428?source=rss",
-      "pubDate": "2026-10-28T05:25:41.000Z"
     },
     {
       "category": "IT",
@@ -194,28 +226,12 @@
       "pubDate": "2026-10-28T03:12:20.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "1600日超通う客も 名古屋発・大黒",
-      "link": "https://news.yahoo.co.jp/pickup/6600402?source=rss",
-      "pubDate": "2026-10-28T02:59:03.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "蚊の雄が雌に引かれる仕組み 発表",
       "link": "https://news.yahoo.co.jp/pickup/6600399?source=rss",
       "pubDate": "2026-10-28T02:51:59.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMOを攻撃した集団のサイト停止",
-      "link": "https://news.yahoo.co.jp/pickup/6600397?source=rss",
-      "pubDate": "2026-10-28T02:34:07.000Z"
     },
     {
       "category": "科学",
@@ -242,14 +258,6 @@
       "pubDate": "2026-10-27T23:36:34.000Z"
     },
     {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "Siri AIが日本語対応 使い勝手は",
-      "link": "https://news.yahoo.co.jp/pickup/6600371?source=rss",
-      "pubDate": "2026-10-27T23:24:43.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -272,14 +280,6 @@
       "title": "ZEISSがOtus MLシリーズの新レンズ（100mm F1.4？）を準備中？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/zeissotus-ml100mm-f14.html",
       "pubDate": "2026-10-26T12:03:31.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "シグマ「FP2」は予想以上に使い心地が良く真剣に検討する価値のあるカメラ（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/10/fp2-2.html",
-      "pubDate": "2026-10-26T08:56:39.000Z"
     }
   ]
 }
