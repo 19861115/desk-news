@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-28T11:15:34.428Z",
+  "updatedAt": "2026-10-28T11:30:42.490Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "スペインで列車衝突 30人死亡か",
+      "link": "https://news.yahoo.co.jp/pickup/6600470?source=rss",
+      "pubDate": "2026-10-28T11:23:33.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -16,14 +24,6 @@
       "title": "衆院比例31削減案 識者の見解",
       "link": "https://news.yahoo.co.jp/pickup/6600453?source=rss",
       "pubDate": "2026-10-28T10:52:36.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "スペインで列車衝突 10人死亡か",
-      "link": "https://news.yahoo.co.jp/pickup/6600467?source=rss",
-      "pubDate": "2026-10-28T10:46:12.000Z"
     },
     {
       "category": "ITmedia",
