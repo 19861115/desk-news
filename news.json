@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-28T05:45:31.954Z",
+  "updatedAt": "2026-10-28T06:00:53.907Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "日米防衛相 中国抑止へ協力強化",
+      "link": "https://news.yahoo.co.jp/pickup/6600429?source=rss",
+      "pubDate": "2026-10-28T05:50:28.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -232,14 +240,6 @@
       "title": "Siri AIが日本語対応 使い勝手は",
       "link": "https://news.yahoo.co.jp/pickup/6600371?source=rss",
       "pubDate": "2026-10-27T23:24:43.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "安保3文書で「拒否力」防衛の柱に",
-      "link": "https://news.yahoo.co.jp/pickup/6600361?source=rss",
-      "pubDate": "2026-10-27T22:04:42.000Z"
     },
     {
       "category": "デジカメinfo",
