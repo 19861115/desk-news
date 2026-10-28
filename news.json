@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-28T03:15:35.862Z",
+  "updatedAt": "2026-10-28T03:30:43.753Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "ボルソナロ氏の入国 米が許可",
+      "link": "https://news.yahoo.co.jp/pickup/6600410?source=rss",
+      "pubDate": "2026-10-28T03:19:24.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -152,14 +160,6 @@
       "title": "Siri AIが日本語対応 使い勝手は",
       "link": "https://news.yahoo.co.jp/pickup/6600371?source=rss",
       "pubDate": "2026-10-27T23:24:43.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "ボルソナロ氏亡命か 米認める方針",
-      "link": "https://news.yahoo.co.jp/pickup/6600370?source=rss",
-      "pubDate": "2026-10-27T23:16:19.000Z"
     },
     {
       "category": "国際",
