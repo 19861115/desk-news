@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:30:41.369Z",
+  "updatedAt": "2026-10-28T09:45:31.319Z",
   "items": [
     {
       "category": "科学",
@@ -21,9 +21,25 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 約260gの軽量化！　15.6型×2画面の変幻自在ディスプレイ「LCD15HC-IPSDUAL2」を使って分かったこと",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/28/news073.html",
+      "pubDate": "2026-10-28T09:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia PC USER] AIの導入から“成果”へ　デル新社長のジョン・ロボトム氏が掲げる「日本への貢献」と実行力",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2610/28/news068.html",
       "pubDate": "2026-10-28T08:35:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] “ニセ警察詐欺”を疑似体験できる無料ブラウザゲーム「騙される30秒前」登場　警察庁の協力もと開発",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news074.html",
+      "pubDate": "2026-10-28T08:21:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -56,22 +72,6 @@
       "title": "日米防衛相 中国抑止へ協力で一致",
       "link": "https://news.yahoo.co.jp/pickup/6600438?source=rss",
       "pubDate": "2026-10-28T07:41:19.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] AI利用時のリスク対策を強化した「ESET HOME セキュリティ」新バージョンを提供　iPhoneアプリも登場",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news070.html",
-      "pubDate": "2026-10-28T07:26:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「推しがそばにいる日常」を　ソニー、5万円台の裸眼3Dディスプレイ　アニメ公式コンテンツに対応",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002670/",
-      "pubDate": "2026-10-28T07:06:07.000Z"
     },
     {
       "category": "IT",
