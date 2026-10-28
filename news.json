@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T10:30:44.418Z",
+  "updatedAt": "2026-10-28T10:45:31.148Z",
   "items": [
     {
       "category": "国際",
@@ -8,6 +8,22 @@
       "title": "スペインで列車衝突 10人死亡か",
       "link": "https://news.yahoo.co.jp/pickup/6600464?source=rss",
       "pubDate": "2026-10-28T10:20:41.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] JAL、9万件超の予約情報が漏えいか　一部は「氏名」「パスポート番号」「電話番号」も　海外委託先に不正アクセス",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/28/news078.html",
+      "pubDate": "2026-10-28T10:08:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 日本通信のフルMVNOサービス、開始時期を5カ月延長へ　「テクニカルな課題が判明」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news080.html",
+      "pubDate": "2026-10-28T10:05:00.000Z"
     },
     {
       "category": "国内",
@@ -56,22 +72,6 @@
       "title": "[ITmedia PC USER] 約260gの軽量化！　15.6型×2画面の変幻自在ディスプレイ「LCD15HC-IPSDUAL2」を使って分かったこと",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2610/28/news073.html",
       "pubDate": "2026-10-28T09:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] AIの導入から“成果”へ　デル新社長のジョン・ロボトム氏が掲げる「日本への貢献」と実行力",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/28/news068.html",
-      "pubDate": "2026-10-28T08:35:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] “ニセ警察詐欺”を疑似体験できる無料ブラウザゲーム「騙される30秒前」登場　警察庁の協力もと開発",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news074.html",
-      "pubDate": "2026-10-28T08:21:00.000Z"
     },
     {
       "category": "経済",
