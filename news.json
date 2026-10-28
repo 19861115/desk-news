@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-28T23:00:51.145Z",
+  "updatedAt": "2026-10-28T23:15:32.058Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "スペイン 衝突列車に誤った指示か",
+      "link": "https://news.yahoo.co.jp/pickup/6600500?source=rss",
+      "pubDate": "2026-10-28T23:03:35.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -64,14 +72,6 @@
       "title": "ニコン「Z5IIC」は実際に使ったら想像以上に楽しめるカメラ（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/z5iic-5.html",
       "pubDate": "2026-10-28T15:00:08.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "スペインで列車衝突 64人死亡か",
-      "link": "https://news.yahoo.co.jp/pickup/6600486?source=rss",
-      "pubDate": "2026-10-28T13:57:36.000Z"
     },
     {
       "category": "IT",
