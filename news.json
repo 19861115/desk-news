@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-28T08:00:47.723Z",
+  "updatedAt": "2026-10-28T08:15:32.239Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "キッチンタイマーを回収 TDR運営",
+      "link": "https://news.yahoo.co.jp/pickup/6600444?source=rss",
+      "pubDate": "2026-10-28T08:11:52.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -200,14 +208,6 @@
       "title": "不正アクセス GMOの急成長に影",
       "link": "https://news.yahoo.co.jp/pickup/6600390?source=rss",
       "pubDate": "2026-10-28T01:33:48.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "昆布・かつお節が高騰 飲食店悲鳴",
-      "link": "https://news.yahoo.co.jp/pickup/6600385?source=rss",
-      "pubDate": "2026-10-28T01:00:43.000Z"
     },
     {
       "category": "国際",
