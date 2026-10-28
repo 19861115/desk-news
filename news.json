@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-28T02:45:32.623Z",
+  "updatedAt": "2026-10-28T03:00:52.549Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "1600日超通う客も 名古屋発・大黒",
+      "link": "https://news.yahoo.co.jp/pickup/6600402?source=rss",
+      "pubDate": "2026-10-28T02:59:03.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "蚊の雄が雌に引かれる仕組み 発表",
+      "link": "https://news.yahoo.co.jp/pickup/6600399?source=rss",
+      "pubDate": "2026-10-28T02:51:59.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "大阪維新代表 無投票で吉村氏3選",
+      "link": "https://news.yahoo.co.jp/pickup/6600400?source=rss",
+      "pubDate": "2026-10-28T02:47:55.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -186,14 +210,6 @@
       "pubDate": "2026-10-27T12:56:31.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ユニクロ 50色ソックス値上げ撤回",
-      "link": "https://news.yahoo.co.jp/pickup/6600339?source=rss",
-      "pubDate": "2026-10-27T11:42:48.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -208,14 +224,6 @@
       "title": "登場が噂されているライカの新製品のリスト（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/post-1965.html",
       "pubDate": "2026-10-27T10:23:16.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "北日本 今季一番強い寒気襲来へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600325?source=rss",
-      "pubDate": "2026-10-27T09:28:41.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -264,14 +272,6 @@
       "title": "武田薬品 胃がん新薬を来年申請へ",
       "link": "https://news.yahoo.co.jp/pickup/6600169?source=rss",
       "pubDate": "2026-10-26T03:31:59.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "熊本地震 液状化地点の96%で再発",
-      "link": "https://news.yahoo.co.jp/pickup/6600146?source=rss",
-      "pubDate": "2026-10-26T00:29:03.000Z"
     },
     {
       "category": "デジカメinfo",
