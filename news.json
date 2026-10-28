@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-28T02:30:43.044Z",
+  "updatedAt": "2026-10-28T02:45:32.623Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMOを攻撃した集団のサイト停止",
+      "link": "https://news.yahoo.co.jp/pickup/6600397?source=rss",
+      "pubDate": "2026-10-28T02:34:07.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "元寇の船から「遊び道具」発見",
+      "link": "https://news.yahoo.co.jp/pickup/6600395?source=rss",
+      "pubDate": "2026-10-28T02:30:52.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ヤクルト本社サイト、不正アクセスで停止中　顧客情報への影響は「調査中」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002657/",
+      "pubDate": "2026-10-28T02:17:38.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Discord、公開サーバの会話をGoogle検索などの対象に　プライバシーへの懸念も",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002656/",
+      "pubDate": "2026-10-28T02:07:59.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -50,28 +82,12 @@
       "pubDate": "2026-10-28T01:00:43.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 折り紙構造でフラットに開くFIKLIKのガジェットポーチ　マグネットでデスク横に固定OK",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/28/news035.html",
-      "pubDate": "2026-10-28T01:00:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "タマゴなど高値 家計でどう対策",
       "link": "https://news.yahoo.co.jp/pickup/6600384?source=rss",
       "pubDate": "2026-10-28T00:59:05.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] チェキの新製品、タッチパネル式大画面を初搭載　富士フイルムが2機種新発売へ",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/28/2000002654/",
-      "pubDate": "2026-10-28T00:51:12.000Z"
     },
     {
       "category": "国際",
@@ -152,14 +168,6 @@
       "title": "イオン熊本 一部再開意向を伝える",
       "link": "https://news.yahoo.co.jp/pickup/6600353?source=rss",
       "pubDate": "2026-10-27T14:36:01.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMO不正アクセス 警視庁が捜査",
-      "link": "https://news.yahoo.co.jp/pickup/6600351?source=rss",
-      "pubDate": "2026-10-27T14:14:04.000Z"
     },
     {
       "category": "国内",
@@ -264,14 +272,6 @@
       "title": "熊本地震 液状化地点の96%で再発",
       "link": "https://news.yahoo.co.jp/pickup/6600146?source=rss",
       "pubDate": "2026-10-26T00:29:03.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "有毒植物誤食 AI判定も過信は禁物",
-      "link": "https://news.yahoo.co.jp/pickup/6600056?source=rss",
-      "pubDate": "2026-10-25T06:06:37.000Z"
     },
     {
       "category": "デジカメinfo",
