@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-28T05:00:51.206Z",
+  "updatedAt": "2026-10-28T05:15:32.323Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMOへの「劇場型」攻撃 狙いは",
+      "link": "https://news.yahoo.co.jp/pickup/6600424?source=rss",
+      "pubDate": "2026-10-28T05:14:57.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -224,14 +232,6 @@
       "title": "イスラエル総選挙 連立協議難航か",
       "link": "https://news.yahoo.co.jp/pickup/6600366?source=rss",
       "pubDate": "2026-10-27T22:54:29.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMO攻撃 被害者は「恐怖しか」",
-      "link": "https://news.yahoo.co.jp/pickup/6600364?source=rss",
-      "pubDate": "2026-10-27T22:40:24.000Z"
     },
     {
       "category": "国内",
