@@ -1,13 +1,21 @@
 {
-  "updatedAt": "2026-10-28T10:45:31.148Z",
+  "updatedAt": "2026-10-28T11:00:51.763Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "衆院比例31削減案 識者の見解",
+      "link": "https://news.yahoo.co.jp/pickup/6600453?source=rss",
+      "pubDate": "2026-10-28T10:52:36.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "スペインで列車衝突 10人死亡か",
-      "link": "https://news.yahoo.co.jp/pickup/6600464?source=rss",
-      "pubDate": "2026-10-28T10:20:41.000Z"
+      "link": "https://news.yahoo.co.jp/pickup/6600467?source=rss",
+      "pubDate": "2026-10-28T10:46:12.000Z"
     },
     {
       "category": "ITmedia",
@@ -200,14 +208,6 @@
       "title": "蚊の雄が雌に引かれる仕組み 発表",
       "link": "https://news.yahoo.co.jp/pickup/6600399?source=rss",
       "pubDate": "2026-10-28T02:51:59.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "大阪維新代表 無投票で吉村氏3選",
-      "link": "https://news.yahoo.co.jp/pickup/6600400?source=rss",
-      "pubDate": "2026-10-28T02:47:55.000Z"
     },
     {
       "category": "IT",
