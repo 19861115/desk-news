@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-29T10:00:51.824Z",
+  "updatedAt": "2026-10-29T10:15:33.595Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "11月電気代 大手7社で過去最高値",
+      "link": "https://news.yahoo.co.jp/pickup/6600589?source=rss",
+      "pubDate": "2026-10-29T10:04:21.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "死んだ園ライオン 熱中症の可能性",
       "link": "https://news.yahoo.co.jp/pickup/6600588?source=rss",
       "pubDate": "2026-10-29T09:50:19.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ミークのIoT SIMに楽天モバイル回線を追加、国内初の「4キャリア」対応　月額50円の「休止プラン」も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news082.html",
+      "pubDate": "2026-10-29T09:47:00.000Z"
     },
     {
       "category": "国内",
@@ -106,14 +122,6 @@
       "pubDate": "2026-10-29T07:58:02.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] LINEアプリ、旧バージョンと旧OSのサポート終了へ　アップデートを呼びかけ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news077.html",
-      "pubDate": "2026-10-29T07:56:00.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -200,14 +208,6 @@
       "title": "竹中工務店元社員 起訴内容認める",
       "link": "https://news.yahoo.co.jp/pickup/6600523?source=rss",
       "pubDate": "2026-10-29T02:25:34.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "新型パジェロ予約受注 年度目標超",
-      "link": "https://news.yahoo.co.jp/pickup/6600522?source=rss",
-      "pubDate": "2026-10-29T02:18:32.000Z"
     },
     {
       "category": "国内",
