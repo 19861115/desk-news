@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-29T23:00:53.004Z",
+  "updatedAt": "2026-10-29T23:15:31.400Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "株価崩れない「ホンダ」の強み",
+      "link": "https://news.yahoo.co.jp/pickup/6600635?source=rss",
+      "pubDate": "2026-10-29T23:04:02.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -136,14 +144,6 @@
       "title": "[ITmedia News] 不正アクセスによる漏えい人数、半年余りでのべ2億6000万人に　日本人口の2倍超",
       "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002730/",
       "pubDate": "2026-10-29T10:18:19.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "11月電気代 大手7社で過去最高値",
-      "link": "https://news.yahoo.co.jp/pickup/6600589?source=rss",
-      "pubDate": "2026-10-29T10:04:21.000Z"
     },
     {
       "category": "ITmedia",
