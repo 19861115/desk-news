@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-29T03:30:40.245Z",
+  "updatedAt": "2026-10-29T03:45:32.706Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] スマホやPCにいる“推し”を手元に――ソニーのコンパクトな空間再現ディスプレイ「ELF-MN1」は今までと何が違う？　実機を体験して分かったこと",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/29/news060.html",
+      "pubDate": "2026-10-29T03:20:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] Razer、磁気スイッチを備えた65％レイアウト採用ゲーミングキーボード",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/29/news063.html",
+      "pubDate": "2026-10-29T03:14:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -13,17 +29,25 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 初心者向けの料理教室、男性受講生が過半数に　家庭での調理頻度も増加",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/29/2000002702/",
-      "pubDate": "2026-10-29T02:51:43.000Z"
+      "title": "[ITmedia News] AIが人間に“闇バイト”を発注？　AIが物理的労働を買う求人サイト「RentAHuman」の実態",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
+      "pubDate": "2026-10-29T03:00:00.000Z"
     },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] マウス、Core Ultra 7＋GeForce RTXを搭載したクリエイター向け16型ノート",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/29/news062.html",
-      "pubDate": "2026-10-29T02:46:00.000Z"
+      "title": "[ITmedia News] AIチャットが勧める広告商品、選択率が約3倍に　こっそり他商品けなし誘導　米研究者らが検証",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002680/",
+      "pubDate": "2026-10-29T03:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 初心者向けの料理教室、男性受講生が過半数に　家庭での調理頻度も増加",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/29/2000002702/",
+      "pubDate": "2026-10-29T02:51:43.000Z"
     },
     {
       "category": "経済",
@@ -40,30 +64,6 @@
       "title": "新型パジェロ予約受注 年度目標超",
       "link": "https://news.yahoo.co.jp/pickup/6600522?source=rss",
       "pubDate": "2026-10-29T02:18:32.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Reddit、フィードを「おすすめ」と「フォロー中」の2種類に刷新　今後数週間で世界展開",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002697/",
-      "pubDate": "2026-10-29T01:40:10.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 経産省「デントリネット」不正アクセスで停止　電力・ガス事業者の定期報告サイト",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002696/",
-      "pubDate": "2026-10-29T01:31:38.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 渦中のGMO、熊谷代表の発信は“火に油”か？　「経営トップが自ら広報」の功罪",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002674/",
-      "pubDate": "2026-10-29T01:30:00.000Z"
     },
     {
       "category": "国内",
