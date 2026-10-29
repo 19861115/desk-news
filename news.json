@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-29T07:15:34.305Z",
+  "updatedAt": "2026-10-29T07:30:43.833Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "冥王星の先に新たな準惑星 発見か",
+      "link": "https://news.yahoo.co.jp/pickup/6600559?source=rss",
+      "pubDate": "2026-10-29T07:18:30.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -256,14 +264,6 @@
       "title": "キヤノン「EOS R7 Mark II」には部分積層型センサーが採用される？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/eos-r7-mark-ii-10.html",
       "pubDate": "2026-10-28T03:12:20.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "蚊の雄が雌に引かれる仕組み 発表",
-      "link": "https://news.yahoo.co.jp/pickup/6600399?source=rss",
-      "pubDate": "2026-10-28T02:51:59.000Z"
     },
     {
       "category": "デジカメinfo",
