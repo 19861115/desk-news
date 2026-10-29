@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-29T06:15:32.697Z",
+  "updatedAt": "2026-10-29T06:30:41.947Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "四足歩行モビリティ 実用化の壁",
+      "link": "https://news.yahoo.co.jp/pickup/6600552?source=rss",
+      "pubDate": "2026-10-29T06:22:10.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -224,14 +232,6 @@
       "title": "小型恐竜の骨格標本 75億円で落札",
       "link": "https://news.yahoo.co.jp/pickup/6600458?source=rss",
       "pubDate": "2026-10-28T09:15:30.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "KDDIメールサービス通信障害 復旧",
-      "link": "https://news.yahoo.co.jp/pickup/6600431?source=rss",
-      "pubDate": "2026-10-28T06:32:56.000Z"
     },
     {
       "category": "科学",
