@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-29T03:00:50.410Z",
+  "updatedAt": "2026-10-29T03:15:32.344Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "衆院比例議席減 自維国が正式合意",
+      "link": "https://news.yahoo.co.jp/pickup/6600526?source=rss",
+      "pubDate": "2026-10-29T03:01:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 初心者向けの料理教室、男性受講生が過半数に　家庭での調理頻度も増加",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/29/2000002702/",
+      "pubDate": "2026-10-29T02:51:43.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] マウス、Core Ultra 7＋GeForce RTXを搭載したクリエイター向け16型ノート",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/29/news062.html",
+      "pubDate": "2026-10-29T02:46:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -42,28 +66,12 @@
       "pubDate": "2026-10-29T01:30:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] SNSでバズった?四足歩行モビリティ?は本当に実現する？　川崎重工の開発者が「山で四つんばい」になって見えてきたもの",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002677/",
-      "pubDate": "2026-10-29T01:14:41.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "燃料油補助 予算累計10兆円超に",
       "link": "https://news.yahoo.co.jp/pickup/6600518?source=rss",
       "pubDate": "2026-10-29T01:13:27.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Oracle CloudがGoogle TPU導入へ　2027年に提供を開始",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
-      "pubDate": "2026-10-29T01:12:13.000Z"
     },
     {
       "category": "国際",
@@ -168,14 +176,6 @@
       "title": "GMO懸賞金 6hで113件の情報提供",
       "link": "https://news.yahoo.co.jp/pickup/6600483?source=rss",
       "pubDate": "2026-10-28T13:44:01.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "中道代表 政党交付金の使途を回答",
-      "link": "https://news.yahoo.co.jp/pickup/6600480?source=rss",
-      "pubDate": "2026-10-28T13:25:39.000Z"
     },
     {
       "category": "経済",
