@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T05:00:50.492Z",
+  "updatedAt": "2026-10-29T05:15:32.870Z",
   "items": [
     {
       "category": "IT",
@@ -16,6 +16,22 @@
       "title": "パニック障害と向き合う 29歳の今",
       "link": "https://news.yahoo.co.jp/pickup/6600543?source=rss",
       "pubDate": "2026-10-29T04:48:26.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 松屋の公式アプリとWebサイトが停止　不正アクセスを検知、モバイルオーダーや弁当予約も使えず",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002714/",
+      "pubDate": "2026-10-29T04:44:14.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 会員情報最大423万件が漏えい　生花EC事業者に不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002711/",
+      "pubDate": "2026-10-29T04:41:18.000Z"
     },
     {
       "category": "国際",
@@ -74,28 +90,12 @@
       "pubDate": "2026-10-29T03:20:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] Razer、磁気スイッチを備えた65％レイアウト採用ゲーミングキーボード",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/29/news063.html",
-      "pubDate": "2026-10-29T03:14:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "衆院比例議席減 自維国が正式合意",
       "link": "https://news.yahoo.co.jp/pickup/6600526?source=rss",
       "pubDate": "2026-10-29T03:01:59.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] AIが人間に“闇バイト”を発注？　AIが物理的労働を買う求人サイト「RentAHuman」の実態",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
-      "pubDate": "2026-10-29T03:00:00.000Z"
     },
     {
       "category": "経済",
