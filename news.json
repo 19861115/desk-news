@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-29T05:30:41.692Z",
+  "updatedAt": "2026-10-29T05:45:32.508Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米大統領発言逆手にノルウェーPR",
+      "link": "https://news.yahoo.co.jp/pickup/6600550?source=rss",
+      "pubDate": "2026-10-29T05:39:10.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「PayPay連携の銀行から、お金全部盗られた」被害報告……原因と対策は？　PayPayに聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
+      "pubDate": "2026-10-29T05:04:06.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -80,14 +96,6 @@
       "title": "[ITmedia News] 即興ラップで踊る「AIヒューマノイド」公開　オープンハウスが静岡で31日から実証実験",
       "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002705/",
       "pubDate": "2026-10-29T03:29:29.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] スマホやPCにいる“推し”を手元に――ソニーのコンパクトな空間再現ディスプレイ「ELF-MN1」は今までと何が違う？　実機を体験して分かったこと",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/29/news060.html",
-      "pubDate": "2026-10-29T03:20:00.000Z"
     },
     {
       "category": "国内",
@@ -184,14 +192,6 @@
       "title": "本や雑誌発売日 大阪も1日遅れに",
       "link": "https://news.yahoo.co.jp/pickup/6600504?source=rss",
       "pubDate": "2026-10-28T23:34:37.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "スペイン 衝突列車に誤った指示か",
-      "link": "https://news.yahoo.co.jp/pickup/6600500?source=rss",
-      "pubDate": "2026-10-28T23:03:35.000Z"
     },
     {
       "category": "IT",
