@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T08:00:48.869Z",
+  "updatedAt": "2026-10-29T08:15:31.381Z",
   "items": [
     {
       "category": "国際",
@@ -8,6 +8,22 @@
       "title": "韓国・尹前大統領に再び死刑求刑",
       "link": "https://news.yahoo.co.jp/pickup/6600566?source=rss",
       "pubDate": "2026-10-29T07:58:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] MSI、Ryzen AI Max＋を搭載したローカルAI向けコンパクトデスクトップ　ユニファイドメモリ128GBを搭載",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/29/news076.html",
+      "pubDate": "2026-10-29T07:48:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ANAの予約情報に不正アクセス、JALと同じ委託先経由で　個人情報をのぞき見た痕跡も",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002722/",
+      "pubDate": "2026-10-29T07:37:03.000Z"
     },
     {
       "category": "科学",
@@ -56,22 +72,6 @@
       "title": "[ITmedia News] ソニー生命に不正アクセス、個人情報約38.5万件漏えい　氏名や住所、契約内容など",
       "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002717/",
       "pubDate": "2026-10-29T06:21:40.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 松屋の公式アプリとWebサイトが停止　不正アクセスを検知、モバイルオーダーや弁当予約も使えず",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002714/",
-      "pubDate": "2026-10-29T06:08:11.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ギターの「形」は誰のもの？　ヤマハにも警告、Fenderが“ストラト著作権”で仕掛けた知財攻勢",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002647/",
-      "pubDate": "2026-10-29T06:00:00.000Z"
     },
     {
       "category": "国際",
