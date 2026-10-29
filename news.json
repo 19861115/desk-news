@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-29T08:15:31.381Z",
+  "updatedAt": "2026-10-29T08:30:41.010Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "スペイン事故 邦人2人連絡つかず",
+      "link": "https://news.yahoo.co.jp/pickup/6600571?source=rss",
+      "pubDate": "2026-10-29T08:20:14.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "燃料油補助 予算累計10兆円超に",
       "link": "https://news.yahoo.co.jp/pickup/6600518?source=rss",
       "pubDate": "2026-10-29T01:13:27.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "スペイン事故 乗客名簿に邦人2人",
-      "link": "https://news.yahoo.co.jp/pickup/6600517?source=rss",
-      "pubDate": "2026-10-29T01:10:01.000Z"
     },
     {
       "category": "科学",
