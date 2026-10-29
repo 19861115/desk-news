@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-29T07:45:32.542Z",
+  "updatedAt": "2026-10-29T08:00:48.869Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "韓国・尹前大統領に再び死刑求刑",
+      "link": "https://news.yahoo.co.jp/pickup/6600566?source=rss",
+      "pubDate": "2026-10-29T07:58:28.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -192,14 +200,6 @@
       "title": "タッチ対応「MacBook Pro」発表",
       "link": "https://news.yahoo.co.jp/pickup/6600509?source=rss",
       "pubDate": "2026-10-29T00:12:54.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "プーチン氏 マスク氏は本物の天才",
-      "link": "https://news.yahoo.co.jp/pickup/6600507?source=rss",
-      "pubDate": "2026-10-28T23:46:08.000Z"
     },
     {
       "category": "国内",
