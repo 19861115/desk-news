@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-29T04:45:32.196Z",
+  "updatedAt": "2026-10-29T05:00:50.492Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMOサイバー攻撃 捜査の焦点は",
+      "link": "https://news.yahoo.co.jp/pickup/6600531?source=rss",
+      "pubDate": "2026-10-29T04:56:54.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "パニック障害と向き合う 29歳の今",
+      "link": "https://news.yahoo.co.jp/pickup/6600543?source=rss",
+      "pubDate": "2026-10-29T04:48:26.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -170,14 +186,6 @@
       "pubDate": "2026-10-28T23:34:37.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "多くで今季一冷え込み 東京10℃台",
-      "link": "https://news.yahoo.co.jp/pickup/6600505?source=rss",
-      "pubDate": "2026-10-28T23:20:43.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -224,14 +232,6 @@
       "title": "KDDIメールサービス通信障害 復旧",
       "link": "https://news.yahoo.co.jp/pickup/6600431?source=rss",
       "pubDate": "2026-10-28T06:32:56.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMOへの「劇場型」攻撃 狙いは",
-      "link": "https://news.yahoo.co.jp/pickup/6600424?source=rss",
-      "pubDate": "2026-10-28T05:14:57.000Z"
     },
     {
       "category": "科学",
