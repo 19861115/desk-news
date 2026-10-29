@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-29T06:00:51.320Z",
+  "updatedAt": "2026-10-29T06:15:32.697Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か　下4桁は40万枚分",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002716/",
+      "pubDate": "2026-10-29T05:56:27.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "米大統領発言逆手にノルウェーPR",
       "link": "https://news.yahoo.co.jp/pickup/6600550?source=rss",
       "pubDate": "2026-10-29T05:39:10.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] MSI、360Hz駆動に対応したフラグシップ仕様の34型ウルトラワイド有機ELゲーミングディスプレイ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/29/news069.html",
+      "pubDate": "2026-10-29T05:34:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] デュアルバンドWi-Fi採用の車載AI Box「Ottocast Play2Video S」発売　Amazonで約35％オフ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news067.html",
+      "pubDate": "2026-10-29T05:15:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -42,14 +66,6 @@
       "pubDate": "2026-10-29T04:44:14.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 会員情報最大423万件が漏えい　生花EC事業者に不正アクセス",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002711/",
-      "pubDate": "2026-10-29T04:41:18.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -80,22 +96,6 @@
       "title": "GMO社長「犯人特定の有力情報」",
       "link": "https://news.yahoo.co.jp/pickup/6600536?source=rss",
       "pubDate": "2026-10-29T03:58:34.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ベネフィット・ワンの委託先に不正アクセス　セゾン会員向け優待サービスで約2.9万人分の個人情報漏えい",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002707/",
-      "pubDate": "2026-10-29T03:40:20.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 即興ラップで踊る「AIヒューマノイド」公開　オープンハウスが静岡で31日から実証実験",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002705/",
-      "pubDate": "2026-10-29T03:29:29.000Z"
     },
     {
       "category": "国内",
