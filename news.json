@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T06:30:41.947Z",
+  "updatedAt": "2026-10-29T06:45:32.130Z",
   "items": [
     {
       "category": "IT",
@@ -8,6 +8,38 @@
       "title": "四足歩行モビリティ 実用化の壁",
       "link": "https://news.yahoo.co.jp/pickup/6600552?source=rss",
       "pubDate": "2026-10-29T06:22:10.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ソニー生命に不正アクセス、個人情報約38.5万件漏えい　氏名や住所、契約内容など",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002717/",
+      "pubDate": "2026-10-29T06:21:40.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「PayPay連携の銀行から、お金全部盗られた」被害報告……原因と対策は？　PayPayに聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
+      "pubDate": "2026-10-29T06:16:10.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 松屋の公式アプリとWebサイトが停止　不正アクセスを検知、モバイルオーダーや弁当予約も使えず",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002714/",
+      "pubDate": "2026-10-29T06:08:11.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ギターの「形」は誰のもの？　ヤマハにも警告、Fenderが“ストラト著作権”で仕掛けた知財攻勢",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002647/",
+      "pubDate": "2026-10-29T06:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -26,30 +58,6 @@
       "pubDate": "2026-10-29T05:39:10.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] MSI、360Hz駆動に対応したフラグシップ仕様の34型ウルトラワイド有機ELゲーミングディスプレイ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/29/news069.html",
-      "pubDate": "2026-10-29T05:34:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] デュアルバンドWi-Fi採用の車載AI Box「Ottocast Play2Video S」発売　Amazonで約35％オフ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news067.html",
-      "pubDate": "2026-10-29T05:15:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「PayPay連携の銀行から、お金全部盗られた」被害報告……原因と対策は？　PayPayに聞いた",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
-      "pubDate": "2026-10-29T05:04:06.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -64,14 +72,6 @@
       "title": "パニック障害と向き合う 29歳の今",
       "link": "https://news.yahoo.co.jp/pickup/6600543?source=rss",
       "pubDate": "2026-10-29T04:48:26.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 松屋の公式アプリとWebサイトが停止　不正アクセスを検知、モバイルオーダーや弁当予約も使えず",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002714/",
-      "pubDate": "2026-10-29T04:44:14.000Z"
     },
     {
       "category": "国際",
