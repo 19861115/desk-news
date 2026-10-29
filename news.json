@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-29T23:30:44.149Z",
+  "updatedAt": "2026-10-29T23:45:31.276Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "香港高層住宅火災 政府トップ謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6600642?source=rss",
+      "pubDate": "2026-10-29T23:35:01.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] OpenAI、AIの行動指針「Model Spec」を改定　“記憶”の使い方や人間による監督を明記",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
+      "pubDate": "2026-10-29T23:24:32.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +24,38 @@
       "title": "株価崩れない「ホンダ」の強み",
       "link": "https://news.yahoo.co.jp/pickup/6600635?source=rss",
       "pubDate": "2026-10-29T23:04:02.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ウクライナで拡散するAI偽情報　「本物の映像」をどう証明するか、AIと戦争が変えた「C2PA」の意義",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002734/",
+      "pubDate": "2026-10-29T23:02:40.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] なぜ「更新できない」のか？　PHP騒動で見えた、パッチを先送りする企業の盲点",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news025.html",
+      "pubDate": "2026-10-29T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 約3割のセキュリティ担当者、本番環境で「野良エージェント」に遭遇　ServiceNow調査",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news047.html",
+      "pubDate": "2026-10-29T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 若者が選ぶ流行語「チャッピー構文」ってなんだ？　「結論から言うね」なAIの口癖、実は人間のせいかもしれない",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news031.html",
+      "pubDate": "2026-10-29T23:00:00.000Z"
     },
     {
       "category": "経済",
@@ -34,28 +82,12 @@
       "pubDate": "2026-10-29T22:29:44.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] GMOの情報漏えい、何が起きていたのか？　神戸大教授が指摘する“死角”",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news035.html",
-      "pubDate": "2026-10-29T22:00:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "習近平総書記 4期目入りが濃厚",
       "link": "https://news.yahoo.co.jp/pickup/6600628?source=rss",
       "pubDate": "2026-10-29T21:44:25.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 「自社都合」のセキュリティ対策になっていないか　相次ぐ情報漏えい、安否を分ける3つの対策",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news024.html",
-      "pubDate": "2026-10-29T21:00:00.000Z"
     },
     {
       "category": "経済",
@@ -98,14 +130,6 @@
       "pubDate": "2026-10-29T13:14:19.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "ネパール高峰で発見の2遺体は邦人",
-      "link": "https://news.yahoo.co.jp/pickup/6600609?source=rss",
-      "pubDate": "2026-10-29T12:56:29.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -128,30 +152,6 @@
       "title": "中部電 27年3月期の特損3800億円",
       "link": "https://news.yahoo.co.jp/pickup/6600594?source=rss",
       "pubDate": "2026-10-29T10:39:54.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「PayPay連携の銀行から、お金全部盗られた」被害報告……原因と対策は？　PayPayに聞いた",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
-      "pubDate": "2026-10-29T10:28:06.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 不正アクセスによる漏えい人数、半年余りでのべ2億6000万人に　日本人口の2倍超",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002730/",
-      "pubDate": "2026-10-29T10:18:19.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 楽天カード、本人認証をワンタイムパスワードに統一　27年2月から順次",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002729/",
-      "pubDate": "2026-10-29T09:57:37.000Z"
     },
     {
       "category": "科学",
