@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-29T04:15:32.253Z",
+  "updatedAt": "2026-10-29T04:30:43.107Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "なぜAIの名称変更 米大統領考えは",
+      "link": "https://news.yahoo.co.jp/pickup/6600540?source=rss",
+      "pubDate": "2026-10-29T04:25:26.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -208,14 +216,6 @@
       "title": "KDDIメールサービス通信障害 復旧",
       "link": "https://news.yahoo.co.jp/pickup/6600431?source=rss",
       "pubDate": "2026-10-28T06:32:56.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "ヒョウ襲撃 オランダで飼育員死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6600426?source=rss",
-      "pubDate": "2026-10-28T05:27:35.000Z"
     },
     {
       "category": "IT",
