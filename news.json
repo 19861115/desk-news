@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-29T01:30:40.407Z",
+  "updatedAt": "2026-10-29T01:45:30.402Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] SNSでバズった?四足歩行モビリティ?は本当に実現する？　川崎重工の開発者が「山で四つんばい」になって見えてきたもの",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002677/",
+      "pubDate": "2026-10-29T01:14:41.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "燃料油補助 予算累計10兆円超に",
       "link": "https://news.yahoo.co.jp/pickup/6600518?source=rss",
       "pubDate": "2026-10-29T01:13:27.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Oracle CloudがGoogle TPU導入へ　2027年に提供を開始",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
+      "pubDate": "2026-10-29T01:12:13.000Z"
     },
     {
       "category": "国際",
@@ -23,7 +39,23 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia News] バンナム、メアド34万件漏えい　ガンダムグッズ店のポイント会員が対象　ユミルリンクへの不正アクセスが原因",
       "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002694/",
-      "pubDate": "2026-10-29T00:57:15.000Z"
+      "pubDate": "2026-10-29T01:05:11.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] AI半導体市場「メガサイクル局面だ」　アドバンテスト好決算、CEOが語る「CPU」「光電融合」への期待とワクワク",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/29/news050.html",
+      "pubDate": "2026-10-29T01:05:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 【無印良品】1990円の背面ポケット付き「ショルダーバッグ」　11月4日まで10％オフ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news046.html",
+      "pubDate": "2026-10-29T01:00:00.000Z"
     },
     {
       "category": "科学",
@@ -32,14 +64,6 @@
       "title": "日本近海で初記録のウミグモ発見",
       "link": "https://news.yahoo.co.jp/pickup/6600515?source=rss",
       "pubDate": "2026-10-29T00:51:43.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Alphabet、25％増収も純利益は25％減　Google Cloudは103％増収、AI投資負担増",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002693/",
-      "pubDate": "2026-10-29T00:42:56.000Z"
     },
     {
       "category": "国内",
@@ -64,14 +88,6 @@
       "title": "タッチ対応「MacBook Pro」発表",
       "link": "https://news.yahoo.co.jp/pickup/6600509?source=rss",
       "pubDate": "2026-10-29T00:12:54.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「ツイキャス」不正アクセスで停止　復旧までに「相応の時間」",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002692/",
-      "pubDate": "2026-10-28T23:56:59.000Z"
     },
     {
       "category": "国際",
@@ -106,28 +122,12 @@
       "pubDate": "2026-10-28T23:20:43.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Microsoft、7?9月期は19％増収　Azureは48％増、AI需要が成長けん引",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002691/",
-      "pubDate": "2026-10-28T23:19:34.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "スペイン 衝突列車に誤った指示か",
       "link": "https://news.yahoo.co.jp/pickup/6600500?source=rss",
       "pubDate": "2026-10-28T23:03:35.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 製造業のAIネイティブ化の道筋は？　将来のAIの役割から「逆算」で診断するサービスが登場",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news011.html",
-      "pubDate": "2026-10-28T23:00:00.000Z"
     },
     {
       "category": "IT",
