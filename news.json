@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-29T07:00:50.466Z",
+  "updatedAt": "2026-10-29T07:15:34.305Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ANA AIRDOなど完全子会社化へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600561?source=rss",
+      "pubDate": "2026-10-29T07:08:06.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「PayPay連携の銀行から、お金全部盗られた」被害報告……原因と対策は？　PayPayに聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
+      "pubDate": "2026-10-29T06:32:16.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -16,14 +32,6 @@
       "title": "[ITmedia News] ソニー生命に不正アクセス、個人情報約38.5万件漏えい　氏名や住所、契約内容など",
       "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002717/",
       "pubDate": "2026-10-29T06:21:40.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「PayPay連携の銀行から、お金全部盗られた」被害報告……原因と対策は？　PayPayに聞いた",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
-      "pubDate": "2026-10-29T06:16:10.000Z"
     },
     {
       "category": "ITmedia",
@@ -216,14 +224,6 @@
       "title": "ニコン「Z5IIC」は実際に使ったら想像以上に楽しめるカメラ（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/z5iic-5.html",
       "pubDate": "2026-10-28T15:00:08.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "「千鳥饅頭」千鳥屋本家が破産へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600474?source=rss",
-      "pubDate": "2026-10-28T12:24:14.000Z"
     },
     {
       "category": "科学",
