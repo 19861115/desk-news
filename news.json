@@ -1,13 +1,117 @@
 {
-  "updatedAt": "2026-10-29T11:45:34.199Z",
+  "updatedAt": "2026-10-29T23:00:53.004Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ナップザック 中高生になぜ人気",
+      "link": "https://news.yahoo.co.jp/pickup/6600634?source=rss",
+      "pubDate": "2026-10-29T22:49:30.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
-      "title": "スペインの列車事故 死者69人に",
-      "link": "https://news.yahoo.co.jp/pickup/6600595?source=rss",
-      "pubDate": "2026-10-29T11:03:46.000Z"
+      "title": "NVIDIAトップに中国工作員接近か",
+      "link": "https://news.yahoo.co.jp/pickup/6600632?source=rss",
+      "pubDate": "2026-10-29T22:40:32.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "ガソリン補助金 12月から段階縮小",
+      "link": "https://news.yahoo.co.jp/pickup/6600631?source=rss",
+      "pubDate": "2026-10-29T22:29:44.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] GMOの情報漏えい、何が起きていたのか？　神戸大教授が指摘する“死角”",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news035.html",
+      "pubDate": "2026-10-29T22:00:00.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "習近平総書記 4期目入りが濃厚",
+      "link": "https://news.yahoo.co.jp/pickup/6600628?source=rss",
+      "pubDate": "2026-10-29T21:44:25.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 「自社都合」のセキュリティ対策になっていないか　相次ぐ情報漏えい、安否を分ける3つの対策",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news024.html",
+      "pubDate": "2026-10-29T21:00:00.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "欧州中銀 2会合ぶり金利据え置き",
+      "link": "https://news.yahoo.co.jp/pickup/6600623?source=rss",
+      "pubDate": "2026-10-29T14:57:12.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "中国共産党 幹部ら33人の党籍剝奪",
+      "link": "https://news.yahoo.co.jp/pickup/6600614?source=rss",
+      "pubDate": "2026-10-29T14:00:04.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米共和党 選挙区割り見直しで苦戦",
+      "link": "https://news.yahoo.co.jp/pickup/6600583?source=rss",
+      "pubDate": "2026-10-29T13:41:19.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "シグマが「FP2」の供給不足をアナウンス（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/10/fp2-3.html",
+      "pubDate": "2026-10-29T13:21:23.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "天丼てんや 2カ月連続で客約1割減",
+      "link": "https://news.yahoo.co.jp/pickup/6600612?source=rss",
+      "pubDate": "2026-10-29T13:14:19.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "ネパール高峰で発見の2遺体は邦人",
+      "link": "https://news.yahoo.co.jp/pickup/6600609?source=rss",
+      "pubDate": "2026-10-29T12:56:29.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "電気ガス代補助 12月-来年2月実施",
+      "link": "https://news.yahoo.co.jp/pickup/6600608?source=rss",
+      "pubDate": "2026-10-29T12:52:41.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "高市首相のX投稿800件超 傾向は",
+      "link": "https://news.yahoo.co.jp/pickup/6600604?source=rss",
+      "pubDate": "2026-10-29T12:04:45.000Z"
     },
     {
       "category": "経済",
@@ -58,44 +162,12 @@
       "pubDate": "2026-10-29T09:50:19.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ミークのIoT SIMに楽天モバイル回線を追加、国内初の「4キャリア」対応　月額50円の「休止プラン」も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news082.html",
-      "pubDate": "2026-10-29T09:47:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "作家の如月美樹さん 今年9月死去",
       "link": "https://news.yahoo.co.jp/pickup/6600587?source=rss",
       "pubDate": "2026-10-29T09:41:43.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] SUNEAST、最大読み込み速度2000MB／sの防水ポータブルSSD発売　512GB～2TBの3モデル",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news081.html",
-      "pubDate": "2026-10-29T09:23:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "上半期世界販売 スズキが国内2位",
-      "link": "https://news.yahoo.co.jp/pickup/6600585?source=rss",
-      "pubDate": "2026-10-29T09:21:24.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "滋賀銀・池田泉州HD 統合へ合意",
-      "link": "https://news.yahoo.co.jp/pickup/6600584?source=rss",
-      "pubDate": "2026-10-29T09:21:04.000Z"
     },
     {
       "category": "科学",
@@ -106,36 +178,12 @@
       "pubDate": "2026-10-29T09:13:16.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "韓国で日本人女性殺害疑い 男拘束",
-      "link": "https://news.yahoo.co.jp/pickup/6600577?source=rss",
-      "pubDate": "2026-10-29T09:04:28.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "コミックシーモア 一部再開を発表",
       "link": "https://news.yahoo.co.jp/pickup/6600574?source=rss",
       "pubDate": "2026-10-29T08:34:27.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "スペイン事故 邦人2人連絡つかず",
-      "link": "https://news.yahoo.co.jp/pickup/6600571?source=rss",
-      "pubDate": "2026-10-29T08:20:14.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "韓国・尹前大統領に再び死刑求刑",
-      "link": "https://news.yahoo.co.jp/pickup/6600566?source=rss",
-      "pubDate": "2026-10-29T07:58:28.000Z"
     },
     {
       "category": "科学",
@@ -146,28 +194,12 @@
       "pubDate": "2026-10-29T07:18:30.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ANA AIRDOなど完全子会社化へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600561?source=rss",
-      "pubDate": "2026-10-29T07:08:06.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "四足歩行モビリティ 実用化の壁",
       "link": "https://news.yahoo.co.jp/pickup/6600552?source=rss",
       "pubDate": "2026-10-29T06:22:10.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米大統領発言逆手にノルウェーPR",
-      "link": "https://news.yahoo.co.jp/pickup/6600550?source=rss",
-      "pubDate": "2026-10-29T05:39:10.000Z"
     },
     {
       "category": "IT",
@@ -202,36 +234,12 @@
       "pubDate": "2026-10-29T03:58:34.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "衆院比例議席減 自維国が正式合意",
-      "link": "https://news.yahoo.co.jp/pickup/6600526?source=rss",
-      "pubDate": "2026-10-29T03:01:59.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "燃料油補助 予算累計10兆円超に",
-      "link": "https://news.yahoo.co.jp/pickup/6600518?source=rss",
-      "pubDate": "2026-10-29T01:13:27.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "日本近海で初記録のウミグモ発見",
       "link": "https://news.yahoo.co.jp/pickup/6600515?source=rss",
       "pubDate": "2026-10-29T00:51:43.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "盗撮「カメレオンカメラ」巧妙化",
-      "link": "https://news.yahoo.co.jp/pickup/6600512?source=rss",
-      "pubDate": "2026-10-29T00:35:20.000Z"
     },
     {
       "category": "IT",
@@ -272,14 +280,6 @@
       "title": "登場が噂されているライカの新製品のリスト（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/post-1965.html",
       "pubDate": "2026-10-27T10:23:16.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルムが「instax mini Evo 2」を正式発表（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/10/instax-mini-evo-2.html",
-      "pubDate": "2026-10-27T09:22:30.000Z"
     }
   ]
 }
