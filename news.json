@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T04:00:48.382Z",
+  "updatedAt": "2026-10-29T04:15:32.253Z",
   "items": [
     {
       "category": "IT",
@@ -16,6 +16,22 @@
       "title": "北が発射 弾道ミサイルの可能性",
       "link": "https://news.yahoo.co.jp/pickup/6600535?source=rss",
       "pubDate": "2026-10-29T03:46:47.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ベネフィット・ワンの委託先に不正アクセス　セゾン会員向け優待サービスで約2.9万人分の個人情報漏えい",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002707/",
+      "pubDate": "2026-10-29T03:40:20.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 即興ラップで踊る「AIヒューマノイド」公開　オープンハウスが静岡で31日から実証実験",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002705/",
+      "pubDate": "2026-10-29T03:29:29.000Z"
     },
     {
       "category": "ITmedia",
@@ -48,22 +64,6 @@
       "title": "[ITmedia News] AIが人間に“闇バイト”を発注？　AIが物理的労働を買う求人サイト「RentAHuman」の実態",
       "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
       "pubDate": "2026-10-29T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] AIチャットが勧める広告商品、選択率が約3倍に　こっそり他商品けなし誘導　米研究者らが検証",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002680/",
-      "pubDate": "2026-10-29T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 初心者向けの料理教室、男性受講生が過半数に　家庭での調理頻度も増加",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/29/2000002702/",
-      "pubDate": "2026-10-29T02:51:43.000Z"
     },
     {
       "category": "経済",
