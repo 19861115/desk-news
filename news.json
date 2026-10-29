@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-29T09:30:41.800Z",
+  "updatedAt": "2026-10-29T09:45:32.020Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "作家の如月美樹さん 今年9月死去",
+      "link": "https://news.yahoo.co.jp/pickup/6600587?source=rss",
+      "pubDate": "2026-10-29T09:41:43.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -224,14 +232,6 @@
       "title": "タッチ対応「MacBook Pro」発表",
       "link": "https://news.yahoo.co.jp/pickup/6600509?source=rss",
       "pubDate": "2026-10-29T00:12:54.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "教員「特別免許」の基準明確化へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600506?source=rss",
-      "pubDate": "2026-10-28T23:39:26.000Z"
     },
     {
       "category": "デジカメinfo",
