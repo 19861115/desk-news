@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-29T00:45:31.565Z",
+  "updatedAt": "2026-10-29T01:00:47.281Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "日本近海で初記録のウミグモ発見",
+      "link": "https://news.yahoo.co.jp/pickup/6600515?source=rss",
+      "pubDate": "2026-10-29T00:51:43.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -248,14 +256,6 @@
       "title": "蚊の雄が雌に引かれる仕組み 発表",
       "link": "https://news.yahoo.co.jp/pickup/6600399?source=rss",
       "pubDate": "2026-10-28T02:51:59.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "元寇の船から「遊び道具」発見",
-      "link": "https://news.yahoo.co.jp/pickup/6600395?source=rss",
-      "pubDate": "2026-10-28T02:30:52.000Z"
     },
     {
       "category": "デジカメinfo",
