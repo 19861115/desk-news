@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-29T02:00:46.253Z",
+  "updatedAt": "2026-10-29T02:15:30.546Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Reddit、フィードを「おすすめ」と「フォロー中」の2種類に刷新　今後数週間で世界展開",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002697/",
+      "pubDate": "2026-10-29T01:40:10.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 経産省「デントリネット」不正アクセスで停止　電力・ガス事業者の定期報告サイト",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002696/",
+      "pubDate": "2026-10-29T01:31:38.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 渦中のGMO、熊谷代表の発信は“火に油”か？　「経営トップが自ら広報」の功罪",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002674/",
+      "pubDate": "2026-10-29T01:30:00.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -32,30 +56,6 @@
       "title": "スペイン事故 乗客名簿に邦人2人",
       "link": "https://news.yahoo.co.jp/pickup/6600517?source=rss",
       "pubDate": "2026-10-29T01:10:01.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] バンナム、メアド34万件漏えい　ガンダムグッズ店のポイント会員が対象　ユミルリンクへの不正アクセスが原因",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002694/",
-      "pubDate": "2026-10-29T01:05:11.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] AI半導体市場「メガサイクル局面だ」　アドバンテスト好決算、CEOが語る「CPU」「光電融合」への期待とワクワク",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/29/news050.html",
-      "pubDate": "2026-10-29T01:05:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 【無印良品】1990円の背面ポケット付き「ショルダーバッグ」　11月4日まで10％オフ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news046.html",
-      "pubDate": "2026-10-29T01:00:00.000Z"
     },
     {
       "category": "科学",
