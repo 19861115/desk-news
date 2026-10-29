@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-29T02:15:30.546Z",
+  "updatedAt": "2026-10-29T02:30:41.756Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "竹中工務店元社員 起訴内容認める",
+      "link": "https://news.yahoo.co.jp/pickup/6600523?source=rss",
+      "pubDate": "2026-10-29T02:25:34.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "新型パジェロ予約受注 年度目標超",
+      "link": "https://news.yahoo.co.jp/pickup/6600522?source=rss",
+      "pubDate": "2026-10-29T02:18:32.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -176,22 +192,6 @@
       "title": "小型恐竜の骨格標本 75億円で落札",
       "link": "https://news.yahoo.co.jp/pickup/6600458?source=rss",
       "pubDate": "2026-10-28T09:15:30.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "プルデンシャル 新たな不正事案",
-      "link": "https://news.yahoo.co.jp/pickup/6600452?source=rss",
-      "pubDate": "2026-10-28T09:07:38.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "キッチンタイマーを回収 TDR運営",
-      "link": "https://news.yahoo.co.jp/pickup/6600444?source=rss",
-      "pubDate": "2026-10-28T08:11:52.000Z"
     },
     {
       "category": "IT",
