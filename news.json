@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-28T23:45:29.825Z",
+  "updatedAt": "2026-10-29T00:00:52.870Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "プーチン氏 マスク氏は本物の天才",
+      "link": "https://news.yahoo.co.jp/pickup/6600507?source=rss",
+      "pubDate": "2026-10-28T23:46:08.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -240,14 +248,6 @@
       "title": "元寇の船から「遊び道具」発見",
       "link": "https://news.yahoo.co.jp/pickup/6600395?source=rss",
       "pubDate": "2026-10-28T02:30:52.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米とキューバ 国連で怒声の応酬",
-      "link": "https://news.yahoo.co.jp/pickup/6600382?source=rss",
-      "pubDate": "2026-10-28T00:45:41.000Z"
     },
     {
       "category": "IT",
