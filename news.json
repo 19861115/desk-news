@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T07:30:43.833Z",
+  "updatedAt": "2026-10-29T07:45:32.542Z",
   "items": [
     {
       "category": "科学",
@@ -8,6 +8,14 @@
       "title": "冥王星の先に新たな準惑星 発見か",
       "link": "https://news.yahoo.co.jp/pickup/6600559?source=rss",
       "pubDate": "2026-10-29T07:18:30.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] GMO熊谷社長、Xで「犯人特定の有力情報を入手」と投稿　「自撮り笑顔写真」掲載には「深くお詫び」",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/29/news066.html",
+      "pubDate": "2026-10-29T07:15:00.000Z"
     },
     {
       "category": "経済",
@@ -56,14 +64,6 @@
       "title": "[ITmedia News] ギターの「形」は誰のもの？　ヤマハにも警告、Fenderが“ストラト著作権”で仕掛けた知財攻勢",
       "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002647/",
       "pubDate": "2026-10-29T06:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か　下4桁は40万枚分",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002716/",
-      "pubDate": "2026-10-29T05:56:27.000Z"
     },
     {
       "category": "国際",
