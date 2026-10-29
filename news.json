@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-29T10:30:43.422Z",
+  "updatedAt": "2026-10-29T10:45:32.403Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "中部電 27年3月期の特損3800億円",
+      "link": "https://news.yahoo.co.jp/pickup/6600594?source=rss",
+      "pubDate": "2026-10-29T10:39:54.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 不正アクセスによる漏えい人数、半年余りでのべ2億6000万人に　日本人口の2倍超",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002730/",
+      "pubDate": "2026-10-29T10:18:19.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "11月電気代 大手7社で過去最高値",
       "link": "https://news.yahoo.co.jp/pickup/6600589?source=rss",
       "pubDate": "2026-10-29T10:04:21.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 楽天カード、本人認証をワンタイムパスワードに統一　27年2月から順次",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002729/",
+      "pubDate": "2026-10-29T09:57:37.000Z"
     },
     {
       "category": "科学",
@@ -32,6 +56,14 @@
       "title": "作家の如月美樹さん 今年9月死去",
       "link": "https://news.yahoo.co.jp/pickup/6600587?source=rss",
       "pubDate": "2026-10-29T09:41:43.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] SUNEAST、最大読み込み速度2000MB／sの防水ポータブルSSD発売　512GB～2TBの3モデル",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news081.html",
+      "pubDate": "2026-10-29T09:23:00.000Z"
     },
     {
       "category": "経済",
@@ -74,14 +106,6 @@
       "pubDate": "2026-10-29T08:52:38.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 増えたボタン＋新しいホイール＝仕事にも便利！　Razerの新型ワイヤレスゲーミングマウス「Basilisk V4 Pro」を試す",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/29/news074.html",
-      "pubDate": "2026-10-29T08:50:00.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -98,28 +122,12 @@
       "pubDate": "2026-10-29T08:20:14.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 神奈川・鎌倉市が「公共ライドシェア」実証実験見送り　路線バス大幅減便で代替運行に注力",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002727/",
-      "pubDate": "2026-10-29T08:14:22.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "韓国・尹前大統領に再び死刑求刑",
       "link": "https://news.yahoo.co.jp/pickup/6600566?source=rss",
       "pubDate": "2026-10-29T07:58:28.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ローソン・郵便局が「ドローン基地」に　回線はStarlinkで　ドローンインフラを急ピッチで作るKDDI",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002723/",
-      "pubDate": "2026-10-29T07:58:02.000Z"
     },
     {
       "category": "科学",
@@ -200,14 +208,6 @@
       "title": "衆院比例議席減 自維国が正式合意",
       "link": "https://news.yahoo.co.jp/pickup/6600526?source=rss",
       "pubDate": "2026-10-29T03:01:59.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "竹中工務店元社員 起訴内容認める",
-      "link": "https://news.yahoo.co.jp/pickup/6600523?source=rss",
-      "pubDate": "2026-10-29T02:25:34.000Z"
     },
     {
       "category": "国内",
