@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-29T00:00:52.870Z",
+  "updatedAt": "2026-10-29T00:15:32.257Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "米FRBが政策金利を据え置き",
+      "link": "https://news.yahoo.co.jp/pickup/6600510?source=rss",
+      "pubDate": "2026-10-29T00:13:09.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "タッチ対応「MacBook Pro」発表",
+      "link": "https://news.yahoo.co.jp/pickup/6600509?source=rss",
+      "pubDate": "2026-10-29T00:12:54.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「ツイキャス」不正アクセスで停止　復旧までに「相応の時間」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002692/",
+      "pubDate": "2026-10-28T23:56:59.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -72,14 +96,6 @@
       "title": "[ITmedia News] Google、「Gemini 4 Carbon」発表　「Argon」公開から2週間、サイバー防御能力などを強化",
       "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
       "pubDate": "2026-10-28T22:13:47.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 20年前は“門前払い”？　デル社長が語る、日本企業の今昔　「IT後進国」から抜け出せたのか",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/29/news023.html",
-      "pubDate": "2026-10-28T22:00:00.000Z"
     },
     {
       "category": "IT",
@@ -202,14 +218,6 @@
       "pubDate": "2026-10-28T04:46:41.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "飲食店 テイクアウトに慎重な理由",
-      "link": "https://news.yahoo.co.jp/pickup/6600420?source=rss",
-      "pubDate": "2026-10-28T04:34:47.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -248,14 +256,6 @@
       "title": "元寇の船から「遊び道具」発見",
       "link": "https://news.yahoo.co.jp/pickup/6600395?source=rss",
       "pubDate": "2026-10-28T02:30:52.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "サイバー攻撃 サイト経由型が急増",
-      "link": "https://news.yahoo.co.jp/pickup/6600375?source=rss",
-      "pubDate": "2026-10-27T23:36:34.000Z"
     },
     {
       "category": "デジカメinfo",
