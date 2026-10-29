@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-29T08:30:41.010Z",
+  "updatedAt": "2026-10-29T08:45:32.565Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "コミックシーモア 一部再開を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6600574?source=rss",
+      "pubDate": "2026-10-29T08:34:27.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -10,12 +18,36 @@
       "pubDate": "2026-10-29T08:20:14.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 神奈川・鎌倉市が「公共ライドシェア」実証実験見送り　路線バス大幅減便で代替運行に注力",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002727/",
+      "pubDate": "2026-10-29T08:14:22.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "韓国・尹前大統領に再び死刑求刑",
       "link": "https://news.yahoo.co.jp/pickup/6600566?source=rss",
       "pubDate": "2026-10-29T07:58:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ローソン・郵便局が「ドローン基地」に　回線はStarlinkで　ドローンインフラを急ピッチで作るKDDI",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002723/",
+      "pubDate": "2026-10-29T07:58:02.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] LINEアプリ、旧バージョンと旧OSのサポート終了へ　アップデートを呼びかけ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/29/news077.html",
+      "pubDate": "2026-10-29T07:56:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -42,14 +74,6 @@
       "pubDate": "2026-10-29T07:18:30.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] GMO熊谷社長、Xで「犯人特定の有力情報を入手」と投稿　「自撮り笑顔写真」掲載には「深くお詫び」",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/29/news066.html",
-      "pubDate": "2026-10-29T07:15:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -58,28 +82,12 @@
       "pubDate": "2026-10-29T07:08:06.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「PayPay連携の銀行から、お金全部盗られた」被害報告……原因と対策は？　PayPayに聞いた",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
-      "pubDate": "2026-10-29T06:32:16.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "四足歩行モビリティ 実用化の壁",
       "link": "https://news.yahoo.co.jp/pickup/6600552?source=rss",
       "pubDate": "2026-10-29T06:22:10.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ソニー生命に不正アクセス、個人情報約38.5万件漏えい　氏名や住所、契約内容など",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002717/",
-      "pubDate": "2026-10-29T06:21:40.000Z"
     },
     {
       "category": "国際",
@@ -216,14 +224,6 @@
       "title": "本や雑誌発売日 大阪も1日遅れに",
       "link": "https://news.yahoo.co.jp/pickup/6600504?source=rss",
       "pubDate": "2026-10-28T23:34:37.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMO脅迫サイト 国が遮断を要請",
-      "link": "https://news.yahoo.co.jp/pickup/6600494?source=rss",
-      "pubDate": "2026-10-28T21:55:03.000Z"
     },
     {
       "category": "デジカメinfo",
