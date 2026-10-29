@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-29T09:15:32.050Z",
+  "updatedAt": "2026-10-29T09:30:41.800Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "上半期世界販売 スズキが国内2位",
+      "link": "https://news.yahoo.co.jp/pickup/6600585?source=rss",
+      "pubDate": "2026-10-29T09:21:24.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "滋賀銀・池田泉州HD 統合へ合意",
+      "link": "https://news.yahoo.co.jp/pickup/6600584?source=rss",
+      "pubDate": "2026-10-29T09:21:04.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -202,14 +218,6 @@
       "pubDate": "2026-10-29T00:35:20.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "米FRBが政策金利を据え置き",
-      "link": "https://news.yahoo.co.jp/pickup/6600510?source=rss",
-      "pubDate": "2026-10-29T00:13:09.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -224,14 +232,6 @@
       "title": "教員「特別免許」の基準明確化へ",
       "link": "https://news.yahoo.co.jp/pickup/6600506?source=rss",
       "pubDate": "2026-10-28T23:39:26.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "本や雑誌発売日 大阪も1日遅れに",
-      "link": "https://news.yahoo.co.jp/pickup/6600504?source=rss",
-      "pubDate": "2026-10-28T23:34:37.000Z"
     },
     {
       "category": "デジカメinfo",
