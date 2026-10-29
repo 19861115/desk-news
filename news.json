@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-29T03:45:32.706Z",
+  "updatedAt": "2026-10-29T04:00:48.382Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO社長「犯人特定の有力情報」",
+      "link": "https://news.yahoo.co.jp/pickup/6600536?source=rss",
+      "pubDate": "2026-10-29T03:58:34.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "北が発射 弾道ミサイルの可能性",
+      "link": "https://news.yahoo.co.jp/pickup/6600535?source=rss",
+      "pubDate": "2026-10-29T03:46:47.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -170,14 +186,6 @@
       "pubDate": "2026-10-28T15:00:08.000Z"
     },
     {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMO懸賞金 6hで113件の情報提供",
-      "link": "https://news.yahoo.co.jp/pickup/6600483?source=rss",
-      "pubDate": "2026-10-28T13:44:01.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -216,14 +224,6 @@
       "title": "GMOへの「劇場型」攻撃 狙いは",
       "link": "https://news.yahoo.co.jp/pickup/6600424?source=rss",
       "pubDate": "2026-10-28T05:14:57.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "韓国 シャインマスカット価格急落",
-      "link": "https://news.yahoo.co.jp/pickup/6600418?source=rss",
-      "pubDate": "2026-10-28T04:59:04.000Z"
     },
     {
       "category": "科学",
