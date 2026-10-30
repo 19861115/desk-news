@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-30T00:30:43.347Z",
+  "updatedAt": "2026-10-30T00:45:31.684Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "西日本でクマ出没急増 食生活変化",
+      "link": "https://news.yahoo.co.jp/pickup/6600650?source=rss",
+      "pubDate": "2026-10-30T00:42:51.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "エスカレーターを歩く人 傾向分析",
+      "link": "https://news.yahoo.co.jp/pickup/6600651?source=rss",
+      "pubDate": "2026-10-30T00:32:02.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Amazon決算、AWS売上高が39.3％増で約5年ぶりの高成長　フリーキャッシュフローは大幅悪化",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002736/",
+      "pubDate": "2026-10-30T00:14:48.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -71,14 +95,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia エンタープライズ] 約3割のセキュリティ担当者、本番環境で「野良エージェント」に遭遇　ServiceNow調査",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news047.html",
-      "pubDate": "2026-10-29T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 若者が選ぶ流行語「チャッピー構文」ってなんだ？　「結論から言うね」なAIの口癖、実は人間のせいかもしれない",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news031.html",
       "pubDate": "2026-10-29T23:00:00.000Z"
     },
     {
@@ -186,14 +202,6 @@
       "pubDate": "2026-10-29T09:50:19.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "作家の如月美樹さん 今年9月死去",
-      "link": "https://news.yahoo.co.jp/pickup/6600587?source=rss",
-      "pubDate": "2026-10-29T09:41:43.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -248,14 +256,6 @@
       "title": "GMO社長「犯人特定の有力情報」",
       "link": "https://news.yahoo.co.jp/pickup/6600536?source=rss",
       "pubDate": "2026-10-29T03:58:34.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "日本近海で初記録のウミグモ発見",
-      "link": "https://news.yahoo.co.jp/pickup/6600515?source=rss",
-      "pubDate": "2026-10-29T00:51:43.000Z"
     },
     {
       "category": "デジカメinfo",
