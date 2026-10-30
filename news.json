@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T07:30:42.225Z",
+  "updatedAt": "2026-10-30T07:45:29.900Z",
   "items": [
     {
       "category": "国内",
@@ -37,6 +37,14 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 全国31市町村がサイト一時停止継続　PHP脆弱性が突きつけた「地方のIT人材・ノウハウ不足」",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news077.html",
+      "pubDate": "2026-10-30T06:27:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] 無印良品、最大2726万件の個人情報漏えいの可能性　公式アプリ利用者の「メアド」「生年月日」など",
       "link": "https://www.itmedia.co.jp/business/articles/2610/30/news075.html",
       "pubDate": "2026-10-30T06:26:00.000Z"
@@ -63,14 +71,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia PC USER] 14年前の“黒歴史”を経て生まれたNVIDIA「RTX Spark」は何を変える？　「AI PC」から「Agentic PC」へと昇華するローカルAIの道筋",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2610/30/news051.html",
-      "pubDate": "2026-10-30T06:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] エイサー、Ryzen AIを搭載したCopilot+ PC対応の軽量14型ノート",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/30/news073.html",
       "pubDate": "2026-10-30T06:00:00.000Z"
     },
     {
