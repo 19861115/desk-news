@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T09:00:52.020Z",
+  "updatedAt": "2026-10-30T09:15:33.663Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,22 @@
       "title": "外務省 3600件の個人情報漏えいか",
       "link": "https://news.yahoo.co.jp/pickup/6600703?source=rss",
       "pubDate": "2026-10-30T08:53:18.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 最長21日間バッテリー持続の「Xiaomi Smart Band 11」11月4日発売　早割りで6980円から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news083.html",
+      "pubDate": "2026-10-30T08:50:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「ITノウハウ持つ人材少なく」　PHP脆弱性問題、31市町村でサイト一時停止継続",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002766/",
+      "pubDate": "2026-10-30T08:38:01.000Z"
     },
     {
       "category": "経済",
@@ -80,22 +96,6 @@
       "title": "[ITmedia ビジネスオンライン] 全国31市町村がサイト一時停止継続　PHP脆弱性が突きつけた「地方のIT人材・ノウハウ不足」",
       "link": "https://www.itmedia.co.jp/business/articles/2610/30/news077.html",
       "pubDate": "2026-10-30T06:27:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 無印良品、最大2726万件の個人情報漏えいの可能性　公式アプリ利用者の「メアド」「生年月日」など",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news075.html",
-      "pubDate": "2026-10-30T06:26:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 無印良品、不正アクセスで最大2726万件の会員情報漏えいか　退会済みのユーザーも対象",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002756/",
-      "pubDate": "2026-10-30T06:18:29.000Z"
     },
     {
       "category": "科学",
