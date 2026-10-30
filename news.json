@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T00:00:54.580Z",
+  "updatedAt": "2026-10-30T00:15:33.930Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "富士山の初冠雪を確認 気象庁発表",
+      "link": "https://news.yahoo.co.jp/pickup/6600649?source=rss",
+      "pubDate": "2026-10-30T00:05:52.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -256,14 +264,6 @@
       "title": "ニコン「Z5IIC」は実際に使ったら想像以上に楽しめるカメラ（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/z5iic-5.html",
       "pubDate": "2026-10-28T15:00:08.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "小型恐竜の骨格標本 75億円で落札",
-      "link": "https://news.yahoo.co.jp/pickup/6600458?source=rss",
-      "pubDate": "2026-10-28T09:15:30.000Z"
     },
     {
       "category": "デジカメinfo",
