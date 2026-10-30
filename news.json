@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T04:45:30.132Z",
+  "updatedAt": "2026-10-30T05:00:48.232Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "リースバック 悪質取引に規制強化",
+      "link": "https://news.yahoo.co.jp/pickup/6600675?source=rss",
+      "pubDate": "2026-10-30T04:51:54.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -104,14 +112,6 @@
       "title": "ICC所長 米圧力屈しない構え強調",
       "link": "https://news.yahoo.co.jp/pickup/6600658?source=rss",
       "pubDate": "2026-10-30T01:45:36.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "のぞみ1hで14本運行目指す JR",
-      "link": "https://news.yahoo.co.jp/pickup/6600657?source=rss",
-      "pubDate": "2026-10-30T01:16:36.000Z"
     },
     {
       "category": "科学",
