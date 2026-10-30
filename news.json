@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T01:30:41.863Z",
+  "updatedAt": "2026-10-30T01:45:33.882Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ヤクルト本社、個人情報約4万件漏えい　不正アクセスで",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002739/",
+      "pubDate": "2026-10-30T01:26:56.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +16,30 @@
       "title": "のぞみ1hで14本運行目指す JR",
       "link": "https://news.yahoo.co.jp/pickup/6600657?source=rss",
       "pubDate": "2026-10-30T01:16:36.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] シャオミ、1.72型有機ELディスプレイを搭載したスマートバンド「Xiaomi Smart Band 11」",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/30/news032.html",
+      "pubDate": "2026-10-30T01:01:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモ販売ランキング：新発売の「iPhone 18 Pro」が2位と4位に、「iPhone 17」が首位守る【2026年9月】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news034.html",
+      "pubDate": "2026-10-30T01:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] サンワサプライのセミハードガジェットケースが37％オフ　フルオープン仕様、仕切り板で柔軟に収納",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news048.html",
+      "pubDate": "2026-10-30T01:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -32,14 +64,6 @@
       "title": "エスカレーターを歩く人 傾向分析",
       "link": "https://news.yahoo.co.jp/pickup/6600651?source=rss",
       "pubDate": "2026-10-30T00:32:02.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Amazon決算、AWS売上高が39.3％増で約5年ぶりの高成長　フリーキャッシュフローは大幅悪化",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002736/",
-      "pubDate": "2026-10-30T00:14:48.000Z"
     },
     {
       "category": "科学",
@@ -74,36 +98,12 @@
       "pubDate": "2026-10-29T23:35:01.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] OpenAI、AIの行動指針「Model Spec」を改定　“記憶”の使い方や人間による監督を明記",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
-      "pubDate": "2026-10-29T23:24:32.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "株価崩れない「ホンダ」の強み",
       "link": "https://news.yahoo.co.jp/pickup/6600635?source=rss",
       "pubDate": "2026-10-29T23:04:02.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ウクライナで拡散するAI偽情報　「本物の映像」をどう証明するか、AIと戦争が変えた「C2PA」の意義",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002734/",
-      "pubDate": "2026-10-29T23:02:40.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] なぜ「更新できない」のか？　PHP騒動で見えた、パッチを先送りする企業の盲点",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news025.html",
-      "pubDate": "2026-10-29T23:00:00.000Z"
     },
     {
       "category": "経済",
