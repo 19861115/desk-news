@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-30T04:00:50.143Z",
+  "updatedAt": "2026-10-30T04:15:31.309Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "物価上昇目標2%に到達 日銀見解",
+      "link": "https://news.yahoo.co.jp/pickup/6600672?source=rss",
+      "pubDate": "2026-10-30T04:03:56.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 暗号資産取引所Binance、ハッキングで約1兆円の被害か　入出金を全面停止",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002749/",
+      "pubDate": "2026-10-30T03:52:04.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -10,12 +26,28 @@
       "pubDate": "2026-10-30T03:42:47.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「本会議場にタブレット持ち込み可能に」自民の提言案にチームみらい安野党首「うおおおおお」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002747/",
+      "pubDate": "2026-10-30T03:37:58.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "日銀 政策金利1.25%に据え置き",
       "link": "https://news.yahoo.co.jp/pickup/6600670?source=rss",
       "pubDate": "2026-10-30T03:37:48.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 東京と台北を「17ミリ秒」で結ぶIOWN　アンリツCTOが語るデータセンター相互接続と日本の勝機",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news038.html",
+      "pubDate": "2026-10-30T03:30:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -32,30 +64,6 @@
       "title": "[ITmedia PC USER] Razer、“エヴァ初号機”デザインのゲーミングデバイス「Razer │ EVANGELION（EVA-01）コレクション」を発売",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2610/30/news066.html",
       "pubDate": "2026-10-30T03:15:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 有機EL＋タッチ対応で“再構築”された新型「MacBook Pro」　現地体験で見えた「PROLED XDR」の真価",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/30/news062.html",
-      "pubDate": "2026-10-30T03:15:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ドコモSMTBネット銀行、「V NEOBANK」後継の「NEOBANK CASH」を2027年3月29日に提供開始",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news065.html",
-      "pubDate": "2026-10-30T03:03:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] AIが突き崩す「不動産価格の壁」　なぜマンションに定価がないのか",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002733/",
-      "pubDate": "2026-10-30T03:00:00.000Z"
     },
     {
       "category": "経済",
@@ -152,14 +160,6 @@
       "title": "香港高層住宅火災 政府トップ謝罪",
       "link": "https://news.yahoo.co.jp/pickup/6600642?source=rss",
       "pubDate": "2026-10-29T23:35:01.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "株価崩れない「ホンダ」の強み",
-      "link": "https://news.yahoo.co.jp/pickup/6600635?source=rss",
-      "pubDate": "2026-10-29T23:04:02.000Z"
     },
     {
       "category": "国際",
