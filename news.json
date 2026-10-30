@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T01:00:50.827Z",
+  "updatedAt": "2026-10-30T01:15:34.360Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] アイリスオーヤマの通販サイトに不正アクセス　情報漏えいは「調査中」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002737/",
+      "pubDate": "2026-10-30T00:43:10.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -87,14 +95,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia エンタープライズ] なぜ「更新できない」のか？　PHP騒動で見えた、パッチを先送りする企業の盲点",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news025.html",
-      "pubDate": "2026-10-29T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 約3割のセキュリティ担当者、本番環境で「野良エージェント」に遭遇　ServiceNow調査",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news047.html",
       "pubDate": "2026-10-29T23:00:00.000Z"
     },
     {
