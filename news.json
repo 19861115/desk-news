@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T05:30:40.735Z",
+  "updatedAt": "2026-10-30T05:45:30.524Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 松屋のアプリに不正アクセス、約238万件の個人情報が漏えい　停止中の補償も予定",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002753/",
+      "pubDate": "2026-10-30T05:17:49.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -56,14 +64,6 @@
       "title": "[ITmedia News] 「本会議場にタブレット持ち込み可能に」自民の提言案にチームみらい安野党首「うおおおおお」",
       "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002747/",
       "pubDate": "2026-10-30T03:59:21.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 暗号資産取引所Binance、ハッキングで約1兆円の被害か　入出金を全面停止",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002749/",
-      "pubDate": "2026-10-30T03:52:04.000Z"
     },
     {
       "category": "経済",
