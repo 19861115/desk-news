@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T08:15:34.622Z",
+  "updatedAt": "2026-10-30T08:30:43.316Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "トヨタ 無人タクシー来年運行開始",
+      "link": "https://news.yahoo.co.jp/pickup/6600696?source=rss",
+      "pubDate": "2026-10-30T08:23:11.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -112,14 +120,6 @@
       "title": "「ねこまんま」覆す工夫で商品に",
       "link": "https://news.yahoo.co.jp/pickup/6600671?source=rss",
       "pubDate": "2026-10-30T03:42:47.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日銀 政策金利1.25%に据え置き",
-      "link": "https://news.yahoo.co.jp/pickup/6600670?source=rss",
-      "pubDate": "2026-10-30T03:37:48.000Z"
     },
     {
       "category": "デジカメinfo",
