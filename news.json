@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T02:45:29.987Z",
+  "updatedAt": "2026-10-30T03:00:54.459Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "中部電の改善命令手続きへ 経産省",
+      "link": "https://news.yahoo.co.jp/pickup/6600663?source=rss",
+      "pubDate": "2026-10-30T02:48:27.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -176,14 +184,6 @@
       "title": "シグマが「FP2」の供給不足をアナウンス（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/fp2-3.html",
       "pubDate": "2026-10-29T13:21:23.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "天丼てんや 2カ月連続で客約1割減",
-      "link": "https://news.yahoo.co.jp/pickup/6600612?source=rss",
-      "pubDate": "2026-10-29T13:14:19.000Z"
     },
     {
       "category": "国内",
