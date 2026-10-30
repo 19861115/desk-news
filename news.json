@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-30T04:30:40.187Z",
+  "updatedAt": "2026-10-30T04:45:30.132Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] イオン、フィジカルAIで物流改革　配送拠点の自動化率5割達成　深刻な人手不足に対応",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002751/",
+      "pubDate": "2026-10-30T04:24:33.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] GEEKOM、約1kgの軽量筐体を採用したCore Ultra搭載14型スリムノートを発売",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/30/news069.html",
+      "pubDate": "2026-10-30T04:06:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +24,22 @@
       "title": "物価上昇目標2%に到達 日銀見解",
       "link": "https://news.yahoo.co.jp/pickup/6600672?source=rss",
       "pubDate": "2026-10-30T04:03:56.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 誤訳で“違う製品”を作りかけた？　ベトナム工場への指示書、通訳よりGeminiの方が伝わったワケ",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002699/",
+      "pubDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「本会議場にタブレット持ち込み可能に」自民の提言案にチームみらい安野党首「うおおおおお」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002747/",
+      "pubDate": "2026-10-30T03:59:21.000Z"
     },
     {
       "category": "ITmedia",
@@ -26,44 +58,12 @@
       "pubDate": "2026-10-30T03:42:47.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「本会議場にタブレット持ち込み可能に」自民の提言案にチームみらい安野党首「うおおおおお」",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002747/",
-      "pubDate": "2026-10-30T03:37:58.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "日銀 政策金利1.25%に据え置き",
       "link": "https://news.yahoo.co.jp/pickup/6600670?source=rss",
       "pubDate": "2026-10-30T03:37:48.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 東京と台北を「17ミリ秒」で結ぶIOWN　アンリツCTOが語るデータセンター相互接続と日本の勝機",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news038.html",
-      "pubDate": "2026-10-30T03:30:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] Google、新たな購買行動「『ハイレゾ消費』を発見」どんなもの？　「歴史的な大転換が起きている」と奥山社長",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news044.html",
-      "pubDate": "2026-10-30T03:20:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] Razer、“エヴァ初号機”デザインのゲーミングデバイス「Razer │ EVANGELION（EVA-01）コレクション」を発売",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/30/news066.html",
-      "pubDate": "2026-10-30T03:15:00.000Z"
     },
     {
       "category": "経済",
