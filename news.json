@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T08:30:43.316Z",
+  "updatedAt": "2026-10-30T08:45:31.290Z",
   "items": [
     {
       "category": "経済",
@@ -10,12 +10,28 @@
       "pubDate": "2026-10-30T08:23:11.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請　報道",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
+      "pubDate": "2026-10-30T08:13:12.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "ウが日本に迎撃弾の供与を要望",
       "link": "https://news.yahoo.co.jp/pickup/6600698?source=rss",
       "pubDate": "2026-10-30T08:05:41.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 東日本初の直営拠点「mineo 渋谷」が閉店　オプテージ広報に聞く閉店理由と今後のリアル接点",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news068.html",
+      "pubDate": "2026-10-30T08:00:00.000Z"
     },
     {
       "category": "国内",
@@ -72,22 +88,6 @@
       "title": "[ITmedia News] 無印良品、不正アクセスで最大2726万件の会員情報漏えいか　退会済みのユーザーも対象",
       "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002756/",
       "pubDate": "2026-10-30T06:18:29.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ASUS、Wi-Fi 8にドラフト対応した高機能ゲーミングルーター「ROG Rapture GT-BN98」",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/30/news074.html",
-      "pubDate": "2026-10-30T06:04:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 14年前の“黒歴史”を経て生まれたNVIDIA「RTX Spark」は何を変える？　「AI PC」から「Agentic PC」へと昇華するローカルAIの道筋",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/30/news051.html",
-      "pubDate": "2026-10-30T06:00:00.000Z"
     },
     {
       "category": "科学",
