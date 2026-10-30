@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T11:00:53.876Z",
+  "updatedAt": "2026-10-30T11:15:32.876Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "給食食べ搬送 ヒスタミン中毒とは",
+      "link": "https://news.yahoo.co.jp/pickup/6600714?source=rss",
+      "pubDate": "2026-10-30T11:07:01.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -264,14 +272,6 @@
       "title": "ニコンが「Z 120-300mm f/2.8 TC VR S」を正式発表（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/z-120-300mm-f28-tc-vr-s-2.html",
       "pubDate": "2026-10-29T04:11:07.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "日本近海で初記録のウミグモ発見",
-      "link": "https://news.yahoo.co.jp/pickup/6600515?source=rss",
-      "pubDate": "2026-10-29T00:51:43.000Z"
     },
     {
       "category": "デジカメinfo",
