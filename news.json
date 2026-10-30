@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T02:15:31.717Z",
+  "updatedAt": "2026-10-30T02:30:42.043Z",
   "items": [
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ニコンがプロモーション資料で「Z70」について言及（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/10/z70.html",
+      "pubDate": "2026-10-30T01:53:17.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -272,14 +280,6 @@
       "title": "キヤノン「EOS R7 Mark II」には部分積層型センサーが採用される？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/eos-r7-mark-ii-10.html",
       "pubDate": "2026-10-28T03:12:20.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "登場が噂されているライカの新製品のリスト（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/10/post-1965.html",
-      "pubDate": "2026-10-27T10:23:16.000Z"
     }
   ]
 }
