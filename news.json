@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T09:30:42.548Z",
+  "updatedAt": "2026-10-30T09:45:32.563Z",
   "items": [
     {
       "category": "経済",
@@ -8,6 +8,30 @@
       "title": "東京メトロ「QR乗車券」導入へ",
       "link": "https://news.yahoo.co.jp/pickup/6600705?source=rss",
       "pubDate": "2026-10-30T09:26:07.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「低評価でキャラが悲しげな目」　モスバーガーのアンケートがSNSで話題　運営会社に狙いを聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002767/",
+      "pubDate": "2026-10-30T09:05:54.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] セガのスマホゲーム「チェンクロ」、セキュリティ問題で1?2カ月の長期メンテ　13年続く長寿タイトル",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002768/",
+      "pubDate": "2026-10-30T09:00:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 直営店舗限定！　マウスコンピューターのゲーミングPCがお得な「ゲーミング祭」が11月19日まで開催中",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/29/news075.html",
+      "pubDate": "2026-10-30T09:00:00.000Z"
     },
     {
       "category": "国内",
@@ -42,28 +66,12 @@
       "pubDate": "2026-10-30T08:23:11.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請　報道",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
-      "pubDate": "2026-10-30T08:13:12.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "ウが日本に迎撃弾の供与を要望",
       "link": "https://news.yahoo.co.jp/pickup/6600698?source=rss",
       "pubDate": "2026-10-30T08:05:41.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 東日本初の直営拠点「mineo 渋谷」が閉店　オプテージ広報に聞く閉店理由と今後のリアル接点",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news068.html",
-      "pubDate": "2026-10-30T08:00:00.000Z"
     },
     {
       "category": "国内",
@@ -96,14 +104,6 @@
       "title": "無印良品 最大2726万件情報流出か",
       "link": "https://news.yahoo.co.jp/pickup/6600686?source=rss",
       "pubDate": "2026-10-30T06:30:41.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 全国31市町村がサイト一時停止継続　PHP脆弱性が突きつけた「地方のIT人材・ノウハウ不足」",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/30/news077.html",
-      "pubDate": "2026-10-30T06:27:00.000Z"
     },
     {
       "category": "経済",
