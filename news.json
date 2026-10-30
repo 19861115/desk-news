@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-29T23:45:31.276Z",
+  "updatedAt": "2026-10-30T00:00:54.580Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "全国的に大気不安定 急な雷雨注意",
+      "link": "https://news.yahoo.co.jp/pickup/6600646?source=rss",
+      "pubDate": "2026-10-29T23:56:16.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "情報漏えい 4月以降延べ2.6億人分",
+      "link": "https://news.yahoo.co.jp/pickup/6600644?source=rss",
+      "pubDate": "2026-10-29T23:51:06.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -210,14 +226,6 @@
       "pubDate": "2026-10-29T04:56:54.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "パニック障害と向き合う 29歳の今",
-      "link": "https://news.yahoo.co.jp/pickup/6600543?source=rss",
-      "pubDate": "2026-10-29T04:48:26.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -240,14 +248,6 @@
       "title": "日本近海で初記録のウミグモ発見",
       "link": "https://news.yahoo.co.jp/pickup/6600515?source=rss",
       "pubDate": "2026-10-29T00:51:43.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "タッチ対応「MacBook Pro」発表",
-      "link": "https://news.yahoo.co.jp/pickup/6600509?source=rss",
-      "pubDate": "2026-10-29T00:12:54.000Z"
     },
     {
       "category": "デジカメinfo",
