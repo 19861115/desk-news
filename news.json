@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T08:45:31.290Z",
+  "updatedAt": "2026-10-30T09:00:52.020Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "外務省 3600件の個人情報漏えいか",
+      "link": "https://news.yahoo.co.jp/pickup/6600703?source=rss",
+      "pubDate": "2026-10-30T08:53:18.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -216,14 +224,6 @@
       "title": "シグマが「FP2」の供給不足をアナウンス（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/fp2-3.html",
       "pubDate": "2026-10-29T13:21:23.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "電気ガス代補助 12月-来年2月実施",
-      "link": "https://news.yahoo.co.jp/pickup/6600608?source=rss",
-      "pubDate": "2026-10-29T12:52:41.000Z"
     },
     {
       "category": "科学",
