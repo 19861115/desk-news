@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T07:00:49.718Z",
+  "updatedAt": "2026-10-30T07:15:32.370Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "衆院定数削減 法案成立にハードル",
+      "link": "https://news.yahoo.co.jp/pickup/6600681?source=rss",
+      "pubDate": "2026-10-30T07:07:47.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -216,14 +224,6 @@
       "title": "電気ガス代補助 12月-来年2月実施",
       "link": "https://news.yahoo.co.jp/pickup/6600608?source=rss",
       "pubDate": "2026-10-29T12:52:41.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "高市首相のX投稿800件超 傾向は",
-      "link": "https://news.yahoo.co.jp/pickup/6600604?source=rss",
-      "pubDate": "2026-10-29T12:04:45.000Z"
     },
     {
       "category": "科学",
