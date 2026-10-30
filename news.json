@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T09:15:33.663Z",
+  "updatedAt": "2026-10-30T09:30:42.548Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "東京メトロ「QR乗車券」導入へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600705?source=rss",
+      "pubDate": "2026-10-30T09:26:07.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -98,14 +106,6 @@
       "pubDate": "2026-10-30T06:27:00.000Z"
     },
     {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "西日本でクマ出没急増 餌不足深刻",
-      "link": "https://news.yahoo.co.jp/pickup/6600680?source=rss",
-      "pubDate": "2026-10-30T05:07:46.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -120,14 +120,6 @@
       "title": "物価上昇目標2%に到達 日銀見解",
       "link": "https://news.yahoo.co.jp/pickup/6600672?source=rss",
       "pubDate": "2026-10-30T04:03:56.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "「ねこまんま」覆す工夫で商品に",
-      "link": "https://news.yahoo.co.jp/pickup/6600671?source=rss",
-      "pubDate": "2026-10-30T03:42:47.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -272,6 +264,14 @@
       "title": "ニコンが「Z 120-300mm f/2.8 TC VR S」を正式発表（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/z-120-300mm-f28-tc-vr-s-2.html",
       "pubDate": "2026-10-29T04:11:07.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "日本近海で初記録のウミグモ発見",
+      "link": "https://news.yahoo.co.jp/pickup/6600515?source=rss",
+      "pubDate": "2026-10-29T00:51:43.000Z"
     },
     {
       "category": "デジカメinfo",
