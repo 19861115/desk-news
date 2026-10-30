@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T08:00:50.941Z",
+  "updatedAt": "2026-10-30T08:15:34.622Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "ウが日本に迎撃弾の供与を要望",
+      "link": "https://news.yahoo.co.jp/pickup/6600698?source=rss",
+      "pubDate": "2026-10-30T08:05:41.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "富士山の初冠雪を確認 気象庁発表",
       "link": "https://news.yahoo.co.jp/pickup/6600649?source=rss",
       "pubDate": "2026-10-30T00:05:52.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "全国的に大気不安定 急な雷雨注意",
-      "link": "https://news.yahoo.co.jp/pickup/6600646?source=rss",
-      "pubDate": "2026-10-29T23:56:16.000Z"
     },
     {
       "category": "IT",
