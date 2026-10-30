@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-30T10:45:35.114Z",
+  "updatedAt": "2026-10-30T11:00:53.876Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "連続勤務を最長13日で検討 厚労省",
+      "link": "https://news.yahoo.co.jp/pickup/6600713?source=rss",
+      "pubDate": "2026-10-30T10:59:48.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "キオクシア 4-12月純利益24倍予想",
+      "link": "https://news.yahoo.co.jp/pickup/6600712?source=rss",
+      "pubDate": "2026-10-30T10:46:26.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -125,14 +141,6 @@
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
-      "title": "リースバック 悪質取引に規制強化",
-      "link": "https://news.yahoo.co.jp/pickup/6600675?source=rss",
-      "pubDate": "2026-10-30T04:51:54.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
       "title": "物価上昇目標2%に到達 日銀見解",
       "link": "https://news.yahoo.co.jp/pickup/6600672?source=rss",
       "pubDate": "2026-10-30T04:03:56.000Z"
@@ -208,14 +216,6 @@
       "title": "NVIDIAトップに中国工作員接近か",
       "link": "https://news.yahoo.co.jp/pickup/6600632?source=rss",
       "pubDate": "2026-10-29T22:40:32.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "ガソリン補助金 12月から段階縮小",
-      "link": "https://news.yahoo.co.jp/pickup/6600631?source=rss",
-      "pubDate": "2026-10-29T22:29:44.000Z"
     },
     {
       "category": "国際",
