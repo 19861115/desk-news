@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T05:00:48.232Z",
+  "updatedAt": "2026-10-30T05:15:31.079Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "西日本でクマ出没急増 餌不足深刻",
+      "link": "https://news.yahoo.co.jp/pickup/6600680?source=rss",
+      "pubDate": "2026-10-30T05:07:46.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -112,14 +120,6 @@
       "title": "ICC所長 米圧力屈しない構え強調",
       "link": "https://news.yahoo.co.jp/pickup/6600658?source=rss",
       "pubDate": "2026-10-30T01:45:36.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "西日本でクマ出没急増 食生活変化",
-      "link": "https://news.yahoo.co.jp/pickup/6600650?source=rss",
-      "pubDate": "2026-10-30T00:42:51.000Z"
     },
     {
       "category": "国内",
