@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T23:00:48.869Z",
+  "updatedAt": "2026-11-01T23:15:33.530Z",
   "items": [
     {
       "category": "国内",
@@ -32,6 +32,14 @@
       "title": "ウクライナ南部の局地停戦が終了",
       "link": "https://news.yahoo.co.jp/pickup/6601014?source=rss",
       "pubDate": "2026-11-01T22:43:52.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] FBI、Binanceからの60億ドル超の暗号資産窃盗は北朝鮮「TraderTraitor」の犯行と発表",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002778/",
+      "pubDate": "2026-11-01T22:28:21.000Z"
     },
     {
       "category": "国際",
@@ -87,14 +95,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] 「保安検査の長い列」と「人手不足」をどう解消する？　フランクフルト空港におけるAI時代の空港DX",
       "link": "https://www.itmedia.co.jp/business/articles/2611/02/news003.html",
-      "pubDate": "2026-11-01T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] その日、メルカリは「業務を止めた」――上司と部下が対立も、AI利用率100％をかなえたCAIOの奮闘記",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news032.html",
       "pubDate": "2026-11-01T22:00:00.000Z"
     },
     {
