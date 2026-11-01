@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T23:30:44.879Z",
+  "updatedAt": "2026-11-01T23:45:31.514Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,22 @@
       "title": "私立高の学校納付金2倍 NGO調査",
       "link": "https://news.yahoo.co.jp/pickup/6601019?source=rss",
       "pubDate": "2026-11-01T23:21:23.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] AI固有の攻撃にどう備えるか ― セキュリティとガードレール",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/02/2000002745/",
+      "pubDate": "2026-11-01T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] なぜ自治体の仕事は誤解されるのか　行政現場に潜む「情報の非対称性」の正体",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news013.html",
+      "pubDate": "2026-11-01T23:00:00.000Z"
     },
     {
       "category": "国内",
@@ -87,22 +103,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] テレワークで“サボる”若者たち　予約送信、在席マーク駆使した「静かな休暇」、悪いのは本人か上司か会社か",
       "link": "https://www.itmedia.co.jp/business/articles/2611/02/news005.html",
-      "pubDate": "2026-11-01T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 高さ50メートル、1800度の「高炉」内部を可視化せよ　JFEスチールはどう実現したのか",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news012.html",
-      "pubDate": "2026-11-01T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 「保安検査の長い列」と「人手不足」をどう解消する？　フランクフルト空港におけるAI時代の空港DX",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news003.html",
       "pubDate": "2026-11-01T22:00:00.000Z"
     },
     {
