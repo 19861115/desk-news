@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T02:15:31.881Z",
+  "updatedAt": "2026-11-02T02:30:45.349Z",
   "items": [
     {
       "category": "科学",
@@ -226,14 +226,6 @@
       "pubDate": "2026-11-01T11:01:18.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "キヤノンはメモリ高騰によるコスト増をカメラ価格の引き上げで相殺する方針（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1967.html",
-      "pubDate": "2026-11-01T09:58:10.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -248,38 +240,6 @@
       "title": "岩手で熊出没急減 ブナ豊作影響か",
       "link": "https://news.yahoo.co.jp/pickup/6600940?source=rss",
       "pubDate": "2026-11-01T05:10:04.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ヨドバシの10月上期のランキングで「EOS R50」がソニーのトップ3独占を阻止（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/10-18.html",
-      "pubDate": "2026-11-01T04:07:25.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルムとキヤノンが新型カメラを登録（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/10/post-1966.html",
-      "pubDate": "2026-10-31T08:32:18.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ニコンが2027年3月期の業績予想を下方修正（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/10/20273q7.html",
-      "pubDate": "2026-10-31T04:10:37.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが25周年記念の動画で新型カメラを示唆？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/10/25-3.html",
-      "pubDate": "2026-10-30T02:33:25.000Z"
     }
   ]
 }
