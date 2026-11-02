@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-02T03:01:03.523Z",
+  "updatedAt": "2026-11-02T03:15:33.033Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "同僚から盗撮被害 会社を訴えた訳",
+      "link": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
+      "pubDate": "2026-11-02T03:13:14.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "サラダが主食? 専門店の市場拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6601045?source=rss",
+      "pubDate": "2026-11-02T03:09:09.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "サイゼリヤ 中国で人気集める理由",
+      "link": "https://news.yahoo.co.jp/pickup/6601044?source=rss",
+      "pubDate": "2026-11-02T03:08:32.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモ「東京メトロ全線の70％超で5G化」完了　混雑する地下鉄でもサクサクつながる実現へ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news049.html",
+      "pubDate": "2026-11-02T02:35:00.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -40,14 +72,6 @@
       "title": "[ITmedia News] クラブツーリズムに不正アクセス　個人情報約432万件漏えいの可能性、サイト停止",
       "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002782/",
       "pubDate": "2026-11-02T01:48:11.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] あなたの街の「スマホ決済」キャンペーンまとめ【2026年11月版】～PayPay、d払い、au PAY、楽天ペイ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news030.html",
-      "pubDate": "2026-11-02T01:30:00.000Z"
     },
     {
       "category": "国内",
@@ -186,22 +210,6 @@
       "pubDate": "2026-11-01T13:01:10.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "望月衣塑子記者の対談本 回収へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600996?source=rss",
-      "pubDate": "2026-11-01T12:59:35.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "みんなで大家さん 悔やむ出資者も",
-      "link": "https://news.yahoo.co.jp/pickup/6600993?source=rss",
-      "pubDate": "2026-11-01T12:37:33.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -232,14 +240,6 @@
       "title": "キヤノンはメモリ高騰によるコスト増をカメラ価格の引き上げで相殺する方針（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1967.html",
       "pubDate": "2026-11-01T09:58:10.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "渋滞最大で3時間 いろは坂で実験",
-      "link": "https://news.yahoo.co.jp/pickup/6600969?source=rss",
-      "pubDate": "2026-11-01T09:10:42.000Z"
     },
     {
       "category": "科学",
