@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T07:15:35.211Z",
+  "updatedAt": "2026-11-02T07:30:51.763Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO社長 会見で情報流出を謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6601065?source=rss",
+      "pubDate": "2026-11-02T07:14:27.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -232,14 +240,6 @@
       "title": "闇サイトで高まる 日本への関心",
       "link": "https://news.yahoo.co.jp/pickup/6600998?source=rss",
       "pubDate": "2026-11-01T13:01:10.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMO攻撃 北朝鮮系のハッカーか",
-      "link": "https://news.yahoo.co.jp/pickup/6600991?source=rss",
-      "pubDate": "2026-11-01T12:18:46.000Z"
     },
     {
       "category": "デジカメinfo",
