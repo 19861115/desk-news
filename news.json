@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-02T02:00:47.749Z",
+  "updatedAt": "2026-11-02T02:15:31.881Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "提供精子で誕生 子どもにどう告知",
+      "link": "https://news.yahoo.co.jp/pickup/6601035?source=rss",
+      "pubDate": "2026-11-02T02:11:19.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] クラブツーリズムに不正アクセス　個人情報約432万件漏えいの可能性、サイト停止",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002782/",
+      "pubDate": "2026-11-02T01:48:11.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] あなたの街の「スマホ決済」キャンペーンまとめ【2026年11月版】～PayPay、d払い、au PAY、楽天ペイ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news030.html",
+      "pubDate": "2026-11-02T01:30:00.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -58,28 +82,12 @@
       "pubDate": "2026-11-02T00:40:24.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] SaaSの“画面”が主役でなくなる時代、Workdayの価値はどこに残るのか　製品トップに聞いた",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/02/news021.html",
-      "pubDate": "2026-11-02T00:30:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "内定者2年間入社しなくてOK 狙い",
       "link": "https://news.yahoo.co.jp/pickup/6601025?source=rss",
       "pubDate": "2026-11-02T00:21:39.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Google、宇宙のTPUから初のAI応答を受信　「Project Suncatcher」試作衛星で「Gemma 4」が俳句を詠む",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002779/",
-      "pubDate": "2026-11-01T23:59:31.000Z"
     },
     {
       "category": "国際",
@@ -248,14 +256,6 @@
       "title": "ヨドバシの10月上期のランキングで「EOS R50」がソニーのトップ3独占を阻止（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/10-18.html",
       "pubDate": "2026-11-01T04:07:25.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "父娘の関係 自己開示が大切と識者",
-      "link": "https://news.yahoo.co.jp/pickup/6600916?source=rss",
-      "pubDate": "2026-11-01T01:46:44.000Z"
     },
     {
       "category": "デジカメinfo",
