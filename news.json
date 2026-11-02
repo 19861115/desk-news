@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-02T08:15:33.184Z",
+  "updatedAt": "2026-11-02T08:30:42.877Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO社長「社内指摘を生かせず」",
+      "link": "https://news.yahoo.co.jp/pickup/6601069?source=rss",
+      "pubDate": "2026-11-02T08:27:10.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "サントリーHD 10万人分漏えい",
+      "link": "https://news.yahoo.co.jp/pickup/6601074?source=rss",
+      "pubDate": "2026-11-02T08:25:54.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "コンゴのエボラ死者5000人超える",
+      "link": "https://news.yahoo.co.jp/pickup/6601072?source=rss",
+      "pubDate": "2026-11-02T08:17:09.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -24,14 +48,6 @@
       "title": "[ITmedia PC USER] そのときのアキバはどんな姿に？――MSIが2027年9月までのキャンペーンを実施",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news063.html",
       "pubDate": "2026-11-02T07:30:00.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMO社長 会見で情報流出を謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6601065?source=rss",
-      "pubDate": "2026-11-02T07:14:27.000Z"
     },
     {
       "category": "ITmedia",
@@ -186,14 +202,6 @@
       "pubDate": "2026-11-02T00:50:13.000Z"
     },
     {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "情報漏洩で見舞金 おわびの正解は",
-      "link": "https://news.yahoo.co.jp/pickup/6601028?source=rss",
-      "pubDate": "2026-11-02T00:48:42.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -232,14 +240,6 @@
       "title": "38歳で余命宣告 子への優しいうそ",
       "link": "https://news.yahoo.co.jp/pickup/6601003?source=rss",
       "pubDate": "2026-11-01T14:53:14.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "生命起源巡る理論 定説覆る可能性",
-      "link": "https://news.yahoo.co.jp/pickup/6600999?source=rss",
-      "pubDate": "2026-11-01T14:44:54.000Z"
     },
     {
       "category": "デジカメinfo",
