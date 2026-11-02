@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T05:30:42.620Z",
+  "updatedAt": "2026-11-02T05:45:30.619Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] Android XR本格搭載「XREAL AURA」、11月2日から日本で予約開始　Geminiをグラス内で利用可",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news035.html",
+      "pubDate": "2026-11-02T05:00:00.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -104,14 +112,6 @@
       "title": "サイゼリヤ 中国で人気集める理由",
       "link": "https://news.yahoo.co.jp/pickup/6601044?source=rss",
       "pubDate": "2026-11-02T03:08:32.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 楽天証券、顧客情報362件が漏えいか　NTTデータ委託先に不正アクセス",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002785/",
-      "pubDate": "2026-11-02T03:02:40.000Z"
     },
     {
       "category": "科学",
