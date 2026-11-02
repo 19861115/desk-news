@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-02T06:15:32.310Z",
+  "updatedAt": "2026-11-02T06:30:44.140Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "中継 GMO熊谷社長らが記者会見",
+      "link": "https://news.yahoo.co.jp/pickup/6601060?source=rss",
+      "pubDate": "2026-11-02T06:27:57.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "露首都テロ計画巡り 少年1人拘束",
+      "link": "https://news.yahoo.co.jp/pickup/6601061?source=rss",
+      "pubDate": "2026-11-02T06:20:07.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -194,14 +210,6 @@
       "pubDate": "2026-11-01T22:56:29.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "ウクライナ南部の局地停戦が終了",
-      "link": "https://news.yahoo.co.jp/pickup/6601014?source=rss",
-      "pubDate": "2026-11-01T22:43:52.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -232,14 +240,6 @@
       "title": "GMO攻撃 北朝鮮系のハッカーか",
       "link": "https://news.yahoo.co.jp/pickup/6600991?source=rss",
       "pubDate": "2026-11-01T12:18:46.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "「家族系」配信 相次ぐ収益化停止",
-      "link": "https://news.yahoo.co.jp/pickup/6600981?source=rss",
-      "pubDate": "2026-11-01T11:07:28.000Z"
     },
     {
       "category": "デジカメinfo",
