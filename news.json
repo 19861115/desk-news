@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T00:15:36.407Z",
+  "updatedAt": "2026-11-02T00:30:43.151Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "内定者2年間入社しなくてOK 狙い",
+      "link": "https://news.yahoo.co.jp/pickup/6601025?source=rss",
+      "pubDate": "2026-11-02T00:21:39.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -224,14 +232,6 @@
       "title": "岩手で熊出没急減 ブナ豊作影響か",
       "link": "https://news.yahoo.co.jp/pickup/6600940?source=rss",
       "pubDate": "2026-11-01T05:10:04.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "個人情報は必要? 企業の漏洩対策",
-      "link": "https://news.yahoo.co.jp/pickup/6600932?source=rss",
-      "pubDate": "2026-11-01T04:32:45.000Z"
     },
     {
       "category": "デジカメinfo",
