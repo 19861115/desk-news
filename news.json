@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-01T23:45:31.514Z",
+  "updatedAt": "2026-11-02T00:00:53.469Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米大統領 接戦州集会で最後の訴え",
+      "link": "https://news.yahoo.co.jp/pickup/6601024?source=rss",
+      "pubDate": "2026-11-01T23:58:15.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "スペイン事故 邦人1人の死亡確認",
+      "link": "https://news.yahoo.co.jp/pickup/6601023?source=rss",
+      "pubDate": "2026-11-01T23:45:06.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -178,14 +194,6 @@
       "pubDate": "2026-11-01T11:01:18.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "エムバペとキティ謝罪 中国の怒り",
-      "link": "https://news.yahoo.co.jp/pickup/6600978?source=rss",
-      "pubDate": "2026-11-01T10:33:29.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -208,14 +216,6 @@
       "title": "渋滞最大で3時間 いろは坂で実験",
       "link": "https://news.yahoo.co.jp/pickup/6600969?source=rss",
       "pubDate": "2026-11-01T09:10:42.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米中間選挙 事前投票が過去最多",
-      "link": "https://news.yahoo.co.jp/pickup/6600955?source=rss",
-      "pubDate": "2026-11-01T07:06:17.000Z"
     },
     {
       "category": "科学",
