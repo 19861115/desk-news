@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T07:00:47.039Z",
+  "updatedAt": "2026-11-02T07:15:35.211Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] サンワ、超小型筐体を採用した3ポート搭載スイッチングLANハブ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news062.html",
+      "pubDate": "2026-11-02T06:49:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "防衛費5年で70-80兆円案 政府与党",
       "link": "https://news.yahoo.co.jp/pickup/6601063?source=rss",
       "pubDate": "2026-11-02T06:42:05.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] XREAL、表示スペック向上＋装着感も改善したフラグシップARグラス「XREAL 1 Pro＋」",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news061.html",
+      "pubDate": "2026-11-02T06:39:00.000Z"
     },
     {
       "category": "IT",
@@ -45,25 +61,9 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] アットコスメ、会員約300万人分の情報漏えい　不正アクセスで",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002795/",
-      "pubDate": "2026-11-02T05:40:09.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] KTC、260Hz駆動をサポートした24.5型WQHDゲーミング液晶ディスプレイ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news058.html",
-      "pubDate": "2026-11-02T05:27:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] Android XR本格搭載「XREAL AURA」、11月2日から日本で予約開始　Geminiをグラス内で利用可",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news035.html",
-      "pubDate": "2026-11-02T05:00:00.000Z"
+      "title": "[ITmedia エンタープライズ] 富士通とNECのCFOが語る、2026年下期以降の「ITサービス需要動向」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/02/news053.html",
+      "pubDate": "2026-11-02T06:00:00.000Z"
     },
     {
       "category": "IT",
