@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T09:15:33.184Z",
+  "updatedAt": "2026-11-02T09:30:45.522Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "GMO熊谷社長ら 報酬を3カ月減額",
+      "link": "https://news.yahoo.co.jp/pickup/6601082?source=rss",
+      "pubDate": "2026-11-02T09:24:53.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -168,14 +176,6 @@
       "title": "同僚から盗撮被害 会社を訴えた訳",
       "link": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
       "pubDate": "2026-11-02T03:13:14.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "サラダが主食? 専門店の市場拡大",
-      "link": "https://news.yahoo.co.jp/pickup/6601045?source=rss",
-      "pubDate": "2026-11-02T03:09:09.000Z"
     },
     {
       "category": "科学",
