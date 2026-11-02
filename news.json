@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T01:30:42.462Z",
+  "updatedAt": "2026-11-02T01:45:31.681Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ロゴ画像用の公開領域に顧客ファイルも保存　GMO系シングルサインオン、4.5万人分漏えい",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002780/",
+      "pubDate": "2026-11-02T01:23:14.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "防災庁 事前防災の徹底を緊急要請",
       "link": "https://news.yahoo.co.jp/pickup/6601031?source=rss",
       "pubDate": "2026-11-02T01:22:57.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] d払い、dポイントのキャンペーンまとめ【11月2日最新版】　1万～10万ポイント還元のチャンス、ポイント交換で8％増量",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news039.html",
+      "pubDate": "2026-11-02T01:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 建設現場の「古い図面」問題　紙とデジタルのズレが招く「手戻り」と「工事遅延」、日本HPはどう解消した？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news006.html",
+      "pubDate": "2026-11-02T01:00:00.000Z"
     },
     {
       "category": "国際",
@@ -82,22 +106,6 @@
       "pubDate": "2026-11-01T23:21:23.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] AI固有の攻撃にどう備えるか ― セキュリティとガードレール",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/02/2000002745/",
-      "pubDate": "2026-11-01T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] なぜ自治体の仕事は誤解されるのか　行政現場に潜む「情報の非対称性」の正体",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news013.html",
-      "pubDate": "2026-11-01T23:00:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -128,14 +136,6 @@
       "title": "ウクライナ南部の局地停戦が終了",
       "link": "https://news.yahoo.co.jp/pickup/6601014?source=rss",
       "pubDate": "2026-11-01T22:43:52.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] FBI、Binanceからの60億ドル超の暗号資産窃盗は北朝鮮「TraderTraitor」の犯行と発表",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002778/",
-      "pubDate": "2026-11-01T22:28:21.000Z"
     },
     {
       "category": "国内",
