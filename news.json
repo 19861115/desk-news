@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-02T00:45:31.628Z",
+  "updatedAt": "2026-11-02T01:00:49.308Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "ハロウィン繁華街で銃撃相次ぐ 米",
+      "link": "https://news.yahoo.co.jp/pickup/6601027?source=rss",
+      "pubDate": "2026-11-02T00:50:13.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "情報漏洩で見舞金 おわびの正解は",
+      "link": "https://news.yahoo.co.jp/pickup/6601028?source=rss",
+      "pubDate": "2026-11-02T00:48:42.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -106,14 +122,6 @@
       "pubDate": "2026-11-01T22:28:21.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米でジェット機墜落 9人全員死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6601012?source=rss",
-      "pubDate": "2026-11-01T22:22:29.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -208,14 +216,6 @@
       "title": "GMO子会社 9年外部閲覧可の状態",
       "link": "https://news.yahoo.co.jp/pickup/6600980?source=rss",
       "pubDate": "2026-11-01T11:01:18.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMO攻撃者は何者か 識者の指摘",
-      "link": "https://news.yahoo.co.jp/pickup/6600977?source=rss",
-      "pubDate": "2026-11-01T10:30:00.000Z"
     },
     {
       "category": "デジカメinfo",
