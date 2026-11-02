@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T09:00:50.394Z",
+  "updatedAt": "2026-11-02T09:15:33.184Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "SBIとフジHDが資本業務提携 発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601077?source=rss",
+      "pubDate": "2026-11-02T09:03:31.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -168,14 +176,6 @@
       "title": "サラダが主食? 専門店の市場拡大",
       "link": "https://news.yahoo.co.jp/pickup/6601045?source=rss",
       "pubDate": "2026-11-02T03:09:09.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "サイゼリヤ 中国で人気集める理由",
-      "link": "https://news.yahoo.co.jp/pickup/6601044?source=rss",
-      "pubDate": "2026-11-02T03:08:32.000Z"
     },
     {
       "category": "科学",
