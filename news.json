@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T00:30:43.151Z",
+  "updatedAt": "2026-11-02T00:45:31.628Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "結核上回る患者数 NTM症の対策",
+      "link": "https://news.yahoo.co.jp/pickup/6601026?source=rss",
+      "pubDate": "2026-11-02T00:40:24.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "内定者2年間入社しなくてOK 狙い",
       "link": "https://news.yahoo.co.jp/pickup/6601025?source=rss",
       "pubDate": "2026-11-02T00:21:39.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Google、宇宙のTPUから初のAI応答を受信　「Project Suncatcher」試作衛星で「Gemma 4」が俳句を詠む",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002779/",
+      "pubDate": "2026-11-01T23:59:31.000Z"
     },
     {
       "category": "国際",
@@ -120,14 +136,6 @@
       "title": "[ITmedia News] Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
       "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
       "pubDate": "2026-11-01T22:00:23.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] テレワークで“サボる”若者たち　予約送信、在席マーク駆使した「静かな休暇」、悪いのは本人か上司か会社か",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news005.html",
-      "pubDate": "2026-11-01T22:00:00.000Z"
     },
     {
       "category": "科学",
@@ -248,14 +256,6 @@
       "title": "父娘の関係 自己開示が大切と識者",
       "link": "https://news.yahoo.co.jp/pickup/6600916?source=rss",
       "pubDate": "2026-11-01T01:46:44.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "巨大キノコの新種「Dレックス」",
-      "link": "https://news.yahoo.co.jp/pickup/6600862?source=rss",
-      "pubDate": "2026-10-31T12:07:35.000Z"
     },
     {
       "category": "デジカメinfo",
