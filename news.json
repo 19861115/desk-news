@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-02T10:45:51.332Z",
+  "updatedAt": "2026-11-02T11:00:50.957Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "備蓄緊急要請で不安の声 心理は",
+      "link": "https://news.yahoo.co.jp/pickup/6601089?source=rss",
+      "pubDate": "2026-11-02T10:52:27.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "GMO攻撃 警視庁が捜査本部設置",
+      "link": "https://news.yahoo.co.jp/pickup/6601090?source=rss",
+      "pubDate": "2026-11-02T10:51:11.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -218,14 +234,6 @@
       "pubDate": "2026-11-02T00:50:13.000Z"
     },
     {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "結核上回る患者数 NTM症の対策",
-      "link": "https://news.yahoo.co.jp/pickup/6601026?source=rss",
-      "pubDate": "2026-11-02T00:40:24.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -240,14 +248,6 @@
       "title": "スペイン事故 邦人1人の死亡確認",
       "link": "https://news.yahoo.co.jp/pickup/6601023?source=rss",
       "pubDate": "2026-11-01T23:45:06.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "内閣の支持率64.9%に上昇 JNN",
-      "link": "https://news.yahoo.co.jp/pickup/6601017?source=rss",
-      "pubDate": "2026-11-01T22:58:35.000Z"
     },
     {
       "category": "デジカメinfo",
