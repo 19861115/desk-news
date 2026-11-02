@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-02T06:00:49.674Z",
+  "updatedAt": "2026-11-02T06:15:32.310Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] アットコスメ、会員約300万人分の情報漏えい　不正アクセスで",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002795/",
+      "pubDate": "2026-11-02T05:40:09.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] KTC、260Hz駆動をサポートした24.5型WQHDゲーミング液晶ディスプレイ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news058.html",
+      "pubDate": "2026-11-02T05:27:00.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -58,6 +74,14 @@
       "pubDate": "2026-11-02T03:39:00.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「楽天Edy」25周年記念キャンペーン開催　クイズ正解で合計250万ポイント山分け＆抽選でグッズ進呈",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news054.html",
+      "pubDate": "2026-11-02T03:34:00.000Z"
+    },
+    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -66,36 +90,12 @@
       "pubDate": "2026-11-02T03:30:59.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ニコニコレンタカー、免許証画像の事前登録を廃止　保存済み画像も全削除　サイバー攻撃の増加受け",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002786/",
-      "pubDate": "2026-11-02T03:23:04.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] AULUMUのiPhone Duo用ケースを試す　光を反射する“粒子ドット”が個性的、薄型でMagSafeも強力",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news028.html",
-      "pubDate": "2026-11-02T03:20:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "同僚から盗撮被害 会社を訴えた訳",
       "link": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
       "pubDate": "2026-11-02T03:13:14.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] XGIMI、気軽に利用できるエントリーユーザー向けフルHD対応ポータブルプロジェクター",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news052.html",
-      "pubDate": "2026-11-02T03:10:00.000Z"
     },
     {
       "category": "経済",
