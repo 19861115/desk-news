@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T01:00:49.308Z",
+  "updatedAt": "2026-11-02T01:15:32.369Z",
   "items": [
     {
       "category": "国際",
@@ -24,6 +24,14 @@
       "title": "結核上回る患者数 NTM症の対策",
       "link": "https://news.yahoo.co.jp/pickup/6601026?source=rss",
       "pubDate": "2026-11-02T00:40:24.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] SaaSの“画面”が主役でなくなる時代、Workdayの価値はどこに残るのか　製品トップに聞いた",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/02/news021.html",
+      "pubDate": "2026-11-02T00:30:00.000Z"
     },
     {
       "category": "経済",
@@ -136,14 +144,6 @@
       "title": "早期流産で仕事中涙 有休取り崩し",
       "link": "https://news.yahoo.co.jp/pickup/6601009?source=rss",
       "pubDate": "2026-11-01T22:08:56.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
-      "pubDate": "2026-11-01T22:00:23.000Z"
     },
     {
       "category": "科学",
