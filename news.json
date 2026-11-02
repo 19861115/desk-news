@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T23:00:50.445Z",
+  "updatedAt": "2026-11-02T23:15:32.579Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "秋の叙勲 松坂慶子さんら受章",
+      "link": "https://news.yahoo.co.jp/pickup/6601122?source=rss",
+      "pubDate": "2026-11-02T23:06:44.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -224,14 +232,6 @@
       "title": "永谷園「モコモコ」販売再開へ",
       "link": "https://news.yahoo.co.jp/pickup/6601055?source=rss",
       "pubDate": "2026-11-02T04:41:16.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "文科相 東大学長の選考理由不明確",
-      "link": "https://news.yahoo.co.jp/pickup/6601053?source=rss",
-      "pubDate": "2026-11-02T04:32:41.000Z"
     },
     {
       "category": "経済",
