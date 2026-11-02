@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T11:30:44.408Z",
+  "updatedAt": "2026-11-02T11:45:39.633Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 7000円以下でヒンジまで守る、memumiのiPhone Duo用アラミド繊維ケースはハイレベルな逸品　MagSafe非対応だが対策あり",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news011.html",
+      "pubDate": "2026-11-02T11:00:00.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -48,6 +56,14 @@
       "title": "10月気温 過去2番目の暑さだった",
       "link": "https://news.yahoo.co.jp/pickup/6601084?source=rss",
       "pubDate": "2026-11-02T10:03:01.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] PayPayの地方自治体キャンペーン、12月以降は関東圏などで最大25％還元／最大1万5000円おトク",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news068.html",
+      "pubDate": "2026-11-02T09:46:00.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -128,22 +144,6 @@
       "title": "「アララ」不審メール713万通確認",
       "link": "https://news.yahoo.co.jp/pickup/6601070?source=rss",
       "pubDate": "2026-11-02T08:03:42.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] そのときのアキバはどんな姿に？――MSIが2027年9月までのキャンペーンを実施",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news063.html",
-      "pubDate": "2026-11-02T07:30:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] iPhone 18 Proシリーズ、発売3週間の販売台数がiPhone 17 Proシリーズより3.1％増に　カウンターポイントが発表",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news064.html",
-      "pubDate": "2026-11-02T07:12:00.000Z"
     },
     {
       "category": "国内",
