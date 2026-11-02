@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T07:30:51.763Z",
+  "updatedAt": "2026-11-02T07:45:30.606Z",
   "items": [
     {
       "category": "IT",
@@ -8,6 +8,14 @@
       "title": "GMO社長 会見で情報流出を謝罪",
       "link": "https://news.yahoo.co.jp/pickup/6601065?source=rss",
       "pubDate": "2026-11-02T07:14:27.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] GMO熊谷代表、会見で改めて謝罪　SNS投稿巡り「配慮が欠けていた」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/",
+      "pubDate": "2026-11-02T07:12:56.000Z"
     },
     {
       "category": "ITmedia",
@@ -64,14 +72,6 @@
       "title": "[ITmedia News] 山岳救助を迅速化へ　兵庫県警が登山アプリ「ヤマップ」と協定締結",
       "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002800/",
       "pubDate": "2026-11-02T06:10:17.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 富士通とNECのCFOが語る、2026年下期以降の「ITサービス需要動向」",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/02/news053.html",
-      "pubDate": "2026-11-02T06:00:00.000Z"
     },
     {
       "category": "IT",
