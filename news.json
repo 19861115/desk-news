@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-02T03:30:41.464Z",
+  "updatedAt": "2026-11-02T03:45:32.737Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "フラット35 金利3.81%で過去2番目",
+      "link": "https://news.yahoo.co.jp/pickup/6601048?source=rss",
+      "pubDate": "2026-11-02T03:39:43.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "ラッコのキラ体調不良 鳥羽水族館",
+      "link": "https://news.yahoo.co.jp/pickup/6601047?source=rss",
+      "pubDate": "2026-11-02T03:30:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ニコニコレンタカー、免許証画像の事前登録を廃止　保存済み画像も全削除　サイバー攻撃の増加受け",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002786/",
+      "pubDate": "2026-11-02T03:23:04.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] AULUMUのiPhone Duo用ケースを試す　光を反射する“粒子ドット”が個性的、薄型でMagSafeも強力",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news028.html",
+      "pubDate": "2026-11-02T03:20:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +40,14 @@
       "title": "同僚から盗撮被害 会社を訴えた訳",
       "link": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
       "pubDate": "2026-11-02T03:13:14.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] XGIMI、気軽に利用できるエントリーユーザー向けフルHD対応ポータブルプロジェクター",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news052.html",
+      "pubDate": "2026-11-02T03:10:00.000Z"
     },
     {
       "category": "経済",
@@ -29,17 +69,17 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ドコモ「東京メトロ全線の70％超で5G化」完了　混雑する地下鉄でもサクサクつながる実現へ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news049.html",
-      "pubDate": "2026-11-02T02:35:00.000Z"
+      "title": "[ITmedia News] 楽天証券、顧客情報362件が漏えいか　NTTデータ委託先に不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002785/",
+      "pubDate": "2026-11-02T03:02:40.000Z"
     },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 復刊の真意は紙からデジタルに「とぶ！」　「あいまい検索」を生かしつつ大量の最新情報へ　話の肖像画　ぴあ創業者・社長　矢内廣＜1＞",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/02/2000002784/",
-      "pubDate": "2026-11-02T02:23:13.000Z"
+      "title": "[ITmedia ビジネスオンライン] ヨックモックの「板チョコ」が話題　社員にだけ販売→一般販売で見えてきた想定外の楽しみ方は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news044.html",
+      "pubDate": "2026-11-02T03:00:00.000Z"
     },
     {
       "category": "科学",
@@ -48,30 +88,6 @@
       "title": "提供精子で誕生 子どもにどう告知",
       "link": "https://news.yahoo.co.jp/pickup/6601035?source=rss",
       "pubDate": "2026-11-02T02:11:19.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ワールド子会社に不正アクセス、会員情報のべ約120万件が流出の可能性　「RAGTAG」運営元",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002783/",
-      "pubDate": "2026-11-02T02:06:13.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] なぜ三井住友は新店舗で「銀行名」を外したのか？　「富裕層100万人」を囲うSMBC融合の正体",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news004.html",
-      "pubDate": "2026-11-02T02:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] クラブツーリズムに不正アクセス　個人情報約432万件漏えいの可能性、サイト停止",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002782/",
-      "pubDate": "2026-11-02T01:48:11.000Z"
     },
     {
       "category": "国内",
@@ -154,14 +170,6 @@
       "pubDate": "2026-11-01T22:56:29.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "金型の無償保管 公取委勧告が急増",
-      "link": "https://news.yahoo.co.jp/pickup/6601015?source=rss",
-      "pubDate": "2026-11-01T22:44:39.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -240,14 +248,6 @@
       "title": "キヤノンはメモリ高騰によるコスト増をカメラ価格の引き上げで相殺する方針（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1967.html",
       "pubDate": "2026-11-01T09:58:10.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "岩手で熊出没急減 ブナ豊作影響か",
-      "link": "https://news.yahoo.co.jp/pickup/6600940?source=rss",
-      "pubDate": "2026-11-01T05:10:04.000Z"
     },
     {
       "category": "デジカメinfo",
