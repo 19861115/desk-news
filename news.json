@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-02T10:30:47.645Z",
+  "updatedAt": "2026-11-02T10:45:51.332Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO社長 自身のSNS休止に言及",
+      "link": "https://news.yahoo.co.jp/pickup/6601087?source=rss",
+      "pubDate": "2026-11-02T10:33:44.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002823/",
+      "pubDate": "2026-11-02T10:27:04.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] GMO熊谷代表、会見で改めて謝罪　SNS投稿巡り「配慮が欠けていた」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/",
+      "pubDate": "2026-11-02T10:20:14.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -10,20 +34,12 @@
       "pubDate": "2026-11-02T10:03:01.000Z"
     },
     {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMO社長 自身のSNS投稿も謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6601083?source=rss",
-      "pubDate": "2026-11-02T09:57:02.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002823/",
-      "pubDate": "2026-11-02T09:50:02.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "シグマ「FP2」はビデオグラファーには魅力的だがカジュアルな使い方なら「LUMIX S9」がコストパフォーマンスに優れている（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/fp2-4.html",
+      "pubDate": "2026-11-02T09:29:29.000Z"
     },
     {
       "category": "経済",
@@ -96,14 +112,6 @@
       "title": "[ITmedia PC USER] そのときのアキバはどんな姿に？――MSIが2027年9月までのキャンペーンを実施",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news063.html",
       "pubDate": "2026-11-02T07:30:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] GMO熊谷代表、会見で改めて謝罪　SNS投稿巡り「配慮が欠けていた」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/",
-      "pubDate": "2026-11-02T07:12:56.000Z"
     },
     {
       "category": "ITmedia",
@@ -272,14 +280,6 @@
       "title": "ニコンが2027年3月期の業績予想を下方修正（デジカメinfo）",
       "link": "https://digicame-info.com/2026/10/20273q7.html",
       "pubDate": "2026-10-31T04:10:37.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが25周年記念の動画で新型カメラを示唆？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/10/25-3.html",
-      "pubDate": "2026-10-30T02:33:25.000Z"
     }
   ]
 }
