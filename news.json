@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T06:30:44.140Z",
+  "updatedAt": "2026-11-02T06:45:33.575Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "防衛費5年で70-80兆円案 政府与党",
+      "link": "https://news.yahoo.co.jp/pickup/6601063?source=rss",
+      "pubDate": "2026-11-02T06:42:05.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -16,6 +24,22 @@
       "title": "露首都テロ計画巡り 少年1人拘束",
       "link": "https://news.yahoo.co.jp/pickup/6601061?source=rss",
       "pubDate": "2026-11-02T06:20:07.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 雑誌『ぴあ』なぜいま復刊？　「ググる時代」に15年ぶり、矢内社長が語る“紙の勝機”",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news055.html",
+      "pubDate": "2026-11-02T06:15:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 山岳救助を迅速化へ　兵庫県警が登山アプリ「ヤマップ」と協定締結",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002800/",
+      "pubDate": "2026-11-02T06:10:17.000Z"
     },
     {
       "category": "ITmedia",
@@ -80,22 +104,6 @@
       "title": "フラット35 金利3.81%で過去2番目",
       "link": "https://news.yahoo.co.jp/pickup/6601048?source=rss",
       "pubDate": "2026-11-02T03:39:43.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] グッズ収納ケースとして使えるBluetoothワイヤレススピーカー",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news056.html",
-      "pubDate": "2026-11-02T03:39:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「楽天Edy」25周年記念キャンペーン開催　クイズ正解で合計250万ポイント山分け＆抽選でグッズ進呈",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news054.html",
-      "pubDate": "2026-11-02T03:34:00.000Z"
     },
     {
       "category": "科学",
@@ -184,14 +192,6 @@
       "title": "スペイン事故 邦人1人の死亡確認",
       "link": "https://news.yahoo.co.jp/pickup/6601023?source=rss",
       "pubDate": "2026-11-01T23:45:06.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "私立高の学校納付金2倍 NGO調査",
-      "link": "https://news.yahoo.co.jp/pickup/6601019?source=rss",
-      "pubDate": "2026-11-01T23:21:23.000Z"
     },
     {
       "category": "国内",
