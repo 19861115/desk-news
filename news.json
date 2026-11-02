@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T04:00:47.350Z",
+  "updatedAt": "2026-11-02T04:15:32.058Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "防災相 世界一の防災大国を目指す",
+      "link": "https://news.yahoo.co.jp/pickup/6601050?source=rss",
+      "pubDate": "2026-11-02T04:11:59.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -16,6 +24,14 @@
       "title": "フラット35 金利3.81%で過去2番目",
       "link": "https://news.yahoo.co.jp/pickup/6601048?source=rss",
       "pubDate": "2026-11-02T03:39:43.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] グッズ収納ケースとして使えるBluetoothワイヤレススピーカー",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news056.html",
+      "pubDate": "2026-11-02T03:39:00.000Z"
     },
     {
       "category": "科学",
@@ -80,14 +96,6 @@
       "title": "[ITmedia News] 楽天証券、顧客情報362件が漏えいか　NTTデータ委託先に不正アクセス",
       "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002785/",
       "pubDate": "2026-11-02T03:02:40.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] ヨックモックの「板チョコ」が話題　社員にだけ販売→一般販売で見えてきた想定外の楽しみ方は？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news044.html",
-      "pubDate": "2026-11-02T03:00:00.000Z"
     },
     {
       "category": "科学",
@@ -184,14 +192,6 @@
       "title": "防災庁発足 防災・災害時の司令塔",
       "link": "https://news.yahoo.co.jp/pickup/6601011?source=rss",
       "pubDate": "2026-11-01T22:21:01.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "早期流産で仕事中涙 有休取り崩し",
-      "link": "https://news.yahoo.co.jp/pickup/6601009?source=rss",
-      "pubDate": "2026-11-01T22:08:56.000Z"
     },
     {
       "category": "科学",
