@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T04:45:32.513Z",
+  "updatedAt": "2026-11-02T05:00:50.891Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "「アララ」7700万件のメアド流出",
+      "link": "https://news.yahoo.co.jp/pickup/6601057?source=rss",
+      "pubDate": "2026-11-02T04:54:46.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -232,14 +240,6 @@
       "title": "「家族系」配信 相次ぐ収益化停止",
       "link": "https://news.yahoo.co.jp/pickup/6600981?source=rss",
       "pubDate": "2026-11-01T11:07:28.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMO子会社 9年外部閲覧可の状態",
-      "link": "https://news.yahoo.co.jp/pickup/6600980?source=rss",
-      "pubDate": "2026-11-01T11:01:18.000Z"
     },
     {
       "category": "デジカメinfo",
