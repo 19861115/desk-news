@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T08:45:32.901Z",
+  "updatedAt": "2026-11-02T09:00:50.394Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "BTS所属のHYBE ハッキング被害",
+      "link": "https://news.yahoo.co.jp/pickup/6601078?source=rss",
+      "pubDate": "2026-11-02T08:58:56.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -104,14 +112,6 @@
       "title": "[ITmedia ビジネスオンライン] 雑誌『ぴあ』なぜいま復刊？　「ググる時代」に15年ぶり、矢内社長が語る“紙の勝機”",
       "link": "https://www.itmedia.co.jp/business/articles/2611/02/news055.html",
       "pubDate": "2026-11-02T06:15:00.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "「アララ」7700万件のメアド流出",
-      "link": "https://news.yahoo.co.jp/pickup/6601057?source=rss",
-      "pubDate": "2026-11-02T04:54:46.000Z"
     },
     {
       "category": "経済",
