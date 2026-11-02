@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T10:00:58.397Z",
+  "updatedAt": "2026-11-02T10:15:31.539Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "10月気温 過去2番目の暑さだった",
+      "link": "https://news.yahoo.co.jp/pickup/6601084?source=rss",
+      "pubDate": "2026-11-02T10:03:01.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "GMO社長 自身のSNS投稿も謝罪",
       "link": "https://news.yahoo.co.jp/pickup/6601083?source=rss",
       "pubDate": "2026-11-02T09:57:02.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002823/",
+      "pubDate": "2026-11-02T09:50:02.000Z"
     },
     {
       "category": "経済",
@@ -122,14 +138,6 @@
       "pubDate": "2026-11-02T06:20:07.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 雑誌『ぴあ』なぜいま復刊？　「ググる時代」に15年ぶり、矢内社長が語る“紙の勝機”",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news055.html",
-      "pubDate": "2026-11-02T06:15:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -232,14 +240,6 @@
       "title": "内閣の支持率64.9%に上昇 JNN",
       "link": "https://news.yahoo.co.jp/pickup/6601017?source=rss",
       "pubDate": "2026-11-01T22:58:35.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "38歳で余命宣告 子への優しいうそ",
-      "link": "https://news.yahoo.co.jp/pickup/6601003?source=rss",
-      "pubDate": "2026-11-01T14:53:14.000Z"
     },
     {
       "category": "デジカメinfo",
