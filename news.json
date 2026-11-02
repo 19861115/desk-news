@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T11:00:50.957Z",
+  "updatedAt": "2026-11-02T11:15:32.201Z",
   "items": [
     {
       "category": "科学",
@@ -82,6 +82,14 @@
       "pubDate": "2026-11-02T08:58:56.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] フラッグシップARグラス後継モデル「XREAL 1 Pro＋」発売　映像画質や装着時の安定感を改善",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news065.html",
+      "pubDate": "2026-11-02T08:41:00.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -133,9 +141,9 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] サンワ、超小型筐体を採用した3ポート搭載スイッチングLANハブ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news062.html",
-      "pubDate": "2026-11-02T06:49:00.000Z"
+      "title": "[ITmedia Mobile] iPhone 18 Proシリーズ、発売3週間の販売台数がiPhone 17 Proシリーズより3.1％増に　カウンターポイントが発表",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/02/news064.html",
+      "pubDate": "2026-11-02T07:12:00.000Z"
     },
     {
       "category": "国内",
@@ -144,14 +152,6 @@
       "title": "防衛費5年で70-80兆円案 政府与党",
       "link": "https://news.yahoo.co.jp/pickup/6601063?source=rss",
       "pubDate": "2026-11-02T06:42:05.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] XREAL、表示スペック向上＋装着感も改善したフラグシップARグラス「XREAL 1 Pro＋」",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news061.html",
-      "pubDate": "2026-11-02T06:39:00.000Z"
     },
     {
       "category": "国際",
