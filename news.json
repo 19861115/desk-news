@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-02T04:30:41.430Z",
+  "updatedAt": "2026-11-02T04:45:32.513Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "永谷園「モコモコ」販売再開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601055?source=rss",
+      "pubDate": "2026-11-02T04:41:16.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "文科相 東大学長の選考理由不明確",
+      "link": "https://news.yahoo.co.jp/pickup/6601053?source=rss",
+      "pubDate": "2026-11-02T04:32:41.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,14 +24,6 @@
       "title": "防災相 世界一の防災大国を目指す",
       "link": "https://news.yahoo.co.jp/pickup/6601050?source=rss",
       "pubDate": "2026-11-02T04:11:59.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "永谷園 休売のモコモコ販売再開へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601049?source=rss",
-      "pubDate": "2026-11-02T03:48:03.000Z"
     },
     {
       "category": "経済",
@@ -184,14 +192,6 @@
       "title": "ウクライナ南部の局地停戦が終了",
       "link": "https://news.yahoo.co.jp/pickup/6601014?source=rss",
       "pubDate": "2026-11-01T22:43:52.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "防災庁発足 防災・災害時の司令塔",
-      "link": "https://news.yahoo.co.jp/pickup/6601011?source=rss",
-      "pubDate": "2026-11-01T22:21:01.000Z"
     },
     {
       "category": "科学",
