@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-02T08:00:49.205Z",
+  "updatedAt": "2026-11-02T08:15:33.184Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "MAGA派を鼓舞 トランプ氏に焦り",
+      "link": "https://news.yahoo.co.jp/pickup/6601071?source=rss",
+      "pubDate": "2026-11-02T08:12:10.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "「アララ」不審メール713万通確認",
+      "link": "https://news.yahoo.co.jp/pickup/6601070?source=rss",
+      "pubDate": "2026-11-02T08:03:42.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] そのときのアキバはどんな姿に？――MSIが2027年9月までのキャンペーンを実施",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news063.html",
+      "pubDate": "2026-11-02T07:30:00.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -64,14 +88,6 @@
       "title": "[ITmedia ビジネスオンライン] 雑誌『ぴあ』なぜいま復刊？　「ググる時代」に15年ぶり、矢内社長が語る“紙の勝機”",
       "link": "https://www.itmedia.co.jp/business/articles/2611/02/news055.html",
       "pubDate": "2026-11-02T06:15:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 山岳救助を迅速化へ　兵庫県警が登山アプリ「ヤマップ」と協定締結",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002800/",
-      "pubDate": "2026-11-02T06:10:17.000Z"
     },
     {
       "category": "IT",
@@ -210,14 +226,6 @@
       "pubDate": "2026-11-01T22:58:35.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "北への武器 香港の密輸集団が暗躍",
-      "link": "https://news.yahoo.co.jp/pickup/6601016?source=rss",
-      "pubDate": "2026-11-01T22:56:29.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -232,14 +240,6 @@
       "title": "生命起源巡る理論 定説覆る可能性",
       "link": "https://news.yahoo.co.jp/pickup/6600999?source=rss",
       "pubDate": "2026-11-01T14:44:54.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "闇サイトで高まる 日本への関心",
-      "link": "https://news.yahoo.co.jp/pickup/6600998?source=rss",
-      "pubDate": "2026-11-01T13:01:10.000Z"
     },
     {
       "category": "デジカメinfo",
