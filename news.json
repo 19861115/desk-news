@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-02T01:15:32.369Z",
+  "updatedAt": "2026-11-02T01:30:42.462Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "防災庁 事前防災の徹底を緊急要請",
+      "link": "https://news.yahoo.co.jp/pickup/6601031?source=rss",
+      "pubDate": "2026-11-02T01:22:57.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "生命起源巡る理論 定説覆る可能性",
       "link": "https://news.yahoo.co.jp/pickup/6600999?source=rss",
       "pubDate": "2026-11-01T14:44:54.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "農相政治団体 寄付3000万円不記載",
-      "link": "https://news.yahoo.co.jp/pickup/6601002?source=rss",
-      "pubDate": "2026-11-01T14:25:40.000Z"
     },
     {
       "category": "IT",
