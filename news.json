@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T00:30:41.970Z",
+  "updatedAt": "2026-11-03T00:45:33.649Z",
   "items": [
     {
       "category": "国際",
@@ -24,6 +24,14 @@
       "title": "GMO 侵入から2カ月なぜ気付かず",
       "link": "https://news.yahoo.co.jp/pickup/6601132?source=rss",
       "pubDate": "2026-11-03T00:06:05.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 渦中のGMO記者会見、責任の所在はどこに？　熊谷代表が語った“グループ内の力関係”",
+      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002829/",
+      "pubDate": "2026-11-03T00:00:00.000Z"
     },
     {
       "category": "IT",
@@ -87,14 +95,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] 物価高で消費者の「買い方」はどう変わった？　カギは“お得さ”とAIか",
       "link": "https://www.itmedia.co.jp/business/articles/2611/03/news003.html",
-      "pubDate": "2026-11-02T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 三菱電機「純正SDカード」生産中止へ　産業用メモリの“調達難”、どう乗り越える？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/03/news010.html",
       "pubDate": "2026-11-02T23:00:00.000Z"
     },
     {
