@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-03T10:15:33.885Z",
+  "updatedAt": "2026-11-03T10:30:44.785Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "豪が追加利上げ 18年ぶり高水準",
+      "link": "https://news.yahoo.co.jp/pickup/6601212?source=rss",
+      "pubDate": "2026-11-03T10:23:11.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -80,14 +88,6 @@
       "title": "ダークウェブ 日本人の情報流出増",
       "link": "https://news.yahoo.co.jp/pickup/6601181?source=rss",
       "pubDate": "2026-11-03T06:51:21.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "夫より高学歴・高収入 妻の悩み",
-      "link": "https://news.yahoo.co.jp/pickup/6601184?source=rss",
-      "pubDate": "2026-11-03T06:46:01.000Z"
     },
     {
       "category": "国内",
