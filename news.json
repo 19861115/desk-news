@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-03T11:15:33.866Z",
+  "updatedAt": "2026-11-03T11:30:45.265Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "アメリカ 中間選挙の投票始まる",
+      "link": "https://news.yahoo.co.jp/pickup/6601217?source=rss",
+      "pubDate": "2026-11-03T11:29:21.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "関東 4日夜-5日に激しい雨の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6601216?source=rss",
+      "pubDate": "2026-11-03T11:26:01.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "大阪 ナンバーワン副首都目指す",
+      "link": "https://news.yahoo.co.jp/pickup/6601214?source=rss",
+      "pubDate": "2026-11-03T11:22:43.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -90,36 +114,12 @@
       "pubDate": "2026-11-03T06:51:21.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "宮中晩餐会 なぜフランス料理",
-      "link": "https://news.yahoo.co.jp/pickup/6601177?source=rss",
-      "pubDate": "2026-11-03T06:14:52.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "トランプ政権に審判 民主優勢保つ",
-      "link": "https://news.yahoo.co.jp/pickup/6601173?source=rss",
-      "pubDate": "2026-11-03T05:58:52.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "米巨大IT5社とも増収 7～9月期",
       "link": "https://news.yahoo.co.jp/pickup/6601172?source=rss",
       "pubDate": "2026-11-03T05:46:47.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "教員確保へ働き方改革推進 文科相",
-      "link": "https://news.yahoo.co.jp/pickup/6601170?source=rss",
-      "pubDate": "2026-11-03T05:35:22.000Z"
     },
     {
       "category": "IT",
