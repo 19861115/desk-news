@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-03T04:45:32.495Z",
+  "updatedAt": "2026-11-03T05:00:52.452Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "大阪市行政システム 情報漏えいか",
+      "link": "https://news.yahoo.co.jp/pickup/6601164?source=rss",
+      "pubDate": "2026-11-03T04:50:05.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -192,14 +200,6 @@
       "title": "ソニーが登録した新型カメラは「α7SIV」で確実ではないが「α7CIII」「α7CRII」「α6900」でないことは確実（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/7siv7ciii7crii6900.html",
       "pubDate": "2026-11-02T15:51:06.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMOが謝罪 利用者「響かない」",
-      "link": "https://news.yahoo.co.jp/pickup/6601107?source=rss",
-      "pubDate": "2026-11-02T14:08:17.000Z"
     },
     {
       "category": "経済",
