@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T01:30:43.388Z",
+  "updatedAt": "2026-11-03T01:45:33.846Z",
   "items": [
     {
       "category": "経済",
@@ -16,6 +16,22 @@
       "title": "米・露・ウが10～11日に3者協議",
       "link": "https://news.yahoo.co.jp/pickup/6601140?source=rss",
       "pubDate": "2026-11-03T01:07:31.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] au PAYとPontaのキャンペーンまとめ【11月3日最新版】　抽選で10万ポイント還元、ECサイトで最大34％還元あり",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news013.html",
+      "pubDate": "2026-11-03T01:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 2万6400円の本革スマホショルダーバッグ　日本エコレザー基準の最高分類に認定",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news012.html",
+      "pubDate": "2026-11-03T01:00:00.000Z"
     },
     {
       "category": "経済",
@@ -112,22 +128,6 @@
       "title": "秋の叙勲 松坂慶子さんら受章",
       "link": "https://news.yahoo.co.jp/pickup/6601122?source=rss",
       "pubDate": "2026-11-02T23:06:44.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] セキュリティ予算「27年度は増加」が27％　どんな対策に投資する？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/03/news002.html",
-      "pubDate": "2026-11-02T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] iPhone DuoのヒンジもボタンもカバーできるSmallRigのアラミド繊維ケース　前面フレームがあれば完璧だった",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news015.html",
-      "pubDate": "2026-11-02T23:00:00.000Z"
     },
     {
       "category": "国際",
