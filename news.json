@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-03T05:30:42.885Z",
+  "updatedAt": "2026-11-03T05:45:37.614Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "教員確保へ働き方改革推進 文科相",
+      "link": "https://news.yahoo.co.jp/pickup/6601170?source=rss",
+      "pubDate": "2026-11-03T05:35:22.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -176,14 +184,6 @@
       "title": "秋の叙勲 松坂慶子さんら受章",
       "link": "https://news.yahoo.co.jp/pickup/6601122?source=rss",
       "pubDate": "2026-11-02T23:06:44.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "転換期の憲法論議 発議見通せず",
-      "link": "https://news.yahoo.co.jp/pickup/6601117?source=rss",
-      "pubDate": "2026-11-02T22:44:28.000Z"
     },
     {
       "category": "IT",
