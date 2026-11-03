@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-03T06:15:33.036Z",
+  "updatedAt": "2026-11-03T06:31:03.822Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "夫より高学歴高収入 妻のモヤモヤ",
+      "link": "https://news.yahoo.co.jp/pickup/6601179?source=rss",
+      "pubDate": "2026-11-03T06:26:15.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "宮中晩餐会 なぜフランス料理",
+      "link": "https://news.yahoo.co.jp/pickup/6601177?source=rss",
+      "pubDate": "2026-11-03T06:14:52.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -186,14 +202,6 @@
       "pubDate": "2026-11-02T23:35:02.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "秋の叙勲 松坂慶子さんら受章",
-      "link": "https://news.yahoo.co.jp/pickup/6601122?source=rss",
-      "pubDate": "2026-11-02T23:06:44.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -232,14 +240,6 @@
       "title": "シグマ「FP2」はビデオグラファーには魅力的だがカジュアルな使い方なら「LUMIX S9」がコストパフォーマンスに優れている（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/fp2-4.html",
       "pubDate": "2026-11-02T09:29:29.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "GMO熊谷社長ら 報酬を3カ月減額",
-      "link": "https://news.yahoo.co.jp/pickup/6601082?source=rss",
-      "pubDate": "2026-11-02T09:24:53.000Z"
     },
     {
       "category": "科学",
