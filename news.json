@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-03T01:15:31.965Z",
+  "updatedAt": "2026-11-03T01:30:43.388Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "安いもやし限界 5年で13社消える",
+      "link": "https://news.yahoo.co.jp/pickup/6601141?source=rss",
+      "pubDate": "2026-11-03T01:17:07.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -232,14 +240,6 @@
       "title": "コンゴのエボラ死者5000人超える",
       "link": "https://news.yahoo.co.jp/pickup/6601072?source=rss",
       "pubDate": "2026-11-02T08:17:09.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "永谷園「モコモコ」販売再開へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601055?source=rss",
-      "pubDate": "2026-11-02T04:41:16.000Z"
     },
     {
       "category": "科学",
