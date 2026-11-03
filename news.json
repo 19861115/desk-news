@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-03T09:45:33.516Z",
+  "updatedAt": "2026-11-03T10:00:51.097Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMOのサーバー「設計上の不備」",
+      "link": "https://news.yahoo.co.jp/pickup/6601209?source=rss",
+      "pubDate": "2026-11-03T09:50:53.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米共和党 福音派有権者なぜ重要",
+      "link": "https://news.yahoo.co.jp/pickup/6601207?source=rss",
+      "pubDate": "2026-11-03T09:49:11.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -122,14 +138,6 @@
       "pubDate": "2026-11-03T04:40:35.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米大統領 イランとの合意あり得る",
-      "link": "https://news.yahoo.co.jp/pickup/6601160?source=rss",
-      "pubDate": "2026-11-03T04:28:19.000Z"
-    },
-    {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
@@ -184,14 +192,6 @@
       "title": "子どものセルフレジ操作 SNS賛否",
       "link": "https://news.yahoo.co.jp/pickup/6601135?source=rss",
       "pubDate": "2026-11-03T00:47:57.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "米アップルiPhone好調で増収増益",
-      "link": "https://news.yahoo.co.jp/pickup/6601134?source=rss",
-      "pubDate": "2026-11-03T00:44:56.000Z"
     },
     {
       "category": "ITmedia",
