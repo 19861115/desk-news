@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-03T08:30:44.864Z",
+  "updatedAt": "2026-11-03T08:45:33.481Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "源泉かけ流しでウナギ養殖 岐阜",
+      "link": "https://news.yahoo.co.jp/pickup/6601196?source=rss",
+      "pubDate": "2026-11-03T08:41:00.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -256,14 +264,6 @@
       "title": "ラッコのキラ体調不良 鳥羽水族館",
       "link": "https://news.yahoo.co.jp/pickup/6601047?source=rss",
       "pubDate": "2026-11-02T03:30:59.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "提供精子で誕生 子どもにどう告知",
-      "link": "https://news.yahoo.co.jp/pickup/6601035?source=rss",
-      "pubDate": "2026-11-02T02:11:19.000Z"
     },
     {
       "category": "デジカメinfo",
