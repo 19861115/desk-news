@@ -1,13 +1,45 @@
 {
-  "updatedAt": "2026-11-03T23:00:54.192Z",
+  "updatedAt": "2026-11-03T23:31:08.628Z",
   "items": [
     {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
-      "title": "米中間選挙 予測市場精度問われる",
-      "link": "https://news.yahoo.co.jp/pickup/6601249?source=rss",
-      "pubDate": "2026-11-03T22:56:39.000Z"
+      "title": "アメリカ中間選挙の開票始まる",
+      "link": "https://news.yahoo.co.jp/pickup/6601254?source=rss",
+      "pubDate": "2026-11-03T23:28:24.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "関東一部 5日朝に警報級大雨恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6601253?source=rss",
+      "pubDate": "2026-11-03T23:23:21.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "パーソナルトレ トラブル急増",
+      "link": "https://news.yahoo.co.jp/pickup/6601250?source=rss",
+      "pubDate": "2026-11-03T23:16:44.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米中間選挙 予測市場が試練に直面",
+      "link": "https://news.yahoo.co.jp/pickup/6601252?source=rss",
+      "pubDate": "2026-11-03T23:11:46.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Google、学校の生徒向けAI機能を原則オフへ　「AIなしのGoogle検索」は選べず批判も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
+      "pubDate": "2026-11-03T22:31:04.000Z"
     },
     {
       "category": "国際",
@@ -55,14 +87,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] オープンハウス28歳エース、新卒2年目で「年収1000万円」達成　“最強”を目指す泥臭い仕事哲学とは？",
       "link": "https://www.itmedia.co.jp/business/articles/2611/04/news008.html",
-      "pubDate": "2026-11-03T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] AIエージェントが揺さぶる「人間前提」のセキュリティ　何を見直すべきか",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/03/news001.html",
       "pubDate": "2026-11-03T22:00:00.000Z"
     },
     {
@@ -122,28 +146,12 @@
       "pubDate": "2026-11-03T13:29:57.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "テヘランに「トランプ殺す」看板",
-      "link": "https://news.yahoo.co.jp/pickup/6601221?source=rss",
-      "pubDate": "2026-11-03T12:59:19.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "武部農相 献金巡り新たな疑惑",
       "link": "https://news.yahoo.co.jp/pickup/6601222?source=rss",
       "pubDate": "2026-11-03T12:53:53.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "関東 4日夜-5日に激しい雨の恐れ",
-      "link": "https://news.yahoo.co.jp/pickup/6601216?source=rss",
-      "pubDate": "2026-11-03T11:26:01.000Z"
     },
     {
       "category": "経済",
@@ -202,12 +210,20 @@
       "pubDate": "2026-11-03T02:47:00.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "安いもやし限界 5年で13社消える",
-      "link": "https://news.yahoo.co.jp/pickup/6601141?source=rss",
-      "pubDate": "2026-11-03T01:17:07.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」の発表が更に延期？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6-9.html",
+      "pubDate": "2026-11-03T01:46:10.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーが登録した新型カメラは「α7SIV」で確実ではないが「α7CIII」「α7CRII」「α6900」でないことは確実（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/7siv7ciii7crii6900.html",
+      "pubDate": "2026-11-02T15:51:06.000Z"
     },
     {
       "category": "科学",
@@ -226,6 +242,14 @@
       "pubDate": "2026-11-02T10:03:01.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "シグマ「FP2」はビデオグラファーには魅力的だがカジュアルな使い方なら「LUMIX S9」がコストパフォーマンスに優れている（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/fp2-4.html",
+      "pubDate": "2026-11-02T09:29:29.000Z"
+    },
+    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -240,6 +264,22 @@
       "title": "ラッコのキラ体調不良 鳥羽水族館",
       "link": "https://news.yahoo.co.jp/pickup/6601047?source=rss",
       "pubDate": "2026-11-02T03:30:59.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "キヤノンはメモリ高騰によるコスト増をカメラ価格の引き上げで相殺する方針（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1967.html",
+      "pubDate": "2026-11-01T09:58:10.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ヨドバシの10月上期のランキングで「EOS R50」がソニーのトップ3独占を阻止（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/10-18.html",
+      "pubDate": "2026-11-01T04:07:25.000Z"
     }
   ]
 }
