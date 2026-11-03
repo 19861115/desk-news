@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-03T09:00:52.568Z",
+  "updatedAt": "2026-11-03T09:15:35.027Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "旧統一総裁の保釈取り消し 韓国",
+      "link": "https://news.yahoo.co.jp/pickup/6601202?source=rss",
+      "pubDate": "2026-11-03T09:14:46.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "盤上に虫 藤井竜王思わず席を立つ",
+      "link": "https://news.yahoo.co.jp/pickup/6601201?source=rss",
+      "pubDate": "2026-11-03T09:09:52.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -106,14 +122,6 @@
       "pubDate": "2026-11-03T04:28:19.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "韓国 大統領や高官の個人情報流出",
-      "link": "https://news.yahoo.co.jp/pickup/6601155?source=rss",
-      "pubDate": "2026-11-03T03:31:09.000Z"
-    },
-    {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
@@ -192,14 +200,6 @@
       "title": "[ITmedia News] Apple、第4四半期として過去最高の増収増益　ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
       "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002840/",
       "pubDate": "2026-11-03T00:44:48.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "トランプ政権に「共感」日本で23%",
-      "link": "https://news.yahoo.co.jp/pickup/6601133?source=rss",
-      "pubDate": "2026-11-03T00:06:45.000Z"
     },
     {
       "category": "ITmedia",
