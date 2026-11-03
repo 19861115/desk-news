@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-03T02:45:32.051Z",
+  "updatedAt": "2026-11-03T03:01:02.733Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "きのこの山イヤホン 再販時の配慮",
+      "link": "https://news.yahoo.co.jp/pickup/6601151?source=rss",
+      "pubDate": "2026-11-03T02:47:00.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "28年かけ世界一周 英冒険家が帰郷",
+      "link": "https://news.yahoo.co.jp/pickup/6601152?source=rss",
+      "pubDate": "2026-11-03T02:44:09.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -130,14 +146,6 @@
       "pubDate": "2026-11-02T23:35:02.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "露軍がウの学校に空爆 26人死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6601125?source=rss",
-      "pubDate": "2026-11-02T23:33:39.000Z"
-    },
-    {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
@@ -224,14 +232,6 @@
       "title": "GMO熊谷社長ら 報酬を3カ月減額",
       "link": "https://news.yahoo.co.jp/pickup/6601082?source=rss",
       "pubDate": "2026-11-02T09:24:53.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "SBIとフジHDが資本業務提携 発表",
-      "link": "https://news.yahoo.co.jp/pickup/6601077?source=rss",
-      "pubDate": "2026-11-02T09:03:31.000Z"
     },
     {
       "category": "科学",
