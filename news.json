@@ -1,13 +1,141 @@
 {
-  "updatedAt": "2026-11-03T11:45:36.972Z",
+  "updatedAt": "2026-11-03T23:00:54.192Z",
   "items": [
     {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
-      "title": "アメリカ 中間選挙の投票始まる",
-      "link": "https://news.yahoo.co.jp/pickup/6601217?source=rss",
-      "pubDate": "2026-11-03T11:29:21.000Z"
+      "title": "米中間選挙 予測市場精度問われる",
+      "link": "https://news.yahoo.co.jp/pickup/6601249?source=rss",
+      "pubDate": "2026-11-03T22:56:39.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "欧州で旅客機への爆破予告相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6601246?source=rss",
+      "pubDate": "2026-11-03T22:30:44.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米大統領 イスラエル支援終了発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601244?source=rss",
+      "pubDate": "2026-11-03T22:30:01.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ノジマオンライン、会員情報約700万件漏えい　不正アクセスでサイト休止、再開未定",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002848/",
+      "pubDate": "2026-11-03T22:04:35.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 人件費なんと「年270億円」増加！　JR東“本気の人事制度改革”の中身",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/04/news009.html",
+      "pubDate": "2026-11-03T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 2週間で新モデル投入　Google復活の裏にある「AIがAIを作る力」の急伸力",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/04/news030.html",
+      "pubDate": "2026-11-03T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] オープンハウス28歳エース、新卒2年目で「年収1000万円」達成　“最強”を目指す泥臭い仕事哲学とは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/04/news008.html",
+      "pubDate": "2026-11-03T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] AIエージェントが揺さぶる「人間前提」のセキュリティ　何を見直すべきか",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/03/news001.html",
+      "pubDate": "2026-11-03T22:00:00.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "山手線外回りが運転再開 駅で発煙",
+      "link": "https://news.yahoo.co.jp/pickup/6601237?source=rss",
+      "pubDate": "2026-11-03T20:36:21.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "アソビュー 1500万件超の情報流出",
+      "link": "https://news.yahoo.co.jp/pickup/6601234?source=rss",
+      "pubDate": "2026-11-03T14:59:10.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "タイ 輸入EVの物品税引き上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6601233?source=rss",
+      "pubDate": "2026-11-03T14:40:16.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "夫婦漫才で安保広報に工夫 政府",
+      "link": "https://news.yahoo.co.jp/pickup/6601229?source=rss",
+      "pubDate": "2026-11-03T14:03:56.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米中間選挙 集計長期化の可能性も",
+      "link": "https://news.yahoo.co.jp/pickup/6601226?source=rss",
+      "pubDate": "2026-11-03T14:02:50.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "緊急要請 備蓄1週間分並べてみた",
+      "link": "https://news.yahoo.co.jp/pickup/6601223?source=rss",
+      "pubDate": "2026-11-03T13:31:31.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "イタイイタイ病 最後の原告死去",
+      "link": "https://news.yahoo.co.jp/pickup/6601224?source=rss",
+      "pubDate": "2026-11-03T13:29:57.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "テヘランに「トランプ殺す」看板",
+      "link": "https://news.yahoo.co.jp/pickup/6601221?source=rss",
+      "pubDate": "2026-11-03T12:59:19.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "武部農相 献金巡り新たな疑惑",
+      "link": "https://news.yahoo.co.jp/pickup/6601222?source=rss",
+      "pubDate": "2026-11-03T12:53:53.000Z"
     },
     {
       "category": "国内",
@@ -16,14 +144,6 @@
       "title": "関東 4日夜-5日に激しい雨の恐れ",
       "link": "https://news.yahoo.co.jp/pickup/6601216?source=rss",
       "pubDate": "2026-11-03T11:26:01.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "大阪 ナンバーワン副首都目指す",
-      "link": "https://news.yahoo.co.jp/pickup/6601214?source=rss",
-      "pubDate": "2026-11-03T11:22:43.000Z"
     },
     {
       "category": "経済",
@@ -42,38 +162,6 @@
       "pubDate": "2026-11-03T09:50:53.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米共和党 福音派有権者なぜ重要",
-      "link": "https://news.yahoo.co.jp/pickup/6601207?source=rss",
-      "pubDate": "2026-11-03T09:49:11.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "簗氏の出陣式で鉢巻きを無償配布",
-      "link": "https://news.yahoo.co.jp/pickup/6601203?source=rss",
-      "pubDate": "2026-11-03T09:32:23.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "旧統一総裁の保釈取り消し 韓国",
-      "link": "https://news.yahoo.co.jp/pickup/6601202?source=rss",
-      "pubDate": "2026-11-03T09:14:46.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "盤上に虫 藤井竜王思わず席を立つ",
-      "link": "https://news.yahoo.co.jp/pickup/6601201?source=rss",
-      "pubDate": "2026-11-03T09:09:52.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -88,22 +176,6 @@
       "title": "源泉かけ流しでウナギ養殖 岐阜",
       "link": "https://news.yahoo.co.jp/pickup/6601196?source=rss",
       "pubDate": "2026-11-03T08:41:00.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米中間選挙 民主勝利ならどうなる",
-      "link": "https://news.yahoo.co.jp/pickup/6601194?source=rss",
-      "pubDate": "2026-11-03T08:12:35.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "給食だけの登校の批判やめて 訴え",
-      "link": "https://news.yahoo.co.jp/pickup/6601190?source=rss",
-      "pubDate": "2026-11-03T07:34:06.000Z"
     },
     {
       "category": "IT",
@@ -122,30 +194,6 @@
       "pubDate": "2026-11-03T05:46:47.000Z"
     },
     {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "大阪市行政システム 情報漏えいか",
-      "link": "https://news.yahoo.co.jp/pickup/6601164?source=rss",
-      "pubDate": "2026-11-03T04:50:05.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "露軍 外国人兵に入れ墨で識別番号",
-      "link": "https://news.yahoo.co.jp/pickup/6601163?source=rss",
-      "pubDate": "2026-11-03T04:40:35.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 月額無料のAI通訳イヤフォン「W4 Plus」を試す　翻訳精度をオンラインとオフラインで比較した",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/03/news004.html",
-      "pubDate": "2026-11-03T03:00:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -154,76 +202,12 @@
       "pubDate": "2026-11-03T02:47:00.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」の発表が更に延期？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6-9.html",
-      "pubDate": "2026-11-03T01:46:10.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "安いもやし限界 5年で13社消える",
       "link": "https://news.yahoo.co.jp/pickup/6601141?source=rss",
       "pubDate": "2026-11-03T01:17:07.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] au PAYとPontaのキャンペーンまとめ【11月3日最新版】　抽選で10万ポイント還元、ECサイトで最大34％還元あり",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news013.html",
-      "pubDate": "2026-11-03T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 2万6400円の本革スマホショルダーバッグ　日本エコレザー基準の最高分類に認定",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/03/news012.html",
-      "pubDate": "2026-11-03T01:00:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "子どものセルフレジ操作 SNS賛否",
-      "link": "https://news.yahoo.co.jp/pickup/6601135?source=rss",
-      "pubDate": "2026-11-03T00:47:57.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Apple、第4四半期として過去最高の増収増益　ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002840/",
-      "pubDate": "2026-11-03T00:44:48.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 渦中のGMO記者会見、責任の所在はどこに？　熊谷代表が語った“グループ内の力関係”",
-      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002829/",
-      "pubDate": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーが登録した新型カメラは「α7SIV」で確実ではないが「α7CIII」「α7CRII」「α6900」でないことは確実（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/7siv7ciii7crii6900.html",
-      "pubDate": "2026-11-02T15:51:06.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "TDL内に野良猫 運営会社の対応は",
-      "link": "https://news.yahoo.co.jp/pickup/6601105?source=rss",
-      "pubDate": "2026-11-02T13:43:53.000Z"
     },
     {
       "category": "科学",
@@ -242,14 +226,6 @@
       "pubDate": "2026-11-02T10:03:01.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "シグマ「FP2」はビデオグラファーには魅力的だがカジュアルな使い方なら「LUMIX S9」がコストパフォーマンスに優れている（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/fp2-4.html",
-      "pubDate": "2026-11-02T09:29:29.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -264,22 +240,6 @@
       "title": "ラッコのキラ体調不良 鳥羽水族館",
       "link": "https://news.yahoo.co.jp/pickup/6601047?source=rss",
       "pubDate": "2026-11-02T03:30:59.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "キヤノンはメモリ高騰によるコスト増をカメラ価格の引き上げで相殺する方針（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1967.html",
-      "pubDate": "2026-11-01T09:58:10.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ヨドバシの10月上期のランキングで「EOS R50」がソニーのトップ3独占を阻止（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/10-18.html",
-      "pubDate": "2026-11-01T04:07:25.000Z"
     }
   ]
 }
