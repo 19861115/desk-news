@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-03T04:30:44.896Z",
+  "updatedAt": "2026-11-03T04:45:32.495Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "露軍 外国人兵に入れ墨で識別番号",
+      "link": "https://news.yahoo.co.jp/pickup/6601163?source=rss",
+      "pubDate": "2026-11-03T04:40:35.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -48,14 +56,6 @@
       "title": "ICC赤根所長 米政権の制裁を批判",
       "link": "https://news.yahoo.co.jp/pickup/6601146?source=rss",
       "pubDate": "2026-11-03T02:14:00.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米中間選挙「MAGA」の動向焦点",
-      "link": "https://news.yahoo.co.jp/pickup/6601145?source=rss",
-      "pubDate": "2026-11-03T01:59:48.000Z"
     },
     {
       "category": "デジカメinfo",
