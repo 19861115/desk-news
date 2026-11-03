@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-03T03:30:41.915Z",
+  "updatedAt": "2026-11-03T03:45:32.355Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "韓国 大統領や高官の個人情報流出",
+      "link": "https://news.yahoo.co.jp/pickup/6601155?source=rss",
+      "pubDate": "2026-11-03T03:31:09.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 月額無料のAI通訳イヤフォン「W4 Plus」を試す　翻訳精度をオンラインとオフラインで比較した",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/03/news004.html",
+      "pubDate": "2026-11-03T03:00:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -98,14 +114,6 @@
       "pubDate": "2026-11-03T00:44:48.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "トランプ氏 演説で「口約束」連発",
-      "link": "https://news.yahoo.co.jp/pickup/6601130?source=rss",
-      "pubDate": "2026-11-03T00:09:15.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -144,14 +152,6 @@
       "title": "公布80年 初改正へ改憲派前のめり",
       "link": "https://news.yahoo.co.jp/pickup/6601124?source=rss",
       "pubDate": "2026-11-02T23:35:02.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Anthropic、IPO申請書を修正　7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
-      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
-      "pubDate": "2026-11-02T23:20:20.000Z"
     },
     {
       "category": "国内",
