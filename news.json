@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-03T09:30:50.423Z",
+  "updatedAt": "2026-11-03T09:45:33.516Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "簗氏の出陣式で鉢巻きを無償配布",
+      "link": "https://news.yahoo.co.jp/pickup/6601203?source=rss",
+      "pubDate": "2026-11-03T09:32:23.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -144,14 +152,6 @@
       "title": "富士フイルム「X-T6」の発表が更に延期？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/x-t6-9.html",
       "pubDate": "2026-11-03T01:46:10.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "親と縁切る「家族じまい」相談増",
-      "link": "https://news.yahoo.co.jp/pickup/6601143?source=rss",
-      "pubDate": "2026-11-03T01:44:22.000Z"
     },
     {
       "category": "経済",
