@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-03T01:00:49.191Z",
+  "updatedAt": "2026-11-03T01:15:31.965Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米・露・ウが10～11日に3者協議",
+      "link": "https://news.yahoo.co.jp/pickup/6601140?source=rss",
+      "pubDate": "2026-11-03T01:07:31.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -16,6 +24,14 @@
       "title": "米アップルiPhone好調で増収増益",
       "link": "https://news.yahoo.co.jp/pickup/6601134?source=rss",
       "pubDate": "2026-11-03T00:44:56.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Apple、第4四半期として過去最高の増収増益　ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002840/",
+      "pubDate": "2026-11-03T00:44:48.000Z"
     },
     {
       "category": "国際",
@@ -106,14 +122,6 @@
       "pubDate": "2026-11-02T23:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 物価高で消費者の「買い方」はどう変わった？　カギは“お得さ”とAIか",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/03/news003.html",
-      "pubDate": "2026-11-02T23:00:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -152,14 +160,6 @@
       "title": "医療インバウンド 厚労省が検証へ",
       "link": "https://news.yahoo.co.jp/pickup/6601113?source=rss",
       "pubDate": "2026-11-02T22:29:06.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "スペイン列車事故 邦人死亡2人に",
-      "link": "https://news.yahoo.co.jp/pickup/6601111?source=rss",
-      "pubDate": "2026-11-02T22:06:06.000Z"
     },
     {
       "category": "デジカメinfo",
