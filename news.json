@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-03T05:45:37.614Z",
+  "updatedAt": "2026-11-03T06:00:51.589Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "トランプ政権に審判 民主優勢保つ",
+      "link": "https://news.yahoo.co.jp/pickup/6601173?source=rss",
+      "pubDate": "2026-11-03T05:58:52.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "米巨大IT5社とも増収 7～9月期",
+      "link": "https://news.yahoo.co.jp/pickup/6601172?source=rss",
+      "pubDate": "2026-11-03T05:46:47.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -64,14 +80,6 @@
       "title": "28年かけ世界一周 英冒険家が帰郷",
       "link": "https://news.yahoo.co.jp/pickup/6601152?source=rss",
       "pubDate": "2026-11-03T02:44:09.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "ICC赤根所長 米政権の制裁を批判",
-      "link": "https://news.yahoo.co.jp/pickup/6601146?source=rss",
-      "pubDate": "2026-11-03T02:14:00.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -184,14 +192,6 @@
       "title": "秋の叙勲 松坂慶子さんら受章",
       "link": "https://news.yahoo.co.jp/pickup/6601122?source=rss",
       "pubDate": "2026-11-02T23:06:44.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMO会見で「命の砂時計」 意味",
-      "link": "https://news.yahoo.co.jp/pickup/6601115?source=rss",
-      "pubDate": "2026-11-02T22:33:34.000Z"
     },
     {
       "category": "デジカメinfo",
