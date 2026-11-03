@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-03T01:45:33.846Z",
+  "updatedAt": "2026-11-03T02:00:50.742Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "親と縁切る「家族じまい」相談増",
+      "link": "https://news.yahoo.co.jp/pickup/6601143?source=rss",
+      "pubDate": "2026-11-03T01:44:22.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "GMO会見で「命の砂時計」 意味",
       "link": "https://news.yahoo.co.jp/pickup/6601115?source=rss",
       "pubDate": "2026-11-02T22:33:34.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "医療インバウンド 厚労省が検証へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601113?source=rss",
-      "pubDate": "2026-11-02T22:29:06.000Z"
     },
     {
       "category": "デジカメinfo",
