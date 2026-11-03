@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-03T00:45:33.649Z",
+  "updatedAt": "2026-11-03T01:00:49.191Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "子どものセルフレジ操作 SNS賛否",
+      "link": "https://news.yahoo.co.jp/pickup/6601135?source=rss",
+      "pubDate": "2026-11-03T00:47:57.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "米アップルiPhone好調で増収増益",
+      "link": "https://news.yahoo.co.jp/pickup/6601134?source=rss",
+      "pubDate": "2026-11-03T00:44:56.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -170,14 +186,6 @@
       "pubDate": "2026-11-02T13:43:53.000Z"
     },
     {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ノジマ 700万人分の個人情報流出",
-      "link": "https://news.yahoo.co.jp/pickup/6601104?source=rss",
-      "pubDate": "2026-11-02T13:26:39.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -232,14 +240,6 @@
       "title": "永谷園「モコモコ」販売再開へ",
       "link": "https://news.yahoo.co.jp/pickup/6601055?source=rss",
       "pubDate": "2026-11-02T04:41:16.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "フラット35 金利3.81%で過去2番目",
-      "link": "https://news.yahoo.co.jp/pickup/6601048?source=rss",
-      "pubDate": "2026-11-02T03:39:43.000Z"
     },
     {
       "category": "科学",
