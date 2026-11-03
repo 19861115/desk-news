@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-03T02:00:50.742Z",
+  "updatedAt": "2026-11-03T02:15:40.469Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "ICC赤根所長 米政権の制裁を批判",
+      "link": "https://news.yahoo.co.jp/pickup/6601146?source=rss",
+      "pubDate": "2026-11-03T02:14:00.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米中間選挙「MAGA」の動向焦点",
+      "link": "https://news.yahoo.co.jp/pickup/6601145?source=rss",
+      "pubDate": "2026-11-03T01:59:48.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -138,28 +154,12 @@
       "pubDate": "2026-11-02T23:06:44.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米中間選挙 今夜から全米で投票",
-      "link": "https://news.yahoo.co.jp/pickup/6601118?source=rss",
-      "pubDate": "2026-11-02T22:45:59.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "転換期の憲法論議 発議見通せず",
       "link": "https://news.yahoo.co.jp/pickup/6601117?source=rss",
       "pubDate": "2026-11-02T22:44:28.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "北朝鮮 バイナンス巡り関与否定",
-      "link": "https://news.yahoo.co.jp/pickup/6601116?source=rss",
-      "pubDate": "2026-11-02T22:40:52.000Z"
     },
     {
       "category": "IT",
