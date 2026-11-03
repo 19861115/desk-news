@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-03T08:45:33.481Z",
+  "updatedAt": "2026-11-03T09:00:52.568Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "SNS巡る問題 揺らぐ表現の自由",
+      "link": "https://news.yahoo.co.jp/pickup/6601198?source=rss",
+      "pubDate": "2026-11-03T08:53:06.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -192,14 +200,6 @@
       "title": "トランプ政権に「共感」日本で23%",
       "link": "https://news.yahoo.co.jp/pickup/6601133?source=rss",
       "pubDate": "2026-11-03T00:06:45.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMO 侵入から2カ月なぜ気付かず",
-      "link": "https://news.yahoo.co.jp/pickup/6601132?source=rss",
-      "pubDate": "2026-11-03T00:06:05.000Z"
     },
     {
       "category": "ITmedia",
