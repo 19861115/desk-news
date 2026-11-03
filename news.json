@@ -1,13 +1,21 @@
 {
-  "updatedAt": "2026-11-03T06:45:33.431Z",
+  "updatedAt": "2026-11-03T07:00:52.820Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ダークウェブ 日本人の情報流出増",
+      "link": "https://news.yahoo.co.jp/pickup/6601181?source=rss",
+      "pubDate": "2026-11-03T06:51:21.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
-      "title": "夫より高学歴高収入 妻のモヤモヤ",
-      "link": "https://news.yahoo.co.jp/pickup/6601179?source=rss",
-      "pubDate": "2026-11-03T06:26:15.000Z"
+      "title": "夫より高学歴・高収入 妻の悩み",
+      "link": "https://news.yahoo.co.jp/pickup/6601184?source=rss",
+      "pubDate": "2026-11-03T06:46:01.000Z"
     },
     {
       "category": "国内",
@@ -184,14 +192,6 @@
       "title": "[ITmedia News] 渦中のGMO記者会見、責任の所在はどこに？　熊谷代表が語った“グループ内の力関係”",
       "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002829/",
       "pubDate": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "欧州店舗にサイバー攻撃 食品廃棄",
-      "link": "https://news.yahoo.co.jp/pickup/6601127?source=rss",
-      "pubDate": "2026-11-02T23:44:18.000Z"
     },
     {
       "category": "国内",
