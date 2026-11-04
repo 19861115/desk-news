@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-04T04:15:32.406Z",
+  "updatedAt": "2026-11-04T04:30:42.488Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米大統領痛手 民主が下院奪還確実",
+      "link": "https://news.yahoo.co.jp/pickup/6601291?source=rss",
+      "pubDate": "2026-11-04T04:20:37.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -120,14 +128,6 @@
       "title": "1兆円盗難 バイナンスが手口公表",
       "link": "https://news.yahoo.co.jp/pickup/6601264?source=rss",
       "pubDate": "2026-11-04T00:49:15.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "スペイン運輸相 列車事故受け辞意",
-      "link": "https://news.yahoo.co.jp/pickup/6601256?source=rss",
-      "pubDate": "2026-11-04T00:40:48.000Z"
     },
     {
       "category": "科学",
