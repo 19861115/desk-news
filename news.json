@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-04T08:00:48.954Z",
+  "updatedAt": "2026-11-04T08:15:32.449Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米大統領 敗因巡りイラン攻撃言及",
+      "link": "https://news.yahoo.co.jp/pickup/6601315?source=rss",
+      "pubDate": "2026-11-04T08:00:55.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "東証続落 米選挙懸念でAI株売り",
       "link": "https://news.yahoo.co.jp/pickup/6601314?source=rss",
       "pubDate": "2026-11-04T07:59:18.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] デニーズアプリに不正アクセス　旧アプリ移行処理で認証情報を不正作成される　個人情報漏えいか",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002878/",
+      "pubDate": "2026-11-04T07:55:18.000Z"
     },
     {
       "category": "国際",
@@ -32,6 +48,14 @@
       "title": "キャンパスノート 15年ぶり刷新",
       "link": "https://news.yahoo.co.jp/pickup/6601311?source=rss",
       "pubDate": "2026-11-04T07:47:23.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] NTTの島田明社長、不正アクセス攻撃者の遮断で法制化求める　事前の想定が重要と強調",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002877/",
+      "pubDate": "2026-11-04T07:36:36.000Z"
     },
     {
       "category": "ITmedia",
@@ -74,22 +98,6 @@
       "pubDate": "2026-11-04T06:10:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] “コーヒー香る”PC＆スマホスタンドがMOFTから登場　新「Coffee Collection」2製品の実用性をチェックした",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news059.html",
-      "pubDate": "2026-11-04T06:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] シャオミ、大容量バッテリーを採用した水拭き対応ロボット掃除機",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news077.html",
-      "pubDate": "2026-11-04T06:00:00.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -120,14 +128,6 @@
       "title": "テキサス州上院 38年ぶり民主勝利",
       "link": "https://news.yahoo.co.jp/pickup/6601292?source=rss",
       "pubDate": "2026-11-04T04:36:32.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米大統領痛手 民主が下院奪還確実",
-      "link": "https://news.yahoo.co.jp/pickup/6601291?source=rss",
-      "pubDate": "2026-11-04T04:20:37.000Z"
     },
     {
       "category": "デジカメinfo",
