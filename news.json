@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-04T00:00:54.210Z",
+  "updatedAt": "2026-11-04T00:15:34.408Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Microsoft、メモリ8GBのWindows 11 PCを高速化　マルチタスク処理は最大40％向上",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002851/",
+      "pubDate": "2026-11-03T23:33:38.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -80,14 +88,6 @@
       "title": "[ITmedia News] ノジマオンライン、会員情報約700万件漏えい　不正アクセスでサイト休止、再開未定",
       "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002848/",
       "pubDate": "2026-11-03T22:04:35.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 人件費なんと「年270億円」増加！　JR東“本気の人事制度改革”の中身",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/04/news009.html",
-      "pubDate": "2026-11-03T22:00:00.000Z"
     },
     {
       "category": "経済",
