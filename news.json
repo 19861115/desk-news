@@ -1,6 +1,150 @@
 {
-  "updatedAt": "2026-11-04T11:45:32.396Z",
+  "updatedAt": "2026-11-04T23:00:50.680Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "サイバー救援隊を創設へ 政府案",
+      "link": "https://news.yahoo.co.jp/pickup/6601372?source=rss",
+      "pubDate": "2026-11-04T22:41:50.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米民主党 トランプ政権監視強化へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601374?source=rss",
+      "pubDate": "2026-11-04T22:35:38.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ダウ一時1500ドル高 選挙から一夜",
+      "link": "https://news.yahoo.co.jp/pickup/6601373?source=rss",
+      "pubDate": "2026-11-04T22:35:29.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "「書道」無形文化遺産に登録へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601371?source=rss",
+      "pubDate": "2026-11-04T22:19:22.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 米中間選挙で民主党が上下両院を奪還　AI規制強化に現実味、IT大手の株価は上昇",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002888/",
+      "pubDate": "2026-11-04T22:11:20.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] どうなる、ウナギ業界──「鰻の成瀬」400→160店舗に、各社“あの手この手”の生き残り戦略",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/05/news002.html",
+      "pubDate": "2026-11-04T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 予算止める側だったのに「増額」進言　現場の「伸びそう」応援する“CFOの右腕”設置、MIXIに何が起きた？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/05/news025.html",
+      "pubDate": "2026-11-04T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] クリック不要、パッチもない　AIエージェントを乗っ取る「偽AGENTS.md」がダウンロードフォルダに　どうすればいいのか",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/05/news017.html",
+      "pubDate": "2026-11-04T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 深刻な「中国依存」を脱せるか　老舗問屋が動いた「空気を使った肥料づくり」とAI農業とは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/05/news019.html",
+      "pubDate": "2026-11-04T22:00:00.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "関東や伊豆諸島 大雨災害に警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6601367?source=rss",
+      "pubDate": "2026-11-04T21:30:41.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "リニア工事費 再び増額へ検討",
+      "link": "https://news.yahoo.co.jp/pickup/6601365?source=rss",
+      "pubDate": "2026-11-04T14:54:37.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "竜王戦でカメムシ出没 僧侶が捕獲",
+      "link": "https://news.yahoo.co.jp/pickup/6601363?source=rss",
+      "pubDate": "2026-11-04T14:35:08.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "米中間選挙 日本政府は動向注視",
+      "link": "https://news.yahoo.co.jp/pickup/6601362?source=rss",
+      "pubDate": "2026-11-04T14:20:05.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "e-Taxに不審な通信 緊急メンテ",
+      "link": "https://news.yahoo.co.jp/pickup/6601361?source=rss",
+      "pubDate": "2026-11-04T14:08:31.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ゆうちょ銀 松井証券に20%出資",
+      "link": "https://news.yahoo.co.jp/pickup/6601352?source=rss",
+      "pubDate": "2026-11-04T13:23:46.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "香川の讃岐うどん店 混雑対応苦慮",
+      "link": "https://news.yahoo.co.jp/pickup/6601347?source=rss",
+      "pubDate": "2026-11-04T12:40:19.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "金融庁 ソニーFGに立ち入り検査",
+      "link": "https://news.yahoo.co.jp/pickup/6601346?source=rss",
+      "pubDate": "2026-11-04T12:13:24.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "児童婚増えるガザ 壮絶性暴力訴え",
+      "link": "https://news.yahoo.co.jp/pickup/6601344?source=rss",
+      "pubDate": "2026-11-04T11:58:45.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -16,14 +160,6 @@
       "title": "免許証画像漏えい SNS悪用詐欺も",
       "link": "https://news.yahoo.co.jp/pickup/6601325?source=rss",
       "pubDate": "2026-11-04T10:39:12.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ahamo改定の反響は？ 「厳しい意見もあるが段階制への評価も」――ドコモ前田社長",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news088.html",
-      "pubDate": "2026-11-04T10:31:00.000Z"
     },
     {
       "category": "科学",
@@ -42,44 +178,12 @@
       "pubDate": "2026-11-04T10:13:08.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "すし店の休廃業・解散が急増 25年",
-      "link": "https://news.yahoo.co.jp/pickup/6601334?source=rss",
-      "pubDate": "2026-11-04T10:10:49.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 情報漏えいの「おわびメール」が毎日届いてうんざり……漏れた情報別に“最低限やること”をまとめた",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news087.html",
-      "pubDate": "2026-11-04T10:00:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "米民主党が躍進 支持者は喜び爆発",
       "link": "https://news.yahoo.co.jp/pickup/6601332?source=rss",
       "pubDate": "2026-11-04T09:52:57.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か　Googleが取引停止",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/",
-      "pubDate": "2026-11-04T09:51:41.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 無印良品、クレカ「MUJI Card」カード番号全ケタ、約109万件漏えいか　不正アクセスで続報",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002885/",
-      "pubDate": "2026-11-04T09:33:11.000Z"
     },
     {
       "category": "IT",
@@ -90,52 +194,20 @@
       "pubDate": "2026-11-04T09:32:09.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ライカM12はCCDセンサーのような色再現になる？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/m12ccd.html",
+      "pubDate": "2026-11-04T09:31:45.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "米大統領 民主党に「おめでとう」",
       "link": "https://news.yahoo.co.jp/pickup/6601327?source=rss",
       "pubDate": "2026-11-04T09:09:06.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "特定健診の支援見直し提言 財務省",
-      "link": "https://news.yahoo.co.jp/pickup/6601322?source=rss",
-      "pubDate": "2026-11-04T09:02:43.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] クラウドだけにデータを預けるのが不安な人に　TERRAMASTERの外付けストレージケースやNASケースが最大24％オフ！",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news076.html",
-      "pubDate": "2026-11-04T09:00:00.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米大統領 敗因巡りイラン攻撃言及",
-      "link": "https://news.yahoo.co.jp/pickup/6601315?source=rss",
-      "pubDate": "2026-11-04T08:00:55.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "東証続落 米選挙懸念でAI株売り",
-      "link": "https://news.yahoo.co.jp/pickup/6601314?source=rss",
-      "pubDate": "2026-11-04T07:59:18.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "黒人女性が州知事に当選確実 米",
-      "link": "https://news.yahoo.co.jp/pickup/6601313?source=rss",
-      "pubDate": "2026-11-04T07:53:10.000Z"
     },
     {
       "category": "科学",
@@ -146,28 +218,12 @@
       "pubDate": "2026-11-04T07:49:11.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "キャンパスノート 15年ぶり刷新",
-      "link": "https://news.yahoo.co.jp/pickup/6601311?source=rss",
-      "pubDate": "2026-11-04T07:47:23.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "ISSの米宇宙飛行士も中間選挙投票",
       "link": "https://news.yahoo.co.jp/pickup/6601302?source=rss",
       "pubDate": "2026-11-04T06:25:46.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "BYD海外販売が倍増 中国車に明暗",
-      "link": "https://news.yahoo.co.jp/pickup/6601278?source=rss",
-      "pubDate": "2026-11-04T06:23:32.000Z"
     },
     {
       "category": "科学",
@@ -178,12 +234,12 @@
       "pubDate": "2026-11-04T05:23:52.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ジュース1本50円 利益ない自販機",
-      "link": "https://news.yahoo.co.jp/pickup/6601284?source=rss",
-      "pubDate": "2026-11-04T03:02:07.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが来年春にEVF搭載の「LUMIX S9II」を発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/lumix-s9ii.html",
+      "pubDate": "2026-11-04T04:13:37.000Z"
     },
     {
       "category": "IT",
@@ -194,14 +250,6 @@
       "pubDate": "2026-11-04T00:49:15.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "関東一部 5日朝に警報級大雨恐れ",
-      "link": "https://news.yahoo.co.jp/pickup/6601253?source=rss",
-      "pubDate": "2026-11-03T23:23:21.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -210,36 +258,28 @@
       "pubDate": "2026-11-03T14:59:10.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "夫婦漫才で安保広報に工夫 政府",
-      "link": "https://news.yahoo.co.jp/pickup/6601229?source=rss",
-      "pubDate": "2026-11-03T14:03:56.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」の発表が更に延期？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6-9.html",
+      "pubDate": "2026-11-03T01:46:10.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "緊急要請 備蓄1週間分並べてみた",
-      "link": "https://news.yahoo.co.jp/pickup/6601223?source=rss",
-      "pubDate": "2026-11-03T13:31:31.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーが登録した新型カメラは「α7SIV」で確実ではないが「α7CIII」「α7CRII」「α6900」でないことは確実（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/7siv7ciii7crii6900.html",
+      "pubDate": "2026-11-02T15:51:06.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "イタイイタイ病 最後の原告死去",
-      "link": "https://news.yahoo.co.jp/pickup/6601224?source=rss",
-      "pubDate": "2026-11-03T13:29:57.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMOのサーバー「設計上の不備」",
-      "link": "https://news.yahoo.co.jp/pickup/6601209?source=rss",
-      "pubDate": "2026-11-03T09:50:53.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "シグマ「FP2」はビデオグラファーには魅力的だがカジュアルな使い方なら「LUMIX S9」がコストパフォーマンスに優れている（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/fp2-4.html",
+      "pubDate": "2026-11-02T09:29:29.000Z"
     }
   ]
 }
