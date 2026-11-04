@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-04T04:45:30.647Z",
+  "updatedAt": "2026-11-04T05:00:50.803Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米民主党が両院で過半数確実 報道",
+      "link": "https://news.yahoo.co.jp/pickup/6601295?source=rss",
+      "pubDate": "2026-11-04T04:52:02.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -40,14 +48,6 @@
       "title": "[ITmedia News] ビックカメラG、メールアドレスなど約1490万件漏えいの可能性　委託先への不正アクセスで",
       "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002866/",
       "pubDate": "2026-11-04T03:34:49.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米民主党が下院で過半数確実 CNN",
-      "link": "https://news.yahoo.co.jp/pickup/6601287?source=rss",
-      "pubDate": "2026-11-04T03:25:19.000Z"
     },
     {
       "category": "経済",
