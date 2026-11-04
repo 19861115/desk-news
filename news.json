@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-04T10:45:35.563Z",
+  "updatedAt": "2026-11-04T11:15:34.745Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "列車事故で死亡の邦人 20代男女か",
+      "link": "https://news.yahoo.co.jp/pickup/6601338?source=rss",
+      "pubDate": "2026-11-04T10:59:54.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "免許証画像漏えい SNS悪用詐欺も",
       "link": "https://news.yahoo.co.jp/pickup/6601325?source=rss",
       "pubDate": "2026-11-04T10:39:12.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ahamo改定の反響は？ 「厳しい意見もあるが段階制への評価も」――ドコモ前田社長",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news088.html",
+      "pubDate": "2026-11-04T10:31:00.000Z"
     },
     {
       "category": "科学",
@@ -106,14 +122,6 @@
       "pubDate": "2026-11-04T09:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 議事録も資料もAIが作るなら、人間は何をする？　AIエージェントへ舵を切る「Plaud」を試す",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002764/",
-      "pubDate": "2026-11-04T08:39:03.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -176,14 +184,6 @@
       "title": "体臭トラウマ 根っこにあるもの",
       "link": "https://news.yahoo.co.jp/pickup/6601301?source=rss",
       "pubDate": "2026-11-04T05:23:52.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "トランプ氏 選挙結果受け入れ表明",
-      "link": "https://news.yahoo.co.jp/pickup/6601299?source=rss",
-      "pubDate": "2026-11-04T05:14:21.000Z"
     },
     {
       "category": "デジカメinfo",
