@@ -1,21 +1,37 @@
 {
-  "updatedAt": "2026-11-04T07:45:32.416Z",
+  "updatedAt": "2026-11-04T08:00:48.954Z",
   "items": [
     {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
-      "title": "東証続落 半導体関連株中心に売り",
-      "link": "https://news.yahoo.co.jp/pickup/6601308?source=rss",
-      "pubDate": "2026-11-04T07:23:55.000Z"
+      "title": "東証続落 米選挙懸念でAI株売り",
+      "link": "https://news.yahoo.co.jp/pickup/6601314?source=rss",
+      "pubDate": "2026-11-04T07:59:18.000Z"
     },
     {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
-      "title": "黒人女性が州知事に当確 米中間選",
-      "link": "https://news.yahoo.co.jp/pickup/6601305?source=rss",
-      "pubDate": "2026-11-04T07:10:48.000Z"
+      "title": "黒人女性が州知事に当選確実 米",
+      "link": "https://news.yahoo.co.jp/pickup/6601313?source=rss",
+      "pubDate": "2026-11-04T07:53:10.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "ラッコ見学を全面中止 鳥羽水族館",
+      "link": "https://news.yahoo.co.jp/pickup/6601310?source=rss",
+      "pubDate": "2026-11-04T07:49:11.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "キャンパスノート 15年ぶり刷新",
+      "link": "https://news.yahoo.co.jp/pickup/6601311?source=rss",
+      "pubDate": "2026-11-04T07:47:23.000Z"
     },
     {
       "category": "ITmedia",
@@ -138,14 +154,6 @@
       "pubDate": "2026-11-04T03:02:07.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "UFJ新銀行 キャッシュカードなし",
-      "link": "https://news.yahoo.co.jp/pickup/6601279?source=rss",
-      "pubDate": "2026-11-04T03:00:46.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -256,14 +264,6 @@
       "title": "備蓄緊急要請 不安が広がる心理は",
       "link": "https://news.yahoo.co.jp/pickup/6601096?source=rss",
       "pubDate": "2026-11-02T11:59:47.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "10月気温 過去2番目の暑さだった",
-      "link": "https://news.yahoo.co.jp/pickup/6601084?source=rss",
-      "pubDate": "2026-11-02T10:03:01.000Z"
     },
     {
       "category": "デジカメinfo",
