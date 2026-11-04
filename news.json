@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-04T23:00:50.680Z",
+  "updatedAt": "2026-11-04T23:15:35.029Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "エボラ巡り新ワクチン治験 WHO",
+      "link": "https://news.yahoo.co.jp/pickup/6601378?source=rss",
+      "pubDate": "2026-11-04T23:10:49.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "消費税減税 あすにも衆院通過へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601376?source=rss",
+      "pubDate": "2026-11-04T23:01:06.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -96,14 +112,6 @@
       "title": "竜王戦でカメムシ出没 僧侶が捕獲",
       "link": "https://news.yahoo.co.jp/pickup/6601363?source=rss",
       "pubDate": "2026-11-04T14:35:08.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "米中間選挙 日本政府は動向注視",
-      "link": "https://news.yahoo.co.jp/pickup/6601362?source=rss",
-      "pubDate": "2026-11-04T14:20:05.000Z"
     },
     {
       "category": "IT",
@@ -224,14 +232,6 @@
       "title": "ISSの米宇宙飛行士も中間選挙投票",
       "link": "https://news.yahoo.co.jp/pickup/6601302?source=rss",
       "pubDate": "2026-11-04T06:25:46.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "体臭トラウマ 根っこにあるもの",
-      "link": "https://news.yahoo.co.jp/pickup/6601301?source=rss",
-      "pubDate": "2026-11-04T05:23:52.000Z"
     },
     {
       "category": "デジカメinfo",
