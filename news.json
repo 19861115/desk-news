@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T07:30:46.034Z",
+  "updatedAt": "2026-11-04T07:45:32.416Z",
   "items": [
     {
       "category": "経済",
@@ -16,6 +16,14 @@
       "title": "黒人女性が州知事に当確 米中間選",
       "link": "https://news.yahoo.co.jp/pickup/6601305?source=rss",
       "pubDate": "2026-11-04T07:10:48.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] サイバー攻撃の漏えい情報件数、10月だけで2025年の約3.7倍に急増　MM総研調べ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news072.html",
+      "pubDate": "2026-11-04T07:00:00.000Z"
     },
     {
       "category": "科学",
@@ -66,14 +74,6 @@
       "pubDate": "2026-11-04T06:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ドコモだけ鳴らなかった「緊急地震速報」、前田社長がエリアメール不具合を謝罪",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news075.html",
-      "pubDate": "2026-11-04T05:57:00.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -112,6 +112,14 @@
       "title": "米大統領痛手 民主が下院奪還確実",
       "link": "https://news.yahoo.co.jp/pickup/6601291?source=rss",
       "pubDate": "2026-11-04T04:20:37.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが来年春にEVF搭載の「LUMIX S9II」を発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/lumix-s9ii.html",
+      "pubDate": "2026-11-04T04:13:37.000Z"
     },
     {
       "category": "経済",
@@ -226,6 +234,22 @@
       "pubDate": "2026-11-03T06:51:21.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」の発表が更に延期？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6-9.html",
+      "pubDate": "2026-11-03T01:46:10.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーが登録した新型カメラは「α7SIV」で確実ではないが「α7CIII」「α7CRII」「α6900」でないことは確実（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/7siv7ciii7crii6900.html",
+      "pubDate": "2026-11-02T15:51:06.000Z"
+    },
+    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -240,6 +264,22 @@
       "title": "10月気温 過去2番目の暑さだった",
       "link": "https://news.yahoo.co.jp/pickup/6601084?source=rss",
       "pubDate": "2026-11-02T10:03:01.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "シグマ「FP2」はビデオグラファーには魅力的だがカジュアルな使い方なら「LUMIX S9」がコストパフォーマンスに優れている（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/fp2-4.html",
+      "pubDate": "2026-11-02T09:29:29.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "キヤノンはメモリ高騰によるコスト増をカメラ価格の引き上げで相殺する方針（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1967.html",
+      "pubDate": "2026-11-01T09:58:10.000Z"
     }
   ]
 }
