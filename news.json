@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-04T06:00:48.275Z",
+  "updatedAt": "2026-11-04T06:15:33.335Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] docomo Starlink Direct、2028年度には音声通話対応の「V2」も登場へ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news073.html",
+      "pubDate": "2026-11-04T05:39:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] GMOペイメント、決済支援システムで「不正なユーザーによる行為」　「Vプリカ」69件漏えい、3件はセキュリティコードも",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/",
+      "pubDate": "2026-11-04T05:35:56.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -80,22 +96,6 @@
       "title": "[ITmedia News] GitHub、「Copilot Fusion」正式リリース　タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
       "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/",
       "pubDate": "2026-11-04T04:13:20.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] Vecow、Core Ultra シリーズ3を搭載したエッジAIコンピュータ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news066.html",
-      "pubDate": "2026-11-04T04:10:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ビックカメラG、メールアドレスなど約1490万件漏えいの可能性　委託先への不正アクセスで",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002866/",
-      "pubDate": "2026-11-04T03:34:49.000Z"
     },
     {
       "category": "経済",
