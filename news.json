@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-04T10:00:54.177Z",
+  "updatedAt": "2026-11-04T10:45:35.563Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "免許証画像漏えい SNS悪用詐欺も",
+      "link": "https://news.yahoo.co.jp/pickup/6601325?source=rss",
+      "pubDate": "2026-11-04T10:39:12.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "養殖カンパチ大量死 26万8000匹",
+      "link": "https://news.yahoo.co.jp/pickup/6601336?source=rss",
+      "pubDate": "2026-11-04T10:28:35.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "日本の探査機 水星を来春初撮影へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601335?source=rss",
+      "pubDate": "2026-11-04T10:13:08.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "すし店の休廃業・解散が急増 25年",
+      "link": "https://news.yahoo.co.jp/pickup/6601334?source=rss",
+      "pubDate": "2026-11-04T10:10:49.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 情報漏えいの「おわびメール」が毎日届いてうんざり……漏れた情報別に“最低限やること”をまとめた",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news087.html",
+      "pubDate": "2026-11-04T10:00:00.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -10,12 +50,36 @@
       "pubDate": "2026-11-04T09:52:57.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か　Googleが取引停止",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/",
+      "pubDate": "2026-11-04T09:51:41.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 無印良品、クレカ「MUJI Card」カード番号全ケタ、約109万件漏えいか　不正アクセスで続報",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002885/",
+      "pubDate": "2026-11-04T09:33:11.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "無印良品 クレカ番号など流出か",
       "link": "https://news.yahoo.co.jp/pickup/6601331?source=rss",
       "pubDate": "2026-11-04T09:32:09.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ライカM12はCCDセンサーのような色再現になる？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/m12ccd.html",
+      "pubDate": "2026-11-04T09:31:45.000Z"
     },
     {
       "category": "国際",
@@ -50,14 +114,6 @@
       "pubDate": "2026-11-04T08:39:03.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] PayPay、上期に7期連続増収増益　日常決済の「幹」からカード・銀行の「枝」へ送客加速",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news084.html",
-      "pubDate": "2026-11-04T08:17:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -72,14 +128,6 @@
       "title": "東証続落 米選挙懸念でAI株売り",
       "link": "https://news.yahoo.co.jp/pickup/6601314?source=rss",
       "pubDate": "2026-11-04T07:59:18.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] デニーズアプリに不正アクセス　旧アプリ移行処理で認証情報を不正作成される　個人情報漏えいか",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002878/",
-      "pubDate": "2026-11-04T07:55:18.000Z"
     },
     {
       "category": "国際",
@@ -104,14 +152,6 @@
       "title": "キャンパスノート 15年ぶり刷新",
       "link": "https://news.yahoo.co.jp/pickup/6601311?source=rss",
       "pubDate": "2026-11-04T07:47:23.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] NTTの島田明社長、不正アクセス攻撃者の遮断で法制化求める　事前の想定が重要と強調",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002877/",
-      "pubDate": "2026-11-04T07:36:36.000Z"
     },
     {
       "category": "科学",
@@ -152,14 +192,6 @@
       "title": "パナソニックが来年春にEVF搭載の「LUMIX S9II」を発表？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/lumix-s9ii.html",
       "pubDate": "2026-11-04T04:13:37.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "カスハラ対策 線引きに迷う現場",
-      "link": "https://news.yahoo.co.jp/pickup/6601276?source=rss",
-      "pubDate": "2026-11-04T03:06:51.000Z"
     },
     {
       "category": "経済",
@@ -226,22 +258,6 @@
       "pubDate": "2026-11-03T09:50:53.000Z"
     },
     {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "SNS巡る問題 揺らぐ表現の自由",
-      "link": "https://news.yahoo.co.jp/pickup/6601198?source=rss",
-      "pubDate": "2026-11-03T08:53:06.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "源泉かけ流しでウナギ養殖 岐阜",
-      "link": "https://news.yahoo.co.jp/pickup/6601196?source=rss",
-      "pubDate": "2026-11-03T08:41:00.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -258,28 +274,12 @@
       "pubDate": "2026-11-02T15:51:06.000Z"
     },
     {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "備蓄緊急要請 不安が広がる心理は",
-      "link": "https://news.yahoo.co.jp/pickup/6601096?source=rss",
-      "pubDate": "2026-11-02T11:59:47.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
       "title": "シグマ「FP2」はビデオグラファーには魅力的だがカジュアルな使い方なら「LUMIX S9」がコストパフォーマンスに優れている（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/fp2-4.html",
       "pubDate": "2026-11-02T09:29:29.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "キヤノンはメモリ高騰によるコスト増をカメラ価格の引き上げで相殺する方針（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1967.html",
-      "pubDate": "2026-11-01T09:58:10.000Z"
     }
   ]
 }
