@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-04T02:30:46.592Z",
+  "updatedAt": "2026-11-04T02:45:32.453Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] PayPay、セキュリティ対策は「万全を期すべく総点検している最中」と中山社長",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news061.html",
+      "pubDate": "2026-11-04T02:20:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -80,14 +88,6 @@
       "title": "1兆円盗難 バイナンスが手口公表",
       "link": "https://news.yahoo.co.jp/pickup/6601264?source=rss",
       "pubDate": "2026-11-04T00:49:15.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 外出時の充電機器をまとめたい人に適した「Anker Power Bank (1万mAh, Fusion, Built-In USB-C ケーブル)」がセールで26％オフの6690円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news052.html",
-      "pubDate": "2026-11-04T00:46:00.000Z"
     },
     {
       "category": "国際",
