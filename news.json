@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-04T04:00:50.859Z",
+  "updatedAt": "2026-11-04T04:15:32.406Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ビックカメラG、メールアドレスなど約1490万件漏えいの可能性　委託先への不正アクセスで",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002866/",
+      "pubDate": "2026-11-04T03:34:49.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -64,14 +72,6 @@
       "title": "[ITmedia エグゼクティブ] 突然お腹がぎゅるぎゅる…間に合わず?大失敗?　悲しい経験が生んだ街のトイレ予約アプリ",
       "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/04/2000002864/",
       "pubDate": "2026-11-04T02:56:59.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ViXion、オートフォーカス機能を搭載した電動式ルーペ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news063.html",
-      "pubDate": "2026-11-04T02:53:00.000Z"
     },
     {
       "category": "経済",
