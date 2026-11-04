@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-04T03:00:53.030Z",
+  "updatedAt": "2026-11-04T03:15:36.626Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "カスハラ対策 線引きに迷う現場",
+      "link": "https://news.yahoo.co.jp/pickup/6601276?source=rss",
+      "pubDate": "2026-11-04T03:06:51.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米中間選挙 下院は野党の民主優勢",
+      "link": "https://news.yahoo.co.jp/pickup/6601285?source=rss",
+      "pubDate": "2026-11-04T03:05:14.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ジュース1本50円 利益ない自販機",
+      "link": "https://news.yahoo.co.jp/pickup/6601284?source=rss",
+      "pubDate": "2026-11-04T03:02:07.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "UFJ新銀行 キャッシュカードなし",
+      "link": "https://news.yahoo.co.jp/pickup/6601279?source=rss",
+      "pubDate": "2026-11-04T03:00:46.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 突然お腹がぎゅるぎゅる…間に合わず?大失敗?　悲しい経験が生んだ街のトイレ予約アプリ",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/04/2000002864/",
+      "pubDate": "2026-11-04T02:56:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ViXion、オートフォーカス機能を搭載した電動式ルーペ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news063.html",
+      "pubDate": "2026-11-04T02:53:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] GMO謝罪会見、なぜここまで炎上？【危機管理のプロが徹底解説】",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/04/news039.html",
+      "pubDate": "2026-11-04T02:45:00.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -58,30 +114,6 @@
       "pubDate": "2026-11-04T01:01:21.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 楽天ペイと楽天ポイントのキャンペーンまとめ【11月4日最新版】　抽選で最大1万～5万ポイント還元や10％還元あり",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news040.html",
-      "pubDate": "2026-11-04T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 【ワークマン】2900円の「エックスシェルター断熱αバックパック」予約販売中　特殊な断熱シートで外気の影響を防ぐ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news042.html",
-      "pubDate": "2026-11-04T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 高倍率の光学10倍・5000万画素超望遠カメラ搭載の「OPPO Find X9 Ultra」がセールでで21％オフの21万5817円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news054.html",
-      "pubDate": "2026-11-04T00:51:00.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -106,22 +138,6 @@
       "pubDate": "2026-11-04T00:37:54.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "自治体システム移行費巡り調査へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601258?source=rss",
-      "pubDate": "2026-11-04T00:20:10.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米 イスラエル年40億ドル支援終了",
-      "link": "https://news.yahoo.co.jp/pickup/6601259?source=rss",
-      "pubDate": "2026-11-04T00:15:58.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -130,28 +146,12 @@
       "pubDate": "2026-11-03T23:23:21.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "パーソナルトレ トラブル急増",
-      "link": "https://news.yahoo.co.jp/pickup/6601250?source=rss",
-      "pubDate": "2026-11-03T23:16:44.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "アソビュー 1500万件超の情報流出",
       "link": "https://news.yahoo.co.jp/pickup/6601234?source=rss",
       "pubDate": "2026-11-03T14:59:10.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "タイ 輸入EVの物品税引き上げへ",
-      "link": "https://news.yahoo.co.jp/pickup/6601233?source=rss",
-      "pubDate": "2026-11-03T14:40:16.000Z"
     },
     {
       "category": "国内",
