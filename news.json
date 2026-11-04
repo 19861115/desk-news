@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-04T01:45:33.136Z",
+  "updatedAt": "2026-11-04T02:00:51.885Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "アメリカ中間選挙 注目の激戦州は",
+      "link": "https://news.yahoo.co.jp/pickup/6601269?source=rss",
+      "pubDate": "2026-11-04T01:54:56.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -120,14 +128,6 @@
       "title": "パーソナルトレ トラブル急増",
       "link": "https://news.yahoo.co.jp/pickup/6601250?source=rss",
       "pubDate": "2026-11-03T23:16:44.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米中間選挙 予測市場が試練に直面",
-      "link": "https://news.yahoo.co.jp/pickup/6601252?source=rss",
-      "pubDate": "2026-11-03T23:11:46.000Z"
     },
     {
       "category": "IT",
