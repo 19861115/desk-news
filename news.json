@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-04T04:30:42.488Z",
+  "updatedAt": "2026-11-04T04:45:30.647Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "テキサス州上院 38年ぶり民主勝利",
+      "link": "https://news.yahoo.co.jp/pickup/6601292?source=rss",
+      "pubDate": "2026-11-04T04:36:32.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "米大統領痛手 民主が下院奪還確実",
       "link": "https://news.yahoo.co.jp/pickup/6601291?source=rss",
       "pubDate": "2026-11-04T04:20:37.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] GitHub、「Copilot Fusion」正式リリース　タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/",
+      "pubDate": "2026-11-04T04:13:20.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] Vecow、Core Ultra シリーズ3を搭載したエッジAIコンピュータ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news066.html",
+      "pubDate": "2026-11-04T04:10:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -66,22 +90,6 @@
       "pubDate": "2026-11-04T03:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 月1200ドルのAIコストが電気代20ドルで済む？　NVIDIA「RTX Spark」搭載PCのデモで見えた“ローカルAI”の実力",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news060.html",
-      "pubDate": "2026-11-04T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 突然お腹がぎゅるぎゅる…間に合わず?大失敗?　悲しい経験が生んだ街のトイレ予約アプリ",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/04/2000002864/",
-      "pubDate": "2026-11-04T02:56:59.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -104,14 +112,6 @@
       "title": "フードデリバリー業界に淘汰の波",
       "link": "https://news.yahoo.co.jp/pickup/6601266?source=rss",
       "pubDate": "2026-11-04T01:25:19.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "北朝鮮が日本海に向け飛翔体発射",
-      "link": "https://news.yahoo.co.jp/pickup/6601267?source=rss",
-      "pubDate": "2026-11-04T01:16:27.000Z"
     },
     {
       "category": "国際",
