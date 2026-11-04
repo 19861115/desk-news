@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-04T06:15:33.335Z",
+  "updatedAt": "2026-11-04T06:30:42.001Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "ISSの米宇宙飛行士も中間選挙投票",
+      "link": "https://news.yahoo.co.jp/pickup/6601302?source=rss",
+      "pubDate": "2026-11-04T06:25:46.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "BYD海外販売が倍増 中国車に明暗",
+      "link": "https://news.yahoo.co.jp/pickup/6601278?source=rss",
+      "pubDate": "2026-11-04T06:23:32.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -130,14 +146,6 @@
       "pubDate": "2026-11-04T01:54:56.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "フードデリバリー業界に淘汰の波",
-      "link": "https://news.yahoo.co.jp/pickup/6601266?source=rss",
-      "pubDate": "2026-11-04T01:25:19.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -264,14 +272,6 @@
       "title": "シグマ「FP2」はビデオグラファーには魅力的だがカジュアルな使い方なら「LUMIX S9」がコストパフォーマンスに優れている（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/fp2-4.html",
       "pubDate": "2026-11-02T09:29:29.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "コンゴのエボラ死者5000人超える",
-      "link": "https://news.yahoo.co.jp/pickup/6601072?source=rss",
-      "pubDate": "2026-11-02T08:17:09.000Z"
     },
     {
       "category": "デジカメinfo",
