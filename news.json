@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T06:30:42.001Z",
+  "updatedAt": "2026-11-04T06:45:34.359Z",
   "items": [
     {
       "category": "科学",
@@ -21,17 +21,41 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] docomo Starlink Direct、2028年度には音声通話対応の「V2」も登場へ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news073.html",
-      "pubDate": "2026-11-04T05:39:00.000Z"
+      "title": "[ITmedia PC USER] VOLTMIND、ローカルAIでファイルの整理や要約を行えるNASサーバ「AI Locker」",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news078.html",
+      "pubDate": "2026-11-04T06:10:00.000Z"
     },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] GMOペイメント、決済支援システムで「不正なユーザーによる行為」　「Vプリカ」69件漏えい、3件はセキュリティコードも",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/",
-      "pubDate": "2026-11-04T05:35:56.000Z"
+      "title": "[ITmedia PC USER] “コーヒー香る”PC＆スマホスタンドがMOFTから登場　新「Coffee Collection」2製品の実用性をチェックした",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news059.html",
+      "pubDate": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] シャオミ、大容量バッテリーを採用した水拭き対応ロボット掃除機",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news077.html",
+      "pubDate": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモだけ鳴らなかった「緊急地震速報」、前田社長がエリアメール不具合を謝罪",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news075.html",
+      "pubDate": "2026-11-04T05:57:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] docomo Starlink Direct、2028年度には音声通話対応の「V2」も登場へ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news073.html",
+      "pubDate": "2026-11-04T05:39:00.000Z"
     },
     {
       "category": "科学",
@@ -48,22 +72,6 @@
       "title": "トランプ氏 選挙結果受け入れ表明",
       "link": "https://news.yahoo.co.jp/pickup/6601299?source=rss",
       "pubDate": "2026-11-04T05:14:21.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] エレコム、“しろちゃん”の表情で充電状況が確認できる小型パネル内蔵Type-Cケーブル",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news070.html",
-      "pubDate": "2026-11-04T05:10:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] セガ系に不正アクセス　ゲームセンター向けサービス停止　バンダイ系の「太鼓の達人」などにも影響",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002870/",
-      "pubDate": "2026-11-04T04:59:49.000Z"
     },
     {
       "category": "経済",
@@ -104,14 +112,6 @@
       "title": "パナソニックが来年春にEVF搭載の「LUMIX S9II」を発表？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/lumix-s9ii.html",
       "pubDate": "2026-11-04T04:13:37.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] GitHub、「Copilot Fusion」正式リリース　タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/",
-      "pubDate": "2026-11-04T04:13:20.000Z"
     },
     {
       "category": "経済",
