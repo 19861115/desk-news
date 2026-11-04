@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T05:30:42.990Z",
+  "updatedAt": "2026-11-04T05:45:30.812Z",
   "items": [
     {
       "category": "科学",
@@ -16,6 +16,22 @@
       "title": "トランプ氏 選挙結果受け入れ表明",
       "link": "https://news.yahoo.co.jp/pickup/6601299?source=rss",
       "pubDate": "2026-11-04T05:14:21.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] エレコム、“しろちゃん”の表情で充電状況が確認できる小型パネル内蔵Type-Cケーブル",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news070.html",
+      "pubDate": "2026-11-04T05:10:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] セガ系に不正アクセス　ゲームセンター向けサービス停止　バンダイ系の「太鼓の達人」などにも影響",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002870/",
+      "pubDate": "2026-11-04T04:59:49.000Z"
     },
     {
       "category": "経済",
@@ -48,6 +64,14 @@
       "title": "米大統領痛手 民主が下院奪還確実",
       "link": "https://news.yahoo.co.jp/pickup/6601291?source=rss",
       "pubDate": "2026-11-04T04:20:37.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが来年春にEVF搭載の「LUMIX S9II」を発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/lumix-s9ii.html",
+      "pubDate": "2026-11-04T04:13:37.000Z"
     },
     {
       "category": "ITmedia",
@@ -96,22 +120,6 @@
       "title": "UFJ新銀行 キャッシュカードなし",
       "link": "https://news.yahoo.co.jp/pickup/6601279?source=rss",
       "pubDate": "2026-11-04T03:00:46.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ランサム攻撃で身代金を払う企業・払わない企業の違いとは？　オランダ警察などが約700件の記録から分析",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002804/",
-      "pubDate": "2026-11-04T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] なぜCookie同意バナーの「拒否」ボタンは見つからないのか　1万4000サイト調査で見えた“同意させる”手口",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002805/",
-      "pubDate": "2026-11-04T03:00:00.000Z"
     },
     {
       "category": "国際",
@@ -272,14 +280,6 @@
       "title": "キヤノンはメモリ高騰によるコスト増をカメラ価格の引き上げで相殺する方針（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1967.html",
       "pubDate": "2026-11-01T09:58:10.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ヨドバシの10月上期のランキングで「EOS R50」がソニーのトップ3独占を阻止（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/10-18.html",
-      "pubDate": "2026-11-01T04:07:25.000Z"
     }
   ]
 }
