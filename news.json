@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-04T08:30:44.450Z",
+  "updatedAt": "2026-11-04T08:45:32.413Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] PayPay、上期に7期連続増収増益　日常決済の「幹」からカード・銀行の「枝」へ送客加速",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news084.html",
+      "pubDate": "2026-11-04T08:17:00.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -88,14 +96,6 @@
       "title": "BYD海外販売が倍増 中国車に明暗",
       "link": "https://news.yahoo.co.jp/pickup/6601278?source=rss",
       "pubDate": "2026-11-04T06:23:32.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] VOLTMIND、ローカルAIでファイルの整理や要約を行えるNASサーバ「AI Locker」",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news078.html",
-      "pubDate": "2026-11-04T06:10:00.000Z"
     },
     {
       "category": "科学",
