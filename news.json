@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-04T01:00:50.954Z",
+  "updatedAt": "2026-11-04T01:15:32.952Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "中継 米中間選挙の開票速報",
+      "link": "https://news.yahoo.co.jp/pickup/6601265?source=rss",
+      "pubDate": "2026-11-04T01:01:21.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 高倍率の光学10倍・5000万画素超望遠カメラ搭載の「OPPO Find X9 Ultra」がセールでで21％オフの21万5817円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news054.html",
+      "pubDate": "2026-11-04T00:51:00.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -8,6 +24,30 @@
       "title": "1兆円盗難 バイナンスが手口公表",
       "link": "https://news.yahoo.co.jp/pickup/6601264?source=rss",
       "pubDate": "2026-11-04T00:49:15.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 外出時の充電機器をまとめたい人に適した「Anker Power Bank (1万mAh, Fusion, Built-In USB-C ケーブル)」がセールで26％オフの6690円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news052.html",
+      "pubDate": "2026-11-04T00:46:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] アソビュー、会員情報1582万件流出　最終ログイン日や利用施設も　メール委託先・アララ不正アクセスで",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002854/",
+      "pubDate": "2026-11-04T00:42:16.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] AC充電器とバッテリーを1台にまとめられる「エレコム モバイルバッテリー EC-C47LMN」がセールで26％オフの6690円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/04/news051.html",
+      "pubDate": "2026-11-04T00:41:00.000Z"
     },
     {
       "category": "国際",
@@ -26,20 +66,20 @@
       "pubDate": "2026-11-04T00:37:54.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Apple、刷新版「Siri AI」を全開発者に開放　アプリ連携で予約や注文などの操作が可能に",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
+      "pubDate": "2026-11-04T00:37:42.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "自治体システム移行費巡り調査へ",
       "link": "https://news.yahoo.co.jp/pickup/6601258?source=rss",
       "pubDate": "2026-11-04T00:20:10.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] SaaS不要論、日本は“火種”が違った　セールスフォース小出会長が語る落としどころ",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/04/news022.html",
-      "pubDate": "2026-11-04T00:20:00.000Z"
     },
     {
       "category": "国際",
@@ -50,44 +90,12 @@
       "pubDate": "2026-11-04T00:15:58.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] セブン-イレブン「7NOW」の利用者情報16万件超漏えい　配達委託先に不正アクセス、出前館でも約800件",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002852/",
-      "pubDate": "2026-11-04T00:09:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Microsoft、メモリ8GBのWindows 11 PCを高速化　マルチタスク処理は最大40％向上",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002851/",
-      "pubDate": "2026-11-03T23:33:38.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "アメリカ中間選挙の開票始まる",
-      "link": "https://news.yahoo.co.jp/pickup/6601254?source=rss",
-      "pubDate": "2026-11-03T23:28:24.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "関東一部 5日朝に警報級大雨恐れ",
       "link": "https://news.yahoo.co.jp/pickup/6601253?source=rss",
       "pubDate": "2026-11-03T23:23:21.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] GMOペイメント、決済支援システムで「不正なユーザーによる行為」　「Vプリカ」69件漏えい、3件はセキュリティコードも",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/",
-      "pubDate": "2026-11-03T23:22:40.000Z"
     },
     {
       "category": "経済",
@@ -104,14 +112,6 @@
       "title": "米中間選挙 予測市場が試練に直面",
       "link": "https://news.yahoo.co.jp/pickup/6601252?source=rss",
       "pubDate": "2026-11-03T23:11:46.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 三井住友FGはなぜ、まだ「何が当たるか分からない」状況で「AI投資1000億円」に踏み切ったのか",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/04/news012.html",
-      "pubDate": "2026-11-03T23:00:00.000Z"
     },
     {
       "category": "国際",
