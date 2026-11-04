@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-04T07:15:32.769Z",
+  "updatedAt": "2026-11-04T07:30:46.034Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "東証続落 半導体関連株中心に売り",
+      "link": "https://news.yahoo.co.jp/pickup/6601308?source=rss",
+      "pubDate": "2026-11-04T07:23:55.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -82,14 +90,6 @@
       "pubDate": "2026-11-04T05:14:21.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日経平均 一時3000円超値下がり",
-      "link": "https://news.yahoo.co.jp/pickup/6601297?source=rss",
-      "pubDate": "2026-11-04T04:59:45.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -112,14 +112,6 @@
       "title": "米大統領痛手 民主が下院奪還確実",
       "link": "https://news.yahoo.co.jp/pickup/6601291?source=rss",
       "pubDate": "2026-11-04T04:20:37.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが来年春にEVF搭載の「LUMIX S9II」を発表？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/lumix-s9ii.html",
-      "pubDate": "2026-11-04T04:13:37.000Z"
     },
     {
       "category": "経済",
@@ -234,22 +226,6 @@
       "pubDate": "2026-11-03T06:51:21.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」の発表が更に延期？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6-9.html",
-      "pubDate": "2026-11-03T01:46:10.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーが登録した新型カメラは「α7SIV」で確実ではないが「α7CIII」「α7CRII」「α6900」でないことは確実（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/7siv7ciii7crii6900.html",
-      "pubDate": "2026-11-02T15:51:06.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -264,22 +240,6 @@
       "title": "10月気温 過去2番目の暑さだった",
       "link": "https://news.yahoo.co.jp/pickup/6601084?source=rss",
       "pubDate": "2026-11-02T10:03:01.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "シグマ「FP2」はビデオグラファーには魅力的だがカジュアルな使い方なら「LUMIX S9」がコストパフォーマンスに優れている（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/fp2-4.html",
-      "pubDate": "2026-11-02T09:29:29.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "キヤノンはメモリ高騰によるコスト増をカメラ価格の引き上げで相殺する方針（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1967.html",
-      "pubDate": "2026-11-01T09:58:10.000Z"
     }
   ]
 }
