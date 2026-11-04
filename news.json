@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T23:30:43.157Z",
+  "updatedAt": "2026-11-04T23:45:32.050Z",
   "items": [
     {
       "category": "科学",
@@ -10,12 +10,28 @@
       "pubDate": "2026-11-04T23:10:49.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] SpaceX、Qualcommと複数年契約　「Starlink Mobile」の地上5G網を2027年から全米に展開へ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002889/",
+      "pubDate": "2026-11-04T23:01:39.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "消費税減税 あすにも衆院通過へ",
       "link": "https://news.yahoo.co.jp/pickup/6601376?source=rss",
       "pubDate": "2026-11-04T23:01:06.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 脆弱性38万件のうち悪用されたのは約0.5％　Microsoftが示す「先に対処すべき脆弱性」とは？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/05/news015.html",
+      "pubDate": "2026-11-04T23:00:00.000Z"
     },
     {
       "category": "国内",
@@ -71,22 +87,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] 予算止める側だったのに「増額」進言　現場の「伸びそう」応援する“CFOの右腕”設置、MIXIに何が起きた？",
       "link": "https://www.itmedia.co.jp/business/articles/2611/05/news025.html",
-      "pubDate": "2026-11-04T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] クリック不要、パッチもない　AIエージェントを乗っ取る「偽AGENTS.md」がダウンロードフォルダに　どうすればいいのか",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/05/news017.html",
-      "pubDate": "2026-11-04T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 深刻な「中国依存」を脱せるか　老舗問屋が動いた「空気を使った肥料づくり」とAI農業とは？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/05/news019.html",
       "pubDate": "2026-11-04T22:00:00.000Z"
     },
     {
