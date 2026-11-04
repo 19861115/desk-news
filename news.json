@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-04T00:45:32.842Z",
+  "updatedAt": "2026-11-04T01:00:50.954Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "1兆円盗難 バイナンスが手口公表",
+      "link": "https://news.yahoo.co.jp/pickup/6601264?source=rss",
+      "pubDate": "2026-11-04T00:49:15.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -200,14 +208,6 @@
       "title": "ダークウェブ 日本人の情報流出増",
       "link": "https://news.yahoo.co.jp/pickup/6601181?source=rss",
       "pubDate": "2026-11-03T06:51:21.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "米巨大IT5社とも増収 7～9月期",
-      "link": "https://news.yahoo.co.jp/pickup/6601172?source=rss",
-      "pubDate": "2026-11-03T05:46:47.000Z"
     },
     {
       "category": "経済",
