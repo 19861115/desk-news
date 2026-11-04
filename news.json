@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-04T05:00:50.803Z",
+  "updatedAt": "2026-11-04T05:15:32.408Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "日経平均 一時3000円超値下がり",
+      "link": "https://news.yahoo.co.jp/pickup/6601297?source=rss",
+      "pubDate": "2026-11-04T04:59:45.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -88,14 +96,6 @@
       "title": "[ITmedia News] なぜCookie同意バナーの「拒否」ボタンは見つからないのか　1万4000サイト調査で見えた“同意させる”手口",
       "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002805/",
       "pubDate": "2026-11-04T03:00:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日経平均株価 一時2000円超下落",
-      "link": "https://news.yahoo.co.jp/pickup/6601272?source=rss",
-      "pubDate": "2026-11-04T02:10:16.000Z"
     },
     {
       "category": "国際",
