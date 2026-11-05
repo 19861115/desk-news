@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-05T05:00:52.315Z",
+  "updatedAt": "2026-11-05T05:15:33.342Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] IIJmioで約98万件のメールアドレス流出　委託先への不正アクセスで不審メールに要注意",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news068.html",
+      "pubDate": "2026-11-05T04:47:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモで全国規模の通信障害が発生――「仕事や決済が使えない」SNSに悲鳴　MVNO各社にも影響",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news067.html",
+      "pubDate": "2026-11-05T04:34:00.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -34,28 +50,12 @@
       "pubDate": "2026-11-05T04:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「My docomo」「ドコモオンラインショップ」が緊急メンテ　外部からの不正アクセスの可能性で",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002902/",
-      "pubDate": "2026-11-05T03:55:28.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "ドコモ オンラインサービス停止",
       "link": "https://news.yahoo.co.jp/pickup/6601413?source=rss",
       "pubDate": "2026-11-05T03:52:36.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] e-Taxに「不審な通信」　緊急メンテで利用停止、再開未定　「年末調整できない」悲鳴【復旧】",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002887/",
-      "pubDate": "2026-11-05T03:40:45.000Z"
     },
     {
       "category": "国際",
