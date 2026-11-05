@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:30:45.190Z",
+  "updatedAt": "2026-11-05T11:45:34.047Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,14 @@
       "title": "めぐみさん拉致 母「会いたい」",
       "link": "https://news.yahoo.co.jp/pickup/6601458?source=rss",
       "pubDate": "2026-11-05T11:11:25.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモ、不正アクセスで最大約30万件の個人情報流出　オンラインサービス復旧のめど立たず",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news093.html",
+      "pubDate": "2026-11-05T11:11:00.000Z"
     },
     {
       "category": "国内",
@@ -104,14 +112,6 @@
       "title": "シヤチハタ 化粧品事業に参入へ",
       "link": "https://news.yahoo.co.jp/pickup/6601444?source=rss",
       "pubDate": "2026-11-05T08:29:19.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 医療機関のサイバーセキュリティー強化へ　ランサムウエア攻撃で診療への長期影響リスク",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002921/",
-      "pubDate": "2026-11-05T08:19:11.000Z"
     },
     {
       "category": "IT",
