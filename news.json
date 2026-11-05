@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-05T23:15:35.305Z",
+  "updatedAt": "2026-11-05T23:30:43.179Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "サイバー攻撃で強制遮断検討 政府",
+      "link": "https://news.yahoo.co.jp/pickup/6601490?source=rss",
+      "pubDate": "2026-11-05T23:27:17.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "経産省 中部電力に業務改善命令",
+      "link": "https://news.yahoo.co.jp/pickup/6601489?source=rss",
+      "pubDate": "2026-11-05T23:22:48.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -114,14 +130,6 @@
       "pubDate": "2026-11-05T13:49:51.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "「ドンキ流トイザらス」が始動",
-      "link": "https://news.yahoo.co.jp/pickup/6601471?source=rss",
-      "pubDate": "2026-11-05T13:36:12.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -184,14 +192,6 @@
       "title": "6日 全国的に気温高く夏日予想も",
       "link": "https://news.yahoo.co.jp/pickup/6601453?source=rss",
       "pubDate": "2026-11-05T09:42:58.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "個人向け国債「複利型」導入検討",
-      "link": "https://news.yahoo.co.jp/pickup/6601451?source=rss",
-      "pubDate": "2026-11-05T09:40:02.000Z"
     },
     {
       "category": "IT",
