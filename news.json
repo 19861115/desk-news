@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-05T05:45:34.077Z",
+  "updatedAt": "2026-11-05T06:00:51.476Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "流行語候補にドパガキやNISA貧乏",
+      "link": "https://news.yahoo.co.jp/pickup/6601421?source=rss",
+      "pubDate": "2026-11-05T05:56:46.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -200,14 +208,6 @@
       "title": "リニア工事費 再び増額へ検討",
       "link": "https://news.yahoo.co.jp/pickup/6601365?source=rss",
       "pubDate": "2026-11-04T14:54:37.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "竜王戦でカメムシ出没 僧侶が捕獲",
-      "link": "https://news.yahoo.co.jp/pickup/6601363?source=rss",
-      "pubDate": "2026-11-04T14:35:08.000Z"
     },
     {
       "category": "経済",
