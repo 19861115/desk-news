@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-05T01:45:32.236Z",
+  "updatedAt": "2026-11-05T02:00:55.592Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "料理の負担減「メンパ食材」注目",
+      "link": "https://news.yahoo.co.jp/pickup/6601391?source=rss",
+      "pubDate": "2026-11-05T01:50:10.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "イラン 大敗のトランプ氏を嘲笑",
+      "link": "https://news.yahoo.co.jp/pickup/6601392?source=rss",
+      "pubDate": "2026-11-05T01:49:37.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -154,14 +170,6 @@
       "pubDate": "2026-11-04T12:40:19.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "金融庁 ソニーFGに立ち入り検査",
-      "link": "https://news.yahoo.co.jp/pickup/6601346?source=rss",
-      "pubDate": "2026-11-04T12:13:24.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -200,14 +208,6 @@
       "title": "日本の探査機 水星を来春初撮影へ",
       "link": "https://news.yahoo.co.jp/pickup/6601335?source=rss",
       "pubDate": "2026-11-04T10:13:08.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米民主党が躍進 支持者は喜び爆発",
-      "link": "https://news.yahoo.co.jp/pickup/6601332?source=rss",
-      "pubDate": "2026-11-04T09:52:57.000Z"
     },
     {
       "category": "IT",
