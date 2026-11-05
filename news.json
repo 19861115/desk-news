@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-05T10:30:45.993Z",
+  "updatedAt": "2026-11-05T10:45:34.871Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "レッドバロン創業者遺族 申告漏れ",
+      "link": "https://news.yahoo.co.jp/pickup/6601456?source=rss",
+      "pubDate": "2026-11-05T10:30:52.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -24,6 +32,14 @@
       "title": "個人向け国債「複利型」導入検討",
       "link": "https://news.yahoo.co.jp/pickup/6601451?source=rss",
       "pubDate": "2026-11-05T09:40:02.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] モバイルSuica、JR東海エリアにまたがる定期・グリーン券を購入可能に　IC非対応駅に「みせるモバイル定期券」導入",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news090.html",
+      "pubDate": "2026-11-05T09:25:00.000Z"
     },
     {
       "category": "経済",
@@ -122,14 +138,6 @@
       "pubDate": "2026-11-05T07:35:19.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] XGIMI、4K／120Hz表示に対応した高機能スマートプロジェクター「HORIZON 30」シリーズを発表",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news081.html",
-      "pubDate": "2026-11-05T06:51:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -144,14 +152,6 @@
       "title": "バンス氏 米大統領と距離置く姿勢",
       "link": "https://news.yahoo.co.jp/pickup/6601425?source=rss",
       "pubDate": "2026-11-05T06:33:22.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "活躍期待年齢「68歳」企業の狙い",
-      "link": "https://news.yahoo.co.jp/pickup/6601420?source=rss",
-      "pubDate": "2026-11-05T06:17:59.000Z"
     },
     {
       "category": "国内",
