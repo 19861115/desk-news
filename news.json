@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-05T09:01:03.695Z",
+  "updatedAt": "2026-11-05T09:16:06.875Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "サントリー 酒類364品目値上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6601448?source=rss",
+      "pubDate": "2026-11-05T09:03:06.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "税の無駄など1445億円 検査院報告",
       "link": "https://news.yahoo.co.jp/pickup/6601446?source=rss",
       "pubDate": "2026-11-05T08:46:46.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] Windows PC向けゲームの「ロード待ち」はなぜ起こる？　背景に過去との「互換性」",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news082.html",
+      "pubDate": "2026-11-05T08:45:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] ソラシドエア49万件、エア・ドゥ67万件のメアド流出　システム不正アクセスで",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/05/news083.html",
+      "pubDate": "2026-11-05T08:45:00.000Z"
     },
     {
       "category": "経済",
@@ -90,28 +114,12 @@
       "pubDate": "2026-11-05T06:43:03.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] エイサー、フルHD×2面表示が可能な折りたたみ式15.6型／23.8型デュアルモバイルディスプレイ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news080.html",
-      "pubDate": "2026-11-05T06:34:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "バンス氏 米大統領と距離置く姿勢",
       "link": "https://news.yahoo.co.jp/pickup/6601425?source=rss",
       "pubDate": "2026-11-05T06:33:22.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 【更新】ドコモ、全国で通信障害　通話・データとも利用しづらく",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002904/",
-      "pubDate": "2026-11-05T06:27:38.000Z"
     },
     {
       "category": "科学",
@@ -136,14 +144,6 @@
       "title": "「フレネミー」26年流行語候補に",
       "link": "https://news.yahoo.co.jp/pickup/6601423?source=rss",
       "pubDate": "2026-11-05T06:14:13.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ハリポタ英旗艦店 初日に抗議活動",
-      "link": "https://news.yahoo.co.jp/pickup/6601419?source=rss",
-      "pubDate": "2026-11-05T06:11:32.000Z"
     },
     {
       "category": "IT",
