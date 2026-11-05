@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-05T08:00:51.605Z",
+  "updatedAt": "2026-11-05T08:15:35.140Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "サイバー攻撃 10月は国内4億件超",
+      "link": "https://news.yahoo.co.jp/pickup/6601439?source=rss",
+      "pubDate": "2026-11-05T08:12:32.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "プロ野球取材で球を集め売却 謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6601440?source=rss",
+      "pubDate": "2026-11-05T08:12:18.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米右派動揺「トランプ後」を模索",
+      "link": "https://news.yahoo.co.jp/pickup/6601435?source=rss",
+      "pubDate": "2026-11-05T08:01:55.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -168,30 +192,6 @@
       "title": "OM SYSTEMは他フォーマットを検討する前にm4/3でできることをやり切りたい（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/om-system-11.html",
       "pubDate": "2026-11-05T02:25:10.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "料理の負担減「メンパ食材」注目",
-      "link": "https://news.yahoo.co.jp/pickup/6601391?source=rss",
-      "pubDate": "2026-11-05T01:50:10.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "イラン 大敗のトランプ氏を嘲笑",
-      "link": "https://news.yahoo.co.jp/pickup/6601392?source=rss",
-      "pubDate": "2026-11-05T01:49:37.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "仏銀行サイバー攻撃 177億円流出",
-      "link": "https://news.yahoo.co.jp/pickup/6601387?source=rss",
-      "pubDate": "2026-11-05T01:14:21.000Z"
     },
     {
       "category": "科学",
