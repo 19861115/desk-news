@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-05T02:15:33.803Z",
+  "updatedAt": "2026-11-05T02:30:40.739Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "台風 スピードアップし日本の東へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601396?source=rss",
+      "pubDate": "2026-11-05T02:27:04.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -120,14 +128,6 @@
       "title": "「書道」無形文化遺産に登録へ",
       "link": "https://news.yahoo.co.jp/pickup/6601371?source=rss",
       "pubDate": "2026-11-04T22:19:22.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "関東や伊豆諸島 大雨災害に警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6601367?source=rss",
-      "pubDate": "2026-11-04T21:30:41.000Z"
     },
     {
       "category": "経済",
