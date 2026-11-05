@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T23:30:43.179Z",
+  "updatedAt": "2026-11-05T23:45:34.041Z",
   "items": [
     {
       "category": "国内",
@@ -24,6 +24,38 @@
       "title": "欧州で爆破予告 27便以上に影響",
       "link": "https://news.yahoo.co.jp/pickup/6601486?source=rss",
       "pubDate": "2026-11-05T23:11:46.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ドコモ通信障害、約14時間で復旧　原因は「交換機の輻輳」、不正アクセスの形跡なし",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002932/",
+      "pubDate": "2026-11-05T23:04:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 摩擦を式にする――「空気」を経営会議の議題に変える、組織摩擦係数の読み方",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/06/2000002905/",
+      "pubDate": "2026-11-05T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「推し活疲れ」の原因はスマホ？　月1万円超の出費、睡眠を削る人も　推しとの“ちょうどいい距離”を考える",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news016.html",
+      "pubDate": "2026-11-05T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+      "pubDate": "2026-11-05T22:57:34.000Z"
     },
     {
       "category": "経済",
@@ -64,38 +96,6 @@
       "title": "ドコモ通信障害が復旧 原因を公表",
       "link": "https://news.yahoo.co.jp/pickup/6601482?source=rss",
       "pubDate": "2026-11-05T22:25:22.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ドコモ不正アクセス、最大30万件の顧客情報流出　「My docomo」など緊急メンテ、再開未定",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002929/",
-      "pubDate": "2026-11-05T22:08:51.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
-      "pubDate": "2026-11-05T22:03:55.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 人任せのDX→アプリ開発で「年間2億円超」削減見込み　関西電力送配電はどうやって社長・役員を“本気にさせた”のか",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news010.html",
-      "pubDate": "2026-11-05T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] アーキテクチャの比較表で勝った案を本当に選ぶべきか　AIに任せきれない検証と合意のプロセス",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news003.html",
-      "pubDate": "2026-11-05T22:00:00.000Z"
     },
     {
       "category": "経済",
