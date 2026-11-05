@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-05T03:00:53.732Z",
+  "updatedAt": "2026-11-05T03:15:32.336Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "「e-Tax」の運用を再開 国税庁",
+      "link": "https://news.yahoo.co.jp/pickup/6601404?source=rss",
+      "pubDate": "2026-11-05T03:03:30.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -18,20 +26,28 @@
       "pubDate": "2026-11-05T02:56:30.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 人気ゲーム「NIKKE」公式PCランチャーで不正プログラム実行か　CDN上でスクリプト改ざん　ユーザーは対策を",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002895/",
+      "pubDate": "2026-11-05T02:54:38.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] Momax、1.85型曲面ディスプレイを備えたエントリー価格帯スマートウォッチ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news061.html",
+      "pubDate": "2026-11-05T02:50:00.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "台風 スピードアップし日本の東へ",
       "link": "https://news.yahoo.co.jp/pickup/6601396?source=rss",
       "pubDate": "2026-11-05T02:27:04.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 人気ゲーム「NIKKE」公式PCランチャーで不正プログラム実行か　CDN上でスクリプト改ざん　ユーザーは対策を",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002895/",
-      "pubDate": "2026-11-05T02:20:35.000Z"
     },
     {
       "category": "ITmedia",
@@ -80,14 +96,6 @@
       "title": "[ITmedia News] 涙に叱責に持論……GMO熊谷代表の謝罪会見、どこがまずかった？　危機管理広報のプロが分析",
       "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002873/",
       "pubDate": "2026-11-05T01:05:17.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 楽天市場で780円のスマホポーチが販売中　12色の豊富なカラーで汚れにも強い",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news035.html",
-      "pubDate": "2026-11-05T01:00:00.000Z"
     },
     {
       "category": "国際",
@@ -160,14 +168,6 @@
       "title": "竜王戦でカメムシ出没 僧侶が捕獲",
       "link": "https://news.yahoo.co.jp/pickup/6601363?source=rss",
       "pubDate": "2026-11-04T14:35:08.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "e-Taxに不審な通信 緊急メンテ",
-      "link": "https://news.yahoo.co.jp/pickup/6601361?source=rss",
-      "pubDate": "2026-11-04T14:08:31.000Z"
     },
     {
       "category": "経済",
