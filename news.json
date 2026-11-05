@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-05T10:00:56.524Z",
+  "updatedAt": "2026-11-05T10:15:33.939Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "ラッコのキラ死ぬ 国内飼育1頭に",
+      "link": "https://news.yahoo.co.jp/pickup/6601455?source=rss",
+      "pubDate": "2026-11-05T10:09:27.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -136,14 +144,6 @@
       "title": "バンス氏 米大統領と距離置く姿勢",
       "link": "https://news.yahoo.co.jp/pickup/6601425?source=rss",
       "pubDate": "2026-11-05T06:33:22.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "ラッコの「キラ」死ぬ 鳥羽水族館",
-      "link": "https://news.yahoo.co.jp/pickup/6601422?source=rss",
-      "pubDate": "2026-11-05T06:20:43.000Z"
     },
     {
       "category": "経済",
