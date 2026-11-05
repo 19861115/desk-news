@@ -1,21 +1,53 @@
 {
-  "updatedAt": "2026-11-05T05:30:45.422Z",
+  "updatedAt": "2026-11-05T05:45:34.077Z",
   "items": [
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] IIJmioで約98万件のメールアドレス流出　委託先への不正アクセスで不審メールに要注意",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news068.html",
-      "pubDate": "2026-11-05T04:47:00.000Z"
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "黒字リストラ 日本にも広がるか",
+      "link": "https://news.yahoo.co.jp/pickup/6601409?source=rss",
+      "pubDate": "2026-11-05T05:37:37.000Z"
     },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ドコモで全国規模の通信障害が発生――「仕事や決済が使えない」SNSに悲鳴　MVNO各社にも影響",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news067.html",
-      "pubDate": "2026-11-05T04:34:00.000Z"
+      "title": "[ITmedia News] 公表済みの脆弱性に気づかず39万6920人分漏えい　採用サービスApplyNow　一部マイナンバーや口座情報も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002908/",
+      "pubDate": "2026-11-05T05:23:32.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] モスやワークマン、IIJmioも　アララへの不正アクセスで顧客情報の流出発表相次ぐ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002907/",
+      "pubDate": "2026-11-05T05:11:54.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 手書き文書の文字起こし＋会話録音も可能なスマートノート　Makuakeで先行販売を開始",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news071.html",
+      "pubDate": "2026-11-05T05:11:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモオンラインショップとMy docomoで緊急メンテナンス　不正アクセスの可能性",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news070.html",
+      "pubDate": "2026-11-05T05:10:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] アイネックス、デスクトップPCの電源操作を手元で行える有線リモコン",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news069.html",
+      "pubDate": "2026-11-05T05:03:00.000Z"
     },
     {
       "category": "IT",
@@ -24,30 +56,6 @@
       "title": "ドコモ携帯 全国で障害が発生",
       "link": "https://news.yahoo.co.jp/pickup/6601414?source=rss",
       "pubDate": "2026-11-05T04:13:44.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 価格は約9万円に上昇、それでも“買い”か？　DJIの360度カメラ「Osmo 360 II」を初代と比べて分かったこと",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news063.html",
-      "pubDate": "2026-11-05T04:12:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ドコモ、全国で通信障害　通話・データとも利用しづらく",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002904/",
-      "pubDate": "2026-11-05T04:05:06.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「iPhone Duo」を開閉するとアプリ表示はどう変わる？　“ぼかし”演出とUIが「下から左へ」動くパターンをチェック",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news066.html",
-      "pubDate": "2026-11-05T04:00:00.000Z"
     },
     {
       "category": "IT",
@@ -208,14 +216,6 @@
       "title": "ゆうちょ銀 松井証券に20%出資",
       "link": "https://news.yahoo.co.jp/pickup/6601352?source=rss",
       "pubDate": "2026-11-04T13:23:46.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "香川の讃岐うどん店 混雑対応苦慮",
-      "link": "https://news.yahoo.co.jp/pickup/6601347?source=rss",
-      "pubDate": "2026-11-04T12:40:19.000Z"
     },
     {
       "category": "科学",
