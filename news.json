@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-05T00:30:44.416Z",
+  "updatedAt": "2026-11-05T00:45:33.277Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] ニトリ、主要テーブル約2600本をAIで分析へ　独自ルールで名付けたデータをAIにどう理解させた？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news005.html",
+      "pubDate": "2026-11-05T00:20:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 仏血液センターの冷蔵設備にサイバー攻撃　温度設定を不正変更、血液製剤への被害は回避",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002890/",
+      "pubDate": "2026-11-05T00:19:59.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -72,22 +88,6 @@
       "title": "[ITmedia News] 米中間選挙で民主党が上下両院を奪還　AI規制強化に現実味、IT大手の株価は上昇",
       "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002888/",
       "pubDate": "2026-11-04T22:11:20.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] どうなる、ウナギ業界──「鰻の成瀬」400→160店舗に、各社“あの手この手”の生き残り戦略",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/05/news002.html",
-      "pubDate": "2026-11-04T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 予算止める側だったのに「増額」進言　現場の「伸びそう」応援する“CFOの右腕”設置、MIXIに何が起きた？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/05/news025.html",
-      "pubDate": "2026-11-04T22:00:00.000Z"
     },
     {
       "category": "国内",
