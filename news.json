@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-05T08:45:34.865Z",
+  "updatedAt": "2026-11-05T09:01:03.695Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "税の無駄など1445億円 検査院報告",
+      "link": "https://news.yahoo.co.jp/pickup/6601446?source=rss",
+      "pubDate": "2026-11-05T08:46:46.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -216,14 +224,6 @@
       "title": "サイバー救援隊を創設へ 政府案",
       "link": "https://news.yahoo.co.jp/pickup/6601372?source=rss",
       "pubDate": "2026-11-04T22:41:50.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "「書道」無形文化遺産に登録へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601371?source=rss",
-      "pubDate": "2026-11-04T22:19:22.000Z"
     },
     {
       "category": "科学",
