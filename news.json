@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-05T06:15:33.985Z",
+  "updatedAt": "2026-11-05T06:30:45.876Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "ラッコの「キラ」死ぬ 鳥羽水族館",
+      "link": "https://news.yahoo.co.jp/pickup/6601422?source=rss",
+      "pubDate": "2026-11-05T06:20:43.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "活躍期待年齢「68歳」企業の狙い",
+      "link": "https://news.yahoo.co.jp/pickup/6601420?source=rss",
+      "pubDate": "2026-11-05T06:17:59.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -210,14 +226,6 @@
       "pubDate": "2026-11-04T22:19:22.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "リニア工事費 再び増額へ検討",
-      "link": "https://news.yahoo.co.jp/pickup/6601365?source=rss",
-      "pubDate": "2026-11-04T14:54:37.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -240,14 +248,6 @@
       "title": "ライカM12はCCDセンサーのような色再現になる？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/m12ccd.html",
       "pubDate": "2026-11-04T09:31:45.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "ラッコ見学を全面中止 鳥羽水族館",
-      "link": "https://news.yahoo.co.jp/pickup/6601310?source=rss",
-      "pubDate": "2026-11-04T07:49:11.000Z"
     },
     {
       "category": "科学",
