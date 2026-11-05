@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T02:30:40.739Z",
+  "updatedAt": "2026-11-05T02:45:33.185Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,30 @@
       "title": "台風 スピードアップし日本の東へ",
       "link": "https://news.yahoo.co.jp/pickup/6601396?source=rss",
       "pubDate": "2026-11-05T02:27:04.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 人気ゲーム「NIKKE」公式PCランチャーで不正プログラム実行か　CDN上でスクリプト改ざん　ユーザーは対策を",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002895/",
+      "pubDate": "2026-11-05T02:20:35.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] GMOインターネットの情報漏えい事案で総務省が業界団体に「ブロッキング要請」との報道　NTTは動いた？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news060.html",
+      "pubDate": "2026-11-05T02:15:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
+      "pubDate": "2026-11-05T01:59:38.000Z"
     },
     {
       "category": "経済",
@@ -48,30 +72,6 @@
       "title": "[ITmedia Mobile] 楽天市場で780円のスマホポーチが販売中　12色の豊富なカラーで汚れにも強い",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news035.html",
       "pubDate": "2026-11-05T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] WAON POINTやAEON Payのキャンペーンまとめ【11月5日最新版】　ブラックフライデーで11倍還元、5日に20％還元も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news046.html",
-      "pubDate": "2026-11-05T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 仏銀行Credit Mutuel Arkeaにサイバー攻撃　委託先経由で侵入、不正送金の被害は約1億ユーロか",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002891/",
-      "pubDate": "2026-11-05T00:56:19.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 傷が付きにくいシボ加工を採用したコンパクト急速充電器「CIO NovaPort DUOII 65W」がセールで27％オフの3980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news058.html",
-      "pubDate": "2026-11-05T00:53:00.000Z"
     },
     {
       "category": "国際",
