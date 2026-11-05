@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-05T07:30:43.987Z",
+  "updatedAt": "2026-11-05T07:45:33.725Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ドコモ障害「5G SA」のみで発生",
+      "link": "https://news.yahoo.co.jp/pickup/6601432?source=rss",
+      "pubDate": "2026-11-05T07:35:19.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -40,6 +48,14 @@
       "title": "[ITmedia News] 【更新】ドコモ、全国で通信障害　通話・データとも利用しづらく",
       "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002904/",
       "pubDate": "2026-11-05T06:27:38.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] サンワ、USB Type-Cの巻き取りケーブルを内蔵した半固体モバイルバッテリー発売　6980円",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news078.html",
+      "pubDate": "2026-11-05T06:21:00.000Z"
     },
     {
       "category": "科学",
@@ -82,28 +98,12 @@
       "pubDate": "2026-11-05T06:11:32.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 不正アクセスで停止の「ふるさとチョイス」6日再開　まずWeb版から",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002910/",
-      "pubDate": "2026-11-05T06:06:01.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "黒字リストラ 日本にも広がるか",
       "link": "https://news.yahoo.co.jp/pickup/6601409?source=rss",
       "pubDate": "2026-11-05T05:37:37.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ドコモ携帯 全国で障害が発生",
-      "link": "https://news.yahoo.co.jp/pickup/6601414?source=rss",
-      "pubDate": "2026-11-05T04:13:44.000Z"
     },
     {
       "category": "IT",
