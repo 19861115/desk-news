@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-05T02:45:33.185Z",
+  "updatedAt": "2026-11-05T03:00:53.732Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "英語版DBZ作曲家 州司法長官に",
+      "link": "https://news.yahoo.co.jp/pickup/6601402?source=rss",
+      "pubDate": "2026-11-05T02:56:41.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "AI効果「期待超えた」日本企業9%",
+      "link": "https://news.yahoo.co.jp/pickup/6601401?source=rss",
+      "pubDate": "2026-11-05T02:56:30.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -178,14 +194,6 @@
       "pubDate": "2026-11-04T11:58:45.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "列車事故で死亡の邦人 20代男女か",
-      "link": "https://news.yahoo.co.jp/pickup/6601338?source=rss",
-      "pubDate": "2026-11-04T10:59:54.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -248,14 +256,6 @@
       "title": "パナソニックが来年春にEVF搭載の「LUMIX S9II」を発表？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/lumix-s9ii.html",
       "pubDate": "2026-11-04T04:13:37.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "1兆円盗難 バイナンスが手口公表",
-      "link": "https://news.yahoo.co.jp/pickup/6601264?source=rss",
-      "pubDate": "2026-11-04T00:49:15.000Z"
     },
     {
       "category": "デジカメinfo",
