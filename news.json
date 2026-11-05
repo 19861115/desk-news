@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-05T11:00:55.673Z",
+  "updatedAt": "2026-11-05T11:15:35.421Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "めぐみさん拉致 母「会いたい」",
+      "link": "https://news.yahoo.co.jp/pickup/6601458?source=rss",
+      "pubDate": "2026-11-05T11:11:25.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "自転車の青切符 半年で約1.6万件",
+      "link": "https://news.yahoo.co.jp/pickup/6601460?source=rss",
+      "pubDate": "2026-11-05T11:08:11.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] MUFG・マネーツリー・Googleが「金融×ウェルネス」で連携　日常データ一元化からAI分析・購買支援まで展開へ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news092.html",
+      "pubDate": "2026-11-05T10:40:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -106,14 +130,6 @@
       "pubDate": "2026-11-05T08:12:18.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] IIJmioで「スマホ大特価セール」開催、「Galaxy A25 5G」「Redmi 12 5G」が4980円　11月30日まで",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news084.html",
-      "pubDate": "2026-11-05T08:02:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -152,14 +168,6 @@
       "title": "バンス氏 米大統領と距離置く姿勢",
       "link": "https://news.yahoo.co.jp/pickup/6601425?source=rss",
       "pubDate": "2026-11-05T06:33:22.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "「フレネミー」26年流行語候補に",
-      "link": "https://news.yahoo.co.jp/pickup/6601423?source=rss",
-      "pubDate": "2026-11-05T06:14:13.000Z"
     },
     {
       "category": "IT",
@@ -216,14 +224,6 @@
       "title": "エボラ巡り新ワクチン治験 WHO",
       "link": "https://news.yahoo.co.jp/pickup/6601378?source=rss",
       "pubDate": "2026-11-04T23:10:49.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "消費税減税 あすにも衆院通過へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601376?source=rss",
-      "pubDate": "2026-11-04T23:01:06.000Z"
     },
     {
       "category": "科学",
