@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-05T07:00:54.829Z",
+  "updatedAt": "2026-11-05T07:15:33.540Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] XGIMI、4K／120Hz表示に対応した高機能スマートプロジェクター「HORIZON 30」シリーズを発表",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news081.html",
+      "pubDate": "2026-11-05T06:51:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -10,12 +18,28 @@
       "pubDate": "2026-11-05T06:43:03.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] エイサー、フルHD×2面表示が可能な折りたたみ式15.6型／23.8型デュアルモバイルディスプレイ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news080.html",
+      "pubDate": "2026-11-05T06:34:00.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "バンス氏 米大統領と距離置く姿勢",
       "link": "https://news.yahoo.co.jp/pickup/6601425?source=rss",
       "pubDate": "2026-11-05T06:33:22.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 【更新】ドコモ、全国で通信障害　通話・データとも利用しづらく",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002904/",
+      "pubDate": "2026-11-05T06:27:38.000Z"
     },
     {
       "category": "科学",
@@ -64,30 +88,6 @@
       "title": "[ITmedia News] 不正アクセスで停止の「ふるさとチョイス」6日再開　まずWeb版から",
       "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002910/",
       "pubDate": "2026-11-05T06:06:01.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 360度回転スタンドとエアバッグ構造を備えた「TORRAS iPhone 18 Pro Max 用 ケース Ostand Q3 Air」がセールで35％オフの8398円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news077.html",
-      "pubDate": "2026-11-05T05:57:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 屋外やお風呂でも高品位なサウンドを楽しみたい方にピッタリな小型Bluetoothスピーカー「Anker Soundcore 3」がセールで29％オフの4990円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news076.html",
-      "pubDate": "2026-11-05T05:54:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 外付けデータの持ち運びに適した「バッファロー SSD-SDH500U3BA/N」がセールでで20％オフの2万8400円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news075.html",
-      "pubDate": "2026-11-05T05:49:00.000Z"
     },
     {
       "category": "経済",
