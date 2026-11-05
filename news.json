@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-05T04:00:51.667Z",
+  "updatedAt": "2026-11-05T04:15:32.033Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ドコモ携帯 全国で障害が発生",
+      "link": "https://news.yahoo.co.jp/pickup/6601414?source=rss",
+      "pubDate": "2026-11-05T04:13:44.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「My docomo」「ドコモオンラインショップ」が緊急メンテ　外部からの不正アクセスの可能性で",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002902/",
+      "pubDate": "2026-11-05T03:55:28.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -10,12 +26,36 @@
       "pubDate": "2026-11-05T03:52:36.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] e-Taxに「不審な通信」　緊急メンテで利用停止、再開未定　「年末調整できない」悲鳴【復旧】",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002887/",
+      "pubDate": "2026-11-05T03:40:45.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "米共和党 大敗の責任押し付け合い",
       "link": "https://news.yahoo.co.jp/pickup/6601407?source=rss",
       "pubDate": "2026-11-05T03:32:04.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 独立社外取締役の役割、CEO選解任が最重要　日本取締役協会の冨山和彦会長が講演",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/05/2000002898/",
+      "pubDate": "2026-11-05T03:30:13.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「e-Tax」再開　安全性確認、納税者の情報漏えいなし",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002897/",
+      "pubDate": "2026-11-05T03:29:15.000Z"
     },
     {
       "category": "IT",
@@ -50,14 +90,6 @@
       "pubDate": "2026-11-05T02:54:38.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] Momax、1.85型曲面ディスプレイを備えたエントリー価格帯スマートウォッチ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news061.html",
-      "pubDate": "2026-11-05T02:50:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -66,20 +98,12 @@
       "pubDate": "2026-11-05T02:27:04.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] GMOインターネットの情報漏えい事案で総務省が業界団体に「ブロッキング要請」との報道　NTTは動いた？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news060.html",
-      "pubDate": "2026-11-05T02:15:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
-      "pubDate": "2026-11-05T01:59:38.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "OM SYSTEMは他フォーマットを検討する前にm4/3でできることをやり切りたい（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/om-system-11.html",
+      "pubDate": "2026-11-05T02:25:10.000Z"
     },
     {
       "category": "経済",
@@ -104,14 +128,6 @@
       "title": "仏銀行サイバー攻撃 177億円流出",
       "link": "https://news.yahoo.co.jp/pickup/6601387?source=rss",
       "pubDate": "2026-11-05T01:14:21.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 涙に叱責に持論……GMO熊谷代表の謝罪会見、どこがまずかった？　危機管理広報のプロが分析",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002873/",
-      "pubDate": "2026-11-05T01:05:17.000Z"
     },
     {
       "category": "国際",
@@ -202,14 +218,6 @@
       "pubDate": "2026-11-04T12:40:19.000Z"
     },
     {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "免許証画像漏えい SNS悪用詐欺も",
-      "link": "https://news.yahoo.co.jp/pickup/6601325?source=rss",
-      "pubDate": "2026-11-04T10:39:12.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -272,14 +280,6 @@
       "title": "ソニーが登録した新型カメラは「α7SIV」で確実ではないが「α7CIII」「α7CRII」「α6900」でないことは確実（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/7siv7ciii7crii6900.html",
       "pubDate": "2026-11-02T15:51:06.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "シグマ「FP2」はビデオグラファーには魅力的だがカジュアルな使い方なら「LUMIX S9」がコストパフォーマンスに優れている（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/fp2-4.html",
-      "pubDate": "2026-11-02T09:29:29.000Z"
     }
   ]
 }
