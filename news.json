@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-05T08:30:43.275Z",
+  "updatedAt": "2026-11-05T08:45:34.865Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "シヤチハタ 化粧品事業に参入へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601444?source=rss",
+      "pubDate": "2026-11-05T08:29:19.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 医療機関のサイバーセキュリティー強化へ　ランサムウエア攻撃で診療への長期影響リスク",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002921/",
+      "pubDate": "2026-11-05T08:19:11.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -16,6 +32,14 @@
       "title": "プロ野球取材で球を集め売却 謝罪",
       "link": "https://news.yahoo.co.jp/pickup/6601440?source=rss",
       "pubDate": "2026-11-05T08:12:18.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] IIJmioで「スマホ大特価セール」開催、「Galaxy A25 5G」「Redmi 12 5G」が4980円　11月30日まで",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news084.html",
+      "pubDate": "2026-11-05T08:02:00.000Z"
     },
     {
       "category": "国際",
@@ -82,28 +106,12 @@
       "pubDate": "2026-11-05T06:27:38.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] サンワ、USB Type-Cの巻き取りケーブルを内蔵した半固体モバイルバッテリー発売　6980円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news078.html",
-      "pubDate": "2026-11-05T06:21:00.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "ラッコの「キラ」死ぬ 鳥羽水族館",
       "link": "https://news.yahoo.co.jp/pickup/6601422?source=rss",
       "pubDate": "2026-11-05T06:20:43.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ドコモ通信障害は「5G SA」契約者のみ　4G選択→再起動で利用できる可能性も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002912/",
-      "pubDate": "2026-11-05T06:20:33.000Z"
     },
     {
       "category": "経済",
@@ -128,14 +136,6 @@
       "title": "ハリポタ英旗艦店 初日に抗議活動",
       "link": "https://news.yahoo.co.jp/pickup/6601419?source=rss",
       "pubDate": "2026-11-05T06:11:32.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "黒字リストラ 日本にも広がるか",
-      "link": "https://news.yahoo.co.jp/pickup/6601409?source=rss",
-      "pubDate": "2026-11-05T05:37:37.000Z"
     },
     {
       "category": "IT",
