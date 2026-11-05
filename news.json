@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-05T06:30:45.876Z",
+  "updatedAt": "2026-11-05T06:45:33.186Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "トヨタ中間決算 3年ぶり営業増益",
+      "link": "https://news.yahoo.co.jp/pickup/6601424?source=rss",
+      "pubDate": "2026-11-05T06:43:03.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "バンス氏 米大統領と距離置く姿勢",
+      "link": "https://news.yahoo.co.jp/pickup/6601425?source=rss",
+      "pubDate": "2026-11-05T06:33:22.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "ラッコの「キラ」死ぬ 鳥羽水族館",
       "link": "https://news.yahoo.co.jp/pickup/6601422?source=rss",
       "pubDate": "2026-11-05T06:20:43.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ドコモ通信障害は「5G SA」契約者のみ　4G選択→再起動で利用できる可能性も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002912/",
+      "pubDate": "2026-11-05T06:20:33.000Z"
     },
     {
       "category": "経済",
@@ -37,6 +61,22 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 不正アクセスで停止の「ふるさとチョイス」6日再開　まずWeb版から",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002910/",
+      "pubDate": "2026-11-05T06:06:01.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 360度回転スタンドとエアバッグ構造を備えた「TORRAS iPhone 18 Pro Max 用 ケース Ostand Q3 Air」がセールで35％オフの8398円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news077.html",
+      "pubDate": "2026-11-05T05:57:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia Mobile] 屋外やお風呂でも高品位なサウンドを楽しみたい方にピッタリな小型Bluetoothスピーカー「Anker Soundcore 3」がセールで29％オフの4990円に",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news076.html",
       "pubDate": "2026-11-05T05:54:00.000Z"
@@ -48,30 +88,6 @@
       "title": "[ITmedia PC USER] 外付けデータの持ち運びに適した「バッファロー SSD-SDH500U3BA/N」がセールでで20％オフの2万8400円に",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news075.html",
       "pubDate": "2026-11-05T05:49:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] パステルブルーがかわいい23.8型ゲーミングディスプレイ「Pixio PX248 Wave Pastel Blue Angel」がセールで25％オフの2万1800円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news074.html",
-      "pubDate": "2026-11-05T05:44:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 涙に叱責に持論……GMO熊谷代表の謝罪会見、どこがまずかった？　危機管理広報のプロが分析",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002873/",
-      "pubDate": "2026-11-05T05:42:46.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 手作りの木製キャビネットがオシャレなスピーカー「Edifier M60」がセールで21％オフの1万8980円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news073.html",
-      "pubDate": "2026-11-05T05:39:00.000Z"
     },
     {
       "category": "経済",
@@ -200,22 +216,6 @@
       "title": "サイバー救援隊を創設へ 政府案",
       "link": "https://news.yahoo.co.jp/pickup/6601372?source=rss",
       "pubDate": "2026-11-04T22:41:50.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米民主党 トランプ政権監視強化へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601374?source=rss",
-      "pubDate": "2026-11-04T22:35:38.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ダウ一時1500ドル高 選挙から一夜",
-      "link": "https://news.yahoo.co.jp/pickup/6601373?source=rss",
-      "pubDate": "2026-11-04T22:35:29.000Z"
     },
     {
       "category": "国内",
