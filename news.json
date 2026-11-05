@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-05T09:30:44.647Z",
+  "updatedAt": "2026-11-05T09:45:32.557Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "6日 全国的に気温高く夏日予想も",
+      "link": "https://news.yahoo.co.jp/pickup/6601453?source=rss",
+      "pubDate": "2026-11-05T09:42:58.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "個人向け国債「複利型」導入検討",
+      "link": "https://news.yahoo.co.jp/pickup/6601451?source=rss",
+      "pubDate": "2026-11-05T09:40:02.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -186,14 +202,6 @@
       "pubDate": "2026-11-05T02:56:30.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "台風 スピードアップし日本の東へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601396?source=rss",
-      "pubDate": "2026-11-05T02:27:04.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -216,14 +224,6 @@
       "title": "消費税減税 あすにも衆院通過へ",
       "link": "https://news.yahoo.co.jp/pickup/6601376?source=rss",
       "pubDate": "2026-11-04T23:01:06.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "サイバー救援隊を創設へ 政府案",
-      "link": "https://news.yahoo.co.jp/pickup/6601372?source=rss",
-      "pubDate": "2026-11-04T22:41:50.000Z"
     },
     {
       "category": "科学",
