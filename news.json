@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-05T03:30:43.905Z",
+  "updatedAt": "2026-11-05T03:45:34.468Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米共和党 大敗の責任押し付け合い",
+      "link": "https://news.yahoo.co.jp/pickup/6601407?source=rss",
+      "pubDate": "2026-11-05T03:32:04.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -184,14 +192,6 @@
       "title": "香川の讃岐うどん店 混雑対応苦慮",
       "link": "https://news.yahoo.co.jp/pickup/6601347?source=rss",
       "pubDate": "2026-11-04T12:40:19.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "児童婚増えるガザ 壮絶性暴力訴え",
-      "link": "https://news.yahoo.co.jp/pickup/6601344?source=rss",
-      "pubDate": "2026-11-04T11:58:45.000Z"
     },
     {
       "category": "IT",
