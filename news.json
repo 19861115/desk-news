@@ -1,13 +1,61 @@
 {
-  "updatedAt": "2026-11-05T06:00:51.476Z",
+  "updatedAt": "2026-11-05T06:15:33.985Z",
   "items": [
     {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
-      "title": "流行語候補にドパガキやNISA貧乏",
-      "link": "https://news.yahoo.co.jp/pickup/6601421?source=rss",
-      "pubDate": "2026-11-05T05:56:46.000Z"
+      "title": "「フレネミー」26年流行語候補に",
+      "link": "https://news.yahoo.co.jp/pickup/6601423?source=rss",
+      "pubDate": "2026-11-05T06:14:13.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ハリポタ英旗艦店 初日に抗議活動",
+      "link": "https://news.yahoo.co.jp/pickup/6601419?source=rss",
+      "pubDate": "2026-11-05T06:11:32.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 屋外やお風呂でも高品位なサウンドを楽しみたい方にピッタリな小型Bluetoothスピーカー「Anker Soundcore 3」がセールで29％オフの4990円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news076.html",
+      "pubDate": "2026-11-05T05:54:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 外付けデータの持ち運びに適した「バッファロー SSD-SDH500U3BA/N」がセールでで20％オフの2万8400円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news075.html",
+      "pubDate": "2026-11-05T05:49:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] パステルブルーがかわいい23.8型ゲーミングディスプレイ「Pixio PX248 Wave Pastel Blue Angel」がセールで25％オフの2万1800円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news074.html",
+      "pubDate": "2026-11-05T05:44:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 涙に叱責に持論……GMO熊谷代表の謝罪会見、どこがまずかった？　危機管理広報のプロが分析",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002873/",
+      "pubDate": "2026-11-05T05:42:46.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 手作りの木製キャビネットがオシャレなスピーカー「Edifier M60」がセールで21％オフの1万8980円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news073.html",
+      "pubDate": "2026-11-05T05:39:00.000Z"
     },
     {
       "category": "経済",
@@ -16,46 +64,6 @@
       "title": "黒字リストラ 日本にも広がるか",
       "link": "https://news.yahoo.co.jp/pickup/6601409?source=rss",
       "pubDate": "2026-11-05T05:37:37.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 公表済みの脆弱性に気づかず39万6920人分漏えい　採用サービスApplyNow　一部マイナンバーや口座情報も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002908/",
-      "pubDate": "2026-11-05T05:23:32.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] モスやワークマン、IIJmioも　アララへの不正アクセスで顧客情報の流出発表相次ぐ",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002907/",
-      "pubDate": "2026-11-05T05:11:54.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 手書き文書の文字起こし＋会話録音も可能なスマートノート　Makuakeで先行販売を開始",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news071.html",
-      "pubDate": "2026-11-05T05:11:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ドコモオンラインショップとMy docomoで緊急メンテナンス　不正アクセスの可能性",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news070.html",
-      "pubDate": "2026-11-05T05:10:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] アイネックス、デスクトップPCの電源操作を手元で行える有線リモコン",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news069.html",
-      "pubDate": "2026-11-05T05:03:00.000Z"
     },
     {
       "category": "IT",
@@ -208,14 +216,6 @@
       "title": "リニア工事費 再び増額へ検討",
       "link": "https://news.yahoo.co.jp/pickup/6601365?source=rss",
       "pubDate": "2026-11-04T14:54:37.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ゆうちょ銀 松井証券に20%出資",
-      "link": "https://news.yahoo.co.jp/pickup/6601352?source=rss",
-      "pubDate": "2026-11-04T13:23:46.000Z"
     },
     {
       "category": "科学",
