@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T04:30:44.204Z",
+  "updatedAt": "2026-11-05T04:45:33.125Z",
   "items": [
     {
       "category": "IT",
@@ -8,6 +8,30 @@
       "title": "ドコモ携帯 全国で障害が発生",
       "link": "https://news.yahoo.co.jp/pickup/6601414?source=rss",
       "pubDate": "2026-11-05T04:13:44.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 価格は約9万円に上昇、それでも“買い”か？　DJIの360度カメラ「Osmo 360 II」を初代と比べて分かったこと",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news063.html",
+      "pubDate": "2026-11-05T04:12:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ドコモ、全国で通信障害　通話・データとも利用しづらく",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002904/",
+      "pubDate": "2026-11-05T04:05:06.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「iPhone Duo」を開閉するとアプリ表示はどう変わる？　“ぼかし”演出とUIが「下から左へ」動くパターンをチェック",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news066.html",
+      "pubDate": "2026-11-05T04:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -42,22 +66,6 @@
       "pubDate": "2026-11-05T03:32:04.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 独立社外取締役の役割、CEO選解任が最重要　日本取締役協会の冨山和彦会長が講演",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/05/2000002898/",
-      "pubDate": "2026-11-05T03:30:13.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「e-Tax」再開　安全性確認、納税者の情報漏えいなし",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002897/",
-      "pubDate": "2026-11-05T03:29:15.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -80,14 +88,6 @@
       "title": "AI効果「期待超えた」日本企業9%",
       "link": "https://news.yahoo.co.jp/pickup/6601401?source=rss",
       "pubDate": "2026-11-05T02:56:30.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 人気ゲーム「NIKKE」公式PCランチャーで不正プログラム実行か　CDN上でスクリプト改ざん　ユーザーは対策を",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002895/",
-      "pubDate": "2026-11-05T02:54:38.000Z"
     },
     {
       "category": "国内",
