@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T01:30:41.528Z",
+  "updatedAt": "2026-11-05T01:45:32.236Z",
   "items": [
     {
       "category": "IT",
@@ -13,6 +13,30 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 涙に叱責に持論……GMO熊谷代表の謝罪会見、どこがまずかった？　危機管理広報のプロが分析",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002873/",
+      "pubDate": "2026-11-05T01:05:17.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 楽天市場で780円のスマホポーチが販売中　12色の豊富なカラーで汚れにも強い",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news035.html",
+      "pubDate": "2026-11-05T01:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] WAON POINTやAEON Payのキャンペーンまとめ【11月5日最新版】　ブラックフライデーで11倍還元、5日に20％還元も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news046.html",
+      "pubDate": "2026-11-05T01:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia News] 仏銀行Credit Mutuel Arkeaにサイバー攻撃　委託先経由で侵入、不正送金の被害は約1億ユーロか",
       "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002891/",
       "pubDate": "2026-11-05T00:56:19.000Z"
@@ -21,9 +45,9 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] プロチーム共創のゲーミングイヤフォン「ソニー INZONE Buds WF-G700N」がセールで27％オフの2万1582円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news055.html",
-      "pubDate": "2026-11-05T00:48:00.000Z"
+      "title": "[ITmedia Mobile] 傷が付きにくいシボ加工を採用したコンパクト急速充電器「CIO NovaPort DUOII 65W」がセールで27％オフの3980円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news058.html",
+      "pubDate": "2026-11-05T00:53:00.000Z"
     },
     {
       "category": "国際",
@@ -32,30 +56,6 @@
       "title": "米民主党 次のリーダー不在課題",
       "link": "https://news.yahoo.co.jp/pickup/6601386?source=rss",
       "pubDate": "2026-11-05T00:45:30.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] さまざまな機器に対応する有線ゲーミングイヤフォン「Logicool G G333」がセールで34％オフの4900円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news054.html",
-      "pubDate": "2026-11-05T00:44:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 束ねて持ち運んでも絡まりにくい「Anker PowerLine III Flow USB-C &amp; USB-C ケーブル (0.9m ライトパープル)」がセールでで22％オフの1390円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news053.html",
-      "pubDate": "2026-11-05T00:39:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] クリック音を抑えて周囲を気にせず使える「ロジクール M575SPd」がセールで33％オフの5680円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news052.html",
-      "pubDate": "2026-11-05T00:35:00.000Z"
     },
     {
       "category": "科学",
