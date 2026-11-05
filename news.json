@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-05T00:45:33.277Z",
+  "updatedAt": "2026-11-05T01:00:51.593Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米民主党 次のリーダー不在課題",
+      "link": "https://news.yahoo.co.jp/pickup/6601386?source=rss",
+      "pubDate": "2026-11-05T00:45:30.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -208,14 +216,6 @@
       "title": "ライカM12はCCDセンサーのような色再現になる？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/m12ccd.html",
       "pubDate": "2026-11-04T09:31:45.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米大統領 民主党に「おめでとう」",
-      "link": "https://news.yahoo.co.jp/pickup/6601327?source=rss",
-      "pubDate": "2026-11-04T09:09:06.000Z"
     },
     {
       "category": "科学",
