@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T06:45:34.120Z",
+  "updatedAt": "2026-11-06T07:00:52.454Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "日経平均終値 過去3番目の下げ幅",
+      "link": "https://news.yahoo.co.jp/pickup/6601533?source=rss",
+      "pubDate": "2026-11-06T06:53:25.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -136,14 +144,6 @@
       "title": "ニコンの周辺機器のマニュアルに掲載されているカメラが「Z70」であることを確認（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/z70-1.html",
       "pubDate": "2026-11-06T02:36:58.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "Suicaペンギンのバッグ 販売休止",
-      "link": "https://news.yahoo.co.jp/pickup/6601502?source=rss",
-      "pubDate": "2026-11-06T01:42:59.000Z"
     },
     {
       "category": "国際",
