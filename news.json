@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-06T03:00:56.364Z",
+  "updatedAt": "2026-11-06T03:15:37.305Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "支援金対象は現役の3割以上 首相",
+      "link": "https://news.yahoo.co.jp/pickup/6601510?source=rss",
+      "pubDate": "2026-11-06T03:08:30.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "台湾市場一時9%急落 下げ幅最大",
+      "link": "https://news.yahoo.co.jp/pickup/6601512?source=rss",
+      "pubDate": "2026-11-06T03:06:17.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -130,14 +146,6 @@
       "pubDate": "2026-11-05T23:27:17.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "経産省 中部電力に業務改善命令",
-      "link": "https://news.yahoo.co.jp/pickup/6601489?source=rss",
-      "pubDate": "2026-11-05T23:22:48.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -184,14 +192,6 @@
       "title": "有名販売店のサイトにS9のm4/3版のようなカメラの画像が掲載（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/s9m43.html",
       "pubDate": "2026-11-05T13:24:51.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "首相 米大統領と協力していきたい",
-      "link": "https://news.yahoo.co.jp/pickup/6601463?source=rss",
-      "pubDate": "2026-11-05T11:52:32.000Z"
     },
     {
       "category": "科学",
