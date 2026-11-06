@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-05T23:45:34.041Z",
+  "updatedAt": "2026-11-06T00:00:55.536Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "9月の実質賃金 9カ月連続プラス",
+      "link": "https://news.yahoo.co.jp/pickup/6601493?source=rss",
+      "pubDate": "2026-11-05T23:53:08.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "ルビオ長官 辞任検討の報道否定",
+      "link": "https://news.yahoo.co.jp/pickup/6601491?source=rss",
+      "pubDate": "2026-11-05T23:49:50.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -104,22 +120,6 @@
       "title": "NYダウ急落 一時1800ドル超安",
       "link": "https://news.yahoo.co.jp/pickup/6601477?source=rss",
       "pubDate": "2026-11-05T21:25:57.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "ルビオ国務長官が辞任検討か 報道",
-      "link": "https://news.yahoo.co.jp/pickup/6601475?source=rss",
-      "pubDate": "2026-11-05T21:04:46.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日本製紙 八代工場の紙生産断念へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601473?source=rss",
-      "pubDate": "2026-11-05T13:52:04.000Z"
     },
     {
       "category": "国際",
