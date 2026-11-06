@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-06T02:30:44.711Z",
+  "updatedAt": "2026-11-06T02:45:32.646Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "サイバー対策強化に100億円 政府",
+      "link": "https://news.yahoo.co.jp/pickup/6601505?source=rss",
+      "pubDate": "2026-11-06T02:30:25.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] ぴあ矢内社長が米国で見た球体劇場「スフィア」とAI時代のエンタメ　「最後に残るのは……」",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news038.html",
+      "pubDate": "2026-11-06T02:15:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 宝くじ公式サイトが一時停止、利用者のパスワードが「意図せず変更」　影響範囲は調査中",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002943/",
+      "pubDate": "2026-11-06T02:11:45.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Microsoft、Windows向け「Xbox」アプリの起動を最大60％高速化　Web版やクラウドも刷新",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002942/",
+      "pubDate": "2026-11-06T02:10:51.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ゲーセンに真っ暗な画面ずらり……セガ系システムの障害が長期化、復旧めど立たず　原因は不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002941/",
+      "pubDate": "2026-11-06T02:09:25.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -18,44 +58,12 @@
       "pubDate": "2026-11-06T01:42:59.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] MetaのAIエージェント「Muse」に音声対話機能　表情豊かなアバターと会話、まず米国で提供",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/",
-      "pubDate": "2026-11-06T01:39:30.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "米加州 死刑囚548人を終身刑に",
       "link": "https://news.yahoo.co.jp/pickup/6601498?source=rss",
       "pubDate": "2026-11-06T01:04:37.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 【ワークマン】3500円の「マルチ収納リュック」　ノートPCやシューズ＆ヘルメットもすっきり入る",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news036.html",
-      "pubDate": "2026-11-06T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] ソニー2Q過去最高益も　「プレステ」サービス、サイバー攻撃の懸念にCFOは何を語ったか",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news047.html",
-      "pubDate": "2026-11-06T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] Suicaのキャンペーンまとめ【11月6日最新版】　teppayで20～35％還元、1万JRE POINT還元も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news042.html",
-      "pubDate": "2026-11-06T01:00:00.000Z"
     },
     {
       "category": "国内",
@@ -184,14 +192,6 @@
       "title": "めぐみさん拉致 母「会いたい」",
       "link": "https://news.yahoo.co.jp/pickup/6601458?source=rss",
       "pubDate": "2026-11-05T11:11:25.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "自転車の青切符 半年で約1.6万件",
-      "link": "https://news.yahoo.co.jp/pickup/6601460?source=rss",
-      "pubDate": "2026-11-05T11:08:11.000Z"
     },
     {
       "category": "科学",
