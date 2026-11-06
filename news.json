@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T01:30:43.403Z",
+  "updatedAt": "2026-11-06T01:45:34.399Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "Suicaペンギンのバッグ 販売休止",
+      "link": "https://news.yahoo.co.jp/pickup/6601502?source=rss",
+      "pubDate": "2026-11-06T01:42:59.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +16,30 @@
       "title": "米加州 死刑囚548人を終身刑に",
       "link": "https://news.yahoo.co.jp/pickup/6601498?source=rss",
       "pubDate": "2026-11-06T01:04:37.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 【ワークマン】3500円の「マルチ収納リュック」　ノートPCやシューズ＆ヘルメットもすっきり入る",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news036.html",
+      "pubDate": "2026-11-06T01:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] ソニー2Q過去最高益も　「プレステ」サービス、サイバー攻撃の懸念にCFOは何を語ったか",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news047.html",
+      "pubDate": "2026-11-06T01:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] Suicaのキャンペーンまとめ【11月6日最新版】　teppayで20～35％還元、1万JRE POINT還元も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news042.html",
+      "pubDate": "2026-11-06T01:00:00.000Z"
     },
     {
       "category": "国内",
@@ -32,30 +64,6 @@
       "title": "[ITmedia Mobile] 1円玉より薄い1万mAhの大容量モバイルバッテリー「UGREEN PB507」がセールで21％オフの2280円に",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news054.html",
       "pubDate": "2026-11-06T00:46:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Google、ワイオミング州のデータセンターなどに170億ドル投資へ　電力費全額負担を約束",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002936/",
-      "pubDate": "2026-11-06T00:43:37.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ディスプレイで充電状態を確認できる「Anker Nano Charger (45W, Display, スイングプラグ) ブラック」がセールで30％オフの2790円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news053.html",
-      "pubDate": "2026-11-06T00:42:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] MMOや複雑なPC作業を効率化できる多ボタンワイヤレスマウス「Razer Naga V2 HyperSpeed」がセールで24％オフの1万2579円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news051.html",
-      "pubDate": "2026-11-06T00:37:00.000Z"
     },
     {
       "category": "国際",
@@ -120,14 +128,6 @@
       "title": "コロナ融資 918億円が回収困難に",
       "link": "https://news.yahoo.co.jp/pickup/6601485?source=rss",
       "pubDate": "2026-11-05T22:52:02.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "プルデンシャル報告書に低評価",
-      "link": "https://news.yahoo.co.jp/pickup/6601484?source=rss",
-      "pubDate": "2026-11-05T22:41:47.000Z"
     },
     {
       "category": "科学",
