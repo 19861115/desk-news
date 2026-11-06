@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T02:00:52.729Z",
+  "updatedAt": "2026-11-06T02:15:33.992Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 医療機関のサイバーセキュリティー強化へ　ランサムウエア攻撃で診療への長期影響リスク",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/06/2000002940/",
+      "pubDate": "2026-11-06T01:51:09.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "Suicaペンギンのバッグ 販売休止",
       "link": "https://news.yahoo.co.jp/pickup/6601502?source=rss",
       "pubDate": "2026-11-06T01:42:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] MetaのAIエージェント「Muse」に音声対話機能　表情豊かなアバターと会話、まず米国で提供",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/",
+      "pubDate": "2026-11-06T01:39:30.000Z"
     },
     {
       "category": "国際",
@@ -48,22 +64,6 @@
       "title": "取り調べ拒否24年以降158件 調査",
       "link": "https://news.yahoo.co.jp/pickup/6601499?source=rss",
       "pubDate": "2026-11-06T00:59:55.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 高音質で音楽に没入できる「ゼンハイザー MOMENTUM True Wireless 4」のAmazon限定セットがセールで24％オフの3万2900円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news055.html",
-      "pubDate": "2026-11-06T00:52:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 1円玉より薄い1万mAhの大容量モバイルバッテリー「UGREEN PB507」がセールで21％オフの2280円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news054.html",
-      "pubDate": "2026-11-06T00:46:00.000Z"
     },
     {
       "category": "国際",
