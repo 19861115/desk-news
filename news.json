@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T07:30:43.534Z",
+  "updatedAt": "2026-11-06T07:45:34.405Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か　再開めど立たず",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002971/",
+      "pubDate": "2026-11-06T07:03:57.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -48,14 +56,6 @@
       "title": "[ITmedia PC USER] 耳をふさがないEDIFIER「Comfo Bass Pro」は朝から夜まで充電不要　1万円強でLDACとDolby Audio対応、在宅勤務の“つけっぱなし”にピッタリ",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news029.html",
       "pubDate": "2026-11-06T06:10:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 松屋アプリ、9日ぶり復旧　「お詫び」でポイント最大3倍",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002966/",
-      "pubDate": "2026-11-06T05:38:18.000Z"
     },
     {
       "category": "国内",
