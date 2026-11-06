@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T04:45:32.385Z",
+  "updatedAt": "2026-11-06T05:00:53.459Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "外食 東南アジア進出を加速する訳",
+      "link": "https://news.yahoo.co.jp/pickup/6601515?source=rss",
+      "pubDate": "2026-11-06T04:47:13.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -144,14 +152,6 @@
       "title": "パラグアイ大統領が辞任表明",
       "link": "https://news.yahoo.co.jp/pickup/6601496?source=rss",
       "pubDate": "2026-11-06T00:36:53.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日経平均 一時4000円以上値下がり",
-      "link": "https://news.yahoo.co.jp/pickup/6601497?source=rss",
-      "pubDate": "2026-11-06T00:32:15.000Z"
     },
     {
       "category": "国際",
