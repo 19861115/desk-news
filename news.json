@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:00:55.978Z",
+  "updatedAt": "2026-11-06T11:15:35.140Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,14 @@
       "title": "海外で過労死 遺族ら厚労省に要請",
       "link": "https://news.yahoo.co.jp/pickup/6601564?source=rss",
       "pubDate": "2026-11-06T10:57:20.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ロート製薬、約280万人分の個人情報漏えい　9715件は通話音声データとクレカ情報が流出",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002984/",
+      "pubDate": "2026-11-06T10:31:25.000Z"
     },
     {
       "category": "IT",
@@ -112,14 +120,6 @@
       "title": "中間選挙ショック 世界で株安連鎖",
       "link": "https://news.yahoo.co.jp/pickup/6601546?source=rss",
       "pubDate": "2026-11-06T08:41:22.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] セキュリティ啓発団体に不正アクセス　個人情報最大1.5万件漏えいか",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002978/",
-      "pubDate": "2026-11-06T08:24:24.000Z"
     },
     {
       "category": "経済",
