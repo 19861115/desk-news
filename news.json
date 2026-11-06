@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T06:30:45.408Z",
+  "updatedAt": "2026-11-06T06:45:34.120Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] サイバー攻撃対策で自社通販サイト閉店　ドールのアゾン「個人情報を社内に保管しない」方針へ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002967/",
+      "pubDate": "2026-11-06T06:25:33.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "128の信用金庫でシステム障害",
       "link": "https://news.yahoo.co.jp/pickup/6601532?source=rss",
       "pubDate": "2026-11-06T06:17:01.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 耳をふさがないEDIFIER「Comfo Bass Pro」は朝から夜まで充電不要　1万円強でLDACとDolby Audio対応、在宅勤務の“つけっぱなし”にピッタリ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news029.html",
+      "pubDate": "2026-11-06T06:10:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -26,20 +42,20 @@
       "pubDate": "2026-11-06T05:38:00.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモ純正「スタンダードタッチペン」12月以降に発売　導電性ファイバー素材のペン先を採用",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news070.html",
+      "pubDate": "2026-11-06T05:32:00.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "85万円寄付 武部農相返金する考え",
       "link": "https://news.yahoo.co.jp/pickup/6601526?source=rss",
       "pubDate": "2026-11-06T05:18:28.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] フジテレビ、27年に全ドラマで生成AI活用へ　一部工程で工数を最大8割削減も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002962/",
-      "pubDate": "2026-11-06T05:13:16.000Z"
     },
     {
       "category": "国内",
@@ -58,28 +74,12 @@
       "pubDate": "2026-11-06T05:04:08.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] レトロなタイプライター風のメカニカルキーボード「YUNZII QL75」がセールで20％オフの1万4820円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news069.html",
-      "pubDate": "2026-11-06T04:57:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "外食 東南アジア進出を加速する訳",
       "link": "https://news.yahoo.co.jp/pickup/6601515?source=rss",
       "pubDate": "2026-11-06T04:47:13.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] インテリアになじみやすい上質な造形とライティングエフェクトを融合させた「Huawei WiFi Mesh X3 Pro」がセールで32％オフの1万9350円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news068.html",
-      "pubDate": "2026-11-06T04:46:00.000Z"
     },
     {
       "category": "国内",
