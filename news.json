@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-06T10:00:54.401Z",
+  "updatedAt": "2026-11-06T10:15:33.363Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "「推し活疲れ」スマホが一因に?",
+      "link": "https://news.yahoo.co.jp/pickup/6601559?source=rss",
+      "pubDate": "2026-11-06T10:12:53.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "欧州で爆破予告 20便以上に影響",
+      "link": "https://news.yahoo.co.jp/pickup/6601561?source=rss",
+      "pubDate": "2026-11-06T10:11:11.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "信金で大規模障害 ATMなど復旧",
+      "link": "https://news.yahoo.co.jp/pickup/6601562?source=rss",
+      "pubDate": "2026-11-06T10:04:24.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +32,14 @@
       "title": "「ウポポイ」認知度27.5% 内閣府",
       "link": "https://news.yahoo.co.jp/pickup/6601557?source=rss",
       "pubDate": "2026-11-06T09:52:37.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] KDDI松田社長、決算会見で2つの「お詫び」　メアド1223万件超漏えい、モンゴルの火災について何を語った？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news083.html",
+      "pubDate": "2026-11-06T09:43:00.000Z"
     },
     {
       "category": "国際",
@@ -122,28 +154,12 @@
       "pubDate": "2026-11-06T08:04:31.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] パ・リーグ5球団で顧客のメアド流出　千葉ロッテは公式サイトへの侵入被害も",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news077.html",
-      "pubDate": "2026-11-06T08:00:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "石破前首相ら減税法案の採決退席",
       "link": "https://news.yahoo.co.jp/pickup/6601535?source=rss",
       "pubDate": "2026-11-06T07:53:09.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日経平均終値 過去3番目の下げ幅",
-      "link": "https://news.yahoo.co.jp/pickup/6601533?source=rss",
-      "pubDate": "2026-11-06T06:53:25.000Z"
     },
     {
       "category": "国内",
@@ -202,14 +218,6 @@
       "pubDate": "2026-11-06T00:36:53.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "ルビオ長官 辞任検討の報道否定",
-      "link": "https://news.yahoo.co.jp/pickup/6601491?source=rss",
-      "pubDate": "2026-11-05T23:49:50.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -256,14 +264,6 @@
       "title": "サイバー攻撃 10月は国内4億件超",
       "link": "https://news.yahoo.co.jp/pickup/6601439?source=rss",
       "pubDate": "2026-11-05T08:12:32.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ドコモ オンラインサービス停止",
-      "link": "https://news.yahoo.co.jp/pickup/6601413?source=rss",
-      "pubDate": "2026-11-05T03:52:36.000Z"
     },
     {
       "category": "デジカメinfo",
