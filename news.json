@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T11:30:44.298Z",
+  "updatedAt": "2026-11-06T11:45:35.821Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ドコモ 流出の対象者に見舞金検討",
+      "link": "https://news.yahoo.co.jp/pickup/6601566?source=rss",
+      "pubDate": "2026-11-06T11:35:39.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "サイバー防御 緊急対策まとめる",
       "link": "https://news.yahoo.co.jp/pickup/6601563?source=rss",
       "pubDate": "2026-11-06T11:16:55.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] パナHD楠見社長「中国の伸び率は世界以上」　AI・データセンター部品の勝機は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news080.html",
+      "pubDate": "2026-11-06T11:00:00.000Z"
     },
     {
       "category": "国内",
@@ -112,14 +128,6 @@
       "title": "国内最後の飼育 キンシコウが死ぬ",
       "link": "https://news.yahoo.co.jp/pickup/6601550?source=rss",
       "pubDate": "2026-11-06T08:57:04.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 政府、相次ぐ情報漏えいで事業者に注意喚起　「基本的な対策が不十分」な事例を複数確認",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002976/",
-      "pubDate": "2026-11-06T08:52:16.000Z"
     },
     {
       "category": "経済",
@@ -256,14 +264,6 @@
       "title": "ラッコのキラ死ぬ 国内飼育1頭に",
       "link": "https://news.yahoo.co.jp/pickup/6601455?source=rss",
       "pubDate": "2026-11-05T10:09:27.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "サイバー攻撃 10月は国内4億件超",
-      "link": "https://news.yahoo.co.jp/pickup/6601439?source=rss",
-      "pubDate": "2026-11-05T08:12:32.000Z"
     },
     {
       "category": "デジカメinfo",
