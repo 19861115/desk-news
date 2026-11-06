@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T05:15:39.783Z",
+  "updatedAt": "2026-11-06T05:30:45.217Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "85万円寄付 武部農相返金する考え",
+      "link": "https://news.yahoo.co.jp/pickup/6601526?source=rss",
+      "pubDate": "2026-11-06T05:18:28.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -104,14 +112,6 @@
       "title": "東京都心で夏日 今夜から強い寒気",
       "link": "https://news.yahoo.co.jp/pickup/6601513?source=rss",
       "pubDate": "2026-11-06T03:36:08.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "支援金対象は現役の3割以上 首相",
-      "link": "https://news.yahoo.co.jp/pickup/6601510?source=rss",
-      "pubDate": "2026-11-06T03:08:30.000Z"
     },
     {
       "category": "経済",
