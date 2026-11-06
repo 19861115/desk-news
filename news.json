@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T00:15:36.698Z",
+  "updatedAt": "2026-11-06T00:30:44.414Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "日経平均が大幅下落 6万円割れ",
+      "link": "https://news.yahoo.co.jp/pickup/6601495?source=rss",
+      "pubDate": "2026-11-06T00:17:16.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -112,14 +120,6 @@
       "title": "ドコモ通信障害が復旧 原因を公表",
       "link": "https://news.yahoo.co.jp/pickup/6601482?source=rss",
       "pubDate": "2026-11-05T22:25:22.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "NYダウ急落 一時1800ドル超安",
-      "link": "https://news.yahoo.co.jp/pickup/6601477?source=rss",
-      "pubDate": "2026-11-05T21:25:57.000Z"
     },
     {
       "category": "国際",
