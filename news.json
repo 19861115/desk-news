@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-06T04:00:51.073Z",
+  "updatedAt": "2026-11-06T04:15:33.706Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "米株式急落 時価総額395兆円消失",
+      "link": "https://news.yahoo.co.jp/pickup/6601518?source=rss",
+      "pubDate": "2026-11-06T04:01:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 「コードの9割をAIが作成」　AnthropicがIPO文書で明かした“AI急加速”と制御不能リスク",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news032.html",
+      "pubDate": "2026-11-06T03:45:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 米住民投票でデータセンター建設に反対相次ぐ　規制派民主知事も続々当選、推進に逆風も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002949/",
+      "pubDate": "2026-11-06T03:38:10.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +32,22 @@
       "title": "東京都心で夏日 今夜から強い寒気",
       "link": "https://news.yahoo.co.jp/pickup/6601513?source=rss",
       "pubDate": "2026-11-06T03:36:08.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 何を任せ、何を任せないか ― 対象選定という最初の論点",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/26/2000002541/",
+      "pubDate": "2026-11-06T03:32:52.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 消防庁「安否情報システム」不正アクセスでサービス停止　委託先の富士ソフトから報告",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002952/",
+      "pubDate": "2026-11-06T03:31:28.000Z"
     },
     {
       "category": "国内",
@@ -34,22 +74,6 @@
       "pubDate": "2026-11-06T03:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] AIに自販機経営を1年任せてみた　指示は“利益の最大化”だけ　米ハーバード大などがシミュレーション",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002899/",
-      "pubDate": "2026-11-06T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ソニー、プレステサービスの不正アクセス「措置を講じている」　被害状況は公表せず",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002947/",
-      "pubDate": "2026-11-06T02:58:44.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -66,14 +90,6 @@
       "pubDate": "2026-11-06T02:49:07.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] キヤノン、大容量給紙にも対応したA4レーザープリンタ／複合機計8モデル",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news061.html",
-      "pubDate": "2026-11-06T02:48:00.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -88,14 +104,6 @@
       "title": "サイバー対策強化に100億円 政府",
       "link": "https://news.yahoo.co.jp/pickup/6601505?source=rss",
       "pubDate": "2026-11-06T02:30:25.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] ぴあ矢内社長が米国で見た球体劇場「スフィア」とAI時代のエンタメ　「最後に残るのは……」",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news038.html",
-      "pubDate": "2026-11-06T02:15:00.000Z"
     },
     {
       "category": "経済",
@@ -136,14 +144,6 @@
       "title": "日経平均 一時4000円以上値下がり",
       "link": "https://news.yahoo.co.jp/pickup/6601497?source=rss",
       "pubDate": "2026-11-06T00:32:15.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "9月の実質賃金 9カ月連続プラス",
-      "link": "https://news.yahoo.co.jp/pickup/6601493?source=rss",
-      "pubDate": "2026-11-05T23:53:08.000Z"
     },
     {
       "category": "国際",
