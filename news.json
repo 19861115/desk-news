@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T09:45:36.708Z",
+  "updatedAt": "2026-11-06T10:00:54.401Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "「ウポポイ」認知度27.5% 内閣府",
+      "link": "https://news.yahoo.co.jp/pickup/6601557?source=rss",
+      "pubDate": "2026-11-06T09:52:37.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "消費税減税法案 衆院本会議で可決",
       "link": "https://news.yahoo.co.jp/pickup/6601525?source=rss",
       "pubDate": "2026-11-06T05:04:08.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "日経平均急落 予断許さないと首相",
-      "link": "https://news.yahoo.co.jp/pickup/6601520?source=rss",
-      "pubDate": "2026-11-06T04:34:07.000Z"
     },
     {
       "category": "デジカメinfo",
