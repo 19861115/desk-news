@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-06T06:00:52.210Z",
+  "updatedAt": "2026-11-06T06:15:35.086Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 松屋アプリ、9日ぶり復旧　「お詫び」でポイント最大3倍",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002966/",
+      "pubDate": "2026-11-06T05:38:18.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ASUS、“ROG 20周年”デザインのゲーミングチェア「ROG Destrier Edition 20 Gaming Chair」",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news071.html",
+      "pubDate": "2026-11-06T05:38:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -56,22 +72,6 @@
       "title": "[ITmedia PC USER] インテリアになじみやすい上質な造形とライティングエフェクトを融合させた「Huawei WiFi Mesh X3 Pro」がセールで32％オフの1万9350円に",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news068.html",
       "pubDate": "2026-11-06T04:46:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] USB Type-C機器をType-Aポートに接続できる「UGREEN USB Type-C 変換アダプター 2個セット」がセールで32％オフの819円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news067.html",
-      "pubDate": "2026-11-06T04:41:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ピカチュウモデルの「Anker USB急速充電器 65W」がセールで22％オフの6990円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news065.html",
-      "pubDate": "2026-11-06T04:36:00.000Z"
     },
     {
       "category": "国内",
