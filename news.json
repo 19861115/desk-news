@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-06T08:00:53.132Z",
+  "updatedAt": "2026-11-06T08:15:34.633Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "昨年末のジャンボ 高額14本未換金",
+      "link": "https://news.yahoo.co.jp/pickup/6601539?source=rss",
+      "pubDate": "2026-11-06T08:09:15.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "中間選挙 現状を拒否した無党派層",
+      "link": "https://news.yahoo.co.jp/pickup/6601540?source=rss",
+      "pubDate": "2026-11-06T08:04:31.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +24,22 @@
       "title": "石破前首相ら減税法案の採決退席",
       "link": "https://news.yahoo.co.jp/pickup/6601535?source=rss",
       "pubDate": "2026-11-06T07:53:09.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] セブンが「出来立て商品」に本気、なぜ？ 　阿久津社長が明かす“コンビニ需要の変化”への打ち手",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news076.html",
+      "pubDate": "2026-11-06T07:30:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] KDDIとnewmo、自動運転タクシー商用化　2028年に大阪・堺市で　ドライバー不足に一手",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news078.html",
+      "pubDate": "2026-11-06T07:25:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -42,28 +74,12 @@
       "pubDate": "2026-11-06T06:40:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] サイバー攻撃対策で自社通販サイト閉店　ドールのアゾン「個人情報を社内に保管しない」方針へ",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002967/",
-      "pubDate": "2026-11-06T06:25:33.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "128の信用金庫でシステム障害",
       "link": "https://news.yahoo.co.jp/pickup/6601532?source=rss",
       "pubDate": "2026-11-06T06:17:01.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 耳をふさがないEDIFIER「Comfo Bass Pro」は朝から夜まで充電不要　1万円強でLDACとDolby Audio対応、在宅勤務の“つけっぱなし”にピッタリ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news029.html",
-      "pubDate": "2026-11-06T06:10:00.000Z"
     },
     {
       "category": "国内",
@@ -106,28 +122,12 @@
       "pubDate": "2026-11-06T04:34:07.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米中間選挙 無党派層が影の主役に",
-      "link": "https://news.yahoo.co.jp/pickup/6601514?source=rss",
-      "pubDate": "2026-11-06T04:31:26.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
       "title": "ライカQ3 43モノクロームが12月初めに発表される？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/q3-4312.html",
       "pubDate": "2026-11-06T04:09:04.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "米株式急落 時価総額395兆円消失",
-      "link": "https://news.yahoo.co.jp/pickup/6601518?source=rss",
-      "pubDate": "2026-11-06T04:01:00.000Z"
     },
     {
       "category": "経済",
