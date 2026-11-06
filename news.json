@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T05:30:45.217Z",
+  "updatedAt": "2026-11-06T05:45:34.165Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,14 @@
       "title": "85万円寄付 武部農相返金する考え",
       "link": "https://news.yahoo.co.jp/pickup/6601526?source=rss",
       "pubDate": "2026-11-06T05:18:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] フジテレビ、27年に全ドラマで生成AI活用へ　一部工程で工数を最大8割削減も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002962/",
+      "pubDate": "2026-11-06T05:13:16.000Z"
     },
     {
       "category": "国内",
@@ -24,6 +32,14 @@
       "title": "消費税減税法案 衆院本会議で可決",
       "link": "https://news.yahoo.co.jp/pickup/6601525?source=rss",
       "pubDate": "2026-11-06T05:04:08.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] レトロなタイプライター風のメカニカルキーボード「YUNZII QL75」がセールで20％オフの1万4820円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news069.html",
+      "pubDate": "2026-11-06T04:57:00.000Z"
     },
     {
       "category": "経済",
@@ -72,22 +88,6 @@
       "title": "米中間選挙 無党派層が影の主役に",
       "link": "https://news.yahoo.co.jp/pickup/6601514?source=rss",
       "pubDate": "2026-11-06T04:31:26.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 半固体電池を採用したMagSafe対応モバイルバッテリー「TORRAS MiniMag Pro」がセールで20％オフの9599円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news064.html",
-      "pubDate": "2026-11-06T04:30:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ケーブルの持ち歩きを減らせる「TORRAS FlexLine 40W急速充電器 70CM巻き取り式USB-Cケーブル ホワイト」がセールで29％オフの4961円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news063.html",
-      "pubDate": "2026-11-06T04:24:00.000Z"
     },
     {
       "category": "デジカメinfo",
