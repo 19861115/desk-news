@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T00:00:55.536Z",
+  "updatedAt": "2026-11-06T00:15:36.698Z",
   "items": [
     {
       "category": "経済",
@@ -16,6 +16,30 @@
       "title": "ルビオ長官 辞任検討の報道否定",
       "link": "https://news.yahoo.co.jp/pickup/6601491?source=rss",
       "pubDate": "2026-11-05T23:49:50.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Anthropic、「Claude」に家計管理機能「Personal Finance」　銀行口座と連携、米国でβ提供",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
+      "pubDate": "2026-11-05T23:49:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] アイリスオーヤマ、非会員含む約770万人分の情報漏えいか　外部クラウドに不審ファイル発見→不正アクセス発覚",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002934/",
+      "pubDate": "2026-11-05T23:48:01.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「給与維持の週休3日制」AI効率化で実現　しかし社員が喜ばず……なぜ？　「ライザAI」提供企業で起きたこと",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002867/",
+      "pubDate": "2026-11-05T23:30:00.000Z"
     },
     {
       "category": "国内",
@@ -58,36 +82,12 @@
       "pubDate": "2026-11-05T23:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「推し活疲れ」の原因はスマホ？　月1万円超の出費、睡眠を削る人も　推しとの“ちょうどいい距離”を考える",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news016.html",
-      "pubDate": "2026-11-05T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
-      "pubDate": "2026-11-05T22:57:34.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "コロナ融資 918億円が回収困難に",
       "link": "https://news.yahoo.co.jp/pickup/6601485?source=rss",
       "pubDate": "2026-11-05T22:52:02.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 年収やローン保証額、免許証番号など最大32万人分漏えい　SMBC系、保証業務システムに不正アクセス",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002930/",
-      "pubDate": "2026-11-05T22:43:41.000Z"
     },
     {
       "category": "経済",
