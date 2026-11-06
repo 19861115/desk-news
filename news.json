@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T08:45:35.364Z",
+  "updatedAt": "2026-11-06T09:00:56.919Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "国内最後の飼育 キンシコウが死ぬ",
+      "link": "https://news.yahoo.co.jp/pickup/6601550?source=rss",
+      "pubDate": "2026-11-06T08:57:04.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -264,14 +272,6 @@
       "title": "エボラ巡り新ワクチン治験 WHO",
       "link": "https://news.yahoo.co.jp/pickup/6601378?source=rss",
       "pubDate": "2026-11-04T23:10:49.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "養殖カンパチ大量死 26万8000匹",
-      "link": "https://news.yahoo.co.jp/pickup/6601336?source=rss",
-      "pubDate": "2026-11-04T10:28:35.000Z"
     },
     {
       "category": "デジカメinfo",
