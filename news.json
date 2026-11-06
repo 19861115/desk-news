@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-06T09:00:56.919Z",
+  "updatedAt": "2026-11-06T09:15:33.592Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "今年台風30個超 昔は普通だった?",
+      "link": "https://news.yahoo.co.jp/pickup/6601552?source=rss",
+      "pubDate": "2026-11-06T09:06:52.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "破産手続き中の全東信 社長が死去",
+      "link": "https://news.yahoo.co.jp/pickup/6601548?source=rss",
+      "pubDate": "2026-11-06T09:02:07.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "国内最後の飼育 キンシコウが死ぬ",
       "link": "https://news.yahoo.co.jp/pickup/6601550?source=rss",
       "pubDate": "2026-11-06T08:57:04.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 政府、相次ぐ情報漏えいで事業者に注意喚起　「基本的な対策が不十分」な事例を複数確認",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002976/",
+      "pubDate": "2026-11-06T08:52:16.000Z"
     },
     {
       "category": "経済",
@@ -98,28 +122,12 @@
       "pubDate": "2026-11-06T07:30:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] KDDIとnewmo、自動運転タクシー商用化　2028年に大阪・堺市で　ドライバー不足に一手",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news078.html",
-      "pubDate": "2026-11-06T07:25:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "日経平均終値 過去3番目の下げ幅",
       "link": "https://news.yahoo.co.jp/pickup/6601533?source=rss",
       "pubDate": "2026-11-06T06:53:25.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "128の信用金庫でシステム障害",
-      "link": "https://news.yahoo.co.jp/pickup/6601532?source=rss",
-      "pubDate": "2026-11-06T06:17:01.000Z"
     },
     {
       "category": "国内",
@@ -264,14 +272,6 @@
       "title": "OM SYSTEMは他フォーマットを検討する前にm4/3でできることをやり切りたい（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/om-system-11.html",
       "pubDate": "2026-11-05T02:25:10.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "エボラ巡り新ワクチン治験 WHO",
-      "link": "https://news.yahoo.co.jp/pickup/6601378?source=rss",
-      "pubDate": "2026-11-04T23:10:49.000Z"
     },
     {
       "category": "デジカメinfo",
