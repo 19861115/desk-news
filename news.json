@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-06T05:00:53.459Z",
+  "updatedAt": "2026-11-06T05:15:39.783Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "児童の親が教室侵入 難しい対応",
+      "link": "https://news.yahoo.co.jp/pickup/6601516?source=rss",
+      "pubDate": "2026-11-06T05:13:15.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "消費税減税法案 衆院本会議で可決",
+      "link": "https://news.yahoo.co.jp/pickup/6601525?source=rss",
+      "pubDate": "2026-11-06T05:04:08.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +24,30 @@
       "title": "外食 東南アジア進出を加速する訳",
       "link": "https://news.yahoo.co.jp/pickup/6601515?source=rss",
       "pubDate": "2026-11-06T04:47:13.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] インテリアになじみやすい上質な造形とライティングエフェクトを融合させた「Huawei WiFi Mesh X3 Pro」がセールで32％オフの1万9350円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news068.html",
+      "pubDate": "2026-11-06T04:46:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] USB Type-C機器をType-Aポートに接続できる「UGREEN USB Type-C 変換アダプター 2個セット」がセールで32％オフの819円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news067.html",
+      "pubDate": "2026-11-06T04:41:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ピカチュウモデルの「Anker USB急速充電器 65W」がセールで22％オフの6990円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news065.html",
+      "pubDate": "2026-11-06T04:36:00.000Z"
     },
     {
       "category": "国内",
@@ -26,6 +66,30 @@
       "pubDate": "2026-11-06T04:31:26.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 半固体電池を採用したMagSafe対応モバイルバッテリー「TORRAS MiniMag Pro」がセールで20％オフの9599円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news064.html",
+      "pubDate": "2026-11-06T04:30:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ケーブルの持ち歩きを減らせる「TORRAS FlexLine 40W急速充電器 70CM巻き取り式USB-Cケーブル ホワイト」がセールで29％オフの4961円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news063.html",
+      "pubDate": "2026-11-06T04:24:00.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ライカQ3 43モノクロームが12月初めに発表される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/q3-4312.html",
+      "pubDate": "2026-11-06T04:09:04.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -34,44 +98,12 @@
       "pubDate": "2026-11-06T04:01:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 「コードの9割をAIが作成」　AnthropicがIPO文書で明かした“AI急加速”と制御不能リスク",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news032.html",
-      "pubDate": "2026-11-06T03:45:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 米住民投票でデータセンター建設に反対相次ぐ　規制派民主知事も続々当選、推進に逆風も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002949/",
-      "pubDate": "2026-11-06T03:38:10.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "東京都心で夏日 今夜から強い寒気",
       "link": "https://news.yahoo.co.jp/pickup/6601513?source=rss",
       "pubDate": "2026-11-06T03:36:08.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 何を任せ、何を任せないか ― 対象選定という最初の論点",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/26/2000002541/",
-      "pubDate": "2026-11-06T03:32:52.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 消防庁「安否情報システム」不正アクセスでサービス停止　委託先の富士ソフトから報告",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002952/",
-      "pubDate": "2026-11-06T03:31:28.000Z"
     },
     {
       "category": "国内",
@@ -90,22 +122,6 @@
       "pubDate": "2026-11-06T03:06:17.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 画面は見やすく広告なし！　睡眠モニター機能はどう？　Amazonの新型スマートクロック「Echo Time」の使い勝手と気になる点",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news059.html",
-      "pubDate": "2026-11-06T03:00:00.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "財務相 JT資産管理巡り露に抗議",
-      "link": "https://news.yahoo.co.jp/pickup/6601509?source=rss",
-      "pubDate": "2026-11-06T02:53:28.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -120,14 +136,6 @@
       "title": "ニコンの周辺機器のマニュアルに掲載されているカメラが「Z70」であることを確認（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/z70-1.html",
       "pubDate": "2026-11-06T02:36:58.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "サイバー対策強化に100億円 政府",
-      "link": "https://news.yahoo.co.jp/pickup/6601505?source=rss",
-      "pubDate": "2026-11-06T02:30:25.000Z"
     },
     {
       "category": "経済",
@@ -272,14 +280,6 @@
       "title": "ライカM12はCCDセンサーのような色再現になる？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/m12ccd.html",
       "pubDate": "2026-11-04T09:31:45.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが来年春にEVF搭載の「LUMIX S9II」を発表？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/lumix-s9ii.html",
-      "pubDate": "2026-11-04T04:13:37.000Z"
     }
   ]
 }
