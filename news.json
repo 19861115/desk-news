@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T06:15:35.086Z",
+  "updatedAt": "2026-11-06T06:30:45.408Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "128の信用金庫でシステム障害",
+      "link": "https://news.yahoo.co.jp/pickup/6601532?source=rss",
+      "pubDate": "2026-11-06T06:17:01.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -112,14 +120,6 @@
       "title": "東京都心で夏日 今夜から強い寒気",
       "link": "https://news.yahoo.co.jp/pickup/6601513?source=rss",
       "pubDate": "2026-11-06T03:36:08.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "台湾市場一時9%急落 下げ幅最大",
-      "link": "https://news.yahoo.co.jp/pickup/6601512?source=rss",
-      "pubDate": "2026-11-06T03:06:17.000Z"
     },
     {
       "category": "経済",
