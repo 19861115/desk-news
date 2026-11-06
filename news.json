@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T07:45:34.405Z",
+  "updatedAt": "2026-11-06T08:00:53.132Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "石破前首相ら減税法案の採決退席",
+      "link": "https://news.yahoo.co.jp/pickup/6601535?source=rss",
+      "pubDate": "2026-11-06T07:53:09.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -120,14 +128,6 @@
       "title": "米株式急落 時価総額395兆円消失",
       "link": "https://news.yahoo.co.jp/pickup/6601518?source=rss",
       "pubDate": "2026-11-06T04:01:00.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "東京都心で夏日 今夜から強い寒気",
-      "link": "https://news.yahoo.co.jp/pickup/6601513?source=rss",
-      "pubDate": "2026-11-06T03:36:08.000Z"
     },
     {
       "category": "経済",
