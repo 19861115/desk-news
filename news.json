@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T00:45:33.758Z",
+  "updatedAt": "2026-11-06T01:00:51.488Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "取り調べ拒否24年以降158件 調査",
+      "link": "https://news.yahoo.co.jp/pickup/6601499?source=rss",
+      "pubDate": "2026-11-06T00:59:55.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -192,14 +200,6 @@
       "title": "ラッコのキラ死ぬ 国内飼育1頭に",
       "link": "https://news.yahoo.co.jp/pickup/6601455?source=rss",
       "pubDate": "2026-11-05T10:09:27.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "6日 全国的に気温高く夏日予想も",
-      "link": "https://news.yahoo.co.jp/pickup/6601453?source=rss",
-      "pubDate": "2026-11-05T09:42:58.000Z"
     },
     {
       "category": "IT",
