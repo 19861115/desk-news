@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-06T08:30:44.565Z",
+  "updatedAt": "2026-11-06T08:45:35.364Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "中間選挙ショック 世界で株安連鎖",
+      "link": "https://news.yahoo.co.jp/pickup/6601546?source=rss",
+      "pubDate": "2026-11-06T08:41:22.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] セキュリティ啓発団体に不正アクセス　個人情報最大1.5万件漏えいか",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002978/",
+      "pubDate": "2026-11-06T08:24:24.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -34,12 +50,28 @@
       "pubDate": "2026-11-06T08:09:15.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 楽天モバイル網から「KDDI網への流入トラフィックが大きく減少」と松田社長　ローミングの現状に言及",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news082.html",
+      "pubDate": "2026-11-06T08:07:00.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "中間選挙 現状を拒否した無党派層",
       "link": "https://news.yahoo.co.jp/pickup/6601540?source=rss",
       "pubDate": "2026-11-06T08:04:31.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] パ・リーグ5球団で顧客のメアド流出　千葉ロッテは公式サイトへの侵入被害も",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news077.html",
+      "pubDate": "2026-11-06T08:00:00.000Z"
     },
     {
       "category": "国内",
@@ -66,36 +98,12 @@
       "pubDate": "2026-11-06T07:25:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か　再開めど立たず",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002971/",
-      "pubDate": "2026-11-06T07:03:57.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "日経平均終値 過去3番目の下げ幅",
       "link": "https://news.yahoo.co.jp/pickup/6601533?source=rss",
       "pubDate": "2026-11-06T06:53:25.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] フルークフォレスト、パスワードロック機能を備えたスティック型ボイスレコーダー",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news075.html",
-      "pubDate": "2026-11-06T06:49:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] MSI、Ryzen 9＋＋GeForce RTX 5080／5090 Laptopを搭載したウルトラハイエンド18型ゲーミングノート",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news073.html",
-      "pubDate": "2026-11-06T06:40:00.000Z"
     },
     {
       "category": "経済",
@@ -144,14 +152,6 @@
       "title": "ライカQ3 43モノクロームが12月初めに発表される？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/q3-4312.html",
       "pubDate": "2026-11-06T04:09:04.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ピザーラ Dr.STONEコラボで謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6601507?source=rss",
-      "pubDate": "2026-11-06T02:49:07.000Z"
     },
     {
       "category": "デジカメinfo",
