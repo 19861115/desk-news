@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T10:30:44.570Z",
+  "updatedAt": "2026-11-06T10:45:34.497Z",
   "items": [
     {
       "category": "IT",
@@ -24,6 +24,22 @@
       "title": "信金で大規模障害 ATMなど復旧",
       "link": "https://news.yahoo.co.jp/pickup/6601562?source=rss",
       "pubDate": "2026-11-06T10:04:24.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] NTTドコモが「不正アクセス事案」「5G SAの通信障害」について前田社長らが説明",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news085.html",
+      "pubDate": "2026-11-06T10:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] IIJは法人向けに値上げ予定も、個人向け「IIJmio」は据え置き　ブロッキングには慎重な姿勢",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news084.html",
+      "pubDate": "2026-11-06T09:57:00.000Z"
     },
     {
       "category": "国内",
@@ -128,22 +144,6 @@
       "title": "昨年末のジャンボ 高額14本未換金",
       "link": "https://news.yahoo.co.jp/pickup/6601539?source=rss",
       "pubDate": "2026-11-06T08:09:15.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] LINEが「パスキー」へ対応　パスワード忘れやOSをまたぐ機種変更もログインが簡単に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news081.html",
-      "pubDate": "2026-11-06T08:07:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 楽天モバイル網から「KDDI網への流入トラフィックが大きく減少」と松田社長　ローミングの現状に言及",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news082.html",
-      "pubDate": "2026-11-06T08:07:00.000Z"
     },
     {
       "category": "国際",
