@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T03:45:33.202Z",
+  "updatedAt": "2026-11-06T04:00:51.073Z",
   "items": [
     {
       "category": "国内",
@@ -72,6 +72,14 @@
       "title": "[ITmedia PC USER] キヤノン、大容量給紙にも対応したA4レーザープリンタ／複合機計8モデル",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news061.html",
       "pubDate": "2026-11-06T02:48:00.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ニコンの周辺機器のマニュアルに掲載されているカメラが「Z70」であることを確認（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/z70-1.html",
+      "pubDate": "2026-11-06T02:36:58.000Z"
     },
     {
       "category": "国内",
@@ -272,14 +280,6 @@
       "title": "パナソニックが来年春にEVF搭載の「LUMIX S9II」を発表？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/lumix-s9ii.html",
       "pubDate": "2026-11-04T04:13:37.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」の発表が更に延期？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6-9.html",
-      "pubDate": "2026-11-03T01:46:10.000Z"
     }
   ]
 }
