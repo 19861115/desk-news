@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-06T02:45:32.646Z",
+  "updatedAt": "2026-11-06T03:00:56.364Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "財務相 JT資産管理巡り露に抗議",
+      "link": "https://news.yahoo.co.jp/pickup/6601509?source=rss",
+      "pubDate": "2026-11-06T02:53:28.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ピザーラ Dr.STONEコラボで謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6601507?source=rss",
+      "pubDate": "2026-11-06T02:49:07.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -130,14 +146,6 @@
       "pubDate": "2026-11-05T23:11:46.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "コロナ融資 918億円が回収困難に",
-      "link": "https://news.yahoo.co.jp/pickup/6601485?source=rss",
-      "pubDate": "2026-11-05T22:52:02.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -184,14 +192,6 @@
       "title": "首相 米大統領と協力していきたい",
       "link": "https://news.yahoo.co.jp/pickup/6601463?source=rss",
       "pubDate": "2026-11-05T11:52:32.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "めぐみさん拉致 母「会いたい」",
-      "link": "https://news.yahoo.co.jp/pickup/6601458?source=rss",
-      "pubDate": "2026-11-05T11:11:25.000Z"
     },
     {
       "category": "科学",
