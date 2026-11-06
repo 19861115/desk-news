@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-06T03:30:44.256Z",
+  "updatedAt": "2026-11-06T03:45:33.202Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "東京都心で夏日 今夜から強い寒気",
+      "link": "https://news.yahoo.co.jp/pickup/6601513?source=rss",
+      "pubDate": "2026-11-06T03:36:08.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -16,6 +24,30 @@
       "title": "台湾市場一時9%急落 下げ幅最大",
       "link": "https://news.yahoo.co.jp/pickup/6601512?source=rss",
       "pubDate": "2026-11-06T03:06:17.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 画面は見やすく広告なし！　睡眠モニター機能はどう？　Amazonの新型スマートクロック「Echo Time」の使い勝手と気になる点",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news059.html",
+      "pubDate": "2026-11-06T03:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] AIに自販機経営を1年任せてみた　指示は“利益の最大化”だけ　米ハーバード大などがシミュレーション",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002899/",
+      "pubDate": "2026-11-06T03:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ソニー、プレステサービスの不正アクセス「措置を講じている」　被害状況は公表せず",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002947/",
+      "pubDate": "2026-11-06T02:58:44.000Z"
     },
     {
       "category": "国内",
@@ -34,6 +66,14 @@
       "pubDate": "2026-11-06T02:49:07.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] キヤノン、大容量給紙にも対応したA4レーザープリンタ／複合機計8モデル",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news061.html",
+      "pubDate": "2026-11-06T02:48:00.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -48,38 +88,6 @@
       "title": "[ITmedia ビジネスオンライン] ぴあ矢内社長が米国で見た球体劇場「スフィア」とAI時代のエンタメ　「最後に残るのは……」",
       "link": "https://www.itmedia.co.jp/business/articles/2611/06/news038.html",
       "pubDate": "2026-11-06T02:15:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 宝くじ公式サイトが一時停止、利用者のパスワードが「意図せず変更」　影響範囲は調査中",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002943/",
-      "pubDate": "2026-11-06T02:11:45.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Microsoft、Windows向け「Xbox」アプリの起動を最大60％高速化　Web版やクラウドも刷新",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002942/",
-      "pubDate": "2026-11-06T02:10:51.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ゲーセンに真っ暗な画面ずらり……セガ系システムの障害が長期化、復旧めど立たず　原因は不正アクセス",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002941/",
-      "pubDate": "2026-11-06T02:09:25.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 医療機関のサイバーセキュリティー強化へ　ランサムウエア攻撃で診療への長期影響リスク",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/06/2000002940/",
-      "pubDate": "2026-11-06T01:51:09.000Z"
     },
     {
       "category": "経済",
@@ -136,14 +144,6 @@
       "title": "ルビオ長官 辞任検討の報道否定",
       "link": "https://news.yahoo.co.jp/pickup/6601491?source=rss",
       "pubDate": "2026-11-05T23:49:50.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "サイバー攻撃で強制遮断検討 政府",
-      "link": "https://news.yahoo.co.jp/pickup/6601490?source=rss",
-      "pubDate": "2026-11-05T23:27:17.000Z"
     },
     {
       "category": "国際",
