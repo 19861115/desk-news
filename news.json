@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T09:30:47.249Z",
+  "updatedAt": "2026-11-06T09:45:36.708Z",
   "items": [
     {
       "category": "国際",
@@ -93,6 +93,14 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] LINEが「パスキー」へ対応　パスワード忘れやOSをまたぐ機種変更もログインが簡単に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news081.html",
+      "pubDate": "2026-11-06T08:07:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia Mobile] 楽天モバイル網から「KDDI網への流入トラフィックが大きく減少」と松田社長　ローミングの現状に言及",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news082.html",
       "pubDate": "2026-11-06T08:07:00.000Z"
@@ -120,14 +128,6 @@
       "title": "石破前首相ら減税法案の採決退席",
       "link": "https://news.yahoo.co.jp/pickup/6601535?source=rss",
       "pubDate": "2026-11-06T07:53:09.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] セブンが「出来立て商品」に本気、なぜ？ 　阿久津社長が明かす“コンビニ需要の変化”への打ち手",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news076.html",
-      "pubDate": "2026-11-06T07:30:00.000Z"
     },
     {
       "category": "経済",
