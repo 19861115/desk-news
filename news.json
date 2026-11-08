@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-08T23:30:43.909Z",
+  "updatedAt": "2026-11-08T23:45:33.410Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "イスラエル 野党党首に組閣指示",
+      "link": "https://news.yahoo.co.jp/pickup/6601869?source=rss",
+      "pubDate": "2026-11-08T23:31:59.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -16,6 +24,30 @@
       "title": "Netflix 増収増益でリストラの訳",
       "link": "https://news.yahoo.co.jp/pickup/6601865?source=rss",
       "pubDate": "2026-11-08T23:17:17.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] どこに人間を残すか ― ガバナンスの設計",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/09/2000002944/",
+      "pubDate": "2026-11-08T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] AIに業務を任せる大企業は6割へ　人材育成に投資しない企業はどうなる？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news023.html",
+      "pubDate": "2026-11-08T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
+      "pubDate": "2026-11-08T23:00:00.000Z"
     },
     {
       "category": "経済",
@@ -47,30 +79,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] 意思疎通に難？　技術が分かるから強い？――研究者に事業開発させるべきか否か、NEC・イビデンの回答は……",
       "link": "https://www.itmedia.co.jp/business/articles/2611/09/news040.html",
-      "pubDate": "2026-11-08T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] “おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？　富士通とタッグ、AIで「海を解剖」するワケ",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news039.html",
-      "pubDate": "2026-11-08T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news038.html",
-      "pubDate": "2026-11-08T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] イオンが進める“思いっきり偏った”経営候補の人材選び　何を重視する？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news007.html",
       "pubDate": "2026-11-08T22:00:00.000Z"
     },
     {
@@ -200,14 +208,6 @@
       "title": "マップカメラの10月のランキングで初登場の「EOS R8 Mark II」が首位に（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/10-19.html",
       "pubDate": "2026-11-08T05:13:01.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "露衛星の軍事利用開始か ウ警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6601779?source=rss",
-      "pubDate": "2026-11-08T04:43:39.000Z"
     },
     {
       "category": "科学",
