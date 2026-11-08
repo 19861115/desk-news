@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-08T23:15:36.058Z",
+  "updatedAt": "2026-11-08T23:30:43.909Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "CEOと工作員の関係 NVIDIA調査",
+      "link": "https://news.yahoo.co.jp/pickup/6601868?source=rss",
+      "pubDate": "2026-11-08T23:28:44.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "Netflix 増収増益でリストラの訳",
+      "link": "https://news.yahoo.co.jp/pickup/6601865?source=rss",
+      "pubDate": "2026-11-08T23:17:17.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -122,14 +138,6 @@
       "pubDate": "2026-11-08T09:56:46.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "緑茶飲料に逆風 麦茶など存在感",
-      "link": "https://news.yahoo.co.jp/pickup/6601821?source=rss",
-      "pubDate": "2026-11-08T09:43:53.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -168,14 +176,6 @@
       "title": "カナリアの島に移民 緊急事態宣言",
       "link": "https://news.yahoo.co.jp/pickup/6601811?source=rss",
       "pubDate": "2026-11-08T08:23:24.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "倉庫には古米の山 赤字覚悟で販売",
-      "link": "https://news.yahoo.co.jp/pickup/6601793?source=rss",
-      "pubDate": "2026-11-08T06:42:20.000Z"
     },
     {
       "category": "国際",
