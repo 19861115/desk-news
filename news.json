@@ -1,197 +1,277 @@
 {
-  "updatedAt": "2026-11-06T11:45:35.821Z",
+  "updatedAt": "2026-11-08T23:00:54.692Z",
   "items": [
     {
-      "category": "IT",
+      "category": "経済",
       "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ドコモ 流出の対象者に見舞金検討",
-      "link": "https://news.yahoo.co.jp/pickup/6601566?source=rss",
-      "pubDate": "2026-11-06T11:35:39.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "サイバー防御 緊急対策まとめる",
-      "link": "https://news.yahoo.co.jp/pickup/6601563?source=rss",
-      "pubDate": "2026-11-06T11:16:55.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] パナHD楠見社長「中国の伸び率は世界以上」　AI・データセンター部品の勝機は？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news080.html",
-      "pubDate": "2026-11-06T11:00:00.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "海外で過労死 遺族ら厚労省に要請",
-      "link": "https://news.yahoo.co.jp/pickup/6601564?source=rss",
-      "pubDate": "2026-11-06T10:57:20.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ロート製薬、約280万人分の個人情報漏えい　9715件は通話音声データとクレカ情報が流出",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002984/",
-      "pubDate": "2026-11-06T10:31:25.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "「推し活疲れ」スマホが一因に?",
-      "link": "https://news.yahoo.co.jp/pickup/6601559?source=rss",
-      "pubDate": "2026-11-06T10:12:53.000Z"
+      "badgeClass": "badge-business",
+      "title": "舎人ライナー 資金不足陥る可能性",
+      "link": "https://news.yahoo.co.jp/pickup/6601864?source=rss",
+      "pubDate": "2026-11-08T22:46:35.000Z"
     },
     {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
-      "title": "欧州で爆破予告 20便以上に影響",
-      "link": "https://news.yahoo.co.jp/pickup/6601561?source=rss",
-      "pubDate": "2026-11-06T10:11:11.000Z"
+      "title": "エジプトで列車同士衝突 7人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601860?source=rss",
+      "pubDate": "2026-11-08T22:21:56.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 意思疎通に難？　技術が分かるから強い？――研究者に事業開発させるべきか否か、NEC・イビデンの回答は……",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news040.html",
+      "pubDate": "2026-11-08T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] “おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？　富士通とタッグ、AIで「海を解剖」するワケ",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news039.html",
+      "pubDate": "2026-11-08T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news038.html",
+      "pubDate": "2026-11-08T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] イオンが進める“思いっきり偏った”経営候補の人材選び　何を重視する？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news007.html",
+      "pubDate": "2026-11-08T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 「AIセキュリティをやれ」と言われたIT部門へ　100点を目指さず、“見る”ことから始めよう",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/09/news006.html",
+      "pubDate": "2026-11-08T22:00:00.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "9日 関東-北海道で師走並みの寒さ",
+      "link": "https://news.yahoo.co.jp/pickup/6601858?source=rss",
+      "pubDate": "2026-11-08T21:44:30.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "迷惑行為ショウリンジ SNS模倣か",
+      "link": "https://news.yahoo.co.jp/pickup/6601857?source=rss",
+      "pubDate": "2026-11-08T21:32:55.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "日米外相会談 パリG7合わせ調整",
+      "link": "https://news.yahoo.co.jp/pickup/6601851?source=rss",
+      "pubDate": "2026-11-08T14:28:33.000Z"
     },
     {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
-      "title": "信金で大規模障害 ATMなど復旧",
-      "link": "https://news.yahoo.co.jp/pickup/6601562?source=rss",
-      "pubDate": "2026-11-06T10:04:24.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] NTTドコモが「不正アクセス事案」「5G SAの通信障害」について前田社長らが説明",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news085.html",
-      "pubDate": "2026-11-06T10:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] IIJは法人向けに値上げ予定も、個人向け「IIJmio」は据え置き　ブロッキングには慎重な姿勢",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news084.html",
-      "pubDate": "2026-11-06T09:57:00.000Z"
+      "title": "商品に個体差「不揃い」バズる訳",
+      "link": "https://news.yahoo.co.jp/pickup/6601846?source=rss",
+      "pubDate": "2026-11-08T13:24:35.000Z"
     },
     {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
-      "title": "「ウポポイ」認知度27.5% 内閣府",
-      "link": "https://news.yahoo.co.jp/pickup/6601557?source=rss",
-      "pubDate": "2026-11-06T09:52:37.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] KDDI松田社長、決算会見で2つの「お詫び」　メアド1223万件超漏えい、モンゴルの火災について何を語った？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news083.html",
-      "pubDate": "2026-11-06T09:43:00.000Z"
+      "title": "死産の子に産着無償提供 広がる輪",
+      "link": "https://news.yahoo.co.jp/pickup/6601845?source=rss",
+      "pubDate": "2026-11-08T13:16:47.000Z"
     },
     {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
-      "title": "米国版凱旋門 ⁠着工一時差し止め",
-      "link": "https://news.yahoo.co.jp/pickup/6601556?source=rss",
-      "pubDate": "2026-11-06T09:19:48.000Z"
+      "title": "欧州右派政党 トランプ氏離れ鮮明",
+      "link": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
+      "pubDate": "2026-11-08T13:13:17.000Z"
     },
     {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
-      "title": "今年台風30個超 昔は普通だった?",
-      "link": "https://news.yahoo.co.jp/pickup/6601552?source=rss",
-      "pubDate": "2026-11-06T09:06:52.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "破産手続き中の全東信 社長が死去",
-      "link": "https://news.yahoo.co.jp/pickup/6601548?source=rss",
-      "pubDate": "2026-11-06T09:02:07.000Z"
+      "title": "山でサーモン養殖 28年1万t生産へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601831?source=rss",
+      "pubDate": "2026-11-08T11:06:32.000Z"
     },
     {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
-      "title": "国内最後の飼育 キンシコウが死ぬ",
-      "link": "https://news.yahoo.co.jp/pickup/6601550?source=rss",
-      "pubDate": "2026-11-06T08:57:04.000Z"
+      "title": "スズメバチ対策にロープ&amp;クリップ",
+      "link": "https://news.yahoo.co.jp/pickup/6601825?source=rss",
+      "pubDate": "2026-11-08T09:56:46.000Z"
     },
     {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
-      "title": "中間選挙ショック 世界で株安連鎖",
-      "link": "https://news.yahoo.co.jp/pickup/6601546?source=rss",
-      "pubDate": "2026-11-06T08:41:22.000Z"
+      "title": "緑茶飲料に逆風 麦茶など存在感",
+      "link": "https://news.yahoo.co.jp/pickup/6601821?source=rss",
+      "pubDate": "2026-11-08T09:43:53.000Z"
     },
     {
-      "category": "経済",
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "リコーのカメラ事業はGRシリーズが引き続き好調で増収増益（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/2026q2gr.html",
+      "pubDate": "2026-11-08T09:41:47.000Z"
+    },
+    {
+      "category": "国内",
       "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "総務省 漏えい巡りドコモ行政指導",
-      "link": "https://news.yahoo.co.jp/pickup/6601543?source=rss",
-      "pubDate": "2026-11-06T08:23:34.000Z"
+      "badgeClass": "badge-domestic",
+      "title": "清貧であるべき? 議員語る違和感",
+      "link": "https://news.yahoo.co.jp/pickup/6601819?source=rss",
+      "pubDate": "2026-11-08T09:25:52.000Z"
     },
     {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
-      "title": "無印良品のネットストア 一時停止",
-      "link": "https://news.yahoo.co.jp/pickup/6601541?source=rss",
-      "pubDate": "2026-11-06T08:17:25.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "給与維持で週休3日制 CEOの狙い",
-      "link": "https://news.yahoo.co.jp/pickup/6601538?source=rss",
-      "pubDate": "2026-11-06T08:16:37.000Z"
+      "title": "「お砂糖」仮想空間の人間関係は",
+      "link": "https://news.yahoo.co.jp/pickup/6601816?source=rss",
+      "pubDate": "2026-11-08T08:44:59.000Z"
     },
     {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
-      "title": "昨年末のジャンボ 高額14本未換金",
-      "link": "https://news.yahoo.co.jp/pickup/6601539?source=rss",
-      "pubDate": "2026-11-06T08:09:15.000Z"
+      "title": "MAZDA3セダン 北米で売れる理由",
+      "link": "https://news.yahoo.co.jp/pickup/6601813?source=rss",
+      "pubDate": "2026-11-08T08:32:51.000Z"
     },
     {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
-      "title": "中間選挙 現状を拒否した無党派層",
-      "link": "https://news.yahoo.co.jp/pickup/6601540?source=rss",
-      "pubDate": "2026-11-06T08:04:31.000Z"
+      "title": "カナリアの島に移民 緊急事態宣言",
+      "link": "https://news.yahoo.co.jp/pickup/6601811?source=rss",
+      "pubDate": "2026-11-08T08:23:24.000Z"
     },
     {
-      "category": "国内",
+      "category": "経済",
       "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "石破前首相ら減税法案の採決退席",
-      "link": "https://news.yahoo.co.jp/pickup/6601535?source=rss",
-      "pubDate": "2026-11-06T07:53:09.000Z"
+      "badgeClass": "badge-business",
+      "title": "倉庫には古米の山 赤字覚悟で販売",
+      "link": "https://news.yahoo.co.jp/pickup/6601793?source=rss",
+      "pubDate": "2026-11-08T06:42:20.000Z"
     },
     {
-      "category": "国内",
+      "category": "国際",
       "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "85万円寄付 武部農相返金する考え",
-      "link": "https://news.yahoo.co.jp/pickup/6601526?source=rss",
-      "pubDate": "2026-11-06T05:18:28.000Z"
+      "badgeClass": "badge-world",
+      "title": "仏全土で抗議デモ 360人拘束",
+      "link": "https://news.yahoo.co.jp/pickup/6601788?source=rss",
+      "pubDate": "2026-11-08T05:55:29.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "個人情報「手放す」企業が続々",
+      "link": "https://news.yahoo.co.jp/pickup/6601787?source=rss",
+      "pubDate": "2026-11-08T05:32:18.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "マップカメラの10月のランキングで初登場の「EOS R8 Mark II」が首位に（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/10-19.html",
+      "pubDate": "2026-11-08T05:13:01.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "露衛星の軍事利用開始か ウ警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6601779?source=rss",
+      "pubDate": "2026-11-08T04:43:39.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "持ち運び用歯ブラシ 交換の目安は",
+      "link": "https://news.yahoo.co.jp/pickup/6601749?source=rss",
+      "pubDate": "2026-11-08T01:00:33.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "「なりすまし電話」巧妙化 対策は",
+      "link": "https://news.yahoo.co.jp/pickup/6601743?source=rss",
+      "pubDate": "2026-11-08T00:33:18.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "iPS細胞活用のがん治験 来年開始",
+      "link": "https://news.yahoo.co.jp/pickup/6601739?source=rss",
+      "pubDate": "2026-11-07T23:53:34.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "動物界「ものまね王」なぜ音模倣",
+      "link": "https://news.yahoo.co.jp/pickup/6601714?source=rss",
+      "pubDate": "2026-11-07T14:11:26.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO謝罪会見なぜ炎上 プロ解説",
+      "link": "https://news.yahoo.co.jp/pickup/6601694?source=rss",
+      "pubDate": "2026-11-07T12:06:33.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ブッダボット 仏教界でAI活用模索",
+      "link": "https://news.yahoo.co.jp/pickup/6601670?source=rss",
+      "pubDate": "2026-11-07T08:45:09.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが認証機関に新型カメラ（「LUMIX S9II」？）を登録（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/lumix-s9ii-1.html",
+      "pubDate": "2026-11-07T03:35:58.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ニコン「Z70」は4100万画素非積層型センサーを採用し価格はZ6IIIと同程度になる？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/z704100z6iii.html",
+      "pubDate": "2026-11-06T15:14:49.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -200,86 +280,6 @@
       "title": "ライカQ3 43モノクロームが12月初めに発表される？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/q3-4312.html",
       "pubDate": "2026-11-06T04:09:04.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ニコンの周辺機器のマニュアルに掲載されているカメラが「Z70」であることを確認（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/z70-1.html",
-      "pubDate": "2026-11-06T02:36:58.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米加州 死刑囚548人を終身刑に",
-      "link": "https://news.yahoo.co.jp/pickup/6601498?source=rss",
-      "pubDate": "2026-11-06T01:04:37.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "パラグアイ大統領が辞任表明",
-      "link": "https://news.yahoo.co.jp/pickup/6601496?source=rss",
-      "pubDate": "2026-11-06T00:36:53.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "東北沖で「ひずみ」蓄積再開 研究",
-      "link": "https://news.yahoo.co.jp/pickup/6601481?source=rss",
-      "pubDate": "2026-11-05T22:30:52.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ドコモ通信障害が復旧 原因を公表",
-      "link": "https://news.yahoo.co.jp/pickup/6601482?source=rss",
-      "pubDate": "2026-11-05T22:25:22.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "市場で1匹10万円の高級魚 養殖へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601469?source=rss",
-      "pubDate": "2026-11-05T13:25:37.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "有名販売店のサイトにS9のm4/3版のようなカメラの画像が掲載（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/s9m43.html",
-      "pubDate": "2026-11-05T13:24:51.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "ラッコのキラ死ぬ 国内飼育1頭に",
-      "link": "https://news.yahoo.co.jp/pickup/6601455?source=rss",
-      "pubDate": "2026-11-05T10:09:27.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "OM SYSTEMは他フォーマットを検討する前にm4/3でできることをやり切りたい（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/om-system-11.html",
-      "pubDate": "2026-11-05T02:25:10.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ライカM12はCCDセンサーのような色再現になる？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/m12ccd.html",
-      "pubDate": "2026-11-04T09:31:45.000Z"
     }
   ]
 }
