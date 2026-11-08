@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T23:00:54.692Z",
+  "updatedAt": "2026-11-08T23:15:36.058Z",
   "items": [
     {
       "category": "経済",
@@ -8,6 +8,14 @@
       "title": "舎人ライナー 資金不足陥る可能性",
       "link": "https://news.yahoo.co.jp/pickup/6601864?source=rss",
       "pubDate": "2026-11-08T22:46:35.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査　本人は不倫認め謝罪",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
+      "pubDate": "2026-11-08T22:44:13.000Z"
     },
     {
       "category": "国際",
@@ -47,14 +55,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] イオンが進める“思いっきり偏った”経営候補の人材選び　何を重視する？",
       "link": "https://www.itmedia.co.jp/business/articles/2611/09/news007.html",
-      "pubDate": "2026-11-08T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 「AIセキュリティをやれ」と言われたIT部門へ　100点を目指さず、“見る”ことから始めよう",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/09/news006.html",
       "pubDate": "2026-11-08T22:00:00.000Z"
     },
     {
