@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T23:15:33.600Z",
+  "updatedAt": "2026-11-09T23:30:44.606Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ホワイトハッカー育成 授業を取材",
+      "link": "https://news.yahoo.co.jp/pickup/6601986?source=rss",
+      "pubDate": "2026-11-09T23:19:49.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -208,14 +216,6 @@
       "title": "石破前首相ら4人を戒告処分 自民",
       "link": "https://news.yahoo.co.jp/pickup/6601933?source=rss",
       "pubDate": "2026-11-09T08:44:45.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "セガ委託先 メアド219万件超流出",
-      "link": "https://news.yahoo.co.jp/pickup/6601928?source=rss",
-      "pubDate": "2026-11-09T08:10:01.000Z"
     },
     {
       "category": "国際",
