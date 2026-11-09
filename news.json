@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T09:00:58.565Z",
+  "updatedAt": "2026-11-09T09:15:35.960Z",
   "items": [
     {
       "category": "IT",
@@ -10,12 +10,28 @@
       "pubDate": "2026-11-09T08:58:01.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 秋葉原「スマートごみ箱」22台新設　ごみを自動で約5分の1に圧縮、たまり具合は遠隔で把握",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003031/",
+      "pubDate": "2026-11-09T08:45:47.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "石破前首相ら4人を戒告処分 自民",
       "link": "https://news.yahoo.co.jp/pickup/6601933?source=rss",
       "pubDate": "2026-11-09T08:44:45.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 光らない簡易水冷「CyberFlow Core」や120mmファン用フィギュア台など、魅せるPCの新境地",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news075.html",
+      "pubDate": "2026-11-09T08:30:00.000Z"
     },
     {
       "category": "国内",
@@ -104,22 +120,6 @@
       "title": "G7会議前に首相飲酒せず 木原氏",
       "link": "https://news.yahoo.co.jp/pickup/6601917?source=rss",
       "pubDate": "2026-11-09T07:07:54.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] BLUETTI、ポータブル電源「AORA mini」に重量約3.3kgの小型モデルなど2製品を追加",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news071.html",
-      "pubDate": "2026-11-09T07:06:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] モニターにも値上げの波？　アイオーデータは10月に実施、EIZOも12月以降に　メーカー各社に聞いた",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003015/",
-      "pubDate": "2026-11-09T06:54:28.000Z"
     },
     {
       "category": "科学",
