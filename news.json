@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T04:45:33.811Z",
+  "updatedAt": "2026-11-09T05:00:52.255Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "採決直前に退席 石破氏が理由説明",
+      "link": "https://news.yahoo.co.jp/pickup/6601906?source=rss",
+      "pubDate": "2026-11-09T04:48:18.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -200,14 +208,6 @@
       "title": "リコーのカメラ事業はGRシリーズが引き続き好調で増収増益（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/2026q2gr.html",
       "pubDate": "2026-11-08T09:41:47.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "清貧であるべき? 議員語る違和感",
-      "link": "https://news.yahoo.co.jp/pickup/6601819?source=rss",
-      "pubDate": "2026-11-08T09:25:52.000Z"
     },
     {
       "category": "IT",
