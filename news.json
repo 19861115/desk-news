@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T01:45:34.150Z",
+  "updatedAt": "2026-11-09T02:00:53.345Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "10月サイバー攻撃233件 過去最多",
+      "link": "https://news.yahoo.co.jp/pickup/6601882?source=rss",
+      "pubDate": "2026-11-09T01:45:34.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -248,14 +256,6 @@
       "title": "動物界「ものまね王」なぜ音模倣",
       "link": "https://news.yahoo.co.jp/pickup/6601714?source=rss",
       "pubDate": "2026-11-07T14:11:26.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "GMO謝罪会見なぜ炎上 プロ解説",
-      "link": "https://news.yahoo.co.jp/pickup/6601694?source=rss",
-      "pubDate": "2026-11-07T12:06:33.000Z"
     },
     {
       "category": "デジカメinfo",
