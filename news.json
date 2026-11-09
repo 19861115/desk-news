@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T09:30:45.691Z",
+  "updatedAt": "2026-11-09T09:45:34.101Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "コンロキャンセル界隈 なぜ拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6601935?source=rss",
+      "pubDate": "2026-11-09T09:29:01.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -24,6 +32,14 @@
       "title": "石破前首相ら4人を戒告処分 自民",
       "link": "https://news.yahoo.co.jp/pickup/6601933?source=rss",
       "pubDate": "2026-11-09T08:44:45.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 楽天銀行ユーザーが楽天モバイル申し込みで2万ポイント、ボーナス金利の条件達成最大で8000ポイント還元も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news077.html",
+      "pubDate": "2026-11-09T08:31:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -106,14 +122,6 @@
       "pubDate": "2026-11-09T07:14:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 口座番号や顔写真、要配慮個人情報も……「ステップゴルフ」不正アクセス、最大21.5万件漏えいの可能性",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003021/",
-      "pubDate": "2026-11-09T07:10:20.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -160,14 +168,6 @@
       "title": "VIVANTで話題 露諜報員の実態は",
       "link": "https://news.yahoo.co.jp/pickup/6601899?source=rss",
       "pubDate": "2026-11-09T03:56:53.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "都心は真冬並みの寒さ 寒暖差注意",
-      "link": "https://news.yahoo.co.jp/pickup/6601903?source=rss",
-      "pubDate": "2026-11-09T03:32:38.000Z"
     },
     {
       "category": "経済",
