@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T07:45:47.769Z",
+  "updatedAt": "2026-11-09T08:01:59.930Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ハウス食品G 26品目を来年値上げ",
+      "link": "https://news.yahoo.co.jp/pickup/6601921?source=rss",
+      "pubDate": "2026-11-09T07:50:24.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -136,14 +144,6 @@
       "title": "ハンズ渋谷「THANKS」看板の訳",
       "link": "https://news.yahoo.co.jp/pickup/6601889?source=rss",
       "pubDate": "2026-11-09T02:46:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日経平均 一時2000円以上値上がり",
-      "link": "https://news.yahoo.co.jp/pickup/6601891?source=rss",
-      "pubDate": "2026-11-09T02:36:24.000Z"
     },
     {
       "category": "国内",
