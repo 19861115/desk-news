@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T01:30:44.018Z",
+  "updatedAt": "2026-11-09T01:45:34.150Z",
   "items": [
     {
       "category": "経済",
@@ -16,6 +16,22 @@
       "title": "イスラエル 反首相陣営に組閣指示",
       "link": "https://news.yahoo.co.jp/pickup/6601880?source=rss",
       "pubDate": "2026-11-09T01:26:38.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ドコモ不正アクセスで「本人確認書類の番号」も流出　見舞金検討",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003000/",
+      "pubDate": "2026-11-09T01:13:02.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 多機能で使いやすい2ポケット　シンプルデザインのレザー風スマホショルダー",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news034.html",
+      "pubDate": "2026-11-09T01:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -56,22 +72,6 @@
       "title": "[ITmedia Mobile] 高出力による急速充電に対応した「Anker USB-C &amp; USB-C ケーブル」がセールで37％オフの1690円に",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news047.html",
       "pubDate": "2026-11-09T00:42:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] モニタースタンド型の「Anker 675 USB-C ドッキングステーション」がセールで27％オフの2万3990円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news046.html",
-      "pubDate": "2026-11-09T00:33:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 日本語配列でタッチパッド付きの「Ewin 折りたたみキーボード」がセールで27％オフの4746円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news045.html",
-      "pubDate": "2026-11-09T00:28:00.000Z"
     },
     {
       "category": "国内",
