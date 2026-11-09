@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-09T00:45:34.455Z",
+  "updatedAt": "2026-11-09T01:00:50.532Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "7/30に過去最大円買い介入7.9兆円",
+      "link": "https://news.yahoo.co.jp/pickup/6601877?source=rss",
+      "pubDate": "2026-11-09T00:51:51.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米大統領 戦闘再開「可能性低い」",
+      "link": "https://news.yahoo.co.jp/pickup/6601874?source=rss",
+      "pubDate": "2026-11-09T00:45:33.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -114,14 +130,6 @@
       "pubDate": "2026-11-08T21:32:55.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "商品に個体差「不揃い」バズる訳",
-      "link": "https://news.yahoo.co.jp/pickup/6601846?source=rss",
-      "pubDate": "2026-11-08T13:24:35.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -192,14 +200,6 @@
       "title": "カナリアの島に移民 緊急事態宣言",
       "link": "https://news.yahoo.co.jp/pickup/6601811?source=rss",
       "pubDate": "2026-11-08T08:23:24.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "仏全土で抗議デモ 360人拘束",
-      "link": "https://news.yahoo.co.jp/pickup/6601788?source=rss",
-      "pubDate": "2026-11-08T05:55:29.000Z"
     },
     {
       "category": "IT",
