@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T10:15:35.126Z",
+  "updatedAt": "2026-11-09T10:30:45.100Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "NTTなど5社 衛星連携へ協業検討",
+      "link": "https://news.yahoo.co.jp/pickup/6601943?source=rss",
+      "pubDate": "2026-11-09T10:26:03.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -208,14 +216,6 @@
       "title": "10月サイバー攻撃233件 過去最多",
       "link": "https://news.yahoo.co.jp/pickup/6601882?source=rss",
       "pubDate": "2026-11-09T01:45:34.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "北朝鮮ハッカーのチャットか 入手",
-      "link": "https://news.yahoo.co.jp/pickup/6601870?source=rss",
-      "pubDate": "2026-11-08T23:52:15.000Z"
     },
     {
       "category": "科学",
