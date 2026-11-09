@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-09T08:15:41.639Z",
+  "updatedAt": "2026-11-09T08:30:46.656Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "労基法 女子保護規定の全廃検討へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601927?source=rss",
+      "pubDate": "2026-11-09T08:14:20.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "津波巡り欧州のビール物議 謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6601926?source=rss",
+      "pubDate": "2026-11-09T08:13:57.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -162,14 +178,6 @@
       "pubDate": "2026-11-09T02:46:00.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "赤ちゃんの名前 男の子1位「朔」",
-      "link": "https://news.yahoo.co.jp/pickup/6601885?source=rss",
-      "pubDate": "2026-11-09T02:13:39.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -184,14 +192,6 @@
       "title": "10月サイバー攻撃233件 過去最多",
       "link": "https://news.yahoo.co.jp/pickup/6601882?source=rss",
       "pubDate": "2026-11-09T01:45:34.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "焼き魚定食 外国人客に人気の訳",
-      "link": "https://news.yahoo.co.jp/pickup/6601879?source=rss",
-      "pubDate": "2026-11-09T01:26:43.000Z"
     },
     {
       "category": "国際",
