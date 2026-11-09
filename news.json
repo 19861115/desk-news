@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-09T08:01:59.930Z",
+  "updatedAt": "2026-11-09T08:15:41.639Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "地銀サイバー対策に補助金で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6601925?source=rss",
+      "pubDate": "2026-11-09T08:13:31.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "セガ委託先 メアド219万件超流出",
+      "link": "https://news.yahoo.co.jp/pickup/6601928?source=rss",
+      "pubDate": "2026-11-09T08:10:01.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -16,6 +32,14 @@
       "title": "MS&amp;AD 漏えい計約101万1千件に",
       "link": "https://news.yahoo.co.jp/pickup/6601922?source=rss",
       "pubDate": "2026-11-09T07:44:10.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 総務省がドコモに行政指導　アマゾンジャパンへ同意なく約34万の情報を提供",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news074.html",
+      "pubDate": "2026-11-09T07:31:00.000Z"
     },
     {
       "category": "国際",
@@ -72,14 +96,6 @@
       "title": "珍しい現象 二重の水上竜巻が発生",
       "link": "https://news.yahoo.co.jp/pickup/6601913?source=rss",
       "pubDate": "2026-11-09T06:08:20.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 楽天と米ASTが新会社を設立、スマホと衛星の直接通信を2029年3月まで開始へ　「最強衛星サービス」は年内にテスト運用",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news067.html",
-      "pubDate": "2026-11-09T05:45:00.000Z"
     },
     {
       "category": "科学",
@@ -186,14 +202,6 @@
       "pubDate": "2026-11-09T01:26:38.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "中国を「脅威」見送りへ 政府方針",
-      "link": "https://news.yahoo.co.jp/pickup/6601872?source=rss",
-      "pubDate": "2026-11-09T00:00:12.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -232,14 +240,6 @@
       "title": "「お砂糖」仮想空間の人間関係は",
       "link": "https://news.yahoo.co.jp/pickup/6601816?source=rss",
       "pubDate": "2026-11-08T08:44:59.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "個人情報「手放す」企業が続々",
-      "link": "https://news.yahoo.co.jp/pickup/6601787?source=rss",
-      "pubDate": "2026-11-08T05:32:18.000Z"
     },
     {
       "category": "デジカメinfo",
