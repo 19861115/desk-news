@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T05:00:52.255Z",
+  "updatedAt": "2026-11-09T05:16:36.133Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "アフリカ カルト教団が増える背景",
+      "link": "https://news.yahoo.co.jp/pickup/6601895?source=rss",
+      "pubDate": "2026-11-09T05:00:45.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "採決直前に退席 石破氏が理由説明",
       "link": "https://news.yahoo.co.jp/pickup/6601906?source=rss",
       "pubDate": "2026-11-09T04:48:18.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] KDDIはなぜ自動運転タクシーに注力するのか　堺市のデータセンターを活用、2028年に商用化目指す",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news054.html",
+      "pubDate": "2026-11-09T04:32:00.000Z"
     },
     {
       "category": "経済",
@@ -56,14 +72,6 @@
       "title": "[ITmedia News] ドコモ傘下の電子チケット「teket」不正アクセス、全会員の氏名やメアド流出　サービス停止",
       "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003009/",
       "pubDate": "2026-11-09T03:42:39.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 学園祭の混雑、ITで解消へ　お茶の水女子大・共創工学部の学生がセンサー活用し実証",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003006/",
-      "pubDate": "2026-11-09T03:34:30.000Z"
     },
     {
       "category": "国内",
@@ -168,14 +176,6 @@
       "title": "北朝鮮ハッカーのチャットか 入手",
       "link": "https://news.yahoo.co.jp/pickup/6601870?source=rss",
       "pubDate": "2026-11-08T23:52:15.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "エジプトで列車同士衝突 7人死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6601860?source=rss",
-      "pubDate": "2026-11-08T22:21:56.000Z"
     },
     {
       "category": "国内",
