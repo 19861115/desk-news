@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T03:30:45.138Z",
+  "updatedAt": "2026-11-09T03:45:34.663Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "都心は真冬並みの寒さ 寒暖差注意",
+      "link": "https://news.yahoo.co.jp/pickup/6601903?source=rss",
+      "pubDate": "2026-11-09T03:32:38.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -10,12 +18,44 @@
       "pubDate": "2026-11-09T03:14:16.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] スマホは「待つほど高くなる」時代に　iPhoneやPixel、Galaxyの“予告なし値上げ”が相次いだ2026年、買い時はいつ？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news059.html",
+      "pubDate": "2026-11-09T03:10:00.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "三井化学がJSR買収 1兆8400億円",
       "link": "https://news.yahoo.co.jp/pickup/6601897?source=rss",
       "pubDate": "2026-11-09T03:05:24.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] サイバー攻撃への緊急対策、「トップガン人材」チーム設立へ　予備費100億円支出",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003005/",
+      "pubDate": "2026-11-09T03:02:03.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 画像生成AIは既存のキャラクターをどれくらい出力する？　ソニーAIなどが14モデルを調査",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
+      "pubDate": "2026-11-09T03:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 有機EL＆タッチ対応の新型「MacBook Pro」を試す　M6とM5 Maxの性能差、使い勝手はどう変わった？",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news035.html",
+      "pubDate": "2026-11-09T03:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -34,28 +74,12 @@
       "pubDate": "2026-11-09T02:46:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ネット印刷「ラクスル」に不正アクセス　入稿データ一部漏えいか　名刺やはがき記載の個人情報も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003004/",
-      "pubDate": "2026-11-09T02:42:45.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "日経平均 一時2000円以上値上がり",
       "link": "https://news.yahoo.co.jp/pickup/6601891?source=rss",
       "pubDate": "2026-11-09T02:36:24.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
-      "pubDate": "2026-11-09T02:30:10.000Z"
     },
     {
       "category": "国内",
@@ -72,22 +96,6 @@
       "title": "米大統領 報道官にUFC代表は冗談",
       "link": "https://news.yahoo.co.jp/pickup/6601883?source=rss",
       "pubDate": "2026-11-09T02:08:29.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] クラウドインフラのシェア、AWSが26％に後退　Google Cloudは16％に上昇　市場全体は過去最大の高成長率へ　2026年第3四半期調査",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003001/",
-      "pubDate": "2026-11-09T02:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 大手クラウド事業者がいま磁気テープを買う理由　富士フイルムは生産5倍へ",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/07/news004.html",
-      "pubDate": "2026-11-09T02:00:00.000Z"
     },
     {
       "category": "IT",
@@ -152,14 +160,6 @@
       "title": "エジプトで列車同士衝突 7人死亡",
       "link": "https://news.yahoo.co.jp/pickup/6601860?source=rss",
       "pubDate": "2026-11-08T22:21:56.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "9日 関東-北海道で師走並みの寒さ",
-      "link": "https://news.yahoo.co.jp/pickup/6601858?source=rss",
-      "pubDate": "2026-11-08T21:44:30.000Z"
     },
     {
       "category": "国内",
