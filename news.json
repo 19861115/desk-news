@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-09T02:00:53.345Z",
+  "updatedAt": "2026-11-09T02:15:34.845Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "赤ちゃんの名前 男の子1位「朔」",
+      "link": "https://news.yahoo.co.jp/pickup/6601885?source=rss",
+      "pubDate": "2026-11-09T02:13:39.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米大統領 報道官にUFC代表は冗談",
+      "link": "https://news.yahoo.co.jp/pickup/6601883?source=rss",
+      "pubDate": "2026-11-09T02:08:29.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「太鼓の達人」など7日ぶり稼働　セガ系不正アクセス問題、バンナム系が試験復旧",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003003/",
+      "pubDate": "2026-11-09T01:54:04.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -8,6 +32,14 @@
       "title": "10月サイバー攻撃233件 過去最多",
       "link": "https://news.yahoo.co.jp/pickup/6601882?source=rss",
       "pubDate": "2026-11-09T01:45:34.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] GMO、不正取引の被害者に個別連絡を開始　「見舞金5000円」とは別に補償",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news051.html",
+      "pubDate": "2026-11-09T01:45:00.000Z"
     },
     {
       "category": "経済",
@@ -58,28 +90,12 @@
       "pubDate": "2026-11-09T00:51:51.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] プロ仕様のカラビナが付属したモバイルバッテリー「TORRAS FlexLine」がセールで27％オフの8069円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news049.html",
-      "pubDate": "2026-11-09T00:47:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "米大統領 戦闘再開「可能性低い」",
       "link": "https://news.yahoo.co.jp/pickup/6601874?source=rss",
       "pubDate": "2026-11-09T00:45:33.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 高出力による急速充電に対応した「Anker USB-C &amp; USB-C ケーブル」がセールで37％オフの1690円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news047.html",
-      "pubDate": "2026-11-09T00:42:00.000Z"
     },
     {
       "category": "国内",
@@ -146,14 +162,6 @@
       "pubDate": "2026-11-08T21:32:55.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "死産の子に産着無償提供 広がる輪",
-      "link": "https://news.yahoo.co.jp/pickup/6601845?source=rss",
-      "pubDate": "2026-11-08T13:16:47.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -200,14 +208,6 @@
       "title": "「お砂糖」仮想空間の人間関係は",
       "link": "https://news.yahoo.co.jp/pickup/6601816?source=rss",
       "pubDate": "2026-11-08T08:44:59.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "カナリアの島に移民 緊急事態宣言",
-      "link": "https://news.yahoo.co.jp/pickup/6601811?source=rss",
-      "pubDate": "2026-11-08T08:23:24.000Z"
     },
     {
       "category": "IT",
