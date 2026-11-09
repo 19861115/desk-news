@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T04:00:56.160Z",
+  "updatedAt": "2026-11-09T04:15:35.761Z",
   "items": [
     {
       "category": "国際",
@@ -8,6 +8,30 @@
       "title": "VIVANTで話題 露諜報員の実態は",
       "link": "https://news.yahoo.co.jp/pickup/6601899?source=rss",
       "pubDate": "2026-11-09T03:56:53.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 常識破りのモヘヤ糸で世界のブランドへ飛躍　山形県寒河江市　佐藤繊維社長、佐藤正樹さん　令和人国記（中）",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/09/2000003010/",
+      "pubDate": "2026-11-09T03:55:22.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ドコモ傘下の電子チケット「teket」不正アクセス、全会員の氏名やメアド流出　サービス停止",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003009/",
+      "pubDate": "2026-11-09T03:42:39.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 学園祭の混雑、ITで解消へ　お茶の水女子大・共創工学部の学生がセンサー活用し実証",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003006/",
+      "pubDate": "2026-11-09T03:34:30.000Z"
     },
     {
       "category": "国内",
@@ -48,30 +72,6 @@
       "title": "[ITmedia News] サイバー攻撃への緊急対策、「トップガン人材」チーム設立へ　予備費100億円支出",
       "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003005/",
       "pubDate": "2026-11-09T03:02:03.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 画像生成AIは既存のキャラクターをどれくらい出力する？　ソニーAIなどが14モデルを調査",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
-      "pubDate": "2026-11-09T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 有機EL＆タッチ対応の新型「MacBook Pro」を試す　M6とM5 Maxの性能差、使い勝手はどう変わった？",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news035.html",
-      "pubDate": "2026-11-09T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ロジテック、薄型筐体を採用したUSB外付けBlu-ray Discドライブ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news058.html",
-      "pubDate": "2026-11-09T02:49:00.000Z"
     },
     {
       "category": "経済",
