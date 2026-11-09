@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-08T23:45:33.410Z",
+  "updatedAt": "2026-11-09T00:00:55.882Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "中国を「脅威」見送りへ 政府方針",
+      "link": "https://news.yahoo.co.jp/pickup/6601872?source=rss",
+      "pubDate": "2026-11-09T00:00:12.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "北朝鮮ハッカーのチャットか 入手",
+      "link": "https://news.yahoo.co.jp/pickup/6601870?source=rss",
+      "pubDate": "2026-11-08T23:52:15.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -96,14 +112,6 @@
       "title": "迷惑行為ショウリンジ SNS模倣か",
       "link": "https://news.yahoo.co.jp/pickup/6601857?source=rss",
       "pubDate": "2026-11-08T21:32:55.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "日米外相会談 パリG7合わせ調整",
-      "link": "https://news.yahoo.co.jp/pickup/6601851?source=rss",
-      "pubDate": "2026-11-08T14:28:33.000Z"
     },
     {
       "category": "経済",
@@ -248,14 +256,6 @@
       "title": "GMO謝罪会見なぜ炎上 プロ解説",
       "link": "https://news.yahoo.co.jp/pickup/6601694?source=rss",
       "pubDate": "2026-11-07T12:06:33.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ブッダボット 仏教界でAI活用模索",
-      "link": "https://news.yahoo.co.jp/pickup/6601670?source=rss",
-      "pubDate": "2026-11-07T08:45:09.000Z"
     },
     {
       "category": "デジカメinfo",
