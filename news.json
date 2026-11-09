@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-09T01:15:35.887Z",
+  "updatedAt": "2026-11-09T01:30:44.018Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "焼き魚定食 外国人客に人気の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6601879?source=rss",
+      "pubDate": "2026-11-09T01:26:43.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "イスラエル 反首相陣営に組閣指示",
+      "link": "https://news.yahoo.co.jp/pickup/6601880?source=rss",
+      "pubDate": "2026-11-09T01:26:38.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -72,14 +88,6 @@
       "title": "北朝鮮ハッカーのチャットか 入手",
       "link": "https://news.yahoo.co.jp/pickup/6601870?source=rss",
       "pubDate": "2026-11-08T23:52:15.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "イスラエル 野党党首に組閣指示",
-      "link": "https://news.yahoo.co.jp/pickup/6601869?source=rss",
-      "pubDate": "2026-11-08T23:31:59.000Z"
     },
     {
       "category": "経済",
@@ -184,14 +192,6 @@
       "title": "「お砂糖」仮想空間の人間関係は",
       "link": "https://news.yahoo.co.jp/pickup/6601816?source=rss",
       "pubDate": "2026-11-08T08:44:59.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "MAZDA3セダン 北米で売れる理由",
-      "link": "https://news.yahoo.co.jp/pickup/6601813?source=rss",
-      "pubDate": "2026-11-08T08:32:51.000Z"
     },
     {
       "category": "国際",
