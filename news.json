@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T02:30:46.415Z",
+  "updatedAt": "2026-11-09T02:45:33.592Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "日経平均 一時2000円以上値上がり",
+      "link": "https://news.yahoo.co.jp/pickup/6601891?source=rss",
+      "pubDate": "2026-11-09T02:36:24.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -16,6 +24,22 @@
       "title": "米大統領 報道官にUFC代表は冗談",
       "link": "https://news.yahoo.co.jp/pickup/6601883?source=rss",
       "pubDate": "2026-11-09T02:08:29.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] クラウドインフラのシェア、AWSが26％に後退　Google Cloudは16％に上昇　市場全体は過去最大の高成長率へ　2026年第3四半期調査",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003001/",
+      "pubDate": "2026-11-09T02:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 大手クラウド事業者がいま磁気テープを買う理由　富士フイルムは生産5倍へ",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/07/news004.html",
+      "pubDate": "2026-11-09T02:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -66,22 +90,6 @@
       "pubDate": "2026-11-09T01:13:02.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 多機能で使いやすい2ポケット　シンプルデザインのレザー風スマホショルダー",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news034.html",
-      "pubDate": "2026-11-09T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 厚さ8.6mmの超薄型設計でスマホと重ね持ちしやすい「UGREEN Air モバイルバッテリー 5000mAh」がセールで34％オフの4510円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news050.html",
-      "pubDate": "2026-11-09T00:53:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -128,14 +136,6 @@
       "title": "Netflix 増収増益でリストラの訳",
       "link": "https://news.yahoo.co.jp/pickup/6601865?source=rss",
       "pubDate": "2026-11-08T23:17:17.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "舎人ライナー 資金不足陥る可能性",
-      "link": "https://news.yahoo.co.jp/pickup/6601864?source=rss",
-      "pubDate": "2026-11-08T22:46:35.000Z"
     },
     {
       "category": "国際",
