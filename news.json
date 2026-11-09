@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T10:45:36.840Z",
+  "updatedAt": "2026-11-09T11:00:56.888Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "JT株 2営業日連続のストップ安",
+      "link": "https://news.yahoo.co.jp/pickup/6601946?source=rss",
+      "pubDate": "2026-11-09T10:53:26.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -40,6 +48,14 @@
       "title": "コンロキャンセル界隈 なぜ拡大",
       "link": "https://news.yahoo.co.jp/pickup/6601935?source=rss",
       "pubDate": "2026-11-09T09:29:01.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーが認証機関に新たな未発表カメラを登録（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1968.html",
+      "pubDate": "2026-11-09T09:02:50.000Z"
     },
     {
       "category": "IT",
@@ -194,14 +210,6 @@
       "pubDate": "2026-11-09T03:56:53.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "三井化学がJSR買収 1兆8400億円",
-      "link": "https://news.yahoo.co.jp/pickup/6601897?source=rss",
-      "pubDate": "2026-11-09T03:05:24.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -272,14 +280,6 @@
       "title": "ニコン「Z70」は4100万画素非積層型センサーを採用し価格はZ6IIIと同程度になる？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/z704100z6iii.html",
       "pubDate": "2026-11-06T15:14:49.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ライカQ3 43モノクロームが12月初めに発表される？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/q3-4312.html",
-      "pubDate": "2026-11-06T04:09:04.000Z"
     }
   ]
 }
