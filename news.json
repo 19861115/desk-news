@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-09T07:00:53.104Z",
+  "updatedAt": "2026-11-09T07:15:36.408Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "G7会議前に首相飲酒せず 木原氏",
+      "link": "https://news.yahoo.co.jp/pickup/6601917?source=rss",
+      "pubDate": "2026-11-09T07:07:54.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] モニターにも値上げの波？　アイオーデータは10月に実施、EIZOも12月以降に　メーカー各社に聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003015/",
+      "pubDate": "2026-11-09T06:54:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 自社の認証情報で生成AI不正利用される　ネット印刷・キングプリンターズへの不正アクセス、個人情報漏えいなし",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003016/",
+      "pubDate": "2026-11-09T06:30:35.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -8,14 +32,6 @@
       "title": "珍しい現象 二重の水上竜巻が発生",
       "link": "https://news.yahoo.co.jp/pickup/6601913?source=rss",
       "pubDate": "2026-11-09T06:08:20.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] モニターにも値上げの波　アイオーデータは10月に実施、EIZOも12月以降に　メーカー各社に聞いた",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003015/",
-      "pubDate": "2026-11-09T06:01:03.000Z"
     },
     {
       "category": "ITmedia",
@@ -64,14 +80,6 @@
       "title": "採決直前に退席 石破氏が理由説明",
       "link": "https://news.yahoo.co.jp/pickup/6601906?source=rss",
       "pubDate": "2026-11-09T04:48:18.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] KDDIはなぜ自動運転タクシーに注力するのか　堺市のデータセンターを活用、2028年に商用化目指す",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news054.html",
-      "pubDate": "2026-11-09T04:32:00.000Z"
     },
     {
       "category": "経済",
@@ -184,14 +192,6 @@
       "title": "北朝鮮ハッカーのチャットか 入手",
       "link": "https://news.yahoo.co.jp/pickup/6601870?source=rss",
       "pubDate": "2026-11-08T23:52:15.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "迷惑行為ショウリンジ SNS模倣か",
-      "link": "https://news.yahoo.co.jp/pickup/6601857?source=rss",
-      "pubDate": "2026-11-08T21:32:55.000Z"
     },
     {
       "category": "科学",
