@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T02:45:33.592Z",
+  "updatedAt": "2026-11-09T03:00:54.996Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ハンズ渋谷「THANKS」看板の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6601889?source=rss",
+      "pubDate": "2026-11-09T02:46:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -128,14 +136,6 @@
       "title": "CEOと工作員の関係 NVIDIA調査",
       "link": "https://news.yahoo.co.jp/pickup/6601868?source=rss",
       "pubDate": "2026-11-08T23:28:44.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "Netflix 増収増益でリストラの訳",
-      "link": "https://news.yahoo.co.jp/pickup/6601865?source=rss",
-      "pubDate": "2026-11-08T23:17:17.000Z"
     },
     {
       "category": "国際",
