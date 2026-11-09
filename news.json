@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T10:00:54.559Z",
+  "updatedAt": "2026-11-09T10:15:35.126Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "NTT 保有するNEC全株売却を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601941?source=rss",
+      "pubDate": "2026-11-09T10:07:31.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "MAGAから急進左派へ 揺らぐ米国",
       "link": "https://news.yahoo.co.jp/pickup/6601939?source=rss",
       "pubDate": "2026-11-09T09:57:24.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ソフトバンク宮川社長、ahamoの新料金対抗は「考えていない」　40GB化後も「影響なし」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news081.html",
+      "pubDate": "2026-11-09T09:48:00.000Z"
     },
     {
       "category": "国内",
@@ -24,6 +40,14 @@
       "title": "ニトリ 最大3762万件の情報流出か",
       "link": "https://news.yahoo.co.jp/pickup/6601934?source=rss",
       "pubDate": "2026-11-09T08:58:01.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 古河電工「上期過去最高益」　市場からは「AI逆風」に懸念の声も、会見で森平CEOが見せた“自信”",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news078.html",
+      "pubDate": "2026-11-09T08:47:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -106,28 +130,12 @@
       "pubDate": "2026-11-09T07:44:10.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 総務省がドコモに行政指導　アマゾンジャパンへ同意なく約34万の情報を提供",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news074.html",
-      "pubDate": "2026-11-09T07:31:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "米大統領 中露首脳と会談の見通し",
       "link": "https://news.yahoo.co.jp/pickup/6601919?source=rss",
       "pubDate": "2026-11-09T07:23:55.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 楽天モバイルの「iPad mini（A20 Pro）」、端末返却で2年間8万円台【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news072.html",
-      "pubDate": "2026-11-09T07:14:00.000Z"
     },
     {
       "category": "国内",
@@ -184,14 +192,6 @@
       "title": "三井化学がJSR買収 1兆8400億円",
       "link": "https://news.yahoo.co.jp/pickup/6601897?source=rss",
       "pubDate": "2026-11-09T03:05:24.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ハンズ渋谷「THANKS」看板の訳",
-      "link": "https://news.yahoo.co.jp/pickup/6601889?source=rss",
-      "pubDate": "2026-11-09T02:46:00.000Z"
     },
     {
       "category": "国際",
