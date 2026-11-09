@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-09T00:30:45.535Z",
+  "updatedAt": "2026-11-09T00:45:34.455Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 128信金の大規模障害、約6時間で復旧　「原因はサイバー攻撃ではない」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002999/",
+      "pubDate": "2026-11-09T00:26:19.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 寝そべった姿勢でも楽にPC操作ができるサンワダイレクトのトラックボール「400-MA083」がセールで10％オフの3580円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news044.html",
+      "pubDate": "2026-11-09T00:22:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 戸田建設、データ基盤を全社員に開放へ　「半歩前」のガバナンスとAIによるリスク判定",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news007.html",
+      "pubDate": "2026-11-09T00:20:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -58,14 +82,6 @@
       "pubDate": "2026-11-08T23:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
-      "pubDate": "2026-11-08T23:00:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -74,28 +90,12 @@
       "pubDate": "2026-11-08T22:46:35.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査　本人は不倫認め謝罪",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
-      "pubDate": "2026-11-08T22:44:13.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "エジプトで列車同士衝突 7人死亡",
       "link": "https://news.yahoo.co.jp/pickup/6601860?source=rss",
       "pubDate": "2026-11-08T22:21:56.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 意思疎通に難？　技術が分かるから強い？――研究者に事業開発させるべきか否か、NEC・イビデンの回答は……",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news040.html",
-      "pubDate": "2026-11-08T22:00:00.000Z"
     },
     {
       "category": "国内",
