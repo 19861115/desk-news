@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-09T06:01:54.052Z",
+  "updatedAt": "2026-11-09T06:15:47.166Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "珍しい現象 二重の水上竜巻が発生",
+      "link": "https://news.yahoo.co.jp/pickup/6601913?source=rss",
+      "pubDate": "2026-11-09T06:08:20.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 楽天と米ASTが新会社を設立、スマホと衛星の直接通信を2029年3月まで開始へ　「最強衛星サービス」は年内にテスト運用",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news067.html",
+      "pubDate": "2026-11-09T05:45:00.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -10,12 +26,28 @@
       "pubDate": "2026-11-09T05:37:25.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 広信、多機能USBハブ機能を備えた折りたたみ式ノートPCスタンド",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news066.html",
+      "pubDate": "2026-11-09T05:33:00.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "アフリカ カルト教団が増える背景",
       "link": "https://news.yahoo.co.jp/pickup/6601895?source=rss",
       "pubDate": "2026-11-09T05:00:45.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] NTT社長が説く　縮小市場で売り上げを伸ばすため、経営者が下すべき「3つの決断」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/09/news061.html",
+      "pubDate": "2026-11-09T05:00:00.000Z"
     },
     {
       "category": "国内",
@@ -50,36 +82,12 @@
       "pubDate": "2026-11-09T04:22:14.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 発火しにくい「リン酸鉄リチウムイオン電池」を採用　HIDISCが3台同時＆PD20W対応のモバイルバッテリー発売",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news056.html",
-      "pubDate": "2026-11-09T04:08:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "VIVANTで話題 露諜報員の実態は",
       "link": "https://news.yahoo.co.jp/pickup/6601899?source=rss",
       "pubDate": "2026-11-09T03:56:53.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 常識破りのモヘヤ糸で世界のブランドへ飛躍　山形県寒河江市　佐藤繊維社長、佐藤正樹さん　令和人国記（中）",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/09/2000003010/",
-      "pubDate": "2026-11-09T03:55:22.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] Magic Mouseを裏返さずに充電できる薄型設計の充電ドック",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news062.html",
-      "pubDate": "2026-11-09T03:54:00.000Z"
     },
     {
       "category": "国内",
@@ -248,14 +256,6 @@
       "title": "「なりすまし電話」巧妙化 対策は",
       "link": "https://news.yahoo.co.jp/pickup/6601743?source=rss",
       "pubDate": "2026-11-08T00:33:18.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "iPS細胞活用のがん治験 来年開始",
-      "link": "https://news.yahoo.co.jp/pickup/6601739?source=rss",
-      "pubDate": "2026-11-07T23:53:34.000Z"
     },
     {
       "category": "デジカメinfo",
