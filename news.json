@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T08:30:46.656Z",
+  "updatedAt": "2026-11-09T08:45:33.615Z",
   "items": [
     {
       "category": "国内",
@@ -69,6 +69,14 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 楽天モバイルの「iPad mini（A20 Pro）」、端末返却で2年間8万円台【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news072.html",
+      "pubDate": "2026-11-09T07:14:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia News] 口座番号や顔写真、要配慮個人情報も……「ステップゴルフ」不正アクセス、最大21.5万件漏えいの可能性",
       "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003021/",
       "pubDate": "2026-11-09T07:10:20.000Z"
@@ -96,14 +104,6 @@
       "title": "[ITmedia News] モニターにも値上げの波？　アイオーデータは10月に実施、EIZOも12月以降に　メーカー各社に聞いた",
       "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003015/",
       "pubDate": "2026-11-09T06:54:28.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 自社の認証情報で生成AI不正利用される　ネット印刷・キングプリンターズへの不正アクセス、個人情報漏えいなし",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003016/",
-      "pubDate": "2026-11-09T06:30:35.000Z"
     },
     {
       "category": "科学",
