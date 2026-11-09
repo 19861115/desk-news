@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T06:30:47.801Z",
+  "updatedAt": "2026-11-09T06:45:34.977Z",
   "items": [
     {
       "category": "科学",
@@ -8,6 +8,14 @@
       "title": "珍しい現象 二重の水上竜巻が発生",
       "link": "https://news.yahoo.co.jp/pickup/6601913?source=rss",
       "pubDate": "2026-11-09T06:08:20.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] モニターにも値上げの波　アイオーデータは10月に実施、EIZOも12月以降に　メーカー各社に聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003015/",
+      "pubDate": "2026-11-09T06:01:03.000Z"
     },
     {
       "category": "ITmedia",
@@ -72,14 +80,6 @@
       "title": "黒字リストラ 中高年が残る条件は",
       "link": "https://news.yahoo.co.jp/pickup/6601894?source=rss",
       "pubDate": "2026-11-09T04:25:34.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 早稲田大、PHP脆弱性への対応中に不正アクセス発見　個人情報約3400件流出確認",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003012/",
-      "pubDate": "2026-11-09T04:22:14.000Z"
     },
     {
       "category": "国際",
