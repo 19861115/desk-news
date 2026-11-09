@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T04:15:35.761Z",
+  "updatedAt": "2026-11-09T04:30:43.562Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "黒字リストラ 中高年が残る条件は",
+      "link": "https://news.yahoo.co.jp/pickup/6601894?source=rss",
+      "pubDate": "2026-11-09T04:25:34.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -128,14 +136,6 @@
       "title": "イスラエル 反首相陣営に組閣指示",
       "link": "https://news.yahoo.co.jp/pickup/6601880?source=rss",
       "pubDate": "2026-11-09T01:26:38.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "7/30に過去最大円買い介入7.9兆円",
-      "link": "https://news.yahoo.co.jp/pickup/6601877?source=rss",
-      "pubDate": "2026-11-09T00:51:51.000Z"
     },
     {
       "category": "国際",
