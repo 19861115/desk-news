@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T03:45:34.663Z",
+  "updatedAt": "2026-11-09T04:00:56.160Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "VIVANTで話題 露諜報員の実態は",
+      "link": "https://news.yahoo.co.jp/pickup/6601899?source=rss",
+      "pubDate": "2026-11-09T03:56:53.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -168,14 +176,6 @@
       "title": "迷惑行為ショウリンジ SNS模倣か",
       "link": "https://news.yahoo.co.jp/pickup/6601857?source=rss",
       "pubDate": "2026-11-08T21:32:55.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "欧州右派政党 トランプ氏離れ鮮明",
-      "link": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
-      "pubDate": "2026-11-08T13:13:17.000Z"
     },
     {
       "category": "科学",
