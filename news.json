@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T04:30:43.562Z",
+  "updatedAt": "2026-11-09T04:45:33.811Z",
   "items": [
     {
       "category": "経済",
@@ -8,6 +8,14 @@
       "title": "黒字リストラ 中高年が残る条件は",
       "link": "https://news.yahoo.co.jp/pickup/6601894?source=rss",
       "pubDate": "2026-11-09T04:25:34.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 早稲田大、PHP脆弱性への対応中に不正アクセス発見　個人情報約3400件流出確認",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003012/",
+      "pubDate": "2026-11-09T04:22:14.000Z"
     },
     {
       "category": "国際",
@@ -24,6 +32,14 @@
       "title": "[ITmedia エグゼクティブ] 常識破りのモヘヤ糸で世界のブランドへ飛躍　山形県寒河江市　佐藤繊維社長、佐藤正樹さん　令和人国記（中）",
       "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/09/2000003010/",
       "pubDate": "2026-11-09T03:55:22.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] Magic Mouseを裏返さずに充電できる薄型設計の充電ドック",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news062.html",
+      "pubDate": "2026-11-09T03:54:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -58,28 +74,12 @@
       "pubDate": "2026-11-09T03:14:16.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] スマホは「待つほど高くなる」時代に　iPhoneやPixel、Galaxyの“予告なし値上げ”が相次いだ2026年、買い時はいつ？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news059.html",
-      "pubDate": "2026-11-09T03:10:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "三井化学がJSR買収 1兆8400億円",
       "link": "https://news.yahoo.co.jp/pickup/6601897?source=rss",
       "pubDate": "2026-11-09T03:05:24.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] サイバー攻撃への緊急対策、「トップガン人材」チーム設立へ　予備費100億円支出",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003005/",
-      "pubDate": "2026-11-09T03:02:03.000Z"
     },
     {
       "category": "経済",
