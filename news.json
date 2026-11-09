@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T01:00:50.532Z",
+  "updatedAt": "2026-11-09T01:15:35.887Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 厚さ8.6mmの超薄型設計でスマホと重ね持ちしやすい「UGREEN Air モバイルバッテリー 5000mAh」がセールで34％オフの4510円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news050.html",
+      "pubDate": "2026-11-09T00:53:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "7/30に過去最大円買い介入7.9兆円",
       "link": "https://news.yahoo.co.jp/pickup/6601877?source=rss",
       "pubDate": "2026-11-09T00:51:51.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] プロ仕様のカラビナが付属したモバイルバッテリー「TORRAS FlexLine」がセールで27％オフの8069円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news049.html",
+      "pubDate": "2026-11-09T00:47:00.000Z"
     },
     {
       "category": "国際",
@@ -21,25 +37,25 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 128信金の大規模障害、約6時間で復旧　「原因はサイバー攻撃ではない」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002999/",
-      "pubDate": "2026-11-09T00:26:19.000Z"
+      "title": "[ITmedia Mobile] 高出力による急速充電に対応した「Anker USB-C &amp; USB-C ケーブル」がセールで37％オフの1690円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news047.html",
+      "pubDate": "2026-11-09T00:42:00.000Z"
     },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 寝そべった姿勢でも楽にPC操作ができるサンワダイレクトのトラックボール「400-MA083」がセールで10％オフの3580円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news044.html",
-      "pubDate": "2026-11-09T00:22:00.000Z"
+      "title": "[ITmedia PC USER] モニタースタンド型の「Anker 675 USB-C ドッキングステーション」がセールで27％オフの2万3990円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news046.html",
+      "pubDate": "2026-11-09T00:33:00.000Z"
     },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 戸田建設、データ基盤を全社員に開放へ　「半歩前」のガバナンスとAIによるリスク判定",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news007.html",
-      "pubDate": "2026-11-09T00:20:00.000Z"
+      "title": "[ITmedia PC USER] 日本語配列でタッチパッド付きの「Ewin 折りたたみキーボード」がセールで27％オフの4746円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news045.html",
+      "pubDate": "2026-11-09T00:28:00.000Z"
     },
     {
       "category": "国内",
@@ -80,22 +96,6 @@
       "title": "Netflix 増収増益でリストラの訳",
       "link": "https://news.yahoo.co.jp/pickup/6601865?source=rss",
       "pubDate": "2026-11-08T23:17:17.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] どこに人間を残すか ― ガバナンスの設計",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/09/2000002944/",
-      "pubDate": "2026-11-08T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] AIに業務を任せる大企業は6割へ　人材育成に投資しない企業はどうなる？",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news023.html",
-      "pubDate": "2026-11-08T23:00:00.000Z"
     },
     {
       "category": "経済",
