@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-09T08:45:33.615Z",
+  "updatedAt": "2026-11-09T09:00:58.565Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ニトリ 最大3762万件の情報流出か",
+      "link": "https://news.yahoo.co.jp/pickup/6601934?source=rss",
+      "pubDate": "2026-11-09T08:58:01.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "石破前首相ら4人を戒告処分 自民",
+      "link": "https://news.yahoo.co.jp/pickup/6601933?source=rss",
+      "pubDate": "2026-11-09T08:44:45.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -130,14 +146,6 @@
       "pubDate": "2026-11-09T05:00:45.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "採決直前に退席 石破氏が理由説明",
-      "link": "https://news.yahoo.co.jp/pickup/6601906?source=rss",
-      "pubDate": "2026-11-09T04:48:18.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -232,14 +240,6 @@
       "title": "リコーのカメラ事業はGRシリーズが引き続き好調で増収増益（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/2026q2gr.html",
       "pubDate": "2026-11-08T09:41:47.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "「お砂糖」仮想空間の人間関係は",
-      "link": "https://news.yahoo.co.jp/pickup/6601816?source=rss",
-      "pubDate": "2026-11-08T08:44:59.000Z"
     },
     {
       "category": "デジカメinfo",
