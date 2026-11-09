@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T11:00:56.888Z",
+  "updatedAt": "2026-11-09T11:15:35.513Z",
   "items": [
     {
       "category": "経済",
@@ -10,12 +10,28 @@
       "pubDate": "2026-11-09T10:53:26.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ニトリに不正アクセス、最大3762万件の個人情報流出の可能性　法人会員も対象に",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003039/",
+      "pubDate": "2026-11-09T10:40:53.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "NTTなど5社 衛星連携へ協業検討",
       "link": "https://news.yahoo.co.jp/pickup/6601943?source=rss",
       "pubDate": "2026-11-09T10:26:03.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 無印良品、ネットストア再開延期　リスト型攻撃を確認、新たに約27万件漏えいか",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003038/",
+      "pubDate": "2026-11-09T10:25:46.000Z"
     },
     {
       "category": "経済",
@@ -88,22 +104,6 @@
       "title": "石破前首相ら4人を戒告処分 自民",
       "link": "https://news.yahoo.co.jp/pickup/6601933?source=rss",
       "pubDate": "2026-11-09T08:44:45.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 楽天銀行ユーザーが楽天モバイル申し込みで2万ポイント、ボーナス金利の条件達成最大で8000ポイント還元も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news077.html",
-      "pubDate": "2026-11-09T08:31:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 光らない簡易水冷「CyberFlow Core」や120mmファン用フィギュア台など、魅せるPCの新境地",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/09/news075.html",
-      "pubDate": "2026-11-09T08:30:00.000Z"
     },
     {
       "category": "国内",
