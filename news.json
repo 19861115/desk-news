@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-09T05:31:17.463Z",
+  "updatedAt": "2026-11-09T05:45:44.786Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "十分生きた 透析拒んだ父への医療",
+      "link": "https://news.yahoo.co.jp/pickup/6601911?source=rss",
+      "pubDate": "2026-11-09T05:37:25.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -42,6 +50,14 @@
       "pubDate": "2026-11-09T04:22:14.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 発火しにくい「リン酸鉄リチウムイオン電池」を採用　HIDISCが3台同時＆PD20W対応のモバイルバッテリー発売",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news056.html",
+      "pubDate": "2026-11-09T04:08:00.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -66,28 +82,12 @@
       "pubDate": "2026-11-09T03:54:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ドコモ傘下の電子チケット「teket」不正アクセス、全会員の氏名やメアド流出　サービス停止",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003009/",
-      "pubDate": "2026-11-09T03:42:39.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "都心は真冬並みの寒さ 寒暖差注意",
       "link": "https://news.yahoo.co.jp/pickup/6601903?source=rss",
       "pubDate": "2026-11-09T03:32:38.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "透析「しない」父 家族救ったケア",
-      "link": "https://news.yahoo.co.jp/pickup/6601898?source=rss",
-      "pubDate": "2026-11-09T03:14:16.000Z"
     },
     {
       "category": "経済",
