@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-09T11:30:48.344Z",
+  "updatedAt": "2026-11-09T11:45:35.005Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] ソフトバンク宮川社長「正直もう疲れ切っている」　サイバー攻撃が月7億件、決算発表会で明かした危機感とは",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news084.html",
+      "pubDate": "2026-11-09T11:18:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 「話を聞いてもらえない」のは、内容のせいとは限らない――伝わる人が押さえる第一印象",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/23/2000002378/",
+      "pubDate": "2026-11-09T11:01:12.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -80,22 +96,6 @@
       "title": "ニトリ 最大3762万件の情報流出か",
       "link": "https://news.yahoo.co.jp/pickup/6601934?source=rss",
       "pubDate": "2026-11-09T08:58:01.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 古河電工「上期過去最高益」　市場からは「AI逆風」に懸念の声も、会見で森平CEOが見せた“自信”",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news078.html",
-      "pubDate": "2026-11-09T08:47:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 秋葉原「スマートごみ箱」22台新設　ごみを自動で約5分の1に圧縮、たまり具合は遠隔で把握",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003031/",
-      "pubDate": "2026-11-09T08:45:47.000Z"
     },
     {
       "category": "国内",
