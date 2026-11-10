@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-10T05:30:43.730Z",
+  "updatedAt": "2026-11-10T05:45:33.258Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "素性隠し交流「仮面舞踏会」人気",
+      "link": "https://news.yahoo.co.jp/pickup/6602037?source=rss",
+      "pubDate": "2026-11-10T05:41:23.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "NVIDIA巡る疑惑 米対応に注目",
+      "link": "https://news.yahoo.co.jp/pickup/6602035?source=rss",
+      "pubDate": "2026-11-10T05:30:14.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 最大100W給電に対応した「UGREEN USB Type-C ケーブル 100W/5A」がセールで40％オフの780円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news066.html",
+      "pubDate": "2026-11-10T05:23:00.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +32,38 @@
       "title": "イスラエル 連立樹立の分かれ目は",
       "link": "https://news.yahoo.co.jp/pickup/6602022?source=rss",
       "pubDate": "2026-11-10T05:19:08.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 3ポート搭載＆大容量2万mAhの「CIO SMARTCOBY TRIO 35W モバイルバッテリー」がセールで36％オフの4480円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news065.html",
+      "pubDate": "2026-11-10T05:17:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] カード収納とスタンド機能をスマートに追加できる「MOFT Snap-On MagSafeスタンド MOVAS磁力強化」がセールで20％オフの3584円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news064.html",
+      "pubDate": "2026-11-10T05:12:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 「ロジクール ワイヤレスマウス SEB-M705」がセールで21％オフの4180円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news063.html",
+      "pubDate": "2026-11-10T05:08:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 27型フルHD IPSパネルを採用したディスプレイ「MSI PRO MAX 271PHW E14」がセールで21％オフの2万5800円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news062.html",
+      "pubDate": "2026-11-10T05:04:00.000Z"
     },
     {
       "category": "国際",
@@ -18,14 +74,6 @@
       "pubDate": "2026-11-10T04:56:09.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 3.97型E Inkディスプレイを備えたカードサイズの電子ペーパー端末",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news059.html",
-      "pubDate": "2026-11-10T04:52:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -34,44 +82,12 @@
       "pubDate": "2026-11-10T04:50:17.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ドコモ・バイクシェア刷新、11月24日に「NOLL」始動へ　当初予定から半年遅れ",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003060/",
-      "pubDate": "2026-11-10T04:20:17.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] サンワ、4K×2画面出力も可能なType-C外付け拡張ドック",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news057.html",
-      "pubDate": "2026-11-10T03:56:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "内水氾濫の被害軽減へ 国が対応策",
       "link": "https://news.yahoo.co.jp/pickup/6602029?source=rss",
       "pubDate": "2026-11-10T03:49:52.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Instagram、年齢を偽った10代もAIで検出　日本でも保護機能の適用を開始",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003056/",
-      "pubDate": "2026-11-10T03:27:51.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 仏スーパー冷蔵庫へのサイバー攻撃、イラン革命防衛隊関連組織の犯行と断定　フランス外務省が声明",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003053/",
-      "pubDate": "2026-11-10T03:05:09.000Z"
     },
     {
       "category": "国際",
@@ -162,28 +178,12 @@
       "pubDate": "2026-11-09T22:35:39.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "仏大統領選 リネール氏が出馬表明",
-      "link": "https://news.yahoo.co.jp/pickup/6601978?source=rss",
-      "pubDate": "2026-11-09T22:34:51.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "石破前首相ら戒告処分 参院側不満",
       "link": "https://news.yahoo.co.jp/pickup/6601976?source=rss",
       "pubDate": "2026-11-09T21:48:49.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "100均パスワード管理ノート 品薄",
-      "link": "https://news.yahoo.co.jp/pickup/6601975?source=rss",
-      "pubDate": "2026-11-09T21:24:41.000Z"
     },
     {
       "category": "デジカメinfo",
