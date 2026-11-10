@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T10:45:36.245Z",
+  "updatedAt": "2026-11-10T11:00:56.900Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "関電が作業服を刷新 ビームス監修",
+      "link": "https://news.yahoo.co.jp/pickup/6602078?source=rss",
+      "pubDate": "2026-11-10T10:57:49.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -176,14 +184,6 @@
       "title": "NVIDIA巡る疑惑 米対応に注目",
       "link": "https://news.yahoo.co.jp/pickup/6602035?source=rss",
       "pubDate": "2026-11-10T05:30:14.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "関東 福岡うどんチェーン人気の訳",
-      "link": "https://news.yahoo.co.jp/pickup/6602032?source=rss",
-      "pubDate": "2026-11-10T04:50:17.000Z"
     },
     {
       "category": "国内",
