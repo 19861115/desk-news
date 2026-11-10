@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-10T09:15:37.060Z",
+  "updatedAt": "2026-11-10T09:30:45.756Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "原子力潜水艦 導入視野に検討へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602067?source=rss",
+      "pubDate": "2026-11-10T09:23:37.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ソフトバンクG 中間赤字に転落",
+      "link": "https://news.yahoo.co.jp/pickup/6602065?source=rss",
+      "pubDate": "2026-11-10T09:19:46.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -178,14 +194,6 @@
       "pubDate": "2026-11-10T01:29:06.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ホンダ 米オハイオ州に工場新設へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601998?source=rss",
-      "pubDate": "2026-11-10T00:50:15.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -216,14 +224,6 @@
       "title": "個人向け国債人気 発行額8兆円超",
       "link": "https://news.yahoo.co.jp/pickup/6601981?source=rss",
       "pubDate": "2026-11-09T22:43:16.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "自衛官定員削減 安保3文書明記へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601979?source=rss",
-      "pubDate": "2026-11-09T22:35:39.000Z"
     },
     {
       "category": "デジカメinfo",
