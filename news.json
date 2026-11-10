@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-10T10:00:52.997Z",
+  "updatedAt": "2026-11-10T10:15:37.445Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "タカラトミー ロゴマーク変更へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602074?source=rss",
+      "pubDate": "2026-11-10T10:11:01.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 手袋でスマホが滑りやすい冬に　落下対策として知っておきたいスマホリングの選び方",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news081.html",
+      "pubDate": "2026-11-10T09:54:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "SBGが7680億円の赤字 中間決算",
       "link": "https://news.yahoo.co.jp/pickup/6602072?source=rss",
       "pubDate": "2026-11-10T09:53:46.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] スキマバイト「シェアフル」に不正アクセス　最大750万アカウント漏えいか　給与振込用の口座情報なども",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003072/",
+      "pubDate": "2026-11-10T09:50:02.000Z"
     },
     {
       "category": "国際",
@@ -114,22 +138,6 @@
       "pubDate": "2026-11-10T07:20:57.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ケンタッキー、一部メニュー画像に生成AI　実験販売の商品など　SNSは「違和感」の声も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003070/",
-      "pubDate": "2026-11-10T07:13:36.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] Suicaのコード決済「teppay」にまつわる5つの疑問　なぜ本人確認がマイナカードのみ？　なぜ起動の遅いSuicaアプリ経由？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news077.html",
-      "pubDate": "2026-11-10T07:02:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -216,14 +224,6 @@
       "title": "「国内間通信」も監視対象に 検討",
       "link": "https://news.yahoo.co.jp/pickup/6601992?source=rss",
       "pubDate": "2026-11-10T00:26:31.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "個人向け国債人気 発行額8兆円超",
-      "link": "https://news.yahoo.co.jp/pickup/6601981?source=rss",
-      "pubDate": "2026-11-09T22:43:16.000Z"
     },
     {
       "category": "デジカメinfo",
