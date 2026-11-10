@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T08:00:54.014Z",
+  "updatedAt": "2026-11-10T08:15:35.789Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ケンタ 一部メニュー画像にAI使用",
+      "link": "https://news.yahoo.co.jp/pickup/6602054?source=rss",
+      "pubDate": "2026-11-10T08:08:34.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -53,6 +61,14 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 2026年度上期のスマホ出荷台数は1割減、メモリや物価高騰が響く　シャープが約6割減　MM総研調べ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news072.html",
+      "pubDate": "2026-11-10T07:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia PC USER] キングジム、高精細ヘッドを搭載し視認性を向上した法人向けラベルライター新モデル",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news074.html",
       "pubDate": "2026-11-10T06:33:00.000Z"
@@ -64,14 +80,6 @@
       "title": "「仮面舞踏会」チケ即日完売 なぜ",
       "link": "https://news.yahoo.co.jp/pickup/6602044?source=rss",
       "pubDate": "2026-11-10T06:32:22.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] レノボ、カラバリ7色を取りそろえた14型／15.6型スタンダードノート「IdeaPad Vibe Gen 12」",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news073.html",
-      "pubDate": "2026-11-10T06:07:00.000Z"
     },
     {
       "category": "国際",
@@ -248,14 +256,6 @@
       "title": "ソニーが認証機関に新たな未発表カメラを登録（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1968.html",
       "pubDate": "2026-11-09T09:02:50.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ニトリ 最大3762万件の情報流出か",
-      "link": "https://news.yahoo.co.jp/pickup/6601934?source=rss",
-      "pubDate": "2026-11-09T08:58:01.000Z"
     },
     {
       "category": "デジカメinfo",
