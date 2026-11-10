@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-10T03:30:46.478Z",
+  "updatedAt": "2026-11-10T03:45:38.670Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "福岡うどんチェーン 関東人気理由",
+      "link": "https://news.yahoo.co.jp/pickup/6602028?source=rss",
+      "pubDate": "2026-11-10T03:41:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 仏スーパー冷蔵庫へのサイバー攻撃、イラン革命防衛隊関連組織の犯行と断定　フランス外務省が声明",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003053/",
+      "pubDate": "2026-11-10T03:05:09.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] デスクと外出先でマウスを分ける人へ　エルゴマウスから小型マウスを“引っこ抜いて”持ち運べる異色モデルのメリットと妥協点",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news049.html",
+      "pubDate": "2026-11-10T03:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] なぜ、三井化学は1.8兆円で「半導体材料メーカー」を買ったのか　JSR買収の狙い、市村社長が語る",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/10/news029.html",
+      "pubDate": "2026-11-10T03:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] サイバー攻撃受けた医療現場のリアル　患者の死亡率が3割上昇　乳がん患者の半裸画像流出、セラピー記録で脅迫され自殺も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003027/",
+      "pubDate": "2026-11-10T03:00:00.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -8,38 +48,6 @@
       "title": "[ITmedia News] アクセスキー直書き→委託先がテスト用イメージをネット公開　「ラフールサーベイ」約2.4万人の情報漏えい",
       "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003052/",
       "pubDate": "2026-11-10T02:55:20.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 三井化学、JSRを1兆8400億円で買収　「国内トップクラスの半導体材料企業に」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003045/",
-      "pubDate": "2026-11-10T02:55:08.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] Apple、「iOS 27.2.1」公開　iMessageの盗み見やBluetoothの不正ペアリングにつながる脆弱性を修正",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news052.html",
-      "pubDate": "2026-11-10T02:47:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] NTTデータ、住友生命から受託したシステムに不正アクセス　「Vitality」利用者約8万人の情報漏えい",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003051/",
-      "pubDate": "2026-11-10T02:26:43.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] AdobeとDisneyが戦略的提携　「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003050/",
-      "pubDate": "2026-11-10T02:10:07.000Z"
     },
     {
       "category": "国際",
@@ -168,14 +176,6 @@
       "title": "各社の新製品に関するまとめといくつかの追加情報（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1969.html",
       "pubDate": "2026-11-09T16:11:53.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "リニア名古屋駅 完成は2033年以降",
-      "link": "https://news.yahoo.co.jp/pickup/6601970?source=rss",
-      "pubDate": "2026-11-09T14:53:14.000Z"
     },
     {
       "category": "IT",
