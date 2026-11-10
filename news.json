@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T09:00:53.457Z",
+  "updatedAt": "2026-11-10T09:15:37.060Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "証明書のコンビニ交付 障害相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6602063?source=rss",
+      "pubDate": "2026-11-10T09:06:39.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "パプア「三人っ子政策」導入検討",
       "link": "https://news.yahoo.co.jp/pickup/6602061?source=rss",
       "pubDate": "2026-11-10T08:50:36.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 三井化学「1.8兆円でJSR買収」の舞台裏　半導体材料業界の“再編”、水面下で何が？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/10/news055.html",
+      "pubDate": "2026-11-10T08:50:00.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ニコンは全体では黒字転換したが映像事業は減収減益（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1970.html",
+      "pubDate": "2026-11-10T08:44:39.000Z"
     },
     {
       "category": "科学",
@@ -80,14 +104,6 @@
       "title": "[ITmedia Mobile] Suicaのコード決済「teppay」にまつわる5つの疑問　なぜ本人確認がマイナカードのみ？　なぜ起動の遅いSuicaアプリ経由？",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news077.html",
       "pubDate": "2026-11-10T07:02:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 「Galaxy Z Fold8」に乗り換えて1カ月、パスポート型の横長画面はマンガも動画も快適　ただし、“あの機能”には注意も",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news053.html",
-      "pubDate": "2026-11-10T07:00:00.000Z"
     },
     {
       "category": "経済",
@@ -242,14 +258,6 @@
       "pubDate": "2026-11-09T12:54:00.000Z"
     },
     {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "NTTなど5社 衛星連携へ協業検討",
-      "link": "https://news.yahoo.co.jp/pickup/6601943?source=rss",
-      "pubDate": "2026-11-09T10:26:03.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -272,14 +280,6 @@
       "title": "マップカメラの10月のランキングで初登場の「EOS R8 Mark II」が首位に（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/10-19.html",
       "pubDate": "2026-11-08T05:13:01.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが認証機関に新型カメラ（「LUMIX S9II」？）を登録（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/lumix-s9ii-1.html",
-      "pubDate": "2026-11-07T03:35:58.000Z"
     }
   ]
 }
