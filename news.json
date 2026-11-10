@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T05:00:52.779Z",
+  "updatedAt": "2026-11-10T05:15:34.529Z",
   "items": [
     {
       "category": "国際",
@@ -8,6 +8,14 @@
       "title": "米国防長官に弾劾決議案 焦点は",
       "link": "https://news.yahoo.co.jp/pickup/6602021?source=rss",
       "pubDate": "2026-11-10T04:56:09.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 3.97型E Inkディスプレイを備えたカードサイズの電子ペーパー端末",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news059.html",
+      "pubDate": "2026-11-10T04:52:00.000Z"
     },
     {
       "category": "経済",
@@ -56,14 +64,6 @@
       "title": "[ITmedia News] 仏スーパー冷蔵庫へのサイバー攻撃、イラン革命防衛隊関連組織の犯行と断定　フランス外務省が声明",
       "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003053/",
       "pubDate": "2026-11-10T03:05:09.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] デスクと外出先でマウスを分ける人へ　エルゴマウスから小型マウスを“引っこ抜いて”持ち運べる異色モデルのメリットと妥協点",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news049.html",
-      "pubDate": "2026-11-10T03:00:00.000Z"
     },
     {
       "category": "国際",
