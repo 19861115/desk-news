@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T01:00:53.189Z",
+  "updatedAt": "2026-11-10T01:15:34.381Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "露政権批判の代表紙 編集部を閉鎖",
+      "link": "https://news.yahoo.co.jp/pickup/6602002?source=rss",
+      "pubDate": "2026-11-10T01:09:18.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -24,6 +32,14 @@
       "title": "マンジャロで視力低下恐れ 米FDA",
       "link": "https://news.yahoo.co.jp/pickup/6601997?source=rss",
       "pubDate": "2026-11-10T00:31:26.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 三井化学、JSRを1兆8400億円で買収　「国内トップクラスの半導体材料企業に」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003045/",
+      "pubDate": "2026-11-10T00:28:51.000Z"
     },
     {
       "category": "国内",
@@ -79,14 +95,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia News] 「AI店長」、対人関係に苦戦　指摘が生かされずスタッフからの報告減少　PwCが“売店”で実験",
       "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003040/",
-      "pubDate": "2026-11-09T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 閉店迫るハンズ渋谷店、「48年間、ありがとうセール」開催中",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/10/2000003026/",
       "pubDate": "2026-11-09T23:00:00.000Z"
     },
     {
@@ -248,14 +256,6 @@
       "title": "十分生きた 透析拒んだ父への医療",
       "link": "https://news.yahoo.co.jp/pickup/6601911?source=rss",
       "pubDate": "2026-11-09T05:37:25.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "アフリカ カルト教団が増える背景",
-      "link": "https://news.yahoo.co.jp/pickup/6601895?source=rss",
-      "pubDate": "2026-11-09T05:00:45.000Z"
     },
     {
       "category": "デジカメinfo",
