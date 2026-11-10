@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-10T00:30:47.484Z",
+  "updatedAt": "2026-11-10T00:45:33.906Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "石破氏ら戒告の自民 引き締め躍起",
+      "link": "https://news.yahoo.co.jp/pickup/6601996?source=rss",
+      "pubDate": "2026-11-10T00:33:15.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "マンジャロで視力低下恐れ 米FDA",
+      "link": "https://news.yahoo.co.jp/pickup/6601997?source=rss",
+      "pubDate": "2026-11-10T00:31:26.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +24,22 @@
       "title": "「国内間通信」も監視対象に 検討",
       "link": "https://news.yahoo.co.jp/pickup/6601992?source=rss",
       "pubDate": "2026-11-10T00:26:31.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Meta、最小・低コストのAIモデル「Muse Ember」発表　「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003044/",
+      "pubDate": "2026-11-10T00:06:40.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 実在しそうで、どこにもいない「AI人」　なぜ人は“完璧なAI映像”に違和感を覚えるのか",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000002985/",
+      "pubDate": "2026-11-10T00:00:00.000Z"
     },
     {
       "category": "経済",
@@ -80,22 +112,6 @@
       "title": "米国防長官の弾劾採決へ 米下院",
       "link": "https://news.yahoo.co.jp/pickup/6601977?source=rss",
       "pubDate": "2026-11-09T22:27:29.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Google、第8世代TPUに「8tx」と「8i Max」を追加　機密データ処理と大規模AIエージェントに特化",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
-      "pubDate": "2026-11-09T22:26:48.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表　API料金2割下げ、出力は最大30％高速化",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
-      "pubDate": "2026-11-09T22:03:56.000Z"
     },
     {
       "category": "国内",
@@ -194,14 +210,6 @@
       "pubDate": "2026-11-09T09:57:24.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "コンロキャンセル界隈 なぜ拡大",
-      "link": "https://news.yahoo.co.jp/pickup/6601935?source=rss",
-      "pubDate": "2026-11-09T09:29:01.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -248,14 +256,6 @@
       "title": "アフリカ カルト教団が増える背景",
       "link": "https://news.yahoo.co.jp/pickup/6601895?source=rss",
       "pubDate": "2026-11-09T05:00:45.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "山でサーモン養殖 28年1万t生産へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601831?source=rss",
-      "pubDate": "2026-11-08T11:06:32.000Z"
     },
     {
       "category": "デジカメinfo",
