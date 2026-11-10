@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-10T03:00:55.093Z",
+  "updatedAt": "2026-11-10T03:15:37.217Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] アクセスキー直書き→委託先がテスト用イメージをネット公開　「ラフールサーベイ」約2.4万人の情報漏えい",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003052/",
+      "pubDate": "2026-11-10T02:55:20.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 三井化学、JSRを1兆8400億円で買収　「国内トップクラスの半導体材料企業に」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003045/",
+      "pubDate": "2026-11-10T02:55:08.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] Apple、「iOS 27.2.1」公開　iMessageの盗み見やBluetoothの不正ペアリングにつながる脆弱性を修正",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news052.html",
+      "pubDate": "2026-11-10T02:47:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] NTTデータ、住友生命から受託したシステムに不正アクセス　「Vitality」利用者約8万人の情報漏えい",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003051/",
+      "pubDate": "2026-11-10T02:26:43.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -8,38 +40,6 @@
       "title": "[ITmedia News] AdobeとDisneyが戦略的提携　「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
       "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003050/",
       "pubDate": "2026-11-10T02:10:07.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] “何でもリバースエンジニアリング”生成AIで広がる　ソフトウェアもスマート家電も手軽に改造……ブームに潜む危険",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000002975/",
-      "pubDate": "2026-11-10T02:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 1回1分の「スナック運動」で血糖管理　 14日は世界糖尿病デー、日本では1800万人が糖尿病・予備軍",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/10/2000003048/",
-      "pubDate": "2026-11-10T01:46:19.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] なぜAgodaは「単独で勝てない」と認めたのか？ 　ANAや星野リゾートと組んだ狙い",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/10/news020.html",
-      "pubDate": "2026-11-10T01:45:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ロジクール、サイドホイール搭載ハイエンドマウス「MX MASTER 4」に数量限定デザインモデル2製品を追加",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news048.html",
-      "pubDate": "2026-11-10T01:39:00.000Z"
     },
     {
       "category": "国際",
