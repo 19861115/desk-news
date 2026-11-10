@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-10T04:30:43.269Z",
+  "updatedAt": "2026-11-10T04:45:36.321Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ドコモ・バイクシェア刷新、11月24日に「NOLL」始動へ　当初予定から半年遅れ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003060/",
+      "pubDate": "2026-11-10T04:20:17.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] サンワ、4K×2画面出力も可能なType-C外付け拡張ドック",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news057.html",
+      "pubDate": "2026-11-10T03:56:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -39,22 +55,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia PC USER] デスクと外出先でマウスを分ける人へ　エルゴマウスから小型マウスを“引っこ抜いて”持ち運べる異色モデルのメリットと妥協点",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news049.html",
-      "pubDate": "2026-11-10T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] なぜ、三井化学は1.8兆円で「半導体材料メーカー」を買ったのか　JSR買収の狙い、市村社長が語る",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/10/news029.html",
-      "pubDate": "2026-11-10T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] サイバー攻撃受けた医療現場のリアル　患者の死亡率が3割上昇　乳がん患者の半裸画像流出、セラピー記録で脅迫され自殺も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003027/",
       "pubDate": "2026-11-10T03:00:00.000Z"
     },
     {
