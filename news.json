@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T05:45:33.258Z",
+  "updatedAt": "2026-11-10T06:00:52.835Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "日本 米中露会談巡り米に懸念伝達",
+      "link": "https://news.yahoo.co.jp/pickup/6602040?source=rss",
+      "pubDate": "2026-11-10T05:55:50.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -176,14 +184,6 @@
       "title": "自衛官定員削減 安保3文書明記へ",
       "link": "https://news.yahoo.co.jp/pickup/6601979?source=rss",
       "pubDate": "2026-11-09T22:35:39.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "石破前首相ら戒告処分 参院側不満",
-      "link": "https://news.yahoo.co.jp/pickup/6601976?source=rss",
-      "pubDate": "2026-11-09T21:48:49.000Z"
     },
     {
       "category": "デジカメinfo",
