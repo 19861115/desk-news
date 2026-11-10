@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-10T07:45:35.521Z",
+  "updatedAt": "2026-11-10T08:00:54.014Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "JR東 タッチ不要の改札導入へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602052?source=rss",
+      "pubDate": "2026-11-10T07:55:46.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "船から落ち9時間後救助される 米",
+      "link": "https://news.yahoo.co.jp/pickup/6602050?source=rss",
+      "pubDate": "2026-11-10T07:46:27.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -130,14 +146,6 @@
       "pubDate": "2026-11-10T01:29:06.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "露政権批判の代表紙 編集部を閉鎖",
-      "link": "https://news.yahoo.co.jp/pickup/6602002?source=rss",
-      "pubDate": "2026-11-10T01:09:18.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -168,14 +176,6 @@
       "title": "「国内間通信」も監視対象に 検討",
       "link": "https://news.yahoo.co.jp/pickup/6601992?source=rss",
       "pubDate": "2026-11-10T00:26:31.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "火葬料 公営と民間で大きな差",
-      "link": "https://news.yahoo.co.jp/pickup/6601985?source=rss",
-      "pubDate": "2026-11-09T23:39:48.000Z"
     },
     {
       "category": "経済",
