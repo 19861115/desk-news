@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T07:00:54.418Z",
+  "updatedAt": "2026-11-10T07:15:34.091Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] キングジム、高精細ヘッドを搭載し視認性を向上した法人向けラベルライター新モデル",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news074.html",
+      "pubDate": "2026-11-10T06:33:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -64,14 +72,6 @@
       "title": "[ITmedia Mobile] AC口とUSBポートを6個備えた「Anker Nano Charging Station (6-in-1, 67W) ブルー」がセールで26％オフの5190円に",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news069.html",
       "pubDate": "2026-11-10T05:30:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] マイナカードを使うコンビニ交付に障害　自治体が相次ぎ公表　富士フイルム系システムで通信異常か",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003062/",
-      "pubDate": "2026-11-10T05:29:01.000Z"
     },
     {
       "category": "国際",
