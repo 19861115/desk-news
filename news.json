@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T00:15:37.257Z",
+  "updatedAt": "2026-11-10T00:30:47.484Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "「国内間通信」も監視対象に 検討",
+      "link": "https://news.yahoo.co.jp/pickup/6601992?source=rss",
+      "pubDate": "2026-11-10T00:26:31.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -208,14 +216,6 @@
       "title": "ニトリ 最大3762万件の情報流出か",
       "link": "https://news.yahoo.co.jp/pickup/6601934?source=rss",
       "pubDate": "2026-11-09T08:58:01.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "石破前首相ら4人を戒告処分 自民",
-      "link": "https://news.yahoo.co.jp/pickup/6601933?source=rss",
-      "pubDate": "2026-11-09T08:44:45.000Z"
     },
     {
       "category": "国際",
