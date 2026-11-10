@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T10:30:47.516Z",
+  "updatedAt": "2026-11-10T10:45:36.245Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "日商簿記など 合否や得点が流出か",
+      "link": "https://news.yahoo.co.jp/pickup/6602077?source=rss",
+      "pubDate": "2026-11-10T10:37:38.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -248,14 +256,6 @@
       "title": "大地震エネルギー蓄積か 日本海溝",
       "link": "https://news.yahoo.co.jp/pickup/6601961?source=rss",
       "pubDate": "2026-11-09T13:37:17.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "IPOに向けた準備に着手 サカナAI",
-      "link": "https://news.yahoo.co.jp/pickup/6601958?source=rss",
-      "pubDate": "2026-11-09T12:54:00.000Z"
     },
     {
       "category": "デジカメinfo",
