@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-10T11:00:56.900Z",
+  "updatedAt": "2026-11-10T11:15:36.547Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "飲食店 食フェス出店のメリットは",
+      "link": "https://news.yahoo.co.jp/pickup/6602068?source=rss",
+      "pubDate": "2026-11-10T11:08:08.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "安保3文書 民間力強化を明記へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602079?source=rss",
+      "pubDate": "2026-11-10T11:01:34.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -16,6 +32,14 @@
       "title": "日商簿記など 合否や得点が流出か",
       "link": "https://news.yahoo.co.jp/pickup/6602077?source=rss",
       "pubDate": "2026-11-10T10:37:38.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ESRの“頑丈系”iPhone Duoケース「Atelier」と「Classic ハイブリッド」を比較　カメラバンプのスタンド機構が賢い",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news036.html",
+      "pubDate": "2026-11-10T10:30:00.000Z"
     },
     {
       "category": "経済",
@@ -58,6 +82,14 @@
       "pubDate": "2026-11-10T09:36:06.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ソフトバンクの11型「iPad Air（M4）」128GBモデルが2年約6万円に【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news080.html",
+      "pubDate": "2026-11-10T09:29:00.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -74,20 +106,20 @@
       "pubDate": "2026-11-10T09:06:39.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] LINEヤフー、AIエージェント「Agent i」iOS版アプリを提供開始　ウィジェットからも利用可能",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news078.html",
+      "pubDate": "2026-11-10T09:00:00.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "パプア「三人っ子政策」導入検討",
       "link": "https://news.yahoo.co.jp/pickup/6602061?source=rss",
       "pubDate": "2026-11-10T08:50:36.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 三井化学「1.8兆円でJSR買収」の舞台裏　半導体材料業界の“再編”、水面下で何が？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/10/news055.html",
-      "pubDate": "2026-11-10T08:50:00.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -104,22 +136,6 @@
       "title": "レッサーパンダ風太 ギネス認定へ",
       "link": "https://news.yahoo.co.jp/pickup/6602057?source=rss",
       "pubDate": "2026-11-10T08:26:43.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003069/",
-      "pubDate": "2026-11-10T08:23:42.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] JR東日本が「ウォークスルー改札」を2028年春に本格展開へ　2027年4月から首都圏14駅で試験導入",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news079.html",
-      "pubDate": "2026-11-10T08:13:00.000Z"
     },
     {
       "category": "IT",
@@ -152,14 +168,6 @@
       "title": "ラッコ「メイ」11日に展示再開",
       "link": "https://news.yahoo.co.jp/pickup/6602048?source=rss",
       "pubDate": "2026-11-10T07:20:57.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "「仮面舞踏会」チケ即日完売 なぜ",
-      "link": "https://news.yahoo.co.jp/pickup/6602044?source=rss",
-      "pubDate": "2026-11-10T06:32:22.000Z"
     },
     {
       "category": "国際",
@@ -224,14 +232,6 @@
       "title": "マンジャロで視力低下恐れ 米FDA",
       "link": "https://news.yahoo.co.jp/pickup/6601997?source=rss",
       "pubDate": "2026-11-10T00:31:26.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "「国内間通信」も監視対象に 検討",
-      "link": "https://news.yahoo.co.jp/pickup/6601992?source=rss",
-      "pubDate": "2026-11-10T00:26:31.000Z"
     },
     {
       "category": "デジカメinfo",
