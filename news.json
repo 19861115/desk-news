@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T23:30:45.718Z",
+  "updatedAt": "2026-11-10T23:45:34.043Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "「稼ぐ」マンション管理組合増加",
+      "link": "https://news.yahoo.co.jp/pickup/6602118?source=rss",
+      "pubDate": "2026-11-10T23:41:27.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -10,12 +18,28 @@
       "pubDate": "2026-11-10T23:24:17.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Anthropic、IPOの仮条件を1株70?78ドルに　調達額は最大約644億ドル、GoogleとNVIDIAは各100億ドルを別途出資",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003085/",
+      "pubDate": "2026-11-10T23:02:05.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "日本のエンタメを排除 きしむ日中",
       "link": "https://news.yahoo.co.jp/pickup/6602115?source=rss",
       "pubDate": "2026-11-10T23:01:30.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 第3回：面従腹背を生み出す「メカニズム」と組織の打ち手",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/11/2000003020/",
+      "pubDate": "2026-11-10T23:00:00.000Z"
     },
     {
       "category": "国際",
@@ -55,22 +79,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia エンタープライズ] 赤字を悟ったAIは“引きこもった”　PwCが実店舗で検証した「AI自律運営」の限界",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news020.html",
-      "pubDate": "2026-11-10T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 「出社回帰は万能薬ではない」　社員が辞めていく、見落とされがちな“新たなストレス”とは",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/11/news007.html",
-      "pubDate": "2026-11-10T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] なぜAgodaは“異常に”安いのか？　商務責任者が明かす「自腹値引き」と社内競争の正体",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/11/news028.html",
       "pubDate": "2026-11-10T22:00:00.000Z"
     },
     {
@@ -144,14 +152,6 @@
       "title": "スマホ遠隔操作し詐欺疑い 逮捕",
       "link": "https://news.yahoo.co.jp/pickup/6602082?source=rss",
       "pubDate": "2026-11-10T11:39:05.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "マック 新チキン商品の販売休止へ",
-      "link": "https://news.yahoo.co.jp/pickup/6602081?source=rss",
-      "pubDate": "2026-11-10T11:31:51.000Z"
     },
     {
       "category": "IT",
