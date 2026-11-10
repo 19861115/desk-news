@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-10T01:30:45.175Z",
+  "updatedAt": "2026-11-10T01:45:32.894Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "北九州のド派手晴れ着 欧州初展示",
+      "link": "https://news.yahoo.co.jp/pickup/6602003?source=rss",
+      "pubDate": "2026-11-10T01:34:32.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ホワイトハッカー 学生なぜ目指す",
+      "link": "https://news.yahoo.co.jp/pickup/6602006?source=rss",
+      "pubDate": "2026-11-10T01:31:52.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -16,6 +32,22 @@
       "title": "露政権批判の代表紙 編集部を閉鎖",
       "link": "https://news.yahoo.co.jp/pickup/6602002?source=rss",
       "pubDate": "2026-11-10T01:09:18.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] MetaのAIエージェント「Muse」がApple WatchとWear OSに対応　手首から音声で呼び出し",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news046.html",
+      "pubDate": "2026-11-10T01:04:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 【ワークマン】1900円の「撥水スマートデイバッグ」　広い間口＆多彩なポケットでたっぷり収納",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news035.html",
+      "pubDate": "2026-11-10T01:00:00.000Z"
     },
     {
       "category": "経済",
@@ -80,30 +112,6 @@
       "title": "火葬料 公営と民間で大きな差",
       "link": "https://news.yahoo.co.jp/pickup/6601985?source=rss",
       "pubDate": "2026-11-09T23:39:48.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ホワイトハッカー育成 授業を取材",
-      "link": "https://news.yahoo.co.jp/pickup/6601986?source=rss",
-      "pubDate": "2026-11-09T23:19:49.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 「GPTs」「Gem」が間もなく廃止──移行先の「スキル」とは？　今のうちに理解しておきたい基本と活用のポイント",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/10/news025.html",
-      "pubDate": "2026-11-09T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「AI店長」、対人関係に苦戦　指摘が生かされずスタッフからの報告減少　PwCが“売店”で実験",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003040/",
-      "pubDate": "2026-11-09T23:00:00.000Z"
     },
     {
       "category": "経済",
@@ -240,14 +248,6 @@
       "title": "ニトリ 最大3762万件の情報流出か",
       "link": "https://news.yahoo.co.jp/pickup/6601934?source=rss",
       "pubDate": "2026-11-09T08:58:01.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米大統領 中露首脳と会談の見通し",
-      "link": "https://news.yahoo.co.jp/pickup/6601919?source=rss",
-      "pubDate": "2026-11-09T07:23:55.000Z"
     },
     {
       "category": "科学",
