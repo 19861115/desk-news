@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T08:30:45.775Z",
+  "updatedAt": "2026-11-10T08:45:36.882Z",
   "items": [
     {
       "category": "科学",
@@ -8,6 +8,22 @@
       "title": "レッサーパンダ風太 ギネス認定へ",
       "link": "https://news.yahoo.co.jp/pickup/6602057?source=rss",
       "pubDate": "2026-11-10T08:26:43.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003069/",
+      "pubDate": "2026-11-10T08:23:42.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] JR東日本が「ウォークスルー改札」を2028年春に本格展開へ　2027年4月から首都圏14駅で試験導入",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news079.html",
+      "pubDate": "2026-11-10T08:13:00.000Z"
     },
     {
       "category": "IT",
@@ -64,22 +80,6 @@
       "title": "[ITmedia PC USER] 「Galaxy Z Fold8」に乗り換えて1カ月、パスポート型の横長画面はマンガも動画も快適　ただし、“あの機能”には注意も",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news053.html",
       "pubDate": "2026-11-10T07:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 2026年度上期のスマホ出荷台数は1割減、メモリや物価高騰が響く　シャープが約6割減　MM総研調べ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news072.html",
-      "pubDate": "2026-11-10T07:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] キングジム、高精細ヘッドを搭載し視認性を向上した法人向けラベルライター新モデル",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news074.html",
-      "pubDate": "2026-11-10T06:33:00.000Z"
     },
     {
       "category": "経済",
