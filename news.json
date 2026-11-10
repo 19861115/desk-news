@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T06:00:52.835Z",
+  "updatedAt": "2026-11-10T06:15:34.865Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米国防長官に弾劾決議案 何が問題",
+      "link": "https://news.yahoo.co.jp/pickup/6602042?source=rss",
+      "pubDate": "2026-11-10T06:01:48.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -18,6 +26,22 @@
       "pubDate": "2026-11-10T05:41:23.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] デスク上で推し活が楽しめる「サンワダイレクト エルゴノミクス マウス」がセールで33％オフの2980円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news071.html",
+      "pubDate": "2026-11-10T05:39:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] エレコムの有線トラックボールマウス「M-HT1URXBK」がセールで46％オフの4490円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news070.html",
+      "pubDate": "2026-11-10T05:35:00.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -29,9 +53,25 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 最大100W給電に対応した「UGREEN USB Type-C ケーブル 100W/5A」がセールで40％オフの780円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news066.html",
-      "pubDate": "2026-11-10T05:23:00.000Z"
+      "title": "[ITmedia Mobile] AC口とUSBポートを6個備えた「Anker Nano Charging Station (6-in-1, 67W) ブルー」がセールで26％オフの5190円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news069.html",
+      "pubDate": "2026-11-10T05:30:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] マイナカードを使うコンビニ交付に障害　自治体が相次ぎ公表　富士フイルム系システムで通信異常か",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003062/",
+      "pubDate": "2026-11-10T05:29:01.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 動画視聴やWeb閲覧に便利なスタンド型の「Anker PowerWave 10 Stand」がセールで20％オフの1990円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news067.html",
+      "pubDate": "2026-11-10T05:26:00.000Z"
     },
     {
       "category": "国際",
@@ -40,46 +80,6 @@
       "title": "イスラエル 連立樹立の分かれ目は",
       "link": "https://news.yahoo.co.jp/pickup/6602022?source=rss",
       "pubDate": "2026-11-10T05:19:08.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 3ポート搭載＆大容量2万mAhの「CIO SMARTCOBY TRIO 35W モバイルバッテリー」がセールで36％オフの4480円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news065.html",
-      "pubDate": "2026-11-10T05:17:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] カード収納とスタンド機能をスマートに追加できる「MOFT Snap-On MagSafeスタンド MOVAS磁力強化」がセールで20％オフの3584円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news064.html",
-      "pubDate": "2026-11-10T05:12:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 「ロジクール ワイヤレスマウス SEB-M705」がセールで21％オフの4180円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news063.html",
-      "pubDate": "2026-11-10T05:08:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 27型フルHD IPSパネルを採用したディスプレイ「MSI PRO MAX 271PHW E14」がセールで21％オフの2万5800円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news062.html",
-      "pubDate": "2026-11-10T05:04:00.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米国防長官に弾劾決議案 焦点は",
-      "link": "https://news.yahoo.co.jp/pickup/6602021?source=rss",
-      "pubDate": "2026-11-10T04:56:09.000Z"
     },
     {
       "category": "経済",
