@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T03:45:38.670Z",
+  "updatedAt": "2026-11-10T04:00:52.058Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "内水氾濫の被害軽減へ 国が対応策",
+      "link": "https://news.yahoo.co.jp/pickup/6602029?source=rss",
+      "pubDate": "2026-11-10T03:49:52.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -208,14 +216,6 @@
       "title": "「低体温症」8割近くが屋内で発症",
       "link": "https://news.yahoo.co.jp/pickup/6601956?source=rss",
       "pubDate": "2026-11-09T12:43:25.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "石破氏 戒告処分厳粛に受け止め",
-      "link": "https://news.yahoo.co.jp/pickup/6601954?source=rss",
-      "pubDate": "2026-11-09T12:21:00.000Z"
     },
     {
       "category": "IT",
