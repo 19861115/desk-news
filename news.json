@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T07:30:44.745Z",
+  "updatedAt": "2026-11-10T07:45:35.521Z",
   "items": [
     {
       "category": "科学",
@@ -8,6 +8,30 @@
       "title": "ラッコ「メイ」11日に展示再開",
       "link": "https://news.yahoo.co.jp/pickup/6602048?source=rss",
       "pubDate": "2026-11-10T07:20:57.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ケンタッキー、一部メニュー画像に生成AI　実験販売の商品など　SNSは「違和感」の声も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003070/",
+      "pubDate": "2026-11-10T07:13:36.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] Suicaのコード決済「teppay」にまつわる5つの疑問　なぜ本人確認がマイナカードのみ？　なぜ起動の遅いSuicaアプリ経由？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news077.html",
+      "pubDate": "2026-11-10T07:02:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 「Galaxy Z Fold8」に乗り換えて1カ月、パスポート型の横長画面はマンガも動画も快適　ただし、“あの機能”には注意も",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news053.html",
+      "pubDate": "2026-11-10T07:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -50,36 +74,12 @@
       "pubDate": "2026-11-10T05:55:50.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] デスク上で推し活が楽しめる「サンワダイレクト エルゴノミクス マウス」がセールで33％オフの2980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news071.html",
-      "pubDate": "2026-11-10T05:39:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] エレコムの有線トラックボールマウス「M-HT1URXBK」がセールで46％オフの4490円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news070.html",
-      "pubDate": "2026-11-10T05:35:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "NVIDIA巡る疑惑 米対応に注目",
       "link": "https://news.yahoo.co.jp/pickup/6602035?source=rss",
       "pubDate": "2026-11-10T05:30:14.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] AC口とUSBポートを6個備えた「Anker Nano Charging Station (6-in-1, 67W) ブルー」がセールで26％オフの5190円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news069.html",
-      "pubDate": "2026-11-10T05:30:00.000Z"
     },
     {
       "category": "国際",
