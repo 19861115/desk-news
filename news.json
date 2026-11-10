@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T08:15:35.789Z",
+  "updatedAt": "2026-11-10T08:30:45.775Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "レッサーパンダ風太 ギネス認定へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602057?source=rss",
+      "pubDate": "2026-11-10T08:26:43.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -232,14 +240,6 @@
       "title": "IPOに向けた準備に着手 サカナAI",
       "link": "https://news.yahoo.co.jp/pickup/6601958?source=rss",
       "pubDate": "2026-11-09T12:54:00.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "「低体温症」8割近くが屋内で発症",
-      "link": "https://news.yahoo.co.jp/pickup/6601956?source=rss",
-      "pubDate": "2026-11-09T12:43:25.000Z"
     },
     {
       "category": "IT",
