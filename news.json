@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T01:15:34.381Z",
+  "updatedAt": "2026-11-10T01:30:45.175Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "世界の氷河 1年で4000億t超が減少",
+      "link": "https://news.yahoo.co.jp/pickup/6602005?source=rss",
+      "pubDate": "2026-11-10T01:29:06.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -248,14 +256,6 @@
       "title": "珍しい現象 二重の水上竜巻が発生",
       "link": "https://news.yahoo.co.jp/pickup/6601913?source=rss",
       "pubDate": "2026-11-09T06:08:20.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "十分生きた 透析拒んだ父への医療",
-      "link": "https://news.yahoo.co.jp/pickup/6601911?source=rss",
-      "pubDate": "2026-11-09T05:37:25.000Z"
     },
     {
       "category": "デジカメinfo",
