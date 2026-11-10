@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-10T06:30:45.582Z",
+  "updatedAt": "2026-11-10T06:45:34.945Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "「仮面舞踏会」チケ即日完売 なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6602044?source=rss",
+      "pubDate": "2026-11-10T06:32:22.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] レノボ、カラバリ7色を取りそろえた14型／15.6型スタンダードノート「IdeaPad Vibe Gen 12」",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/10/news073.html",
+      "pubDate": "2026-11-10T06:07:00.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -16,14 +32,6 @@
       "title": "日本 米中露会談巡り米に懸念伝達",
       "link": "https://news.yahoo.co.jp/pickup/6602040?source=rss",
       "pubDate": "2026-11-10T05:55:50.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "素性隠し交流「仮面舞踏会」人気",
-      "link": "https://news.yahoo.co.jp/pickup/6602037?source=rss",
-      "pubDate": "2026-11-10T05:41:23.000Z"
     },
     {
       "category": "ITmedia",
@@ -64,14 +72,6 @@
       "title": "[ITmedia News] マイナカードを使うコンビニ交付に障害　自治体が相次ぎ公表　富士フイルム系システムで通信異常か",
       "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003062/",
       "pubDate": "2026-11-10T05:29:01.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 動画視聴やWeb閲覧に便利なスタンド型の「Anker PowerWave 10 Stand」がセールで20％オフの1990円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/10/news067.html",
-      "pubDate": "2026-11-10T05:26:00.000Z"
     },
     {
       "category": "国際",
