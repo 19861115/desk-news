@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T00:45:33.906Z",
+  "updatedAt": "2026-11-10T01:00:53.189Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ホンダ 米オハイオ州に工場新設へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601998?source=rss",
+      "pubDate": "2026-11-10T00:50:15.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "大地震エネルギー蓄積か 日本海溝",
       "link": "https://news.yahoo.co.jp/pickup/6601961?source=rss",
       "pubDate": "2026-11-09T13:37:17.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "麻生コンクリ JIS認証取り消し",
-      "link": "https://news.yahoo.co.jp/pickup/6601959?source=rss",
-      "pubDate": "2026-11-09T12:56:57.000Z"
     },
     {
       "category": "IT",
