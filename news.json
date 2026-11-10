@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-10T05:15:34.529Z",
+  "updatedAt": "2026-11-10T05:30:43.730Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "イスラエル 連立樹立の分かれ目は",
+      "link": "https://news.yahoo.co.jp/pickup/6602022?source=rss",
+      "pubDate": "2026-11-10T05:19:08.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "仏大統領選 リネール氏が出馬表明",
       "link": "https://news.yahoo.co.jp/pickup/6601978?source=rss",
       "pubDate": "2026-11-09T22:34:51.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米国防長官の弾劾採決へ 米下院",
-      "link": "https://news.yahoo.co.jp/pickup/6601977?source=rss",
-      "pubDate": "2026-11-09T22:27:29.000Z"
     },
     {
       "category": "国内",
