@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-11T08:15:33.230Z",
+  "updatedAt": "2026-11-11T08:30:42.453Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "立花孝志被告の勾留続く 識者は",
+      "link": "https://news.yahoo.co.jp/pickup/6602187?source=rss",
+      "pubDate": "2026-11-11T08:27:59.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -192,14 +200,6 @@
       "title": "トヨタ 軽トラックを米国で販売へ",
       "link": "https://news.yahoo.co.jp/pickup/6602124?source=rss",
       "pubDate": "2026-11-11T00:46:12.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "国際情勢は歴史的変革期 政府方針",
-      "link": "https://news.yahoo.co.jp/pickup/6602125?source=rss",
-      "pubDate": "2026-11-11T00:34:36.000Z"
     },
     {
       "category": "科学",
