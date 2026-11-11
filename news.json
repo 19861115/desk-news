@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-11T04:00:50.814Z",
+  "updatedAt": "2026-11-11T04:15:36.008Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 単品5010円からからの「Google Pixel Tag」登場　10億台超規模のFind HubネットワークとUWBで高精度探索　Google初のトラッカー",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news068.html",
+      "pubDate": "2026-11-11T03:45:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "日中会談の調整不調 日本は正念場",
       "link": "https://news.yahoo.co.jp/pickup/6602161?source=rss",
       "pubDate": "2026-11-11T03:38:54.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] “タッチ不要”の改札、山手線など40駅に導入　28年春から　JR東",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003100/",
+      "pubDate": "2026-11-11T03:35:42.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 折り紙ワイヤレスマウス「OriMouse」にアート調デザインの限定モデル2種を追加",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news067.html",
+      "pubDate": "2026-11-11T03:29:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -42,22 +66,6 @@
       "pubDate": "2026-11-11T03:00:47.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 約1.1kg＆実測19時間駆動の14型「Zenbook 14 UX3480QA」を試す　セラミック×アルミの天板が上質",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news062.html",
-      "pubDate": "2026-11-11T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ドコモまた障害、全国で通話・データ利用しづらく　Xでは「5G SAがつながらない」の声【更新】",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003095/",
-      "pubDate": "2026-11-11T02:52:53.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -72,14 +80,6 @@
       "title": "ドコモ携帯 全国で障害が発生",
       "link": "https://news.yahoo.co.jp/pickup/6602147?source=rss",
       "pubDate": "2026-11-11T02:45:39.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ドコモで再び通信障害が発生　5G SAに原因ありと判明【更新】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news060.html",
-      "pubDate": "2026-11-11T02:24:00.000Z"
     },
     {
       "category": "国内",
