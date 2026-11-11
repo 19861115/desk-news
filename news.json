@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T11:30:43.689Z",
+  "updatedAt": "2026-11-11T11:45:33.459Z",
   "items": [
     {
       "category": "科学",
@@ -45,6 +45,14 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 家事を撮影するだけで1時間1000円分のポイントがたまる　ポイ活アプリ「サンポ」で実施",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news092.html",
+      "pubDate": "2026-11-11T09:35:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia Mobile] ドコモの通信障害、一部復旧も依然として継続　サイバー攻撃は否定",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news091.html",
       "pubDate": "2026-11-11T09:29:00.000Z"
@@ -80,14 +88,6 @@
       "title": "[ITmedia News] メール配信のユミルリンク、不正アクセスで約4786万件漏えい　JR東海やアイスタイルに影響",
       "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
       "pubDate": "2026-11-11T08:35:52.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 副回線で強い「楽天モバイル」「povo」　格安ブランドの“シェア逆転”の裏で起きていること",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news090.html",
-      "pubDate": "2026-11-11T08:35:00.000Z"
     },
     {
       "category": "IT",
