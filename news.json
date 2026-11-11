@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-11T10:30:45.694Z",
+  "updatedAt": "2026-11-11T10:45:33.244Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 靖国神社に不正アクセス　約1万4500件の個人情報漏えい、パスワードが特定されるおそれも",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
+      "pubDate": "2026-11-11T10:11:24.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -104,14 +112,6 @@
       "title": "雄牛と雄ロバ 種を越えた交尾行動",
       "link": "https://news.yahoo.co.jp/pickup/6602181?source=rss",
       "pubDate": "2026-11-11T07:37:06.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] メモリ8GBでも快適？　Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
-      "pubDate": "2026-11-11T07:12:21.000Z"
     },
     {
       "category": "国内",
