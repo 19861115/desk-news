@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-11T08:45:33.975Z",
+  "updatedAt": "2026-11-11T09:00:55.899Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "警察庁アプリ巡る偽サイトを確認",
+      "link": "https://news.yahoo.co.jp/pickup/6602194?source=rss",
+      "pubDate": "2026-11-11T08:55:17.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -168,14 +176,6 @@
       "title": "蛍原徹を襲った激痛 尿管結石とは",
       "link": "https://news.yahoo.co.jp/pickup/6602148?source=rss",
       "pubDate": "2026-11-11T03:00:47.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "「AIくさい」なぜSNSで批判過熱",
-      "link": "https://news.yahoo.co.jp/pickup/6602141?source=rss",
-      "pubDate": "2026-11-11T02:50:12.000Z"
     },
     {
       "category": "国内",
