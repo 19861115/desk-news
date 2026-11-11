@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:00:50.676Z",
+  "updatedAt": "2026-11-11T06:15:36.604Z",
   "items": [
     {
       "category": "IT",
@@ -8,6 +8,30 @@
       "title": "NTTドコモ障害 不正アクセス否定",
       "link": "https://news.yahoo.co.jp/pickup/6602173?source=rss",
       "pubDate": "2026-11-11T05:59:22.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] インテリアに調和するMarshallのBluetoothスピーカー「ACTON III」がセールで22％オフの3万5980円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news082.html",
+      "pubDate": "2026-11-11T05:41:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] iPhoneの充電状況をドット表情で確認できる急速充電器「TORRAS FlashEye Dot 45W」がセールで21％オフの7090円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news080.html",
+      "pubDate": "2026-11-11T05:37:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] アイオー、300Hz駆動をサポートした24.5型フルHDゲーミング液晶ディスプレイ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news081.html",
+      "pubDate": "2026-11-11T05:37:00.000Z"
     },
     {
       "category": "IT",
@@ -21,17 +45,17 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 内閣府、メルマガ利用者のメアド6万件超漏えい　氏名なども流出の可能性　アララ不正アクセスで",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
-      "pubDate": "2026-11-11T05:19:36.000Z"
+      "title": "[ITmedia Mobile] 70cm巻取式ケーブル内蔵の「TORRAS FlexLine PearlGo モバイルバッテリー」がセールで16％オフの9290円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news079.html",
+      "pubDate": "2026-11-11T05:32:00.000Z"
     },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 動画視聴時のスタンドとしても使える「Anker MagGo Power Bank (1万mAh, 15W)」がセールで25％オフの7490円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news075.html",
-      "pubDate": "2026-11-11T05:19:00.000Z"
+      "title": "[ITmedia Mobile] 3台同時充電に対応した2万mAhモバイルバッテリー「Philips DLP7721C」がセールで23％オフの2980円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news078.html",
+      "pubDate": "2026-11-11T05:28:00.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -56,30 +80,6 @@
       "title": "共和党重鎮 NVIDIAのCEO辞任要求",
       "link": "https://news.yahoo.co.jp/pickup/6602167?source=rss",
       "pubDate": "2026-11-11T05:10:49.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 取引先のアプリから入り込むAI攻撃、自社の対策は届くか？　Microsoftが手口を公表",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news022.html",
-      "pubDate": "2026-11-11T05:10:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] インテリアに馴染む木目調のデザインを採用した「SwitchBot 空気清浄機 Table」がセールで26％オフの2万848円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news074.html",
-      "pubDate": "2026-11-11T05:07:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] トラックパッドとテンキーが一体化した「Ewin デュアルモード ワイヤレスキーボード」がセールで22％オフの3400円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news073.html",
-      "pubDate": "2026-11-11T05:04:00.000Z"
     },
     {
       "category": "国内",
