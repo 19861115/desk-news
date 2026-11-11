@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-11T08:30:42.453Z",
+  "updatedAt": "2026-11-11T08:45:33.975Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "マイケル氏 スリラー衣装が競売へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602191?source=rss",
+      "pubDate": "2026-11-11T08:42:06.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "パスキー設定の証券口座 侵入疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6602193?source=rss",
+      "pubDate": "2026-11-11T08:33:52.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,14 +24,6 @@
       "title": "立花孝志被告の勾留続く 識者は",
       "link": "https://news.yahoo.co.jp/pickup/6602187?source=rss",
       "pubDate": "2026-11-11T08:27:59.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "生体認証の証券口座でも侵入疑い",
-      "link": "https://news.yahoo.co.jp/pickup/6602183?source=rss",
-      "pubDate": "2026-11-11T07:52:19.000Z"
     },
     {
       "category": "経済",
@@ -50,6 +58,14 @@
       "pubDate": "2026-11-11T06:43:42.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] PayPayの“残高不足分のみ”をPayPay銀行から自動チャージ可能に　1円単位、個人間送金にも対応",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news087.html",
+      "pubDate": "2026-11-11T06:40:00.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -72,14 +88,6 @@
       "title": "[ITmedia PC USER] エイサー、軽量設計の14型／16型ノート「Acer Swift」の新モデルを発表",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news085.html",
       "pubDate": "2026-11-11T06:15:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 無料プラン廃止とストレージ制限の衝撃！　「Microsoft 365 Education」新プランに見る――“アメとムチ”の戦略でGoogleの牙城は崩せるか",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news066.html",
-      "pubDate": "2026-11-11T06:00:00.000Z"
     },
     {
       "category": "IT",
@@ -232,14 +240,6 @@
       "title": "米国防長官 自身への弾劾「茶番」",
       "link": "https://news.yahoo.co.jp/pickup/6602114?source=rss",
       "pubDate": "2026-11-10T22:58:18.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "G7外相会合 ウ支援で声明公表へ",
-      "link": "https://news.yahoo.co.jp/pickup/6602111?source=rss",
-      "pubDate": "2026-11-10T22:26:40.000Z"
     },
     {
       "category": "デジカメinfo",
