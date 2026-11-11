@@ -1,6 +1,158 @@
 {
-  "updatedAt": "2026-11-11T11:45:33.459Z",
+  "updatedAt": "2026-11-11T23:00:50.274Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "核「持ち込ませず」例外検討 政府",
+      "link": "https://news.yahoo.co.jp/pickup/6602246?source=rss",
+      "pubDate": "2026-11-11T22:55:34.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "違憲状態解決策見えず 合区に限界",
+      "link": "https://news.yahoo.co.jp/pickup/6602244?source=rss",
+      "pubDate": "2026-11-11T22:40:54.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "懸命に働くは美徳51% 読売調査",
+      "link": "https://news.yahoo.co.jp/pickup/6602243?source=rss",
+      "pubDate": "2026-11-11T22:30:24.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "厚労省 残業タクシー「半減」",
+      "link": "https://news.yahoo.co.jp/pickup/6602242?source=rss",
+      "pubDate": "2026-11-11T22:26:36.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 犯人は「本物のID」でやって来る　アサヒ・アスクル・日経、検知をすり抜けた“あの手口”",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/12/news009.html",
+      "pubDate": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] みずほFGは解雇せず5000人をAIで再配置　自治体は同じことをできるのか？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news007.html",
+      "pubDate": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 栗山英樹氏が語る“担がれるリーダー“の条件　大切にする「一つの約束事」とは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news005.html",
+      "pubDate": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 人がアラートを追うSOCは2027年に終わる？　Google Cloudのセキュリティ予測",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/12/news010.html",
+      "pubDate": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] トラブル情報2400件超、AIで使えたのは27件　矢崎総業が直面した「AI Ready」の壁",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news004.html",
+      "pubDate": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "マック 休止中の新チキン開発経緯",
+      "link": "https://news.yahoo.co.jp/pickup/6602238?source=rss",
+      "pubDate": "2026-11-11T21:42:27.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "Amazon出品者「安値強要された」",
+      "link": "https://news.yahoo.co.jp/pickup/6602237?source=rss",
+      "pubDate": "2026-11-11T21:28:30.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "約6300の学校に爆破予告メール 伊",
+      "link": "https://news.yahoo.co.jp/pickup/6602234?source=rss",
+      "pubDate": "2026-11-11T14:55:23.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "Amazon「表示枠」公取なぜ問題視",
+      "link": "https://news.yahoo.co.jp/pickup/6602231?source=rss",
+      "pubDate": "2026-11-11T13:26:37.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "露ウ 大規模な捕虜交換で合意か",
+      "link": "https://news.yahoo.co.jp/pickup/6602229?source=rss",
+      "pubDate": "2026-11-11T13:25:26.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ドコモ 障害から完全復旧と発表",
+      "link": "https://news.yahoo.co.jp/pickup/6602230?source=rss",
+      "pubDate": "2026-11-11T13:11:26.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "美浜3号機が50年超運転へ 国認可",
+      "link": "https://news.yahoo.co.jp/pickup/6602225?source=rss",
+      "pubDate": "2026-11-11T13:02:41.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "メーガン妃の父親 保釈中に再拘束",
+      "link": "https://news.yahoo.co.jp/pickup/6602226?source=rss",
+      "pubDate": "2026-11-11T12:51:09.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "中国独身の日「爆買い」から変化",
+      "link": "https://news.yahoo.co.jp/pickup/6602223?source=rss",
+      "pubDate": "2026-11-11T12:38:44.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "防衛方針の新概念「拒否力」とは",
+      "link": "https://news.yahoo.co.jp/pickup/6602224?source=rss",
+      "pubDate": "2026-11-11T12:31:42.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -8,14 +160,6 @@
       "title": "首脳がCOP31を欠席 日本に化石賞",
       "link": "https://news.yahoo.co.jp/pickup/6602204?source=rss",
       "pubDate": "2026-11-11T11:11:29.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 靖国神社に不正アクセス　約1万4500件の個人情報漏えい、パスワードが特定されるおそれも",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
-      "pubDate": "2026-11-11T10:11:24.000Z"
     },
     {
       "category": "経済",
@@ -34,60 +178,12 @@
       "pubDate": "2026-11-11T09:46:04.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 続くドコモ通信障害　一部除き復旧も、完全解消には至らず　原因は調査中",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003116/",
-      "pubDate": "2026-11-11T09:36:04.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 家事を撮影するだけで1時間1000円分のポイントがたまる　ポイ活アプリ「サンポ」で実施",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news092.html",
-      "pubDate": "2026-11-11T09:35:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ドコモの通信障害、一部復旧も依然として継続　サイバー攻撃は否定",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news091.html",
-      "pubDate": "2026-11-11T09:29:00.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米財務長官 脅迫受け軍基地に転居",
-      "link": "https://news.yahoo.co.jp/pickup/6602195?source=rss",
-      "pubDate": "2026-11-11T09:00:26.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "警察庁アプリ巡る偽サイトを確認",
       "link": "https://news.yahoo.co.jp/pickup/6602194?source=rss",
       "pubDate": "2026-11-11T08:55:17.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "マイケル氏 スリラー衣装が競売へ",
-      "link": "https://news.yahoo.co.jp/pickup/6602191?source=rss",
-      "pubDate": "2026-11-11T08:42:06.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] メール配信のユミルリンク、不正アクセスで約4786万件漏えい　JR東海やアイスタイルに影響",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
-      "pubDate": "2026-11-11T08:35:52.000Z"
     },
     {
       "category": "IT",
@@ -98,44 +194,12 @@
       "pubDate": "2026-11-11T08:33:52.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "立花孝志被告の勾留続く 識者は",
-      "link": "https://news.yahoo.co.jp/pickup/6602187?source=rss",
-      "pubDate": "2026-11-11T08:27:59.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "Amazonの改善計画 公取委が認定",
-      "link": "https://news.yahoo.co.jp/pickup/6602184?source=rss",
-      "pubDate": "2026-11-11T07:40:49.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "雄牛と雄ロバ 種を越えた交尾行動",
       "link": "https://news.yahoo.co.jp/pickup/6602181?source=rss",
       "pubDate": "2026-11-11T07:37:06.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "昨年7月参院選「違憲状態」最高裁",
-      "link": "https://news.yahoo.co.jp/pickup/6602175?source=rss",
-      "pubDate": "2026-11-11T06:20:13.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "NTTドコモ障害 不正アクセス否定",
-      "link": "https://news.yahoo.co.jp/pickup/6602173?source=rss",
-      "pubDate": "2026-11-11T05:59:22.000Z"
     },
     {
       "category": "IT",
@@ -154,46 +218,6 @@
       "pubDate": "2026-11-11T05:15:40.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "多重事故で12人死亡 ブルガリア",
-      "link": "https://news.yahoo.co.jp/pickup/6602168?source=rss",
-      "pubDate": "2026-11-11T05:11:29.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "共和党重鎮 NVIDIAのCEO辞任要求",
-      "link": "https://news.yahoo.co.jp/pickup/6602167?source=rss",
-      "pubDate": "2026-11-11T05:10:49.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "介護 スポットワーカー依存高まる",
-      "link": "https://news.yahoo.co.jp/pickup/6602170?source=rss",
-      "pubDate": "2026-11-11T04:52:15.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "シルク産業 着る以外の用途に活路",
-      "link": "https://news.yahoo.co.jp/pickup/6602160?source=rss",
-      "pubDate": "2026-11-11T04:22:42.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "日中会談の調整不調 日本は正念場",
-      "link": "https://news.yahoo.co.jp/pickup/6602161?source=rss",
-      "pubDate": "2026-11-11T03:38:54.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -208,30 +232,6 @@
       "title": "蛍原徹を襲った激痛 尿管結石とは",
       "link": "https://news.yahoo.co.jp/pickup/6602148?source=rss",
       "pubDate": "2026-11-11T03:00:47.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "3文書改定 自民は「ブレーキ役」",
-      "link": "https://news.yahoo.co.jp/pickup/6602135?source=rss",
-      "pubDate": "2026-11-11T01:56:05.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "高級スーツに外国人客 老舗逆転劇",
-      "link": "https://news.yahoo.co.jp/pickup/6602136?source=rss",
-      "pubDate": "2026-11-11T01:49:54.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "トヨタ 軽トラックを米国で販売へ",
-      "link": "https://news.yahoo.co.jp/pickup/6602124?source=rss",
-      "pubDate": "2026-11-11T00:46:12.000Z"
     },
     {
       "category": "科学",
