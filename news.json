@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-11T11:00:52.624Z",
+  "updatedAt": "2026-11-11T11:15:33.503Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "首脳がCOP31を欠席 日本に化石賞",
+      "link": "https://news.yahoo.co.jp/pickup/6602204?source=rss",
+      "pubDate": "2026-11-11T11:11:29.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -248,14 +256,6 @@
       "title": "ニコンは全体では黒字転換したが映像事業は減収減益（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1970.html",
       "pubDate": "2026-11-10T08:44:39.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "レッサーパンダ風太 ギネス認定へ",
-      "link": "https://news.yahoo.co.jp/pickup/6602057?source=rss",
-      "pubDate": "2026-11-10T08:26:43.000Z"
     },
     {
       "category": "デジカメinfo",
