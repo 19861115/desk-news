@@ -1,13 +1,21 @@
 {
-  "updatedAt": "2026-11-11T02:45:33.049Z",
+  "updatedAt": "2026-11-11T03:00:52.853Z",
   "items": [
     {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
-      "title": "ドコモ全国で障害 5日にも発生",
-      "link": "https://news.yahoo.co.jp/pickup/6602145?source=rss",
-      "pubDate": "2026-11-11T02:36:00.000Z"
+      "title": "「AIくさい」なぜSNSで批判過熱",
+      "link": "https://news.yahoo.co.jp/pickup/6602141?source=rss",
+      "pubDate": "2026-11-11T02:50:12.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ドコモ携帯 全国で障害が発生",
+      "link": "https://news.yahoo.co.jp/pickup/6602147?source=rss",
+      "pubDate": "2026-11-11T02:45:39.000Z"
     },
     {
       "category": "ITmedia",
@@ -200,14 +208,6 @@
       "title": "スマホ遠隔操作し詐欺疑い 逮捕",
       "link": "https://news.yahoo.co.jp/pickup/6602082?source=rss",
       "pubDate": "2026-11-10T11:39:05.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "日商簿記など 合否や得点が流出か",
-      "link": "https://news.yahoo.co.jp/pickup/6602077?source=rss",
-      "pubDate": "2026-11-10T10:37:38.000Z"
     },
     {
       "category": "国際",
