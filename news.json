@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-11T02:30:44.454Z",
+  "updatedAt": "2026-11-11T02:45:33.049Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ドコモ全国で障害 5日にも発生",
+      "link": "https://news.yahoo.co.jp/pickup/6602145?source=rss",
+      "pubDate": "2026-11-11T02:36:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモで再び通信障害が発生　影響の詳細は確認中",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news060.html",
+      "pubDate": "2026-11-11T02:24:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ドコモまた障害、全国で通話・データ利用しづらく　Xでは「5G SAがつながらない」の声",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003095/",
+      "pubDate": "2026-11-11T02:06:43.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] マウス、スリム12.2型モバイルノート「mouse X2」にRyzen 5搭載の下位モデルを追加",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news059.html",
+      "pubDate": "2026-11-11T02:06:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「ブロッキング」実施検討へ向けた作業部会設置　総務省　法的整理など加速へ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003094/",
+      "pubDate": "2026-11-11T02:03:17.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -32,38 +72,6 @@
       "title": "家庭向けの防犯ドローン発売へ 米",
       "link": "https://news.yahoo.co.jp/pickup/6602134?source=rss",
       "pubDate": "2026-11-11T01:47:34.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 相次ぐ個人情報流出対策に、パスワードは紙に書いてアナログ管理　一部「伏せ文字」で",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003092/",
-      "pubDate": "2026-11-11T01:38:56.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] エディオン、クレカ番号＋セキュリティコードも一部漏えいか　決済処理に不正プログラム、エラーログにも記録",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003091/",
-      "pubDate": "2026-11-11T01:30:44.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] AndroidとPixelの11月版更新配信開始　「Pixel 11」シリーズで撮影した写真が保存されない不具合などを修正",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news058.html",
-      "pubDate": "2026-11-11T01:04:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] はっ水加工されたスマホショルダー　オープンポケットと3つのカードポケット付き",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news041.html",
-      "pubDate": "2026-11-11T01:00:00.000Z"
     },
     {
       "category": "経済",
@@ -224,14 +232,6 @@
       "title": "レッサーパンダ風太 ギネス認定へ",
       "link": "https://news.yahoo.co.jp/pickup/6602057?source=rss",
       "pubDate": "2026-11-10T08:26:43.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ケンタ 一部メニュー画像にAI使用",
-      "link": "https://news.yahoo.co.jp/pickup/6602054?source=rss",
-      "pubDate": "2026-11-10T08:08:34.000Z"
     },
     {
       "category": "科学",
