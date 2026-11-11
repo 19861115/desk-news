@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-11T23:15:32.352Z",
+  "updatedAt": "2026-11-11T23:30:41.103Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "エヌビディアがCEO解任準備 報道",
+      "link": "https://news.yahoo.co.jp/pickup/6602248?source=rss",
+      "pubDate": "2026-11-11T23:20:47.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "給食費を自腹で穴埋め 課題指摘",
+      "link": "https://news.yahoo.co.jp/pickup/6602250?source=rss",
+      "pubDate": "2026-11-11T23:20:24.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -146,28 +162,12 @@
       "pubDate": "2026-11-11T12:38:44.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "防衛方針の新概念「拒否力」とは",
-      "link": "https://news.yahoo.co.jp/pickup/6602224?source=rss",
-      "pubDate": "2026-11-11T12:31:42.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "首脳がCOP31を欠席 日本に化石賞",
       "link": "https://news.yahoo.co.jp/pickup/6602204?source=rss",
       "pubDate": "2026-11-11T11:11:29.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "子の不登校で離職 防ぐ企業の制度",
-      "link": "https://news.yahoo.co.jp/pickup/6602206?source=rss",
-      "pubDate": "2026-11-11T09:55:26.000Z"
     },
     {
       "category": "国際",
