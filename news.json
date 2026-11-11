@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-11T07:00:52.869Z",
+  "updatedAt": "2026-11-11T07:15:32.834Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] まるで「自宅警備員」？　室内を自律飛行する防犯ドローン、Amazon傘下が発表　約4万円から",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003111/",
+      "pubDate": "2026-11-11T06:43:42.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -48,14 +56,6 @@
       "title": "[ITmedia PC USER] インテリアに調和するMarshallのBluetoothスピーカー「ACTON III」がセールで22％オフの3万5980円に",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news082.html",
       "pubDate": "2026-11-11T05:41:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] iPhoneの充電状況をドット表情で確認できる急速充電器「TORRAS FlashEye Dot 45W」がセールで21％オフの7090円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news080.html",
-      "pubDate": "2026-11-11T05:37:00.000Z"
     },
     {
       "category": "IT",
