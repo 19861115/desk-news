@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T01:00:53.454Z",
+  "updatedAt": "2026-11-11T01:15:34.831Z",
   "items": [
     {
       "category": "経済",
@@ -8,6 +8,22 @@
       "title": "栄養も「優等生」モヤシに存在感",
       "link": "https://news.yahoo.co.jp/pickup/6602129?source=rss",
       "pubDate": "2026-11-11T00:55:26.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 高出力機器の急速充電に適した「Anker Zolo USB-C &amp; USB-C ケーブル (240W, 高耐久ナイロン) 1.0m ホワイト」がセールで36％オフの890円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news055.html",
+      "pubDate": "2026-11-11T00:52:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ノートPCとスマホの充電をまとめたい人に適した「UGREEN Nexode 65W 急速充電器」がセールで28％オフの3150円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news054.html",
+      "pubDate": "2026-11-11T00:47:00.000Z"
     },
     {
       "category": "経済",
@@ -26,36 +42,36 @@
       "pubDate": "2026-11-11T00:42:48.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「iCloud」で朝から障害　「ログインできない」ユーザー混乱、メールやカレンダーも",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
+      "pubDate": "2026-11-11T00:42:26.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 紛失防止タグ内蔵で置き忘れを防げる超薄型モバイルバッテリー「CIO SMARTCOBY ULTRA SLIM 3K」がセールで11％オフの7980円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news053.html",
+      "pubDate": "2026-11-11T00:42:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] トレカの反り防止やカメラ機材の保管に重宝するハクバの防湿庫「E-ドライボックス KED-85W」がセールで20％オフの3万9840円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news052.html",
+      "pubDate": "2026-11-11T00:37:00.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "国際情勢は歴史的変革期 政府方針",
       "link": "https://news.yahoo.co.jp/pickup/6602125?source=rss",
       "pubDate": "2026-11-11T00:34:36.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 手のひらサイズでタッチパッド搭載の「Ewin ミニキーボード」がセールで33％オフの2864円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news049.html",
-      "pubDate": "2026-11-11T00:24:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] GMOあおぞらネット銀、「不正な通信」検知でAPI一時停止　「予防的な措置」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003087/",
-      "pubDate": "2026-11-11T00:18:27.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ACアダプターと1万mAhのモバイルバッテリーが一体化した「CIO SMARTCOBY Pro PLUG II」がセールで21％オフの8480円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news048.html",
-      "pubDate": "2026-11-11T00:17:00.000Z"
     },
     {
       "category": "科学",
@@ -74,14 +90,6 @@
       "pubDate": "2026-11-11T00:05:34.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 「ペロブスカイト太陽電池」開発の宮坂力氏らが京都賞受賞「学生らに心から感謝」と喜び",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/11/2000003086/",
-      "pubDate": "2026-11-11T00:03:17.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -96,14 +104,6 @@
       "title": "障害者雇用ビジネス 登録制を検討",
       "link": "https://news.yahoo.co.jp/pickup/6602117?source=rss",
       "pubDate": "2026-11-10T23:24:17.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Anthropic、IPOの仮条件を1株70?78ドルに　調達額は最大約644億ドル、GoogleとNVIDIAは各100億ドルを別途出資",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003085/",
-      "pubDate": "2026-11-10T23:02:05.000Z"
     },
     {
       "category": "国際",
