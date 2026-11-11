@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-11T05:00:53.710Z",
+  "updatedAt": "2026-11-11T05:15:33.692Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "多重事故で12人死亡 ブルガリア",
+      "link": "https://news.yahoo.co.jp/pickup/6602168?source=rss",
+      "pubDate": "2026-11-11T05:11:29.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "共和党重鎮 NVIDIAのCEO辞任要求",
+      "link": "https://news.yahoo.co.jp/pickup/6602167?source=rss",
+      "pubDate": "2026-11-11T05:10:49.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "介護 スポットワーカー依存高まる",
       "link": "https://news.yahoo.co.jp/pickup/6602170?source=rss",
       "pubDate": "2026-11-11T04:52:15.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 業界初「水道水を使うアンテナ」モバイル端末との接続に成功　三菱電機",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003102/",
+      "pubDate": "2026-11-11T04:50:38.000Z"
     },
     {
       "category": "経済",
@@ -56,14 +80,6 @@
       "title": "[ITmedia PC USER] 折り紙ワイヤレスマウス「OriMouse」にアート調デザインの限定モデル2種を追加",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news067.html",
       "pubDate": "2026-11-11T03:29:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] “同じWi-Fiにいる誰か”に通信をのぞかれる？　「クライアント分離」を2秒で突破する攻撃　米大学が検証",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003049/",
-      "pubDate": "2026-11-11T03:11:32.000Z"
     },
     {
       "category": "IT",
@@ -208,22 +224,6 @@
       "title": "証明書コンビニ交付で障害か 復旧",
       "link": "https://news.yahoo.co.jp/pickup/6602104?source=rss",
       "pubDate": "2026-11-10T17:50:07.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米・露・ウの協議 9カ月ぶり再開",
-      "link": "https://news.yahoo.co.jp/pickup/6602085?source=rss",
-      "pubDate": "2026-11-10T12:24:04.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "パプア「三人っ子政策」導入検討",
-      "link": "https://news.yahoo.co.jp/pickup/6602061?source=rss",
-      "pubDate": "2026-11-10T08:50:36.000Z"
     },
     {
       "category": "デジカメinfo",
