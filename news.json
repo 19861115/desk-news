@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-11T05:30:43.967Z",
+  "updatedAt": "2026-11-11T05:45:34.619Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "内閣府メルマガ登録アド6万件流出",
+      "link": "https://news.yahoo.co.jp/pickup/6602172?source=rss",
+      "pubDate": "2026-11-11T05:33:30.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 内閣府、メルマガ利用者のメアド6万件超漏えい　氏名なども流出の可能性　アララ不正アクセスで",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
+      "pubDate": "2026-11-11T05:19:36.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 動画視聴時のスタンドとしても使える「Anker MagGo Power Bank (1万mAh, 15W)」がセールで25％オフの7490円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news075.html",
+      "pubDate": "2026-11-11T05:19:00.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」に新型の4000万画素センサーが採用される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t64000.html",
+      "pubDate": "2026-11-11T05:15:40.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -18,20 +50,36 @@
       "pubDate": "2026-11-11T05:10:49.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 取引先のアプリから入り込むAI攻撃、自社の対策は届くか？　Microsoftが手口を公表",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news022.html",
+      "pubDate": "2026-11-11T05:10:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] インテリアに馴染む木目調のデザインを採用した「SwitchBot 空気清浄機 Table」がセールで26％オフの2万848円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news074.html",
+      "pubDate": "2026-11-11T05:07:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] トラックパッドとテンキーが一体化した「Ewin デュアルモード ワイヤレスキーボード」がセールで22％オフの3400円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news073.html",
+      "pubDate": "2026-11-11T05:04:00.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "介護 スポットワーカー依存高まる",
       "link": "https://news.yahoo.co.jp/pickup/6602170?source=rss",
       "pubDate": "2026-11-11T04:52:15.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 業界初「水道水を使うアンテナ」モバイル端末との接続に成功　三菱電機",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003102/",
-      "pubDate": "2026-11-11T04:50:38.000Z"
     },
     {
       "category": "経済",
@@ -42,44 +90,12 @@
       "pubDate": "2026-11-11T04:22:42.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] サンディスク、eMMC接続に対応した組み込み向けフラッシュドライブ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news070.html",
-      "pubDate": "2026-11-11T04:15:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 単品5010円からからの「Google Pixel Tag」登場　10億台超規模のFind HubネットワークとUWBで高精度探索　Google初のトラッカー",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news068.html",
-      "pubDate": "2026-11-11T03:45:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "日中会談の調整不調 日本は正念場",
       "link": "https://news.yahoo.co.jp/pickup/6602161?source=rss",
       "pubDate": "2026-11-11T03:38:54.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] “タッチ不要”の改札、山手線など40駅に導入　28年春から　JR東",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003100/",
-      "pubDate": "2026-11-11T03:35:42.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 折り紙ワイヤレスマウス「OriMouse」にアート調デザインの限定モデル2種を追加",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news067.html",
-      "pubDate": "2026-11-11T03:29:00.000Z"
     },
     {
       "category": "IT",
@@ -218,14 +234,6 @@
       "pubDate": "2026-11-10T21:39:18.000Z"
     },
     {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "証明書コンビニ交付で障害か 復旧",
-      "link": "https://news.yahoo.co.jp/pickup/6602104?source=rss",
-      "pubDate": "2026-11-10T17:50:07.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -272,14 +280,6 @@
       "title": "リコーのカメラ事業はGRシリーズが引き続き好調で増収増益（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/2026q2gr.html",
       "pubDate": "2026-11-08T09:41:47.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "マップカメラの10月のランキングで初登場の「EOS R8 Mark II」が首位に（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/10-19.html",
-      "pubDate": "2026-11-08T05:13:01.000Z"
     }
   ]
 }
