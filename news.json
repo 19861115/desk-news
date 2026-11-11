@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T10:00:50.377Z",
+  "updatedAt": "2026-11-11T10:15:33.884Z",
   "items": [
     {
       "category": "経済",
@@ -16,6 +16,22 @@
       "title": "クロマグロ 漁獲枠巡り日韓が対立",
       "link": "https://news.yahoo.co.jp/pickup/6602201?source=rss",
       "pubDate": "2026-11-11T09:46:04.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 続くドコモ通信障害　一部除き復旧も、完全解消には至らず　原因は調査中",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003116/",
+      "pubDate": "2026-11-11T09:36:04.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモの通信障害、一部復旧も依然として継続　サイバー攻撃は否定",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news091.html",
+      "pubDate": "2026-11-11T09:29:00.000Z"
     },
     {
       "category": "国際",
@@ -58,14 +74,6 @@
       "pubDate": "2026-11-11T08:35:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 続くドコモ通信障害　一部除き復旧も、完全解消には至らず　原因は調査中",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003116/",
-      "pubDate": "2026-11-11T08:34:17.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -104,14 +112,6 @@
       "title": "[ITmedia News] メモリ8GBでも快適？　Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
       "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
       "pubDate": "2026-11-11T07:12:21.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] まるで「自宅警備員」？　室内を自律飛行する防犯ドローン、Amazon傘下が発表　約4万円から",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003111/",
-      "pubDate": "2026-11-11T06:43:42.000Z"
     },
     {
       "category": "国内",
