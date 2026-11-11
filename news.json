@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:30:46.445Z",
+  "updatedAt": "2026-11-11T04:45:36.817Z",
   "items": [
     {
       "category": "経済",
@@ -8,6 +8,14 @@
       "title": "シルク産業 着る以外の用途に活路",
       "link": "https://news.yahoo.co.jp/pickup/6602160?source=rss",
       "pubDate": "2026-11-11T04:22:42.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] サンディスク、eMMC接続に対応した組み込み向けフラッシュドライブ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news070.html",
+      "pubDate": "2026-11-11T04:15:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -48,14 +56,6 @@
       "title": "[ITmedia News] “同じWi-Fiにいる誰か”に通信をのぞかれる？　「クライアント分離」を2秒で突破する攻撃　米大学が検証",
       "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003049/",
       "pubDate": "2026-11-11T03:11:32.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] Googleの11月版「Pixel Drop」　Geminiのタスク代行が日本でも利用可能に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news065.html",
-      "pubDate": "2026-11-11T03:05:00.000Z"
     },
     {
       "category": "IT",
