@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-11T09:45:33.357Z",
+  "updatedAt": "2026-11-11T10:00:50.377Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "子の不登校で離職 防ぐ企業の制度",
+      "link": "https://news.yahoo.co.jp/pickup/6602206?source=rss",
+      "pubDate": "2026-11-11T09:55:26.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "クロマグロ 漁獲枠巡り日韓が対立",
+      "link": "https://news.yahoo.co.jp/pickup/6602201?source=rss",
+      "pubDate": "2026-11-11T09:46:04.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -205,14 +221,6 @@
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
-      "title": "家庭向けの防犯ドローン発売へ 米",
-      "link": "https://news.yahoo.co.jp/pickup/6602134?source=rss",
-      "pubDate": "2026-11-11T01:47:34.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
       "title": "トヨタ 軽トラックを米国で販売へ",
       "link": "https://news.yahoo.co.jp/pickup/6602124?source=rss",
       "pubDate": "2026-11-11T00:46:12.000Z"
@@ -232,14 +240,6 @@
       "title": "北海道で史上最も早い-20℃以下",
       "link": "https://news.yahoo.co.jp/pickup/6602121?source=rss",
       "pubDate": "2026-11-11T00:05:34.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "日本のエンタメを排除 きしむ日中",
-      "link": "https://news.yahoo.co.jp/pickup/6602115?source=rss",
-      "pubDate": "2026-11-10T23:01:30.000Z"
     },
     {
       "category": "デジカメinfo",
