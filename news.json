@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-11T00:45:36.106Z",
+  "updatedAt": "2026-11-11T01:00:53.454Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "栄養も「優等生」モヤシに存在感",
+      "link": "https://news.yahoo.co.jp/pickup/6602129?source=rss",
+      "pubDate": "2026-11-11T00:55:26.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "トヨタ 軽トラックを米国で販売へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602124?source=rss",
+      "pubDate": "2026-11-11T00:46:12.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -138,28 +154,12 @@
       "pubDate": "2026-11-10T14:38:31.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "もう終わりやで 明石ダコ深刻不漁",
-      "link": "https://news.yahoo.co.jp/pickup/6602095?source=rss",
-      "pubDate": "2026-11-10T14:12:10.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "日中首脳会談 実現への調整不調",
       "link": "https://news.yahoo.co.jp/pickup/6602093?source=rss",
       "pubDate": "2026-11-10T13:42:28.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "万博のEVバス補助金 返還は半分",
-      "link": "https://news.yahoo.co.jp/pickup/6602091?source=rss",
-      "pubDate": "2026-11-10T13:32:36.000Z"
     },
     {
       "category": "国際",
