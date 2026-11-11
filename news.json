@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-11T00:00:54.626Z",
+  "updatedAt": "2026-11-11T00:15:36.350Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "全国から患者 総合診療医の必要性",
+      "link": "https://news.yahoo.co.jp/pickup/6602120?source=rss",
+      "pubDate": "2026-11-11T00:08:45.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "北海道で史上最も早い-20℃以下",
+      "link": "https://news.yahoo.co.jp/pickup/6602121?source=rss",
+      "pubDate": "2026-11-11T00:05:34.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -234,28 +250,12 @@
       "pubDate": "2026-11-10T01:29:06.000Z"
     },
     {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "マンジャロで視力低下恐れ 米FDA",
-      "link": "https://news.yahoo.co.jp/pickup/6601997?source=rss",
-      "pubDate": "2026-11-10T00:31:26.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
       "title": "各社の新製品に関するまとめといくつかの追加情報（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1969.html",
       "pubDate": "2026-11-09T16:11:53.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "大地震エネルギー蓄積か 日本海溝",
-      "link": "https://news.yahoo.co.jp/pickup/6601961?source=rss",
-      "pubDate": "2026-11-09T13:37:17.000Z"
     },
     {
       "category": "デジカメinfo",
