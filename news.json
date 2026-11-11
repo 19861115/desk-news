@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-11T04:15:36.008Z",
+  "updatedAt": "2026-11-11T04:30:46.445Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "シルク産業 着る以外の用途に活路",
+      "link": "https://news.yahoo.co.jp/pickup/6602160?source=rss",
+      "pubDate": "2026-11-11T04:22:42.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -104,14 +112,6 @@
       "title": "家庭向けの防犯ドローン発売へ 米",
       "link": "https://news.yahoo.co.jp/pickup/6602134?source=rss",
       "pubDate": "2026-11-11T01:47:34.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "栄養も「優等生」モヤシに存在感",
-      "link": "https://news.yahoo.co.jp/pickup/6602129?source=rss",
-      "pubDate": "2026-11-11T00:55:26.000Z"
     },
     {
       "category": "経済",
