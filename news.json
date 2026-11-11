@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:30:44.196Z",
+  "updatedAt": "2026-11-11T06:45:35.640Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,30 @@
       "title": "昨年7月参院選「違憲状態」最高裁",
       "link": "https://news.yahoo.co.jp/pickup/6602175?source=rss",
       "pubDate": "2026-11-11T06:20:13.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 前澤友作氏、Metaの“なりすまし広告”訴訟で控訴検討　東京地裁の請求棄却に「野放しでもOK？」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003108/",
+      "pubDate": "2026-11-11T06:17:18.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] エイサー、軽量設計の14型／16型ノート「Acer Swift」の新モデルを発表",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news085.html",
+      "pubDate": "2026-11-11T06:15:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 無料プラン廃止とストレージ制限の衝撃！　「Microsoft 365 Education」新プランに見る――“アメとムチ”の戦略でGoogleの牙城は崩せるか",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news066.html",
+      "pubDate": "2026-11-11T06:00:00.000Z"
     },
     {
       "category": "IT",
@@ -34,36 +58,12 @@
       "pubDate": "2026-11-11T05:37:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] アイオー、300Hz駆動をサポートした24.5型フルHDゲーミング液晶ディスプレイ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news081.html",
-      "pubDate": "2026-11-11T05:37:00.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "内閣府メルマガ登録アド6万件流出",
       "link": "https://news.yahoo.co.jp/pickup/6602172?source=rss",
       "pubDate": "2026-11-11T05:33:30.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 70cm巻取式ケーブル内蔵の「TORRAS FlexLine PearlGo モバイルバッテリー」がセールで16％オフの9290円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news079.html",
-      "pubDate": "2026-11-11T05:32:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 3台同時充電に対応した2万mAhモバイルバッテリー「Philips DLP7721C」がセールで23％オフの2980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news078.html",
-      "pubDate": "2026-11-11T05:28:00.000Z"
     },
     {
       "category": "デジカメinfo",
