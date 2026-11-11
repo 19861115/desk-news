@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-11T01:30:45.057Z",
+  "updatedAt": "2026-11-11T01:45:36.530Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] AndroidとPixelの11月版更新配信開始　「Pixel 11」シリーズで撮影した写真が保存されない不具合などを修正",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news058.html",
+      "pubDate": "2026-11-11T01:04:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] はっ水加工されたスマホショルダー　オープンポケットと3つのカードポケット付き",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news041.html",
+      "pubDate": "2026-11-11T01:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] USB Type-C機器に直挿しできるマイク付きのカナル型イヤフォン「オーディオテクニカ ATH-CKD3C WH」がセールで32％オフの2090円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news057.html",
+      "pubDate": "2026-11-11T00:56:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -40,30 +64,6 @@
       "title": "前澤友作氏なぜ敗訴 詐欺広告裁判",
       "link": "https://news.yahoo.co.jp/pickup/6602126?source=rss",
       "pubDate": "2026-11-11T00:42:48.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「iCloud」で朝から障害　「ログインできない」ユーザー混乱、メールやカレンダーも",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
-      "pubDate": "2026-11-11T00:42:26.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 紛失防止タグ内蔵で置き忘れを防げる超薄型モバイルバッテリー「CIO SMARTCOBY ULTRA SLIM 3K」がセールで11％オフの7980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news053.html",
-      "pubDate": "2026-11-11T00:42:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] トレカの反り防止やカメラ機材の保管に重宝するハクバの防湿庫「E-ドライボックス KED-85W」がセールで20％オフの3万9840円に",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news052.html",
-      "pubDate": "2026-11-11T00:37:00.000Z"
     },
     {
       "category": "国内",
