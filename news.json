@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-11T23:30:41.103Z",
+  "updatedAt": "2026-11-11T23:45:34.720Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "「毛沢東」中国若者の間でブーム",
+      "link": "https://news.yahoo.co.jp/pickup/6602251?source=rss",
+      "pubDate": "2026-11-11T23:39:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモの通信障害が完全復旧　今回も原因は5G SA交換機の輻輳",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news044.html",
+      "pubDate": "2026-11-11T23:21:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -16,6 +32,38 @@
       "title": "給食費を自腹で穴埋め 課題指摘",
       "link": "https://news.yahoo.co.jp/pickup/6602250?source=rss",
       "pubDate": "2026-11-11T23:20:24.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] NTT社長が警告　「AIで省人化」では成長できない――では、どうする？　すかいらーく、キーエンスに学ぶ勝ち筋",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news011.html",
+      "pubDate": "2026-11-11T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] AIガバナンスは「コンプライアンス」ではない――AIエージェント時代に経営層が取り組むべき「攻めと守り」の統合的戦略",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/12/2000003078/",
+      "pubDate": "2026-11-11T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 広がるAIデータセンター「日本は世界2～3位の市場に」　設備を担う大手バーティブ幹部が見据える、2030年のAI事情",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news013.html",
+      "pubDate": "2026-11-11T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] JAL、約50年使った基幹システムを刷新　停止6時間の大移行を支えた“2つのPM”",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news002.html",
+      "pubDate": "2026-11-11T23:00:00.000Z"
     },
     {
       "category": "国内",
@@ -48,46 +96,6 @@
       "title": "厚労省 残業タクシー「半減」",
       "link": "https://news.yahoo.co.jp/pickup/6602242?source=rss",
       "pubDate": "2026-11-11T22:26:36.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 犯人は「本物のID」でやって来る　アサヒ・アスクル・日経、検知をすり抜けた“あの手口”",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/12/news009.html",
-      "pubDate": "2026-11-11T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] みずほFGは解雇せず5000人をAIで再配置　自治体は同じことをできるのか？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news007.html",
-      "pubDate": "2026-11-11T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 栗山英樹氏が語る“担がれるリーダー“の条件　大切にする「一つの約束事」とは？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news005.html",
-      "pubDate": "2026-11-11T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 人がアラートを追うSOCは2027年に終わる？　Google Cloudのセキュリティ予測",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/12/news010.html",
-      "pubDate": "2026-11-11T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] トラブル情報2400件超、AIで使えたのは27件　矢崎総業が直面した「AI Ready」の壁",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news004.html",
-      "pubDate": "2026-11-11T22:00:00.000Z"
     },
     {
       "category": "経済",
@@ -168,14 +176,6 @@
       "title": "首脳がCOP31を欠席 日本に化石賞",
       "link": "https://news.yahoo.co.jp/pickup/6602204?source=rss",
       "pubDate": "2026-11-11T11:11:29.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "クロマグロ 漁獲枠巡り日韓が対立",
-      "link": "https://news.yahoo.co.jp/pickup/6602201?source=rss",
-      "pubDate": "2026-11-11T09:46:04.000Z"
     },
     {
       "category": "IT",
