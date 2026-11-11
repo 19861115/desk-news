@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-11T06:15:36.604Z",
+  "updatedAt": "2026-11-11T06:30:44.196Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "昨年7月参院選「違憲状態」最高裁",
+      "link": "https://news.yahoo.co.jp/pickup/6602175?source=rss",
+      "pubDate": "2026-11-11T06:20:13.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -224,14 +232,6 @@
       "title": "G7外相会合 ウ支援で声明公表へ",
       "link": "https://news.yahoo.co.jp/pickup/6602111?source=rss",
       "pubDate": "2026-11-10T22:26:40.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "小泉氏 首相総裁選出馬なら支える",
-      "link": "https://news.yahoo.co.jp/pickup/6602107?source=rss",
-      "pubDate": "2026-11-10T21:39:18.000Z"
     },
     {
       "category": "デジカメinfo",
