@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-11T03:30:44.444Z",
+  "updatedAt": "2026-11-11T03:45:35.131Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "日中会談の調整不調 日本は正念場",
+      "link": "https://news.yahoo.co.jp/pickup/6602161?source=rss",
+      "pubDate": "2026-11-11T03:38:54.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] “同じWi-Fiにいる誰か”に通信をのぞかれる？　「クライアント分離」を2秒で突破する攻撃　米大学が検証",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003049/",
+      "pubDate": "2026-11-11T03:11:32.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] Googleの11月版「Pixel Drop」　Geminiのタスク代行が日本でも利用可能に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news065.html",
+      "pubDate": "2026-11-11T03:05:00.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -16,6 +40,14 @@
       "title": "蛍原徹を襲った激痛 尿管結石とは",
       "link": "https://news.yahoo.co.jp/pickup/6602148?source=rss",
       "pubDate": "2026-11-11T03:00:47.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 約1.1kg＆実測19時間駆動の14型「Zenbook 14 UX3480QA」を試す　セラミック×アルミの天板が上質",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news062.html",
+      "pubDate": "2026-11-11T03:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -45,25 +77,9 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ドコモで再び通信障害が発生　影響の詳細は確認中",
+      "title": "[ITmedia Mobile] ドコモで再び通信障害が発生　5G SAに原因ありと判明【更新】",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news060.html",
       "pubDate": "2026-11-11T02:24:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] マウス、スリム12.2型モバイルノート「mouse X2」にRyzen 5搭載の下位モデルを追加",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news059.html",
-      "pubDate": "2026-11-11T02:06:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「ブロッキング」実施検討へ向けた作業部会設置　総務省　法的整理など加速へ",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003094/",
-      "pubDate": "2026-11-11T02:03:17.000Z"
     },
     {
       "category": "国内",
@@ -72,14 +88,6 @@
       "title": "3文書改定 自民は「ブレーキ役」",
       "link": "https://news.yahoo.co.jp/pickup/6602135?source=rss",
       "pubDate": "2026-11-11T01:56:05.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 【復旧】「iCloud」で朝から障害　「ログインできない」ユーザー混乱、メールやカレンダーも",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
-      "pubDate": "2026-11-11T01:52:11.000Z"
     },
     {
       "category": "経済",
@@ -208,14 +216,6 @@
       "title": "米・露・ウの協議 9カ月ぶり再開",
       "link": "https://news.yahoo.co.jp/pickup/6602085?source=rss",
       "pubDate": "2026-11-10T12:24:04.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "自民・小渕氏ら 税調副会長を辞任",
-      "link": "https://news.yahoo.co.jp/pickup/6602083?source=rss",
-      "pubDate": "2026-11-10T11:44:04.000Z"
     },
     {
       "category": "国際",
