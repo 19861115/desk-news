@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-11T05:45:34.619Z",
+  "updatedAt": "2026-11-11T06:00:50.676Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "NTTドコモ障害 不正アクセス否定",
+      "link": "https://news.yahoo.co.jp/pickup/6602173?source=rss",
+      "pubDate": "2026-11-11T05:59:22.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -120,14 +128,6 @@
       "title": "「AIくさい」なぜSNSで批判過熱",
       "link": "https://news.yahoo.co.jp/pickup/6602141?source=rss",
       "pubDate": "2026-11-11T02:50:12.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ドコモ携帯 全国で障害が発生",
-      "link": "https://news.yahoo.co.jp/pickup/6602147?source=rss",
-      "pubDate": "2026-11-11T02:45:39.000Z"
     },
     {
       "category": "国内",
