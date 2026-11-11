@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T02:00:52.098Z",
+  "updatedAt": "2026-11-11T02:15:34.082Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,14 @@
       "title": "3文書改定 自民は「ブレーキ役」",
       "link": "https://news.yahoo.co.jp/pickup/6602135?source=rss",
       "pubDate": "2026-11-11T01:56:05.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 【復旧】「iCloud」で朝から障害　「ログインできない」ユーザー混乱、メールやカレンダーも",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
+      "pubDate": "2026-11-11T01:52:11.000Z"
     },
     {
       "category": "経済",
@@ -29,6 +37,22 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 相次ぐ個人情報流出対策に、パスワードは紙に書いてアナログ管理　一部「伏せ文字」で",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003092/",
+      "pubDate": "2026-11-11T01:38:56.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] エディオン、クレカ番号＋セキュリティコードも一部漏えいか　決済処理に不正プログラム、エラーログにも記録",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003091/",
+      "pubDate": "2026-11-11T01:30:44.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia Mobile] AndroidとPixelの11月版更新配信開始　「Pixel 11」シリーズで撮影した写真が保存されない不具合などを修正",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news058.html",
       "pubDate": "2026-11-11T01:04:00.000Z"
@@ -42,36 +66,12 @@
       "pubDate": "2026-11-11T01:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] USB Type-C機器に直挿しできるマイク付きのカナル型イヤフォン「オーディオテクニカ ATH-CKD3C WH」がセールで32％オフの2090円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news057.html",
-      "pubDate": "2026-11-11T00:56:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "栄養も「優等生」モヤシに存在感",
       "link": "https://news.yahoo.co.jp/pickup/6602129?source=rss",
       "pubDate": "2026-11-11T00:55:26.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 高出力機器の急速充電に適した「Anker Zolo USB-C &amp; USB-C ケーブル (240W, 高耐久ナイロン) 1.0m ホワイト」がセールで36％オフの890円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news055.html",
-      "pubDate": "2026-11-11T00:52:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ノートPCとスマホの充電をまとめたい人に適した「UGREEN Nexode 65W 急速充電器」がセールで28％オフの3150円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/11/news054.html",
-      "pubDate": "2026-11-11T00:47:00.000Z"
     },
     {
       "category": "経済",
