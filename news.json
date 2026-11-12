@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-12T05:00:51.200Z",
+  "updatedAt": "2026-11-12T05:15:35.924Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "良品計画 破棄すべき情報を保管",
+      "link": "https://news.yahoo.co.jp/pickup/6602302?source=rss",
+      "pubDate": "2026-11-12T05:07:26.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "海外からマンジャロ 韓国が容認",
+      "link": "https://news.yahoo.co.jp/pickup/6602299?source=rss",
+      "pubDate": "2026-11-12T05:05:34.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -40,6 +56,30 @@
       "title": "AIで飲食店の空席検索 3つの懸念",
       "link": "https://news.yahoo.co.jp/pickup/6602281?source=rss",
       "pubDate": "2026-11-12T04:38:09.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] マウス、Ryzen AIを搭載した軽量設計の12.2型ビジネスノートPC",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news062.html",
+      "pubDate": "2026-11-12T04:34:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] NVIDIA、フアンCEOの解任を準備　早ければ11日中にも取締役会",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news054.html",
+      "pubDate": "2026-11-12T04:30:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] パナソニックが250人体制で挑む「フィジカルAI」　職人の暗黙知をAI化、外販も視野に",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news037.html",
+      "pubDate": "2026-11-12T04:30:00.000Z"
     },
     {
       "category": "IT",
@@ -82,14 +122,6 @@
       "pubDate": "2026-11-12T03:09:55.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] Google初の紛失防止タグ「Pixel Tag」実機レビュー！　Galaxy SmartTag2との比較で見えた薄さの魅力と検知の実力",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news033.html",
-      "pubDate": "2026-11-12T03:00:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -114,14 +146,6 @@
       "pubDate": "2026-11-12T02:51:41.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
-      "pubDate": "2026-11-12T02:29:43.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -138,14 +162,6 @@
       "pubDate": "2026-11-12T02:01:03.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] パナHD、AIとロボ組み合わせた「フィジカルAI」研究開発強化　倉庫・物流へ展開視野",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/12/2000003128/",
-      "pubDate": "2026-11-12T01:50:46.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -154,28 +170,12 @@
       "pubDate": "2026-11-12T01:50:03.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "CEO去就巡る報道 NVIDIA株下落",
-      "link": "https://news.yahoo.co.jp/pickup/6602266?source=rss",
-      "pubDate": "2026-11-12T01:27:01.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "減税法案 支援金対象は交渉切り札",
       "link": "https://news.yahoo.co.jp/pickup/6602258?source=rss",
       "pubDate": "2026-11-12T00:24:58.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "露ウ 大規模な捕虜交換で合意",
-      "link": "https://news.yahoo.co.jp/pickup/6602256?source=rss",
-      "pubDate": "2026-11-12T00:12:28.000Z"
     },
     {
       "category": "IT",
