@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-12T10:00:52.188Z",
+  "updatedAt": "2026-11-12T10:15:35.859Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "芥川「藪の中」当初は題名違った",
+      "link": "https://news.yahoo.co.jp/pickup/6602332?source=rss",
+      "pubDate": "2026-11-12T10:08:06.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "すかいらーく Shin-Shinなぜ買収",
+      "link": "https://news.yahoo.co.jp/pickup/6602322?source=rss",
+      "pubDate": "2026-11-12T10:02:14.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性　リスト型攻撃か",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003158/",
+      "pubDate": "2026-11-12T09:54:27.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -98,14 +122,6 @@
       "pubDate": "2026-11-12T08:07:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
-      "pubDate": "2026-11-12T08:00:22.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -120,14 +136,6 @@
       "title": "北海道新聞 拘束記者の実名掲載",
       "link": "https://news.yahoo.co.jp/pickup/6602313?source=rss",
       "pubDate": "2026-11-12T07:41:26.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "良品計画の社長 情報流出巡り謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6602308?source=rss",
-      "pubDate": "2026-11-12T07:04:58.000Z"
     },
     {
       "category": "国際",
@@ -176,14 +184,6 @@
       "title": "生後6カ月の娘が突然死 父の思い",
       "link": "https://news.yahoo.co.jp/pickup/6602289?source=rss",
       "pubDate": "2026-11-12T03:23:04.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "ポスト高市の首相再選支持 相次ぐ",
-      "link": "https://news.yahoo.co.jp/pickup/6602290?source=rss",
-      "pubDate": "2026-11-12T03:09:55.000Z"
     },
     {
       "category": "国際",
