@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T05:15:35.924Z",
+  "updatedAt": "2026-11-12T05:30:43.542Z",
   "items": [
     {
       "category": "経済",
@@ -24,6 +24,14 @@
       "title": "タマホーム不正請求巡り 全店調査",
       "link": "https://news.yahoo.co.jp/pickup/6602294?source=rss",
       "pubDate": "2026-11-12T04:54:29.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "キヤノンが他社と異なる方法でテレコンを内蔵した超望遠単焦点レンズを準備中？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1971.html",
+      "pubDate": "2026-11-12T04:45:14.000Z"
     },
     {
       "category": "科学",
@@ -272,14 +280,6 @@
       "title": "ソニーが認証機関に新たな未発表カメラを登録（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1968.html",
       "pubDate": "2026-11-09T09:02:50.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "リコーのカメラ事業はGRシリーズが引き続き好調で増収増益（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2026q2gr.html",
-      "pubDate": "2026-11-08T09:41:47.000Z"
     }
   ]
 }
