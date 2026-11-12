@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T09:00:51.485Z",
+  "updatedAt": "2026-11-12T09:15:33.757Z",
   "items": [
     {
       "category": "国内",
@@ -10,12 +10,28 @@
       "pubDate": "2026-11-12T08:58:43.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニック「LUMIX S9II」の来春の発表は99%確実？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/lumix-s9ii99.html",
+      "pubDate": "2026-11-12T08:36:46.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "ダイハツなど3車種17万台リコール",
       "link": "https://news.yahoo.co.jp/pickup/6602319?source=rss",
       "pubDate": "2026-11-12T08:34:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 介護現場の人手不足を補う「ヒト型助手ロボット」　遠隔で利用者見守る最新テクノロジーも",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003149/",
+      "pubDate": "2026-11-12T08:30:48.000Z"
     },
     {
       "category": "ITmedia",
@@ -104,14 +120,6 @@
       "title": "[ITmedia ビジネスオンライン] 【なぜ防げなかった？】無印良品、不正アクセス巡る12日間　「クレカ全桁」「会員情報2726万件」漏えいの背景は",
       "link": "https://www.itmedia.co.jp/business/articles/2611/12/news056.html",
       "pubDate": "2026-11-12T06:10:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ベルキン、音量制限機能を備えたアクティブノイズキャンセリング機能対応の子ども向けヘッドフォン",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news068.html",
-      "pubDate": "2026-11-12T05:57:00.000Z"
     },
     {
       "category": "国際",
@@ -272,14 +280,6 @@
       "title": "各社の新製品に関するまとめといくつかの追加情報（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1969.html",
       "pubDate": "2026-11-09T16:11:53.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーが認証機関に新たな未発表カメラを登録（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1968.html",
-      "pubDate": "2026-11-09T09:02:50.000Z"
     }
   ]
 }
