@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-12T00:00:52.116Z",
+  "updatedAt": "2026-11-12T00:15:34.274Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "露ウ 大規模な捕虜交換で合意",
+      "link": "https://news.yahoo.co.jp/pickup/6602256?source=rss",
+      "pubDate": "2026-11-12T00:12:28.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "EU「ダークパターン」禁止へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602254?source=rss",
+      "pubDate": "2026-11-12T00:11:57.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "なぜ ブラックフライデーが長期化",
+      "link": "https://news.yahoo.co.jp/pickup/6602255?source=rss",
+      "pubDate": "2026-11-11T23:59:33.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Appleサポートコミュニティ、11月20日に閉鎖へ　新規投稿は既に終了",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003124/",
+      "pubDate": "2026-11-11T23:46:34.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +40,14 @@
       "title": "「毛沢東」中国若者の間でブーム",
       "link": "https://news.yahoo.co.jp/pickup/6602251?source=rss",
       "pubDate": "2026-11-11T23:39:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] カラオケ「まねきねこ」のDXは、どこまで進化する？　セルフ受付、アプリで“オーディション“開催も",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news003.html",
+      "pubDate": "2026-11-11T23:30:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -47,22 +87,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia エグゼクティブ] AIガバナンスは「コンプライアンス」ではない――AIエージェント時代に経営層が取り組むべき「攻めと守り」の統合的戦略",
       "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/12/2000003078/",
-      "pubDate": "2026-11-11T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 広がるAIデータセンター「日本は世界2～3位の市場に」　設備を担う大手バーティブ幹部が見据える、2030年のAI事情",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news013.html",
-      "pubDate": "2026-11-11T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] JAL、約50年使った基幹システムを刷新　停止6時間の大移行を支えた“2つのPM”",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news002.html",
       "pubDate": "2026-11-11T23:00:00.000Z"
     },
     {
@@ -120,22 +144,6 @@
       "title": "約6300の学校に爆破予告メール 伊",
       "link": "https://news.yahoo.co.jp/pickup/6602234?source=rss",
       "pubDate": "2026-11-11T14:55:23.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "Amazon「表示枠」公取なぜ問題視",
-      "link": "https://news.yahoo.co.jp/pickup/6602231?source=rss",
-      "pubDate": "2026-11-11T13:26:37.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "露ウ 大規模な捕虜交換で合意か",
-      "link": "https://news.yahoo.co.jp/pickup/6602229?source=rss",
-      "pubDate": "2026-11-11T13:25:26.000Z"
     },
     {
       "category": "IT",
@@ -216,14 +224,6 @@
       "title": "富士フイルム「X-T6」に新型の4000万画素センサーが採用される？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/x-t64000.html",
       "pubDate": "2026-11-11T05:15:40.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "メールの不適切な「CC」境界線は",
-      "link": "https://news.yahoo.co.jp/pickup/6602146?source=rss",
-      "pubDate": "2026-11-11T03:02:49.000Z"
     },
     {
       "category": "科学",
