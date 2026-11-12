@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T04:45:38.410Z",
+  "updatedAt": "2026-11-12T05:00:51.200Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "タマホーム不正請求巡り 全店調査",
+      "link": "https://news.yahoo.co.jp/pickup/6602294?source=rss",
+      "pubDate": "2026-11-12T04:54:29.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -80,14 +88,6 @@
       "title": "[ITmedia PC USER] Google初の紛失防止タグ「Pixel Tag」実機レビュー！　Galaxy SmartTag2との比較で見えた薄さの魅力と検知の実力",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news033.html",
       "pubDate": "2026-11-12T03:00:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "中継 良品計画の清水社長らが会見",
-      "link": "https://news.yahoo.co.jp/pickup/6602279?source=rss",
-      "pubDate": "2026-11-12T02:58:47.000Z"
     },
     {
       "category": "国際",
