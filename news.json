@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T03:00:51.048Z",
+  "updatedAt": "2026-11-12T03:15:33.342Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "ポスト高市の首相再選支持 相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6602290?source=rss",
+      "pubDate": "2026-11-12T03:09:55.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -32,6 +40,14 @@
       "title": "駐米ロシア大使が死去 疾患が原因",
       "link": "https://news.yahoo.co.jp/pickup/6602285?source=rss",
       "pubDate": "2026-11-12T02:51:41.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
+      "pubDate": "2026-11-12T02:29:43.000Z"
     },
     {
       "category": "国内",
@@ -106,14 +122,6 @@
       "pubDate": "2026-11-12T01:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
-      "pubDate": "2026-11-12T00:56:17.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -168,14 +176,6 @@
       "title": "核「持ち込ませず」例外検討 政府",
       "link": "https://news.yahoo.co.jp/pickup/6602246?source=rss",
       "pubDate": "2026-11-11T22:55:34.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "違憲状態解決策見えず 合区に限界",
-      "link": "https://news.yahoo.co.jp/pickup/6602244?source=rss",
-      "pubDate": "2026-11-11T22:40:54.000Z"
     },
     {
       "category": "IT",
