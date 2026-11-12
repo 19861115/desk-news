@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-12T02:00:48.674Z",
+  "updatedAt": "2026-11-12T02:15:32.898Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "二重かわいい 女子大学生の違和感",
+      "link": "https://news.yahoo.co.jp/pickup/6602269?source=rss",
+      "pubDate": "2026-11-12T02:02:36.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "CEOの解任可否を決定へ NVIDIA",
+      "link": "https://news.yahoo.co.jp/pickup/6602271?source=rss",
+      "pubDate": "2026-11-12T02:01:03.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] パナHD、AIとロボ組み合わせた「フィジカルAI」研究開発強化　倉庫・物流へ展開視野",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/12/2000003128/",
+      "pubDate": "2026-11-12T01:50:46.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -10,12 +34,20 @@
       "pubDate": "2026-11-12T01:50:03.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "二重かわいい 女子大生の違和感",
-      "link": "https://news.yahoo.co.jp/pickup/6602267?source=rss",
-      "pubDate": "2026-11-12T01:27:30.000Z"
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+      "pubDate": "2026-11-12T01:49:56.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] NVIDIAスキャンダルが暴く、対中「半導体規制の限界」　米中AIの性能差は「わずか2.7％」",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news029.html",
+      "pubDate": "2026-11-12T01:30:00.000Z"
     },
     {
       "category": "経済",
@@ -48,30 +80,6 @@
       "title": "[ITmedia News] Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
       "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
       "pubDate": "2026-11-12T00:56:17.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ライトニングもUSB Type-Cも1本で充電できる「Anker PowerLine II 3-in-1 ケーブル (0.9m ブラック)」がセールで26％オフの1690円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news053.html",
-      "pubDate": "2026-11-12T00:54:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ドコモ「5G SA」また障害、原因は5日と同じ「交換機の輻輳」　約9時間で復旧",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003125/",
-      "pubDate": "2026-11-12T00:53:56.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 6マイクAI通話に対応した「Edifier X5 pro Gen 2」がセールで30％オフの4184円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news052.html",
-      "pubDate": "2026-11-12T00:49:00.000Z"
     },
     {
       "category": "国内",
@@ -112,14 +120,6 @@
       "title": "「毛沢東」中国若者の間でブーム",
       "link": "https://news.yahoo.co.jp/pickup/6602251?source=rss",
       "pubDate": "2026-11-11T23:39:28.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "エヌビディアがCEO解任準備 報道",
-      "link": "https://news.yahoo.co.jp/pickup/6602248?source=rss",
-      "pubDate": "2026-11-11T23:20:47.000Z"
     },
     {
       "category": "国内",
