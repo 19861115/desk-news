@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T03:15:33.342Z",
+  "updatedAt": "2026-11-12T03:30:44.111Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "生後6カ月の娘が突然死 父の思い",
+      "link": "https://news.yahoo.co.jp/pickup/6602289?source=rss",
+      "pubDate": "2026-11-12T03:23:04.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -240,14 +248,6 @@
       "title": "蛍原徹を襲った激痛 尿管結石とは",
       "link": "https://news.yahoo.co.jp/pickup/6602148?source=rss",
       "pubDate": "2026-11-11T03:00:47.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "全国から患者 総合診療医の必要性",
-      "link": "https://news.yahoo.co.jp/pickup/6602120?source=rss",
-      "pubDate": "2026-11-11T00:08:45.000Z"
     },
     {
       "category": "デジカメinfo",
