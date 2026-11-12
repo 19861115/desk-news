@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T07:00:54.114Z",
+  "updatedAt": "2026-11-12T07:15:34.661Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "良品計画の社長 情報流出巡り謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6602308?source=rss",
+      "pubDate": "2026-11-12T07:04:58.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -21,9 +29,25 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 今から「iPhone Duo」を買うべきか？　iPhone 18 Pro＋iPad miniの2台持ちやGalaxy Z Fold8と比べて考えた",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news067.html",
+      "pubDate": "2026-11-12T06:40:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] 【なぜ防げなかった？】無印良品、不正アクセス巡る12日間　「クレカ全桁」「会員情報2726万件」漏えいの背景は",
       "link": "https://www.itmedia.co.jp/business/articles/2611/12/news056.html",
       "pubDate": "2026-11-12T06:10:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ベルキン、音量制限機能を備えたアクティブノイズキャンセリング機能対応の子ども向けヘッドフォン",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news068.html",
+      "pubDate": "2026-11-12T05:57:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -64,30 +88,6 @@
       "title": "海外からマンジャロ 韓国が容認",
       "link": "https://news.yahoo.co.jp/pickup/6602299?source=rss",
       "pubDate": "2026-11-12T05:05:34.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] MINISFORUM、Ryzen AI Max＋を搭載した省スペース型デスクトップ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news063.html",
-      "pubDate": "2026-11-12T05:04:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] NVIDIA取締役会、フアンCEO解任の可否決定へ　2件の不倫報道で株価8％超下落",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003138/",
-      "pubDate": "2026-11-12T04:58:04.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "タマホーム不正請求巡り 全店調査",
-      "link": "https://news.yahoo.co.jp/pickup/6602294?source=rss",
-      "pubDate": "2026-11-12T04:54:29.000Z"
     },
     {
       "category": "デジカメinfo",
