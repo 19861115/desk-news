@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-12T06:30:43.470Z",
+  "updatedAt": "2026-11-12T06:45:34.187Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "丸亀製麺 5商品を最大60円値下げ",
+      "link": "https://news.yahoo.co.jp/pickup/6602304?source=rss",
+      "pubDate": "2026-11-12T06:38:56.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 【なぜ防げなかった？】無印良品、不正アクセス巡る12日間　「クレカ全桁」「会員情報2726万件」漏えいの背景は",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news056.html",
+      "pubDate": "2026-11-12T06:10:00.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -96,22 +112,6 @@
       "title": "すかいらーくHDがShin-Shin買収",
       "link": "https://news.yahoo.co.jp/pickup/6602300?source=rss",
       "pubDate": "2026-11-12T04:43:45.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "AIで飲食店の空席検索 3つの懸念",
-      "link": "https://news.yahoo.co.jp/pickup/6602281?source=rss",
-      "pubDate": "2026-11-12T04:38:09.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] マウス、Ryzen AIを搭載した軽量設計の12.2型ビジネスノートPC",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news062.html",
-      "pubDate": "2026-11-12T04:34:00.000Z"
     },
     {
       "category": "IT",
