@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-12T04:30:40.972Z",
+  "updatedAt": "2026-11-12T04:45:38.410Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "おうし座北流星群 13日頃に極大",
+      "link": "https://news.yahoo.co.jp/pickup/6602298?source=rss",
+      "pubDate": "2026-11-12T04:44:01.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米有権者 党派対立にも警戒感",
+      "link": "https://news.yahoo.co.jp/pickup/6602278?source=rss",
+      "pubDate": "2026-11-12T04:44:00.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "すかいらーくHDがShin-Shin買収",
+      "link": "https://news.yahoo.co.jp/pickup/6602300?source=rss",
+      "pubDate": "2026-11-12T04:43:45.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "AIで飲食店の空席検索 3つの懸念",
+      "link": "https://news.yahoo.co.jp/pickup/6602281?source=rss",
+      "pubDate": "2026-11-12T04:38:09.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -130,14 +162,6 @@
       "pubDate": "2026-11-12T01:27:01.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ヘアカラー後のケア 各社注目",
-      "link": "https://news.yahoo.co.jp/pickup/6602263?source=rss",
-      "pubDate": "2026-11-12T01:11:01.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -160,22 +184,6 @@
       "title": "EU「ダークパターン」禁止へ",
       "link": "https://news.yahoo.co.jp/pickup/6602254?source=rss",
       "pubDate": "2026-11-12T00:11:57.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "なぜ ブラックフライデーが長期化",
-      "link": "https://news.yahoo.co.jp/pickup/6602255?source=rss",
-      "pubDate": "2026-11-11T23:59:33.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "「毛沢東」中国若者の間でブーム",
-      "link": "https://news.yahoo.co.jp/pickup/6602251?source=rss",
-      "pubDate": "2026-11-11T23:39:28.000Z"
     },
     {
       "category": "国内",
@@ -240,14 +248,6 @@
       "title": "富士フイルム「X-T6」に新型の4000万画素センサーが採用される？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/x-t64000.html",
       "pubDate": "2026-11-11T05:15:40.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "蛍原徹を襲った激痛 尿管結石とは",
-      "link": "https://news.yahoo.co.jp/pickup/6602148?source=rss",
-      "pubDate": "2026-11-11T03:00:47.000Z"
     },
     {
       "category": "デジカメinfo",
