@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-12T23:30:40.724Z",
+  "updatedAt": "2026-11-12T23:45:32.334Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "丸亀製麺の値下げ 「逆張り」真髄",
+      "link": "https://news.yahoo.co.jp/pickup/6602372?source=rss",
+      "pubDate": "2026-11-12T23:36:10.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] サイバーセキュリティクラウド、GitHubから顧客情報流出か　「セキュリティ企業として重く受け止め」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003163/",
+      "pubDate": "2026-11-12T23:15:50.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -8,6 +24,38 @@
       "title": "人より人型ロボ多く?60年後予測",
       "link": "https://news.yahoo.co.jp/pickup/6602370?source=rss",
       "pubDate": "2026-11-12T23:10:47.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
+      "pubDate": "2026-11-12T23:04:46.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] “慎重派“の弥生が汎用AIツールとの連携へ　freee、マネフォに続く「MCP対応」、各社の「会計×AI」の戦略は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news031.html",
+      "pubDate": "2026-11-12T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 「使う人がいない」から始まった東京電力のAI改革――CIOが語る、業務プロセス・役割分担・投資回収の考え方",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/13/2000003081/",
+      "pubDate": "2026-11-12T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] NECがデータカタログ1435個を1年で整備　AIによる意思決定支援への挑戦",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news006.html",
+      "pubDate": "2026-11-12T23:00:00.000Z"
     },
     {
       "category": "国内",
@@ -32,46 +80,6 @@
       "title": "「Microsoft 365」で大規模障害",
       "link": "https://news.yahoo.co.jp/pickup/6602362?source=rss",
       "pubDate": "2026-11-12T22:19:09.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] おわびメール1通で、後は自己責任？　個人情報漏えい時代に欠けた「3つの仕組み」",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news022.html",
-      "pubDate": "2026-11-12T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] ふくおかFG、AIがベテランの“勘と例外処理”をヒアリング　「元営業」が仕掛ける銀行変革のリアル",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news017.html",
-      "pubDate": "2026-11-12T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] “脱Microsoft”進むか　「月額が高過ぎ」「クラウド依存」に挑む、独自オフィス製品の戦い方",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news024.html",
-      "pubDate": "2026-11-12T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] HIS、店舗接客にAI導入で「成約率5ポイント上昇」　“検索迷子“の客を救った仕組みとは？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news010.html",
-      "pubDate": "2026-11-12T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 情シス3人で1500店舗超の回線を管理　スーパー・ドラッグストア大手は何を変えたのか",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news029.html",
-      "pubDate": "2026-11-12T22:00:00.000Z"
     },
     {
       "category": "経済",
@@ -160,14 +168,6 @@
       "title": "拘束の記者 精力的に北方領土取材",
       "link": "https://news.yahoo.co.jp/pickup/6602339?source=rss",
       "pubDate": "2026-11-12T11:50:54.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "新築転売対策 与党が空室税検討",
-      "link": "https://news.yahoo.co.jp/pickup/6602338?source=rss",
-      "pubDate": "2026-11-12T11:26:49.000Z"
     },
     {
       "category": "国内",
