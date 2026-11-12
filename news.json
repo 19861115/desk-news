@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T03:30:44.111Z",
+  "updatedAt": "2026-11-12T03:45:33.240Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "Appleサポートコミュ 20日閉鎖へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602292?source=rss",
+      "pubDate": "2026-11-12T03:37:32.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -10,12 +18,28 @@
       "pubDate": "2026-11-12T03:23:04.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] バッファロー、10Gbps接続に対応したUSB Type-C有線LANアダプター",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news060.html",
+      "pubDate": "2026-11-12T03:12:00.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "ポスト高市の首相再選支持 相次ぐ",
       "link": "https://news.yahoo.co.jp/pickup/6602290?source=rss",
       "pubDate": "2026-11-12T03:09:55.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] Google初の紛失防止タグ「Pixel Tag」実機レビュー！　Galaxy SmartTag2との比較で見えた薄さの魅力と検知の実力",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news033.html",
+      "pubDate": "2026-11-12T03:00:00.000Z"
     },
     {
       "category": "経済",
@@ -98,14 +122,6 @@
       "pubDate": "2026-11-12T01:49:56.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] NVIDIAスキャンダルが暴く、対中「半導体規制の限界」　米中AIの性能差は「わずか2.7％」",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news029.html",
-      "pubDate": "2026-11-12T01:30:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -120,14 +136,6 @@
       "title": "ヘアカラー後のケア 各社注目",
       "link": "https://news.yahoo.co.jp/pickup/6602263?source=rss",
       "pubDate": "2026-11-12T01:11:01.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 【ワークマン】1500円の「ザットカジュアルミニショルダー」　防水生地＆止水ファスナーを採用",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news040.html",
-      "pubDate": "2026-11-12T01:00:00.000Z"
     },
     {
       "category": "国内",
@@ -224,14 +232,6 @@
       "title": "雄牛と雄ロバ 種を越えた交尾行動",
       "link": "https://news.yahoo.co.jp/pickup/6602181?source=rss",
       "pubDate": "2026-11-11T07:37:06.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "内閣府メルマガ登録アド6万件流出",
-      "link": "https://news.yahoo.co.jp/pickup/6602172?source=rss",
-      "pubDate": "2026-11-11T05:33:30.000Z"
     },
     {
       "category": "デジカメinfo",
