@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T08:45:32.786Z",
+  "updatedAt": "2026-11-12T09:00:51.485Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "麻生氏 採決棄権の石破氏らに苦言",
+      "link": "https://news.yahoo.co.jp/pickup/6602323?source=rss",
+      "pubDate": "2026-11-12T08:58:43.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -200,14 +208,6 @@
       "title": "スペイン 14年ぶりの全国ゼネスト",
       "link": "https://news.yahoo.co.jp/pickup/6602272?source=rss",
       "pubDate": "2026-11-12T01:50:03.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "減税法案 支援金対象は交渉切り札",
-      "link": "https://news.yahoo.co.jp/pickup/6602258?source=rss",
-      "pubDate": "2026-11-12T00:24:58.000Z"
     },
     {
       "category": "IT",
