@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T05:45:33.147Z",
+  "updatedAt": "2026-11-12T06:00:50.249Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ビール10月販売2割増 減税追い風",
+      "link": "https://news.yahoo.co.jp/pickup/6602303?source=rss",
+      "pubDate": "2026-11-12T05:47:59.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -160,14 +168,6 @@
       "title": "二重かわいい 女子大学生の違和感",
       "link": "https://news.yahoo.co.jp/pickup/6602269?source=rss",
       "pubDate": "2026-11-12T02:02:36.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "CEOの解任可否を決定へ NVIDIA",
-      "link": "https://news.yahoo.co.jp/pickup/6602271?source=rss",
-      "pubDate": "2026-11-12T02:01:03.000Z"
     },
     {
       "category": "国際",
