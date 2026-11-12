@@ -1,6 +1,158 @@
 {
-  "updatedAt": "2026-11-12T11:45:34.245Z",
+  "updatedAt": "2026-11-12T23:00:47.936Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "首相 防衛費巡る「大幅増税」慎重",
+      "link": "https://news.yahoo.co.jp/pickup/6602369?source=rss",
+      "pubDate": "2026-11-12T22:59:30.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米首都銃撃5人死傷 容疑者も死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6602368?source=rss",
+      "pubDate": "2026-11-12T22:44:16.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "「Microsoft 365」で大規模障害",
+      "link": "https://news.yahoo.co.jp/pickup/6602362?source=rss",
+      "pubDate": "2026-11-12T22:19:09.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] おわびメール1通で、後は自己責任？　個人情報漏えい時代に欠けた「3つの仕組み」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news022.html",
+      "pubDate": "2026-11-12T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] ふくおかFG、AIがベテランの“勘と例外処理”をヒアリング　「元営業」が仕掛ける銀行変革のリアル",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news017.html",
+      "pubDate": "2026-11-12T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] “脱Microsoft”進むか　「月額が高過ぎ」「クラウド依存」に挑む、独自オフィス製品の戦い方",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news024.html",
+      "pubDate": "2026-11-12T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] HIS、店舗接客にAI導入で「成約率5ポイント上昇」　“検索迷子“の客を救った仕組みとは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news010.html",
+      "pubDate": "2026-11-12T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 情シス3人で1500店舗超の回線を管理　スーパー・ドラッグストア大手は何を変えたのか",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news029.html",
+      "pubDate": "2026-11-12T22:00:00.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "エヌビディアCEO辞任 動揺広がる",
+      "link": "https://news.yahoo.co.jp/pickup/6602361?source=rss",
+      "pubDate": "2026-11-12T21:59:48.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米NYで建物崩壊8人死亡 17人負傷",
+      "link": "https://news.yahoo.co.jp/pickup/6602355?source=rss",
+      "pubDate": "2026-11-12T14:38:19.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米国防長官ら 墓地で衛兵から叱責",
+      "link": "https://news.yahoo.co.jp/pickup/6602354?source=rss",
+      "pubDate": "2026-11-12T14:26:32.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "エヌビディアのフアンCEOが辞任",
+      "link": "https://news.yahoo.co.jp/pickup/6602353?source=rss",
+      "pubDate": "2026-11-12T14:08:14.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "海岸にクジラの死骸 深海の希少種",
+      "link": "https://news.yahoo.co.jp/pickup/6602351?source=rss",
+      "pubDate": "2026-11-12T13:57:11.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "タマホーム 5年以上前から不正か",
+      "link": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
+      "pubDate": "2026-11-12T13:34:28.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "石破氏 採決で退席の小渕氏を評価",
+      "link": "https://news.yahoo.co.jp/pickup/6602349?source=rss",
+      "pubDate": "2026-11-12T13:32:14.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "選挙ポスターAI作成? 戸惑いの声",
+      "link": "https://news.yahoo.co.jp/pickup/6602346?source=rss",
+      "pubDate": "2026-11-12T13:25:40.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "無印良品 クレカ番号流出巡る経緯",
+      "link": "https://news.yahoo.co.jp/pickup/6602343?source=rss",
+      "pubDate": "2026-11-12T13:02:08.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "新種ホエザル カメラにひょっこり",
+      "link": "https://news.yahoo.co.jp/pickup/6602342?source=rss",
+      "pubDate": "2026-11-12T12:27:59.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "拘束の記者 精力的に北方領土取材",
+      "link": "https://news.yahoo.co.jp/pickup/6602339?source=rss",
+      "pubDate": "2026-11-12T11:50:54.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -16,62 +168,6 @@
       "title": "芥川「藪の中」当初は題名違った",
       "link": "https://news.yahoo.co.jp/pickup/6602332?source=rss",
       "pubDate": "2026-11-12T10:08:06.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "すかいらーく Shin-Shinなぜ買収",
-      "link": "https://news.yahoo.co.jp/pickup/6602322?source=rss",
-      "pubDate": "2026-11-12T10:02:14.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性　リスト型攻撃か",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003158/",
-      "pubDate": "2026-11-12T09:54:27.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日銀委員 利上げで経済減速懸念",
-      "link": "https://news.yahoo.co.jp/pickup/6602330?source=rss",
-      "pubDate": "2026-11-12T09:36:00.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "広い範囲で空気が乾燥 火災相次ぐ",
-      "link": "https://news.yahoo.co.jp/pickup/6602329?source=rss",
-      "pubDate": "2026-11-12T09:31:59.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] バッファローがY字変換ケーブル発売　USB Type-C→3.5mmミニジャック＋充電用ポートに分岐",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news071.html",
-      "pubDate": "2026-11-12T09:31:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "NVIDIA疑惑 女性は台湾を8回訪問",
-      "link": "https://news.yahoo.co.jp/pickup/6602328?source=rss",
-      "pubDate": "2026-11-12T09:25:36.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] なぜ「無印良品週間」セール続行？　不正アクセス検知から発表まで4日、社長「反省はもちろんある」",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news070.html",
-      "pubDate": "2026-11-12T09:00:00.000Z"
     },
     {
       "category": "国内",
@@ -90,52 +186,12 @@
       "pubDate": "2026-11-12T08:36:46.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ダイハツなど3車種17万台リコール",
-      "link": "https://news.yahoo.co.jp/pickup/6602319?source=rss",
-      "pubDate": "2026-11-12T08:34:59.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 介護現場の人手不足を補う「ヒト型助手ロボット」　遠隔で利用者見守る最新テクノロジーも",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003149/",
-      "pubDate": "2026-11-12T08:30:48.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] セキュリティの司令塔、韓国金融保安院がハッキング攻撃受け個人情報650件流出",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003148/",
-      "pubDate": "2026-11-12T08:15:59.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "あくびは重要「肺魚」研究で確認",
       "link": "https://news.yahoo.co.jp/pickup/6602317?source=rss",
       "pubDate": "2026-11-12T08:07:37.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "消費税減税の広報動画 公開見送り",
-      "link": "https://news.yahoo.co.jp/pickup/6602311?source=rss",
-      "pubDate": "2026-11-12T08:00:20.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "北海道新聞 拘束記者の実名掲載",
-      "link": "https://news.yahoo.co.jp/pickup/6602313?source=rss",
-      "pubDate": "2026-11-12T07:41:26.000Z"
     },
     {
       "category": "国際",
@@ -152,14 +208,6 @@
       "title": "キヤノンが他社と異なる方法でテレコンを内蔵した超望遠単焦点レンズを準備中？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1971.html",
       "pubDate": "2026-11-12T04:45:14.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "おうし座北流星群 13日頃に極大",
-      "link": "https://news.yahoo.co.jp/pickup/6602298?source=rss",
-      "pubDate": "2026-11-12T04:44:01.000Z"
     },
     {
       "category": "国際",
@@ -186,36 +234,12 @@
       "pubDate": "2026-11-12T03:23:04.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "上院選ミシシッピ州 民主勝利確実",
-      "link": "https://news.yahoo.co.jp/pickup/6602286?source=rss",
-      "pubDate": "2026-11-12T02:54:37.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "おたる水族館のトド説明文 反響",
       "link": "https://news.yahoo.co.jp/pickup/6602283?source=rss",
       "pubDate": "2026-11-12T02:52:53.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "駐米ロシア大使が死去 疾患が原因",
-      "link": "https://news.yahoo.co.jp/pickup/6602285?source=rss",
-      "pubDate": "2026-11-12T02:51:41.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "スペイン 14年ぶりの全国ゼネスト",
-      "link": "https://news.yahoo.co.jp/pickup/6602272?source=rss",
-      "pubDate": "2026-11-12T01:50:03.000Z"
     },
     {
       "category": "IT",
@@ -232,30 +256,6 @@
       "title": "ドコモ 障害から完全復旧と発表",
       "link": "https://news.yahoo.co.jp/pickup/6602230?source=rss",
       "pubDate": "2026-11-11T13:11:26.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "首脳がCOP31を欠席 日本に化石賞",
-      "link": "https://news.yahoo.co.jp/pickup/6602204?source=rss",
-      "pubDate": "2026-11-11T11:11:29.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "警察庁アプリ巡る偽サイトを確認",
-      "link": "https://news.yahoo.co.jp/pickup/6602194?source=rss",
-      "pubDate": "2026-11-11T08:55:17.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "パスキー設定の証券口座 侵入疑い",
-      "link": "https://news.yahoo.co.jp/pickup/6602193?source=rss",
-      "pubDate": "2026-11-11T08:33:52.000Z"
     },
     {
       "category": "デジカメinfo",
