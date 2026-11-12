@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T10:30:44.587Z",
+  "updatedAt": "2026-11-12T10:45:35.273Z",
   "items": [
     {
       "category": "国内",
@@ -40,6 +40,14 @@
       "title": "広い範囲で空気が乾燥 火災相次ぐ",
       "link": "https://news.yahoo.co.jp/pickup/6602329?source=rss",
       "pubDate": "2026-11-12T09:31:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] バッファローがY字変換ケーブル発売　USB Type-C→3.5mmミニジャック＋充電用ポートに分岐",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news071.html",
+      "pubDate": "2026-11-12T09:31:00.000Z"
     },
     {
       "category": "経済",
@@ -112,14 +120,6 @@
       "title": "あくびは重要「肺魚」研究で確認",
       "link": "https://news.yahoo.co.jp/pickup/6602317?source=rss",
       "pubDate": "2026-11-12T08:07:37.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 縦折りスマホ「Galaxy Z Flip8」、auにMNPで約21万円→2年間6万9300円に【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news069.html",
-      "pubDate": "2026-11-12T08:07:00.000Z"
     },
     {
       "category": "国内",
