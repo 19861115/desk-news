@@ -1,13 +1,21 @@
 {
-  "updatedAt": "2026-11-12T06:45:34.187Z",
+  "updatedAt": "2026-11-12T07:00:54.114Z",
   "items": [
     {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
-      "title": "丸亀製麺 5商品を最大60円値下げ",
-      "link": "https://news.yahoo.co.jp/pickup/6602304?source=rss",
-      "pubDate": "2026-11-12T06:38:56.000Z"
+      "title": "丸亀 かけうどんを390円に値下げ",
+      "link": "https://news.yahoo.co.jp/pickup/6602309?source=rss",
+      "pubDate": "2026-11-12T06:56:36.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "万博ガンダム「頭部」展示へ 大阪",
+      "link": "https://news.yahoo.co.jp/pickup/6602306?source=rss",
+      "pubDate": "2026-11-12T06:50:09.000Z"
     },
     {
       "category": "ITmedia",
@@ -104,14 +112,6 @@
       "title": "米有権者 党派対立にも警戒感",
       "link": "https://news.yahoo.co.jp/pickup/6602278?source=rss",
       "pubDate": "2026-11-12T04:44:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "すかいらーくHDがShin-Shin買収",
-      "link": "https://news.yahoo.co.jp/pickup/6602300?source=rss",
-      "pubDate": "2026-11-12T04:43:45.000Z"
     },
     {
       "category": "IT",
