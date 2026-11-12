@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T01:30:43.314Z",
+  "updatedAt": "2026-11-12T01:45:33.809Z",
   "items": [
     {
       "category": "国内",
@@ -24,6 +24,14 @@
       "title": "ヘアカラー後のケア 各社注目",
       "link": "https://news.yahoo.co.jp/pickup/6602263?source=rss",
       "pubDate": "2026-11-12T01:11:01.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 【ワークマン】1500円の「ザットカジュアルミニショルダー」　防水生地＆止水ファスナーを採用",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news040.html",
+      "pubDate": "2026-11-12T01:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -64,14 +72,6 @@
       "title": "[ITmedia Mobile] 6マイクAI通話に対応した「Edifier X5 pro Gen 2」がセールで30％オフの4184円に",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news052.html",
       "pubDate": "2026-11-12T00:49:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ケーブル忘れの心配を解消できる着脱式コード内蔵モバイルバッテリー「CIO SMARTCOBY Pro SLIM CABLE」がセールで33％オフの3980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news051.html",
-      "pubDate": "2026-11-12T00:45:00.000Z"
     },
     {
       "category": "国内",
