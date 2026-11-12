@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T00:45:32.217Z",
+  "updatedAt": "2026-11-12T01:00:49.691Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "スペインでゼネスト 400万人参加",
+      "link": "https://news.yahoo.co.jp/pickup/6602261?source=rss",
+      "pubDate": "2026-11-12T00:55:43.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -168,14 +176,6 @@
       "title": "メーガン妃の父親 保釈中に再拘束",
       "link": "https://news.yahoo.co.jp/pickup/6602226?source=rss",
       "pubDate": "2026-11-11T12:51:09.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "中国独身の日「爆買い」から変化",
-      "link": "https://news.yahoo.co.jp/pickup/6602223?source=rss",
-      "pubDate": "2026-11-11T12:38:44.000Z"
     },
     {
       "category": "科学",
