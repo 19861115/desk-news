@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T23:00:47.936Z",
+  "updatedAt": "2026-11-12T23:15:32.687Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "人より人型ロボ多く?60年後予測",
+      "link": "https://news.yahoo.co.jp/pickup/6602370?source=rss",
+      "pubDate": "2026-11-12T23:10:47.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -232,14 +240,6 @@
       "title": "生後6カ月の娘が突然死 父の思い",
       "link": "https://news.yahoo.co.jp/pickup/6602289?source=rss",
       "pubDate": "2026-11-12T03:23:04.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "おたる水族館のトド説明文 反響",
-      "link": "https://news.yahoo.co.jp/pickup/6602283?source=rss",
-      "pubDate": "2026-11-12T02:52:53.000Z"
     },
     {
       "category": "IT",
