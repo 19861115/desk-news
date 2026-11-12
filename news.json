@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T05:30:43.542Z",
+  "updatedAt": "2026-11-12T05:45:33.147Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
+      "pubDate": "2026-11-12T05:10:47.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -16,6 +24,22 @@
       "title": "海外からマンジャロ 韓国が容認",
       "link": "https://news.yahoo.co.jp/pickup/6602299?source=rss",
       "pubDate": "2026-11-12T05:05:34.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] MINISFORUM、Ryzen AI Max＋を搭載した省スペース型デスクトップ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news063.html",
+      "pubDate": "2026-11-12T05:04:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] NVIDIA取締役会、フアンCEO解任の可否決定へ　2件の不倫報道で株価8％超下落",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003138/",
+      "pubDate": "2026-11-12T04:58:04.000Z"
     },
     {
       "category": "経済",
@@ -77,17 +101,9 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] NVIDIA、フアンCEOの解任を準備　早ければ11日中にも取締役会",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news054.html",
-      "pubDate": "2026-11-12T04:30:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] パナソニックが250人体制で挑む「フィジカルAI」　職人の暗黙知をAI化、外販も視野に",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news037.html",
-      "pubDate": "2026-11-12T04:30:00.000Z"
+      "title": "[ITmedia Mobile] スマートグラス「Even G2」の法人向け開発キット「Enterprise SDK」リリース　FlutterやiOS／Androidに対応",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news057.html",
+      "pubDate": "2026-11-12T04:31:00.000Z"
     },
     {
       "category": "IT",
@@ -98,28 +114,12 @@
       "pubDate": "2026-11-12T03:37:32.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 日本のマルチメディア／インターネット黎明期の資料が米コンピュータ歴史博物館（CHM）に収蔵",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news059.html",
-      "pubDate": "2026-11-12T03:30:00.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "生後6カ月の娘が突然死 父の思い",
       "link": "https://news.yahoo.co.jp/pickup/6602289?source=rss",
       "pubDate": "2026-11-12T03:23:04.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] バッファロー、10Gbps接続に対応したUSB Type-C有線LANアダプター",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news060.html",
-      "pubDate": "2026-11-12T03:12:00.000Z"
     },
     {
       "category": "国内",
