@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T00:15:34.274Z",
+  "updatedAt": "2026-11-12T00:30:42.472Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "減税法案 支援金対象は交渉切り札",
+      "link": "https://news.yahoo.co.jp/pickup/6602258?source=rss",
+      "pubDate": "2026-11-12T00:24:58.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -152,14 +160,6 @@
       "title": "ドコモ 障害から完全復旧と発表",
       "link": "https://news.yahoo.co.jp/pickup/6602230?source=rss",
       "pubDate": "2026-11-11T13:11:26.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "美浜3号機が50年超運転へ 国認可",
-      "link": "https://news.yahoo.co.jp/pickup/6602225?source=rss",
-      "pubDate": "2026-11-11T13:02:41.000Z"
     },
     {
       "category": "国際",
