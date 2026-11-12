@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-12T08:00:49.701Z",
+  "updatedAt": "2026-11-12T08:15:32.247Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "丸亀製麺が値下げ 社長語る危機感",
+      "link": "https://news.yahoo.co.jp/pickup/6602316?source=rss",
+      "pubDate": "2026-11-12T08:08:13.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "あくびは重要「肺魚」研究で確認",
+      "link": "https://news.yahoo.co.jp/pickup/6602317?source=rss",
+      "pubDate": "2026-11-12T08:07:37.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "消費税減税の広報動画 公開見送り",
+      "link": "https://news.yahoo.co.jp/pickup/6602311?source=rss",
+      "pubDate": "2026-11-12T08:00:20.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -80,14 +104,6 @@
       "title": "[ITmedia Mobile] 「超PayPay祭」11月20日から開催　最大10万ポイント還元、PayPay銀行連携でも当選確率アップ",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news065.html",
       "pubDate": "2026-11-12T05:31:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "良品計画 破棄すべき情報を保管",
-      "link": "https://news.yahoo.co.jp/pickup/6602302?source=rss",
-      "pubDate": "2026-11-12T05:07:26.000Z"
     },
     {
       "category": "国際",
@@ -202,14 +218,6 @@
       "pubDate": "2026-11-12T00:11:57.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "給食費を自腹で穴埋め 課題指摘",
-      "link": "https://news.yahoo.co.jp/pickup/6602250?source=rss",
-      "pubDate": "2026-11-11T23:20:24.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -240,14 +248,6 @@
       "title": "パスキー設定の証券口座 侵入疑い",
       "link": "https://news.yahoo.co.jp/pickup/6602193?source=rss",
       "pubDate": "2026-11-11T08:33:52.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "雄牛と雄ロバ 種を越えた交尾行動",
-      "link": "https://news.yahoo.co.jp/pickup/6602181?source=rss",
-      "pubDate": "2026-11-11T07:37:06.000Z"
     },
     {
       "category": "デジカメinfo",
