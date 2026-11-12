@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T11:15:35.321Z",
+  "updatedAt": "2026-11-12T11:30:42.642Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "新築転売対策 与党が空室税検討",
+      "link": "https://news.yahoo.co.jp/pickup/6602338?source=rss",
+      "pubDate": "2026-11-12T11:26:49.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -104,14 +112,6 @@
       "title": "[ITmedia News] セキュリティの司令塔、韓国金融保安院がハッキング攻撃受け個人情報650件流出",
       "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003148/",
       "pubDate": "2026-11-12T08:15:59.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "丸亀製麺が値下げ 社長語る危機感",
-      "link": "https://news.yahoo.co.jp/pickup/6602316?source=rss",
-      "pubDate": "2026-11-12T08:08:13.000Z"
     },
     {
       "category": "科学",
