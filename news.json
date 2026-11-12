@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T00:30:42.472Z",
+  "updatedAt": "2026-11-12T00:45:32.217Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,14 @@
       "title": "減税法案 支援金対象は交渉切り札",
       "link": "https://news.yahoo.co.jp/pickup/6602258?source=rss",
       "pubDate": "2026-11-12T00:24:58.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] Webページの高速閲覧や横スクロールをスムーズに行いたい人に適した「エレコム ワイヤレスマウス OSMOD M-MY50MBSBK-G」がセールで26％オフの3320円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news046.html",
+      "pubDate": "2026-11-12T00:23:00.000Z"
     },
     {
       "category": "国際",
@@ -87,14 +95,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] NTT社長が警告　「AIで省人化」では成長できない――では、どうする？　すかいらーく、キーエンスに学ぶ勝ち筋",
       "link": "https://www.itmedia.co.jp/business/articles/2611/12/news011.html",
-      "pubDate": "2026-11-11T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] AIガバナンスは「コンプライアンス」ではない――AIエージェント時代に経営層が取り組むべき「攻めと守り」の統合的戦略",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/12/2000003078/",
       "pubDate": "2026-11-11T23:00:00.000Z"
     },
     {
