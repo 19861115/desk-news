@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T01:45:33.809Z",
+  "updatedAt": "2026-11-12T02:00:48.674Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "スペイン 14年ぶりの全国ゼネスト",
+      "link": "https://news.yahoo.co.jp/pickup/6602272?source=rss",
+      "pubDate": "2026-11-12T01:50:03.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -40,14 +48,6 @@
       "title": "[ITmedia News] Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
       "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
       "pubDate": "2026-11-12T00:56:17.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "スペインでゼネスト 400万人参加",
-      "link": "https://news.yahoo.co.jp/pickup/6602261?source=rss",
-      "pubDate": "2026-11-12T00:55:43.000Z"
     },
     {
       "category": "ITmedia",
