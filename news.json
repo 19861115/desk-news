@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T07:30:39.724Z",
+  "updatedAt": "2026-11-12T07:45:33.999Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "北海道新聞 拘束記者の実名掲載",
+      "link": "https://news.yahoo.co.jp/pickup/6602313?source=rss",
+      "pubDate": "2026-11-12T07:41:26.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -69,9 +77,9 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
-      "pubDate": "2026-11-12T05:10:47.000Z"
+      "title": "[ITmedia Mobile] 「超PayPay祭」11月20日から開催　最大10万ポイント還元、PayPay銀行連携でも当選確率アップ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news065.html",
+      "pubDate": "2026-11-12T05:31:00.000Z"
     },
     {
       "category": "経済",
@@ -200,14 +208,6 @@
       "title": "給食費を自腹で穴埋め 課題指摘",
       "link": "https://news.yahoo.co.jp/pickup/6602250?source=rss",
       "pubDate": "2026-11-11T23:20:24.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "核「持ち込ませず」例外検討 政府",
-      "link": "https://news.yahoo.co.jp/pickup/6602246?source=rss",
-      "pubDate": "2026-11-11T22:55:34.000Z"
     },
     {
       "category": "IT",
