@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T06:00:50.249Z",
+  "updatedAt": "2026-11-12T06:15:32.595Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ビーズの“ゲーミング着る毛布”の最新モデルが発売　着心地を向上、デュアル大型ポケットを装備",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news066.html",
+      "pubDate": "2026-11-12T05:51:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -104,14 +112,6 @@
       "title": "[ITmedia PC USER] マウス、Ryzen AIを搭載した軽量設計の12.2型ビジネスノートPC",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news062.html",
       "pubDate": "2026-11-12T04:34:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] スマートグラス「Even G2」の法人向け開発キット「Enterprise SDK」リリース　FlutterやiOS／Androidに対応",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news057.html",
-      "pubDate": "2026-11-12T04:31:00.000Z"
     },
     {
       "category": "IT",
