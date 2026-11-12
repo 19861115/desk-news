@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-12T01:15:34.142Z",
+  "updatedAt": "2026-11-12T01:30:43.314Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "二重かわいい 女子大生の違和感",
+      "link": "https://news.yahoo.co.jp/pickup/6602267?source=rss",
+      "pubDate": "2026-11-12T01:27:30.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "CEO去就巡る報道 NVIDIA株下落",
+      "link": "https://news.yahoo.co.jp/pickup/6602266?source=rss",
+      "pubDate": "2026-11-12T01:27:01.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -136,22 +152,6 @@
       "title": "懸命に働くは美徳51% 読売調査",
       "link": "https://news.yahoo.co.jp/pickup/6602243?source=rss",
       "pubDate": "2026-11-11T22:30:24.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "厚労省 残業タクシー「半減」",
-      "link": "https://news.yahoo.co.jp/pickup/6602242?source=rss",
-      "pubDate": "2026-11-11T22:26:36.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "マック 休止中の新チキン開発経緯",
-      "link": "https://news.yahoo.co.jp/pickup/6602238?source=rss",
-      "pubDate": "2026-11-11T21:42:27.000Z"
     },
     {
       "category": "国際",
