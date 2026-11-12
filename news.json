@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-12T09:15:33.757Z",
+  "updatedAt": "2026-11-12T09:30:42.068Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "NVIDIA疑惑 女性は台湾を8回訪問",
+      "link": "https://news.yahoo.co.jp/pickup/6602328?source=rss",
+      "pubDate": "2026-11-12T09:25:36.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -96,14 +104,6 @@
       "title": "丸亀 かけうどんを390円に値下げ",
       "link": "https://news.yahoo.co.jp/pickup/6602309?source=rss",
       "pubDate": "2026-11-12T06:56:36.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "万博ガンダム「頭部」展示へ 大阪",
-      "link": "https://news.yahoo.co.jp/pickup/6602306?source=rss",
-      "pubDate": "2026-11-12T06:50:09.000Z"
     },
     {
       "category": "ITmedia",
