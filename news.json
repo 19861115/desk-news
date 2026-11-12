@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-12T08:30:45.057Z",
+  "updatedAt": "2026-11-12T08:45:32.786Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ダイハツなど3車種17万台リコール",
+      "link": "https://news.yahoo.co.jp/pickup/6602319?source=rss",
+      "pubDate": "2026-11-12T08:34:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] セキュリティの司令塔、韓国金融保安院がハッキング攻撃受け個人情報650件流出",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003148/",
+      "pubDate": "2026-11-12T08:15:59.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -16,6 +32,14 @@
       "title": "あくびは重要「肺魚」研究で確認",
       "link": "https://news.yahoo.co.jp/pickup/6602317?source=rss",
       "pubDate": "2026-11-12T08:07:37.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
+      "pubDate": "2026-11-12T08:00:22.000Z"
     },
     {
       "category": "国内",
@@ -80,30 +104,6 @@
       "title": "[ITmedia PC USER] ベルキン、音量制限機能を備えたアクティブノイズキャンセリング機能対応の子ども向けヘッドフォン",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news068.html",
       "pubDate": "2026-11-12T05:57:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ビーズの“ゲーミング着る毛布”の最新モデルが発売　着心地を向上、デュアル大型ポケットを装備",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/12/news066.html",
-      "pubDate": "2026-11-12T05:51:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ビール10月販売2割増 減税追い風",
-      "link": "https://news.yahoo.co.jp/pickup/6602303?source=rss",
-      "pubDate": "2026-11-12T05:47:59.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「超PayPay祭」11月20日から開催　最大10万ポイント還元、PayPay銀行連携でも当選確率アップ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/12/news065.html",
-      "pubDate": "2026-11-12T05:31:00.000Z"
     },
     {
       "category": "国際",
