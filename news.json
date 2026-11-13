@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-13T02:30:41.454Z",
+  "updatedAt": "2026-11-13T02:45:32.925Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "土木職員 今春45都道府県定員割れ",
+      "link": "https://news.yahoo.co.jp/pickup/6602395?source=rss",
+      "pubDate": "2026-11-13T02:42:29.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "エヌビディア 暫定CEOにクレス氏",
+      "link": "https://news.yahoo.co.jp/pickup/6602391?source=rss",
+      "pubDate": "2026-11-13T02:30:48.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "Microsoft障害 日本政府にも影響",
       "link": "https://news.yahoo.co.jp/pickup/6602393?source=rss",
       "pubDate": "2026-11-13T02:22:13.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 「Microsoft 365」で大規模障害、メールやWeb会議に影響　原因と復旧状況は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news067.html",
+      "pubDate": "2026-11-13T02:15:00.000Z"
     },
     {
       "category": "経済",
@@ -72,14 +96,6 @@
       "title": "[ITmedia Mobile] 強力マグネットと折りたたみ式スタンドを備えたモバイルバッテリー「Anker 622 Magnetic Battery (MagGo)」がセールで18％オフの4490円に",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news062.html",
       "pubDate": "2026-11-13T00:52:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 半固体電解質採用のケーブル一体型モデル「バッファロー モバイルバッテリー BMPBSA5000BKX」がセールで19％オフの3380円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news061.html",
-      "pubDate": "2026-11-13T00:48:00.000Z"
     },
     {
       "category": "経済",
@@ -170,14 +186,6 @@
       "pubDate": "2026-11-12T14:26:32.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "エヌビディアのフアンCEOが辞任",
-      "link": "https://news.yahoo.co.jp/pickup/6602353?source=rss",
-      "pubDate": "2026-11-12T14:08:14.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -208,14 +216,6 @@
       "title": "新種ホエザル カメラにひょっこり",
       "link": "https://news.yahoo.co.jp/pickup/6602342?source=rss",
       "pubDate": "2026-11-12T12:27:59.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "拘束の記者 精力的に北方領土取材",
-      "link": "https://news.yahoo.co.jp/pickup/6602339?source=rss",
-      "pubDate": "2026-11-12T11:50:54.000Z"
     },
     {
       "category": "デジカメinfo",
