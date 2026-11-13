@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-13T00:30:42.062Z",
+  "updatedAt": "2026-11-13T00:45:33.236Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ワタミがMBO検討 きょう付議へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602380?source=rss",
+      "pubDate": "2026-11-13T00:40:03.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米国防長官 自身注意の衛兵に勲章",
+      "link": "https://news.yahoo.co.jp/pickup/6602379?source=rss",
+      "pubDate": "2026-11-13T00:29:49.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "恋活婚活「リアル回帰」の訳 解説",
       "link": "https://news.yahoo.co.jp/pickup/6602378?source=rss",
       "pubDate": "2026-11-13T00:23:48.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 「安いだけではだめ」サイゼリヤ前社長、堀埜一成氏が「負けない経営」テーマに講演",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/13/2000003165/",
+      "pubDate": "2026-11-13T00:08:07.000Z"
     },
     {
       "category": "国内",
@@ -63,14 +87,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] “慎重派“の弥生が汎用AIツールとの連携へ　freee、マネフォに続く「MCP対応」、各社の「会計×AI」の戦略は？",
       "link": "https://www.itmedia.co.jp/business/articles/2611/13/news031.html",
-      "pubDate": "2026-11-12T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 「使う人がいない」から始まった東京電力のAI改革――CIOが語る、業務プロセス・役割分担・投資回収の考え方",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/13/2000003081/",
       "pubDate": "2026-11-12T23:00:00.000Z"
     },
     {
@@ -162,14 +178,6 @@
       "pubDate": "2026-11-12T13:25:40.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "無印良品 クレカ番号流出巡る経緯",
-      "link": "https://news.yahoo.co.jp/pickup/6602343?source=rss",
-      "pubDate": "2026-11-12T13:02:08.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -224,14 +232,6 @@
       "title": "キヤノンが他社と異なる方法でテレコンを内蔵した超望遠単焦点レンズを準備中？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1971.html",
       "pubDate": "2026-11-12T04:45:14.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米有権者 党派対立にも警戒感",
-      "link": "https://news.yahoo.co.jp/pickup/6602278?source=rss",
-      "pubDate": "2026-11-12T04:44:00.000Z"
     },
     {
       "category": "IT",
