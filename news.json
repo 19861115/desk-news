@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T05:15:32.257Z",
+  "updatedAt": "2026-11-13T05:30:42.306Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "クレカのICチップすり替えに注意",
+      "link": "https://news.yahoo.co.jp/pickup/6602398?source=rss",
+      "pubDate": "2026-11-13T05:20:34.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -224,14 +232,6 @@
       "title": "海岸にクジラの死骸 深海の希少種",
       "link": "https://news.yahoo.co.jp/pickup/6602351?source=rss",
       "pubDate": "2026-11-12T13:57:11.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "石破氏 採決で退席の小渕氏を評価",
-      "link": "https://news.yahoo.co.jp/pickup/6602349?source=rss",
-      "pubDate": "2026-11-12T13:32:14.000Z"
     },
     {
       "category": "科学",
