@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T00:45:33.236Z",
+  "updatedAt": "2026-11-13T01:00:52.997Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "参議院議員の山崎正昭氏が死去",
+      "link": "https://news.yahoo.co.jp/pickup/6602385?source=rss",
+      "pubDate": "2026-11-13T01:00:12.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -192,14 +200,6 @@
       "title": "拘束の記者 精力的に北方領土取材",
       "link": "https://news.yahoo.co.jp/pickup/6602339?source=rss",
       "pubDate": "2026-11-12T11:50:54.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "麻生氏 採決棄権の石破氏らに苦言",
-      "link": "https://news.yahoo.co.jp/pickup/6602323?source=rss",
-      "pubDate": "2026-11-12T08:58:43.000Z"
     },
     {
       "category": "デジカメinfo",
