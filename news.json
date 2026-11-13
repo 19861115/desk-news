@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T07:45:36.803Z",
+  "updatedAt": "2026-11-13T08:00:48.739Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "GMO攻撃 被害申告は29.9億円に",
+      "link": "https://news.yahoo.co.jp/pickup/6602430?source=rss",
+      "pubDate": "2026-11-13T07:52:08.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -74,6 +82,14 @@
       "pubDate": "2026-11-13T05:23:00.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "Kマウントのディスコンになったレンズと現行レンズのリスト（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/k-8.html",
+      "pubDate": "2026-11-13T04:00:42.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -88,14 +104,6 @@
       "title": "磁気テープ再注目 流出リスク低く",
       "link": "https://news.yahoo.co.jp/pickup/6602402?source=rss",
       "pubDate": "2026-11-13T03:32:45.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "Microsoft365で障害 SNSの反応",
-      "link": "https://news.yahoo.co.jp/pickup/6602401?source=rss",
-      "pubDate": "2026-11-13T03:06:06.000Z"
     },
     {
       "category": "経済",
@@ -234,12 +242,44 @@
       "pubDate": "2026-11-12T12:27:59.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニック「LUMIX S9II」の来春の発表は99%確実？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/lumix-s9ii99.html",
+      "pubDate": "2026-11-12T08:36:46.000Z"
+    },
+    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "あくびは重要「肺魚」研究で確認",
       "link": "https://news.yahoo.co.jp/pickup/6602317?source=rss",
       "pubDate": "2026-11-12T08:07:37.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "キヤノンが他社と異なる方法でテレコンを内蔵した超望遠単焦点レンズを準備中？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1971.html",
+      "pubDate": "2026-11-12T04:45:14.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」に新型の4000万画素センサーが採用される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t64000.html",
+      "pubDate": "2026-11-11T05:15:40.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ニコンは全体では黒字転換したが映像事業は減収減益（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1970.html",
+      "pubDate": "2026-11-10T08:44:39.000Z"
     }
   ]
 }
