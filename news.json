@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-13T05:00:50.916Z",
+  "updatedAt": "2026-11-13T05:15:32.257Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "MS障害 佐川のサービスに影響",
+      "link": "https://news.yahoo.co.jp/pickup/6602414?source=rss",
+      "pubDate": "2026-11-13T05:02:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「Qoo10」不正アクセス、個人情報漏えい　「住所の地理座標」や「身体的特徴」も対象の可能性",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003186/",
+      "pubDate": "2026-11-13T04:31:03.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -48,14 +64,6 @@
       "title": "[ITmedia PC USER] アンカー、快適な装着感を実現した高機能ノイズキャンセリング対応ワイヤレスヘッドフォン",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/13/news075.html",
       "pubDate": "2026-11-13T03:48:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 虎柄ロボットに「阪神君」と命名　首相、フィジカルAIを体験　関連企業と意見交換",
-      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003182/",
-      "pubDate": "2026-11-13T03:38:07.000Z"
     },
     {
       "category": "経済",
@@ -224,14 +232,6 @@
       "title": "石破氏 採決で退席の小渕氏を評価",
       "link": "https://news.yahoo.co.jp/pickup/6602349?source=rss",
       "pubDate": "2026-11-12T13:32:14.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "選挙ポスターAI作成? 戸惑いの声",
-      "link": "https://news.yahoo.co.jp/pickup/6602346?source=rss",
-      "pubDate": "2026-11-12T13:25:40.000Z"
     },
     {
       "category": "科学",
