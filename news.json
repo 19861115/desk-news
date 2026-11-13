@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T00:15:34.549Z",
+  "updatedAt": "2026-11-13T00:30:42.062Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "恋活婚活「リアル回帰」の訳 解説",
+      "link": "https://news.yahoo.co.jp/pickup/6602378?source=rss",
+      "pubDate": "2026-11-13T00:23:48.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -248,14 +256,6 @@
       "title": "EU「ダークパターン」禁止へ",
       "link": "https://news.yahoo.co.jp/pickup/6602254?source=rss",
       "pubDate": "2026-11-12T00:11:57.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ドコモ 障害から完全復旧と発表",
-      "link": "https://news.yahoo.co.jp/pickup/6602230?source=rss",
-      "pubDate": "2026-11-11T13:11:26.000Z"
     },
     {
       "category": "デジカメinfo",
