@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T10:45:34.181Z",
+  "updatedAt": "2026-11-13T11:00:50.781Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "個人向け国債NISA化 見送りで調整",
+      "link": "https://news.yahoo.co.jp/pickup/6602452?source=rss",
+      "pubDate": "2026-11-13T10:47:40.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "土木職員 今春45都道府県定員割れ",
       "link": "https://news.yahoo.co.jp/pickup/6602395?source=rss",
       "pubDate": "2026-11-13T02:42:29.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "エヌビディア 暫定CEOにクレス氏",
-      "link": "https://news.yahoo.co.jp/pickup/6602391?source=rss",
-      "pubDate": "2026-11-13T02:30:48.000Z"
     },
     {
       "category": "科学",
