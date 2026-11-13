@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T10:00:47.231Z",
+  "updatedAt": "2026-11-13T10:15:35.100Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ニデック 年内の臨時株主総会断念",
+      "link": "https://news.yahoo.co.jp/pickup/6602448?source=rss",
+      "pubDate": "2026-11-13T10:00:14.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -152,14 +160,6 @@
       "title": "エヌビディア 暫定CEOにクレス氏",
       "link": "https://news.yahoo.co.jp/pickup/6602391?source=rss",
       "pubDate": "2026-11-13T02:30:48.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "メルセデス 独工場の一部閉鎖検討",
-      "link": "https://news.yahoo.co.jp/pickup/6602392?source=rss",
-      "pubDate": "2026-11-13T02:06:47.000Z"
     },
     {
       "category": "科学",
