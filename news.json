@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T09:30:48.974Z",
+  "updatedAt": "2026-11-13T09:45:33.759Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] AI×裸眼3Dディスプレイ？　2D映像をその場で3D化し、見る人の目も追う　現地で確かめた",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003195/",
+      "pubDate": "2026-11-13T09:25:54.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "損保3社タマホーム保険販売停止へ",
       "link": "https://news.yahoo.co.jp/pickup/6602444?source=rss",
       "pubDate": "2026-11-13T09:19:53.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「お名前.com」不正アクセス、補償申請約30億円に　GMOインターネットが決算説明会で謝罪",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003197/",
+      "pubDate": "2026-11-13T09:17:23.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 楽天モバイル「つながりにくさ解消」へ本腰――JTOWERとの連携で500市区町村超のエリア品質を強化",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news091.html",
+      "pubDate": "2026-11-13T08:59:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -66,30 +90,6 @@
       "pubDate": "2026-11-13T06:48:40.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] myFirst、ノイズキャンセリング機能を備えた子ども用ワイヤレスヘッドフォン",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/13/news085.html",
-      "pubDate": "2026-11-13T06:39:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ASRock、エントリー仕様のAMD A620チップセット搭載mictoATXマザーボード　実売1万2480円",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/13/news084.html",
-      "pubDate": "2026-11-13T06:20:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] SamsungとGoogle「Gemini搭載スマートグラス」を米韓で12月に発売　“ながら利用シーンを徹底追求”し、プライバシーに配慮",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news081.html",
-      "pubDate": "2026-11-13T06:03:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -104,6 +104,14 @@
       "title": "政府 ロシアに首脳会談を打診",
       "link": "https://news.yahoo.co.jp/pickup/6602418?source=rss",
       "pubDate": "2026-11-13T05:37:03.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "Kマウントのディスコンになったレンズと現行レンズのリスト（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/k-8.html",
+      "pubDate": "2026-11-13T04:00:42.000Z"
     },
     {
       "category": "国際",
@@ -234,12 +242,44 @@
       "pubDate": "2026-11-12T12:27:59.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニック「LUMIX S9II」の来春の発表は99%確実？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/lumix-s9ii99.html",
+      "pubDate": "2026-11-12T08:36:46.000Z"
+    },
+    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "あくびは重要「肺魚」研究で確認",
       "link": "https://news.yahoo.co.jp/pickup/6602317?source=rss",
       "pubDate": "2026-11-12T08:07:37.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "キヤノンが他社と異なる方法でテレコンを内蔵した超望遠単焦点レンズを準備中？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1971.html",
+      "pubDate": "2026-11-12T04:45:14.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」に新型の4000万画素センサーが採用される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t64000.html",
+      "pubDate": "2026-11-11T05:15:40.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ニコンは全体では黒字転換したが映像事業は減収減益（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1970.html",
+      "pubDate": "2026-11-10T08:44:39.000Z"
     }
   ]
 }
