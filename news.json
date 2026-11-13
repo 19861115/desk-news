@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T07:15:34.279Z",
+  "updatedAt": "2026-11-13T07:30:43.224Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "Google 韓国地図サービス強化へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602427?source=rss",
+      "pubDate": "2026-11-13T07:16:26.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -64,14 +72,6 @@
       "title": "[ITmedia PC USER] サードウェーブ、白色デザイン筐体を採用するミドルタワー型ゲーミングPCの販売を開始　計27構成を用意",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/13/news078.html",
       "pubDate": "2026-11-13T05:23:00.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "MS障害 佐川のサービスに影響",
-      "link": "https://news.yahoo.co.jp/pickup/6602414?source=rss",
-      "pubDate": "2026-11-13T05:02:59.000Z"
     },
     {
       "category": "デジカメinfo",
