@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T10:15:35.100Z",
+  "updatedAt": "2026-11-13T10:30:40.754Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "Microsoft障害 復旧の兆し",
+      "link": "https://news.yahoo.co.jp/pickup/6602451?source=rss",
+      "pubDate": "2026-11-13T10:14:50.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -168,14 +176,6 @@
       "title": "「歩けない現実」向き合う9歳少女",
       "link": "https://news.yahoo.co.jp/pickup/6602381?source=rss",
       "pubDate": "2026-11-13T01:25:17.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "Microsoft障害 全面復旧は未定",
-      "link": "https://news.yahoo.co.jp/pickup/6602382?source=rss",
-      "pubDate": "2026-11-13T01:01:01.000Z"
     },
     {
       "category": "国内",
