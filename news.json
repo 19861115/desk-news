@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T08:00:48.739Z",
+  "updatedAt": "2026-11-13T08:15:32.628Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "支援金 勤労者全体の5割以上検討",
+      "link": "https://news.yahoo.co.jp/pickup/6602431?source=rss",
+      "pubDate": "2026-11-13T08:08:14.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -184,14 +192,6 @@
       "title": "恋活婚活「リアル回帰」の訳 解説",
       "link": "https://news.yahoo.co.jp/pickup/6602378?source=rss",
       "pubDate": "2026-11-13T00:23:48.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "思いやり予算 5年3兆円超を米要求",
-      "link": "https://news.yahoo.co.jp/pickup/6602377?source=rss",
-      "pubDate": "2026-11-13T00:02:00.000Z"
     },
     {
       "category": "科学",
