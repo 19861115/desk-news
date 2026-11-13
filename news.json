@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-13T03:00:50.217Z",
+  "updatedAt": "2026-11-13T03:15:32.984Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "Microsoft365で障害 SNSの反応",
+      "link": "https://news.yahoo.co.jp/pickup/6602401?source=rss",
+      "pubDate": "2026-11-13T03:06:06.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ANA、予約システムの一部に障害、予約できない場合も……国内線タイムセール初日に",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003178/",
+      "pubDate": "2026-11-13T02:51:05.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -16,6 +32,14 @@
       "title": "土木職員 今春45都道府県定員割れ",
       "link": "https://news.yahoo.co.jp/pickup/6602395?source=rss",
       "pubDate": "2026-11-13T02:42:29.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] パナソニック コネクト、Core Ultra シリーズ3を搭載した堅牢10型Windowsタブレット",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/13/news071.html",
+      "pubDate": "2026-11-13T02:39:00.000Z"
     },
     {
       "category": "経済",
@@ -88,22 +112,6 @@
       "title": "[ITmedia Mobile] ホイッスルになる引き手付き　リュックなどにも取り付けられるmaster-pieceのスマホショルダー",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news040.html",
       "pubDate": "2026-11-13T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 厚さ約8.7mmの薄型軽量設計を採用したMagSafe対応モバイルバッテリー「Xiaomi Super Slim 5000mAh」がセールで35％オフの2980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news064.html",
-      "pubDate": "2026-11-13T00:56:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 強力マグネットと折りたたみ式スタンドを備えたモバイルバッテリー「Anker 622 Magnetic Battery (MagGo)」がセールで18％オフの4490円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news062.html",
-      "pubDate": "2026-11-13T00:52:00.000Z"
     },
     {
       "category": "経済",
@@ -248,14 +256,6 @@
       "title": "キヤノンが他社と異なる方法でテレコンを内蔵した超望遠単焦点レンズを準備中？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1971.html",
       "pubDate": "2026-11-12T04:45:14.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "Appleサポートコミュ 20日閉鎖へ",
-      "link": "https://news.yahoo.co.jp/pickup/6602292?source=rss",
-      "pubDate": "2026-11-12T03:37:32.000Z"
     },
     {
       "category": "デジカメinfo",
