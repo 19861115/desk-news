@@ -1,13 +1,21 @@
 {
-  "updatedAt": "2026-11-13T05:30:42.306Z",
+  "updatedAt": "2026-11-13T05:45:33.171Z",
   "items": [
     {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
-      "title": "クレカのICチップすり替えに注意",
-      "link": "https://news.yahoo.co.jp/pickup/6602398?source=rss",
-      "pubDate": "2026-11-13T05:20:34.000Z"
+      "title": "クレカ不正利用 新たな手口に注意",
+      "link": "https://news.yahoo.co.jp/pickup/6602420?source=rss",
+      "pubDate": "2026-11-13T05:43:47.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "政府 ロシアに首脳会談を打診",
+      "link": "https://news.yahoo.co.jp/pickup/6602418?source=rss",
+      "pubDate": "2026-11-13T05:37:03.000Z"
     },
     {
       "category": "IT",
@@ -192,14 +200,6 @@
       "title": "人より人型ロボ多く?60年後予測",
       "link": "https://news.yahoo.co.jp/pickup/6602370?source=rss",
       "pubDate": "2026-11-12T23:10:47.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "首相 防衛費巡る「大幅増税」慎重",
-      "link": "https://news.yahoo.co.jp/pickup/6602369?source=rss",
-      "pubDate": "2026-11-12T22:59:30.000Z"
     },
     {
       "category": "国際",
