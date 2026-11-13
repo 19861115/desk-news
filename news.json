@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T06:45:32.805Z",
+  "updatedAt": "2026-11-13T07:00:51.708Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "メール障害で納期遅延 法的扱いは",
+      "link": "https://news.yahoo.co.jp/pickup/6602424?source=rss",
+      "pubDate": "2026-11-13T06:48:40.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -120,14 +128,6 @@
       "title": "エヌビディア 暫定CEOにクレス氏",
       "link": "https://news.yahoo.co.jp/pickup/6602391?source=rss",
       "pubDate": "2026-11-13T02:30:48.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "Microsoft障害 日本政府にも影響",
-      "link": "https://news.yahoo.co.jp/pickup/6602393?source=rss",
-      "pubDate": "2026-11-13T02:22:13.000Z"
     },
     {
       "category": "経済",
