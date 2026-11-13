@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T02:15:35.630Z",
+  "updatedAt": "2026-11-13T02:30:41.454Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "Microsoft障害 日本政府にも影響",
+      "link": "https://news.yahoo.co.jp/pickup/6602393?source=rss",
+      "pubDate": "2026-11-13T02:22:13.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -136,14 +144,6 @@
       "title": "米首都銃撃5人死傷 容疑者も死亡",
       "link": "https://news.yahoo.co.jp/pickup/6602368?source=rss",
       "pubDate": "2026-11-12T22:44:16.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "「Microsoft 365」で大規模障害",
-      "link": "https://news.yahoo.co.jp/pickup/6602362?source=rss",
-      "pubDate": "2026-11-12T22:19:09.000Z"
     },
     {
       "category": "経済",
