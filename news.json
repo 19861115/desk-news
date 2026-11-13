@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T04:45:34.892Z",
+  "updatedAt": "2026-11-13T05:00:50.916Z",
   "items": [
     {
       "category": "ITmedia",
@@ -8,6 +8,14 @@
       "title": "[ITmedia News] AWS、Microsoft 365障害の影響を否定　正常稼働を強調",
       "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003185/",
       "pubDate": "2026-11-13T04:02:15.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "Kマウントのディスコンになったレンズと現行レンズのリスト（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/k-8.html",
+      "pubDate": "2026-11-13T04:00:42.000Z"
     },
     {
       "category": "国際",
@@ -272,14 +280,6 @@
       "title": "ニコンは全体では黒字転換したが映像事業は減収減益（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1970.html",
       "pubDate": "2026-11-10T08:44:39.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "各社の新製品に関するまとめといくつかの追加情報（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1969.html",
-      "pubDate": "2026-11-09T16:11:53.000Z"
     }
   ]
 }
