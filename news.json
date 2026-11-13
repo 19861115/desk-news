@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T02:45:32.925Z",
+  "updatedAt": "2026-11-13T03:00:50.217Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "冬の電気・ガスなど支援 6500億円",
+      "link": "https://news.yahoo.co.jp/pickup/6602397?source=rss",
+      "pubDate": "2026-11-13T02:50:29.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "米首都銃撃5人死傷 容疑者も死亡",
       "link": "https://news.yahoo.co.jp/pickup/6602368?source=rss",
       "pubDate": "2026-11-12T22:44:16.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "エヌビディアCEO辞任 動揺広がる",
-      "link": "https://news.yahoo.co.jp/pickup/6602361?source=rss",
-      "pubDate": "2026-11-12T21:59:48.000Z"
     },
     {
       "category": "国際",
