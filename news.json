@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T02:00:49.448Z",
+  "updatedAt": "2026-11-13T02:15:35.630Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "メルセデス 独工場の一部閉鎖検討",
+      "link": "https://news.yahoo.co.jp/pickup/6602392?source=rss",
+      "pubDate": "2026-11-13T02:06:47.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -176,14 +184,6 @@
       "title": "海岸にクジラの死骸 深海の希少種",
       "link": "https://news.yahoo.co.jp/pickup/6602351?source=rss",
       "pubDate": "2026-11-12T13:57:11.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "タマホーム 5年以上前から不正か",
-      "link": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
-      "pubDate": "2026-11-12T13:34:28.000Z"
     },
     {
       "category": "国内",
