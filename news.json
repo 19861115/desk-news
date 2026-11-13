@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T01:15:32.414Z",
+  "updatedAt": "2026-11-13T01:30:40.849Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "「歩けない現実」向き合う9歳少女",
+      "link": "https://news.yahoo.co.jp/pickup/6602381?source=rss",
+      "pubDate": "2026-11-13T01:25:17.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -248,14 +256,6 @@
       "title": "Appleサポートコミュ 20日閉鎖へ",
       "link": "https://news.yahoo.co.jp/pickup/6602292?source=rss",
       "pubDate": "2026-11-12T03:37:32.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "生後6カ月の娘が突然死 父の思い",
-      "link": "https://news.yahoo.co.jp/pickup/6602289?source=rss",
-      "pubDate": "2026-11-12T03:23:04.000Z"
     },
     {
       "category": "デジカメinfo",
