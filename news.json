@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-13T03:45:34.314Z",
+  "updatedAt": "2026-11-13T04:00:46.040Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "イラン側 バーレーンの米施設攻撃",
+      "link": "https://news.yahoo.co.jp/pickup/6602406?source=rss",
+      "pubDate": "2026-11-13T03:57:37.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -240,14 +248,6 @@
       "title": "あくびは重要「肺魚」研究で確認",
       "link": "https://news.yahoo.co.jp/pickup/6602317?source=rss",
       "pubDate": "2026-11-12T08:07:37.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "海外からマンジャロ 韓国が容認",
-      "link": "https://news.yahoo.co.jp/pickup/6602299?source=rss",
-      "pubDate": "2026-11-12T05:05:34.000Z"
     },
     {
       "category": "デジカメinfo",
