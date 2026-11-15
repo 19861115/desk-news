@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-15T23:30:46.622Z",
+  "updatedAt": "2026-11-15T23:45:33.600Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 京成、公式サイト「システム不具合」で閲覧できない状態に　復旧未定",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003210/",
+      "pubDate": "2026-11-15T23:24:20.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -8,6 +16,38 @@
       "title": "AIに思考丸投げ 16歳「今後怖い」",
       "link": "https://news.yahoo.co.jp/pickup/6602749?source=rss",
       "pubDate": "2026-11-15T23:22:11.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003209/",
+      "pubDate": "2026-11-15T23:05:13.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+      "pubDate": "2026-11-15T23:00:07.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 西武HD、株主総会の質問にAIが「5秒」で回答生成　精度約9割を実現した裏側とは",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/16/news029.html",
+      "pubDate": "2026-11-15T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 作って終わりにしない ― 全社展開と運用の設計",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/16/2000002950/",
+      "pubDate": "2026-11-15T23:00:00.000Z"
     },
     {
       "category": "IT",
@@ -34,22 +74,6 @@
       "pubDate": "2026-11-15T22:43:59.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] Pinterest、“うざくない“広告をどう実現？　CBOに聞く",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/16/news014.html",
-      "pubDate": "2026-11-15T22:30:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 月「800億回」検索があるPinterest　広告強化の中、世界観を壊さないための「3つの工夫」",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/16/news015.html",
-      "pubDate": "2026-11-15T22:30:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -66,28 +90,12 @@
       "pubDate": "2026-11-15T22:20:16.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 内閣府の“神エクセル“は「0点」　デジタル庁公式ツールを試して分かった「使えないデータ」脱却のポイント",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/16/news048.html",
-      "pubDate": "2026-11-15T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] パスワードはもう限界　「物理」のセキュリティキーを手掛けるYubicoの日本市場戦略",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/16/news021.html",
-      "pubDate": "2026-11-15T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 勘定系をオンプレに残す三井住友信託、クラウドに移すソニー銀行　AWS活用の分かれ道",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/16/news019.html",
-      "pubDate": "2026-11-15T22:00:00.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックのLマウントシネマカメラは新型センサーを搭載？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1972.html",
+      "pubDate": "2026-11-15T16:37:34.000Z"
     },
     {
       "category": "国内",
@@ -218,6 +226,14 @@
       "pubDate": "2026-11-15T05:07:12.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが11月17日にLマウントシネマカメラを発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/1117l.html",
+      "pubDate": "2026-11-15T04:36:30.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -240,6 +256,30 @@
       "title": "Netflixが値上げ 最安は990円に",
       "link": "https://news.yahoo.co.jp/pickup/6602619?source=rss",
       "pubDate": "2026-11-14T22:58:48.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニー「α7SIV」は動画カメラから「S」本来の超高感度カメラに方向性を変えてくるのではないだろうか？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/7sivs.html",
+      "pubDate": "2026-11-14T09:32:40.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックのLマウントシネマカメラが間もなく発表される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/l-25.html",
+      "pubDate": "2026-11-14T07:37:10.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックとソニーの新型機が2027年初頭に発表される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/2027.html",
+      "pubDate": "2026-11-13T12:48:40.000Z"
     }
   ]
 }
