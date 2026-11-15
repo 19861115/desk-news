@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T23:00:50.234Z",
+  "updatedAt": "2026-11-15T23:15:32.605Z",
   "items": [
     {
       "category": "IT",
@@ -24,6 +24,22 @@
       "title": "大学発ベンチャー過去10年で3.5倍",
       "link": "https://news.yahoo.co.jp/pickup/6602745?source=rss",
       "pubDate": "2026-11-15T22:43:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] Pinterest、“うざくない“広告をどう実現？　CBOに聞く",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/16/news014.html",
+      "pubDate": "2026-11-15T22:30:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 月「800億回」検索があるPinterest　広告強化の中、世界観を壊さないための「3つの工夫」",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/16/news015.html",
+      "pubDate": "2026-11-15T22:30:00.000Z"
     },
     {
       "category": "経済",
@@ -63,22 +79,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia エンタープライズ] 勘定系をオンプレに残す三井住友信託、クラウドに移すソニー銀行　AWS活用の分かれ道",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2611/16/news019.html",
-      "pubDate": "2026-11-15T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 195店舗の電話対応を約70％削減　未来屋書店は最多の「商品の問い合わせ」をAIにどうさばかせた",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/16/news030.html",
-      "pubDate": "2026-11-15T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] メルカリ、アプリ開発「2日→数十分」へ　直面したAI時代の“意外な課題”とは？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/16/news031.html",
       "pubDate": "2026-11-15T22:00:00.000Z"
     },
     {
