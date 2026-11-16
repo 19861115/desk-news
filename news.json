@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T03:45:34.083Z",
+  "updatedAt": "2026-11-16T04:00:51.710Z",
   "items": [
     {
       "category": "国内",
@@ -72,6 +72,14 @@
       "title": "[ITmedia News] ドコモ、また「5G SA」で通信障害　今月3回目【更新】",
       "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
       "pubDate": "2026-11-16T02:56:22.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが11月17日のオンライン配信を予告（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/1117.html",
+      "pubDate": "2026-11-16T02:50:48.000Z"
     },
     {
       "category": "国内",
@@ -272,14 +280,6 @@
       "title": "パナソニックのLマウントシネマカメラが間もなく発表される？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/l-25.html",
       "pubDate": "2026-11-14T07:37:10.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックとソニーの新型機が2027年初頭に発表される？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027.html",
-      "pubDate": "2026-11-13T12:48:40.000Z"
     }
   ]
 }
