@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-16T08:30:42.892Z",
+  "updatedAt": "2026-11-16T08:45:36.180Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "「いきステ」経営改革 復活の兆し",
+      "link": "https://news.yahoo.co.jp/pickup/6602809?source=rss",
+      "pubDate": "2026-11-16T08:41:39.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "尖圭コンジローマ 男性患者が増加",
+      "link": "https://news.yahoo.co.jp/pickup/6602812?source=rss",
+      "pubDate": "2026-11-16T08:40:46.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "夫婦別々で帰省 あなたの考えは",
+      "link": "https://news.yahoo.co.jp/pickup/6602801?source=rss",
+      "pubDate": "2026-11-16T08:35:49.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "文科相のパーティー 会費は9万円",
+      "link": "https://news.yahoo.co.jp/pickup/6602811?source=rss",
+      "pubDate": "2026-11-16T08:33:57.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] スマホの速度競争は「古い指標になるかもしれない」　KDDI松田社長が語る“AI前提社会”のネットワーク戦略",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news073.html",
+      "pubDate": "2026-11-16T08:05:00.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -8,6 +48,14 @@
       "title": "ドコモ「5G SA」で障害 完全復旧",
       "link": "https://news.yahoo.co.jp/pickup/6602807?source=rss",
       "pubDate": "2026-11-16T08:04:49.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？　どうなる今後の半導体業界",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
+      "pubDate": "2026-11-16T08:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -50,28 +98,12 @@
       "pubDate": "2026-11-16T07:20:17.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 秋葉原スマートごみ箱、不法投棄を見越し“防犯カメラのある場所”に設置していた　千代田区に聞いた運用の実際",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003228/",
-      "pubDate": "2026-11-16T06:57:02.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "中国スパイ 諜報の傾向とパターン",
       "link": "https://news.yahoo.co.jp/pickup/6602800?source=rss",
       "pubDate": "2026-11-16T06:55:34.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] マッチングアプリ「タップル」緊急メンテで停止　「待ち合わせしてるのに連絡取れない」ユーザー困惑",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003230/",
-      "pubDate": "2026-11-16T06:55:27.000Z"
     },
     {
       "category": "経済",
@@ -114,14 +146,6 @@
       "pubDate": "2026-11-16T03:11:43.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "フアン氏復帰求める署名 16万人超",
-      "link": "https://news.yahoo.co.jp/pickup/6602778?source=rss",
-      "pubDate": "2026-11-16T03:10:41.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -160,14 +184,6 @@
       "title": "中国に隕石落下 ハンターが殺到",
       "link": "https://news.yahoo.co.jp/pickup/6602760?source=rss",
       "pubDate": "2026-11-16T00:40:35.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "介護事業所 昨年度は38.3%が赤字",
-      "link": "https://news.yahoo.co.jp/pickup/6602756?source=rss",
-      "pubDate": "2026-11-16T00:18:14.000Z"
     },
     {
       "category": "国際",
@@ -226,14 +242,6 @@
       "pubDate": "2026-11-15T12:02:41.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "生活保護費改定 物価高の反映焦点",
-      "link": "https://news.yahoo.co.jp/pickup/6602714?source=rss",
-      "pubDate": "2026-11-15T11:49:58.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -248,14 +256,6 @@
       "title": "死んだンゴ 投稿者命日に寄付急増",
       "link": "https://news.yahoo.co.jp/pickup/6602677?source=rss",
       "pubDate": "2026-11-15T07:07:47.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "SpaceX 宇宙船空中回収に初成功",
-      "link": "https://news.yahoo.co.jp/pickup/6602675?source=rss",
-      "pubDate": "2026-11-15T06:33:11.000Z"
     },
     {
       "category": "デジカメinfo",
