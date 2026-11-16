@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-16T08:00:58.205Z",
+  "updatedAt": "2026-11-16T08:15:34.550Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ドコモ「5G SA」で障害 完全復旧",
+      "link": "https://news.yahoo.co.jp/pickup/6602807?source=rss",
+      "pubDate": "2026-11-16T08:04:49.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ドコモ、また「5G SA」で通信障害　今月3回目【復旧】",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
+      "pubDate": "2026-11-16T07:52:17.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ドコモ「5G SA」今月3度目の障害、約6時間で復旧　原因は同じ「交換機への通信集中」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003233/",
+      "pubDate": "2026-11-16T07:46:10.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -50,28 +74,12 @@
       "pubDate": "2026-11-16T06:55:27.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ドウシシャ、アンプ＋スピーカー一体型デザインを採用したアナログレコードプレーヤー",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news069.html",
-      "pubDate": "2026-11-16T06:36:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "PS5の世界出荷1億台超 なぜ成功",
       "link": "https://news.yahoo.co.jp/pickup/6602798?source=rss",
       "pubDate": "2026-11-16T06:35:14.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ストレージ高騰でリファービッシュHDDが人気に／余ったSATA電源を有効活用！ アイネックスの“かゆいところに手が届く”新アイテムたち",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news066.html",
-      "pubDate": "2026-11-16T06:00:00.000Z"
     },
     {
       "category": "IT",
@@ -122,20 +130,20 @@
       "pubDate": "2026-11-16T03:07:35.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが11月17日のオンライン配信を予告（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/1117.html",
+      "pubDate": "2026-11-16T02:50:48.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "日韓首脳 17日にフィリピンで会談",
       "link": "https://news.yahoo.co.jp/pickup/6602766?source=rss",
       "pubDate": "2026-11-16T02:38:36.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ドコモ「5G SA」でまた通信障害",
-      "link": "https://news.yahoo.co.jp/pickup/6602767?source=rss",
-      "pubDate": "2026-11-16T02:26:41.000Z"
     },
     {
       "category": "IT",
@@ -184,6 +192,14 @@
       "title": "エストニア ロシアとの国境閉鎖へ",
       "link": "https://news.yahoo.co.jp/pickup/6602742?source=rss",
       "pubDate": "2026-11-15T22:20:16.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックのLマウントシネマカメラは新型センサーを搭載？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1972.html",
+      "pubDate": "2026-11-15T16:37:34.000Z"
     },
     {
       "category": "国内",
@@ -240,6 +256,30 @@
       "title": "SpaceX 宇宙船空中回収に初成功",
       "link": "https://news.yahoo.co.jp/pickup/6602675?source=rss",
       "pubDate": "2026-11-15T06:33:11.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが11月17日にLマウントシネマカメラを発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/1117l.html",
+      "pubDate": "2026-11-15T04:36:30.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニー「α7SIV」は動画カメラから「S」本来の超高感度カメラに方向性を変えてくるのではないだろうか？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/7sivs.html",
+      "pubDate": "2026-11-14T09:32:40.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックのLマウントシネマカメラが間もなく発表される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/l-25.html",
+      "pubDate": "2026-11-14T07:37:10.000Z"
     }
   ]
 }
