@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-16T07:00:59.920Z",
+  "updatedAt": "2026-11-16T07:15:38.291Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 秋葉原スマートごみ箱、不法投棄を見越し“防犯カメラのある場所”に設置していた　千代田区に聞いた運用の実際",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003228/",
+      "pubDate": "2026-11-16T06:57:02.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "中国スパイ 諜報の傾向とパターン",
       "link": "https://news.yahoo.co.jp/pickup/6602800?source=rss",
       "pubDate": "2026-11-16T06:55:34.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] マッチングアプリ「タップル」緊急メンテで停止　「待ち合わせしてるのに連絡取れない」ユーザー困惑",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003230/",
+      "pubDate": "2026-11-16T06:55:27.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ドウシシャ、アンプ＋スピーカー一体型デザインを採用したアナログレコードプレーヤー",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news069.html",
+      "pubDate": "2026-11-16T06:36:00.000Z"
     },
     {
       "category": "経済",
@@ -34,14 +58,6 @@
       "pubDate": "2026-11-16T05:40:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] VITRO、楽天Edyに対応した決済専用スマートリング　Makuakeで先行販売",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news067.html",
-      "pubDate": "2026-11-16T05:36:00.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -58,28 +74,12 @@
       "pubDate": "2026-11-16T04:59:06.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] Y!mobile、5～18歳＋家族向け「ワイモバ親子割」提供　各種割引適用で30GBが1年間月858円から",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news064.html",
-      "pubDate": "2026-11-16T04:31:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "分譲マンション賃料過去最高 東京",
       "link": "https://news.yahoo.co.jp/pickup/6602785?source=rss",
       "pubDate": "2026-11-16T04:30:28.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 磁気研究所、スマートフォンから利用できる小型設計のラベルプリンタ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news063.html",
-      "pubDate": "2026-11-16T04:28:00.000Z"
     },
     {
       "category": "国内",
