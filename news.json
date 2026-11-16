@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-16T23:30:41.903Z",
+  "updatedAt": "2026-11-16T23:45:33.435Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "日米豪印の共同文書案 概要が判明",
+      "link": "https://news.yahoo.co.jp/pickup/6602863?source=rss",
+      "pubDate": "2026-11-16T23:33:25.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -16,6 +24,30 @@
       "title": "日露会談「否定しない」露報道官",
       "link": "https://news.yahoo.co.jp/pickup/6602860?source=rss",
       "pubDate": "2026-11-16T23:05:40.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] OpenAIをカリフォルニア州が提訴　「AIエージェントの制御を80回以上失った」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003246/",
+      "pubDate": "2026-11-16T23:04:43.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 空港ラウンジは待つ場所から“過ごす場所”に　刷新したJAL羽田国内線ラウンジを見てきた　個室ワークスペースや焼きカレーパンも",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news033.html",
+      "pubDate": "2026-11-16T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] フアン氏はNVIDIAに復帰できるのか？　揺れる取締役会と「米中AI競争の行方」",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/17/news032.html",
+      "pubDate": "2026-11-16T23:00:00.000Z"
     },
     {
       "category": "経済",
@@ -42,22 +74,6 @@
       "pubDate": "2026-11-16T22:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 「記号3種類以上」「8文字以内」――煩雑過ぎるルールの中でパスワード使い回しをやめるには",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news022.html",
-      "pubDate": "2026-11-16T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] Metaの「Muse」を入れた人はClaudeをむしろ長く使う　それでもAnthropicが警戒すべき理由",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news021.html",
-      "pubDate": "2026-11-16T22:00:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -72,14 +88,6 @@
       "title": "トランプ大統領 アジア歴訪へ出発",
       "link": "https://news.yahoo.co.jp/pickup/6602850?source=rss",
       "pubDate": "2026-11-16T21:21:32.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] NTTが宇宙光通信網の構築へ　「IOWN搭載」衛星と宇宙データセンターで米中に挑む",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/17/news039.html",
-      "pubDate": "2026-11-16T21:00:00.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -192,14 +200,6 @@
       "title": "尖圭コンジローマ 男性患者が増加",
       "link": "https://news.yahoo.co.jp/pickup/6602812?source=rss",
       "pubDate": "2026-11-16T08:40:46.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "文科相のパーティー 会費は9万円",
-      "link": "https://news.yahoo.co.jp/pickup/6602811?source=rss",
-      "pubDate": "2026-11-16T08:33:57.000Z"
     },
     {
       "category": "IT",
