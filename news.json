@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-16T04:30:49.533Z",
+  "updatedAt": "2026-11-16T04:45:42.816Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "中国スパイ疑惑事件 諜報の傾向は",
+      "link": "https://news.yahoo.co.jp/pickup/6602777?source=rss",
+      "pubDate": "2026-11-16T04:35:00.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "PS5の世界出荷1億台 成功の背景",
+      "link": "https://news.yahoo.co.jp/pickup/6602776?source=rss",
+      "pubDate": "2026-11-16T04:34:07.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "分譲マンション賃料過去最高 東京",
+      "link": "https://news.yahoo.co.jp/pickup/6602785?source=rss",
+      "pubDate": "2026-11-16T04:30:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] AIによる誤った判断、責任を負うのは誰？　「9割」をAIに委ねる時代に向け、IDCが提言",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news042.html",
+      "pubDate": "2026-11-16T04:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] アクセンチュアが説く「業務そのものの創り直し」とは？　AI活用が事業成果に結びつかない企業に向けた2つのポイント",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/16/news056.html",
+      "pubDate": "2026-11-16T04:00:00.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -58,22 +98,6 @@
       "pubDate": "2026-11-16T03:07:35.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性　独大学の調査結果",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
-      "pubDate": "2026-11-16T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 復旧できないバックアップは意味がない――脱・NASメーカーを志向する Synologyが見据えるAI時代の“守れるインフラ“とは？",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news059.html",
-      "pubDate": "2026-11-16T03:00:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -112,22 +136,6 @@
       "title": "中国に隕石落下 ハンターが殺到",
       "link": "https://news.yahoo.co.jp/pickup/6602760?source=rss",
       "pubDate": "2026-11-16T00:40:35.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "そごう・西武大規模改装に400億円",
-      "link": "https://news.yahoo.co.jp/pickup/6602755?source=rss",
-      "pubDate": "2026-11-16T00:25:56.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "7-9月期実質GDP 4期ぶりマイナス",
-      "link": "https://news.yahoo.co.jp/pickup/6602758?source=rss",
-      "pubDate": "2026-11-16T00:24:20.000Z"
     },
     {
       "category": "国内",
@@ -208,14 +216,6 @@
       "title": "生活保護費改定 物価高の反映焦点",
       "link": "https://news.yahoo.co.jp/pickup/6602714?source=rss",
       "pubDate": "2026-11-15T11:49:58.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "仏のデモおさまらず みえぬ打開策",
-      "link": "https://news.yahoo.co.jp/pickup/6602707?source=rss",
-      "pubDate": "2026-11-15T10:26:37.000Z"
     },
     {
       "category": "科学",
