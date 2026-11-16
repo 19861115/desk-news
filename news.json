@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-16T09:45:34.744Z",
+  "updatedAt": "2026-11-16T10:00:53.725Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "いきステに復活の兆し 改革の成果",
+      "link": "https://news.yahoo.co.jp/pickup/6602820?source=rss",
+      "pubDate": "2026-11-16T09:51:28.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -40,14 +48,6 @@
       "title": "[ITmedia Mobile] ドコモの「5G SA」通信障害は15時58分に回復　一時的に設定変更した人は元に戻したか確認を",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news074.html",
       "pubDate": "2026-11-16T08:45:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "「いきステ」経営改革 復活の兆し",
-      "link": "https://news.yahoo.co.jp/pickup/6602809?source=rss",
-      "pubDate": "2026-11-16T08:41:39.000Z"
     },
     {
       "category": "科学",
