@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-16T23:00:59.612Z",
+  "updatedAt": "2026-11-16T23:15:33.104Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米大統領 フアン氏復帰検討に理解",
+      "link": "https://news.yahoo.co.jp/pickup/6602861?source=rss",
+      "pubDate": "2026-11-16T23:08:34.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "日露会談「否定しない」露報道官",
+      "link": "https://news.yahoo.co.jp/pickup/6602860?source=rss",
+      "pubDate": "2026-11-16T23:05:40.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -64,6 +80,22 @@
       "title": "[ITmedia ビジネスオンライン] NTTが宇宙光通信網の構築へ　「IOWN搭載」衛星と宇宙データセンターで米中に挑む",
       "link": "https://www.itmedia.co.jp/business/articles/2611/17/news039.html",
       "pubDate": "2026-11-16T21:00:00.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックの新しいLマウントシネマカメラにはIBISと液晶モニタが搭載される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/libis.html",
+      "pubDate": "2026-11-16T16:52:25.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックの新型Lマウントカメラの不鮮明な画像（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/l-26.html",
+      "pubDate": "2026-11-16T15:18:42.000Z"
     },
     {
       "category": "国際",
@@ -186,14 +218,6 @@
       "pubDate": "2026-11-16T07:38:58.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "中国スパイ 諜報の傾向とパターン",
-      "link": "https://news.yahoo.co.jp/pickup/6602800?source=rss",
-      "pubDate": "2026-11-16T06:55:34.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -208,6 +232,14 @@
       "title": "サイバー攻撃 AI「自律化」が脅威",
       "link": "https://news.yahoo.co.jp/pickup/6602770?source=rss",
       "pubDate": "2026-11-16T03:07:35.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが11月17日のオンライン配信を予告（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/1117.html",
+      "pubDate": "2026-11-16T02:50:48.000Z"
     },
     {
       "category": "IT",
@@ -226,12 +258,12 @@
       "pubDate": "2026-11-16T00:40:35.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "エボラ アフリカ中部で今なお猛威",
-      "link": "https://news.yahoo.co.jp/pickup/6602757?source=rss",
-      "pubDate": "2026-11-16T00:17:16.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックのLマウントシネマカメラは新型センサーを搭載？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1972.html",
+      "pubDate": "2026-11-15T16:37:34.000Z"
     },
     {
       "category": "科学",
@@ -240,6 +272,14 @@
       "title": "妻が酒でひょう変 限界感じた夫",
       "link": "https://news.yahoo.co.jp/pickup/6602718?source=rss",
       "pubDate": "2026-11-15T12:02:41.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが11月17日にLマウントシネマカメラを発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/1117l.html",
+      "pubDate": "2026-11-15T04:36:30.000Z"
     }
   ]
 }
