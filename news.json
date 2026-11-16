@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T05:30:42.700Z",
+  "updatedAt": "2026-11-16T05:45:33.092Z",
   "items": [
     {
       "category": "IT",
@@ -53,6 +53,14 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ソフトバンク、最大30GBの2段階定額プラン「スマホデビュープラン2」　条件達成で5～18歳は半年間0円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news060.html",
+      "pubDate": "2026-11-16T04:07:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia エンタープライズ] AIによる誤った判断、責任を負うのは誰？　「9割」をAIに委ねる時代に向け、IDCが提言",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news042.html",
       "pubDate": "2026-11-16T04:00:00.000Z"
@@ -72,14 +80,6 @@
       "title": "[ITmedia News] スパコン「富岳」に不正アクセス　理研が明らかに",
       "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/",
       "pubDate": "2026-11-16T03:42:48.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] AI時代、IT部門の人材育成を企業はどう考えている？　ITRが「IT投資動向調査2027」を発表",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/16/news034.html",
-      "pubDate": "2026-11-16T03:30:00.000Z"
     },
     {
       "category": "国内",
