@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-16T05:00:49.948Z",
+  "updatedAt": "2026-11-16T05:15:36.133Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "富岳に不正アクセス 理研が明かす",
+      "link": "https://news.yahoo.co.jp/pickup/6602790?source=rss",
+      "pubDate": "2026-11-16T05:05:16.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -32,6 +40,14 @@
       "title": "分譲マンション賃料過去最高 東京",
       "link": "https://news.yahoo.co.jp/pickup/6602785?source=rss",
       "pubDate": "2026-11-16T04:30:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 磁気研究所、スマートフォンから利用できる小型設計のラベルプリンタ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news063.html",
+      "pubDate": "2026-11-16T04:28:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -72,14 +88,6 @@
       "title": "今週後半ほど気温低く 冬の空気に",
       "link": "https://news.yahoo.co.jp/pickup/6602780?source=rss",
       "pubDate": "2026-11-16T03:29:44.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] プラネックス、全ポート2.5GbE接続に対応した5ポート／8ポートアンマネージドLANスイッチ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news061.html",
-      "pubDate": "2026-11-16T03:18:00.000Z"
     },
     {
       "category": "経済",
@@ -168,14 +176,6 @@
       "title": "AIに思考丸投げ 16歳「今後怖い」",
       "link": "https://news.yahoo.co.jp/pickup/6602749?source=rss",
       "pubDate": "2026-11-15T23:22:11.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "AI敵視から融和へ Disney路線変更",
-      "link": "https://news.yahoo.co.jp/pickup/6602748?source=rss",
-      "pubDate": "2026-11-15T22:52:25.000Z"
     },
     {
       "category": "国際",
