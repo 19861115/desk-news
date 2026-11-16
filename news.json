@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-16T01:30:44.906Z",
+  "updatedAt": "2026-11-16T01:45:32.729Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ　退職者などアクセス可能な状態、約13年続く",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
+      "pubDate": "2026-11-16T01:14:23.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "ウが露ネット関連施設攻撃 狙いは",
       "link": "https://news.yahoo.co.jp/pickup/6602761?source=rss",
       "pubDate": "2026-11-16T01:04:47.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 【ダイソー】1100円の「寝ながら　完全ワイヤレスステレオイヤホン」　タッチセンサー搭載、最大5時間再生",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news041.html",
+      "pubDate": "2026-11-16T01:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -88,22 +104,6 @@
       "title": "AIに思考丸投げ 16歳「今後怖い」",
       "link": "https://news.yahoo.co.jp/pickup/6602749?source=rss",
       "pubDate": "2026-11-15T23:22:11.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003209/",
-      "pubDate": "2026-11-15T23:05:13.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 西武HD、株主総会の質問にAIが「5秒」で回答生成　精度約9割を実現した裏側とは",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/16/news029.html",
-      "pubDate": "2026-11-15T23:00:00.000Z"
     },
     {
       "category": "IT",
