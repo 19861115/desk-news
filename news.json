@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-16T10:15:40.193Z",
+  "updatedAt": "2026-11-16T10:30:43.145Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "政府 19日の米中ロ首脳会談を注視",
+      "link": "https://news.yahoo.co.jp/pickup/6602819?source=rss",
+      "pubDate": "2026-11-16T10:16:28.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -216,14 +224,6 @@
       "title": "パナソニックのLマウントシネマカメラは新型センサーを搭載？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1972.html",
       "pubDate": "2026-11-15T16:37:34.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "原潜の保有「反対」52% 読売調査",
-      "link": "https://news.yahoo.co.jp/pickup/6602735?source=rss",
-      "pubDate": "2026-11-15T14:36:13.000Z"
     },
     {
       "category": "国際",
