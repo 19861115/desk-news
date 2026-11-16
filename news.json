@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-16T11:00:54.564Z",
+  "updatedAt": "2026-11-16T11:15:34.419Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "コカイン摘発 過去最多更新ペース",
+      "link": "https://news.yahoo.co.jp/pickup/6602825?source=rss",
+      "pubDate": "2026-11-16T11:00:04.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -168,14 +176,6 @@
       "title": "パナソニックが11月17日のオンライン配信を予告（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/1117.html",
       "pubDate": "2026-11-16T02:50:48.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "日韓首脳 17日にフィリピンで会談",
-      "link": "https://news.yahoo.co.jp/pickup/6602766?source=rss",
-      "pubDate": "2026-11-16T02:38:36.000Z"
     },
     {
       "category": "IT",
