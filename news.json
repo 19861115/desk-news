@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T10:30:43.145Z",
+  "updatedAt": "2026-11-16T10:45:34.980Z",
   "items": [
     {
       "category": "国内",
@@ -40,6 +40,14 @@
       "title": "[ITmedia News] ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？　どうなる今後の半導体業界",
       "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
       "pubDate": "2026-11-16T09:05:36.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] Google Storeで「ブラックフライデーセール」開催　Pixelシリーズの割引やストアポイント付与あり",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news075.html",
+      "pubDate": "2026-11-16T08:56:00.000Z"
     },
     {
       "category": "国内",
@@ -96,14 +104,6 @@
       "title": "[ITmedia News] ドコモ、また「5G SA」で通信障害　今月3回目【復旧】",
       "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
       "pubDate": "2026-11-16T07:52:17.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ドコモ「5G SA」今月3度目の障害、約6時間で復旧　原因は同じ「交換機への通信集中」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003233/",
-      "pubDate": "2026-11-16T07:46:10.000Z"
     },
     {
       "category": "国際",
