@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-16T01:00:54.770Z",
+  "updatedAt": "2026-11-16T01:15:33.703Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ウが露ネット関連施設攻撃 狙いは",
+      "link": "https://news.yahoo.co.jp/pickup/6602761?source=rss",
+      "pubDate": "2026-11-16T01:04:47.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+      "pubDate": "2026-11-16T00:49:03.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -16,6 +32,14 @@
       "title": "中国に隕石落下 ハンターが殺到",
       "link": "https://news.yahoo.co.jp/pickup/6602760?source=rss",
       "pubDate": "2026-11-16T00:40:35.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] ナノ材料と印刷　唯一無二の技術で世界の製造業の変革に挑戦　エレファンテック　月刊Biz",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/16/2000003212/",
+      "pubDate": "2026-11-16T00:36:51.000Z"
     },
     {
       "category": "経済",
@@ -77,24 +101,8 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
-      "pubDate": "2026-11-15T23:00:07.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] 西武HD、株主総会の質問にAIが「5秒」で回答生成　精度約9割を実現した裏側とは",
       "link": "https://www.itmedia.co.jp/business/articles/2611/16/news029.html",
-      "pubDate": "2026-11-15T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 作って終わりにしない ― 全社展開と運用の設計",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/16/2000002950/",
       "pubDate": "2026-11-15T23:00:00.000Z"
     },
     {
@@ -248,14 +256,6 @@
       "title": "AIエージェント普及 問われる対応",
       "link": "https://news.yahoo.co.jp/pickup/6602642?source=rss",
       "pubDate": "2026-11-15T01:44:27.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "Netflixが値上げ 最安は990円に",
-      "link": "https://news.yahoo.co.jp/pickup/6602619?source=rss",
-      "pubDate": "2026-11-14T22:58:48.000Z"
     },
     {
       "category": "デジカメinfo",
