@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-16T08:45:36.180Z",
+  "updatedAt": "2026-11-16T09:00:53.211Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "どう思う 夫婦のセパレート帰省",
+      "link": "https://news.yahoo.co.jp/pickup/6602815?source=rss",
+      "pubDate": "2026-11-16T08:55:28.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -16,14 +24,6 @@
       "title": "尖圭コンジローマ 男性患者が増加",
       "link": "https://news.yahoo.co.jp/pickup/6602812?source=rss",
       "pubDate": "2026-11-16T08:40:46.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "夫婦別々で帰省 あなたの考えは",
-      "link": "https://news.yahoo.co.jp/pickup/6602801?source=rss",
-      "pubDate": "2026-11-16T08:35:49.000Z"
     },
     {
       "category": "国内",
