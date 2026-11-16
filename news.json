@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-16T04:00:51.710Z",
+  "updatedAt": "2026-11-16T04:15:34.187Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] スパコン「富岳」に不正アクセス　理研が明らかに",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/",
+      "pubDate": "2026-11-16T03:42:48.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] AI時代、IT部門の人材育成を企業はどう考えている？　ITRが「IT投資動向調査2027」を発表",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/16/news034.html",
+      "pubDate": "2026-11-16T03:30:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -56,22 +72,6 @@
       "title": "[ITmedia PC USER] 復旧できないバックアップは意味がない――脱・NASメーカーを志向する Synologyが見据えるAI時代の“守れるインフラ“とは？",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news059.html",
       "pubDate": "2026-11-16T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] フリーランス市場、受注者の約8割がAIを利用　自発的に開示は1割弱、両者に意識差　IBMリサーチなど調査",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003198/",
-      "pubDate": "2026-11-16T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ドコモ、また「5G SA」で通信障害　今月3回目【更新】",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
-      "pubDate": "2026-11-16T02:56:22.000Z"
     },
     {
       "category": "デジカメinfo",
