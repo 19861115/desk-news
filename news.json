@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-16T00:15:35.176Z",
+  "updatedAt": "2026-11-16T00:30:46.439Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "そごう・西武大規模改装に400億円",
+      "link": "https://news.yahoo.co.jp/pickup/6602755?source=rss",
+      "pubDate": "2026-11-16T00:25:56.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "7-9月期実質GDP 4期ぶりマイナス",
+      "link": "https://news.yahoo.co.jp/pickup/6602758?source=rss",
+      "pubDate": "2026-11-16T00:24:20.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "介護事業所 昨年度は38.3%が赤字",
+      "link": "https://news.yahoo.co.jp/pickup/6602756?source=rss",
+      "pubDate": "2026-11-16T00:18:14.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "エボラ アフリカ中部で今なお猛威",
+      "link": "https://news.yahoo.co.jp/pickup/6602757?source=rss",
+      "pubDate": "2026-11-16T00:17:16.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -90,14 +122,6 @@
       "pubDate": "2026-11-15T22:20:16.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックのLマウントシネマカメラは新型センサーを搭載？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1972.html",
-      "pubDate": "2026-11-15T16:37:34.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -112,14 +136,6 @@
       "title": "MS障害 インド政府機関混乱なし",
       "link": "https://news.yahoo.co.jp/pickup/6602734?source=rss",
       "pubDate": "2026-11-15T14:27:33.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "NVIDIAフアン氏復帰を 署名広がる",
-      "link": "https://news.yahoo.co.jp/pickup/6602724?source=rss",
-      "pubDate": "2026-11-15T13:02:58.000Z"
     },
     {
       "category": "国際",
@@ -146,14 +162,6 @@
       "pubDate": "2026-11-15T11:49:58.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "横田さん拉致49年 北側の真相不明",
-      "link": "https://news.yahoo.co.jp/pickup/6602710?source=rss",
-      "pubDate": "2026-11-15T11:03:14.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -168,22 +176,6 @@
       "title": "防衛省AI活用の基本方針 見直しへ",
       "link": "https://news.yahoo.co.jp/pickup/6602704?source=rss",
       "pubDate": "2026-11-15T10:00:56.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "スガキヤ20年ぶり関東に進出 狙い",
-      "link": "https://news.yahoo.co.jp/pickup/6602698?source=rss",
-      "pubDate": "2026-11-15T09:11:05.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "「中国の元スパイ」語る 接近手口",
-      "link": "https://news.yahoo.co.jp/pickup/6602697?source=rss",
-      "pubDate": "2026-11-15T08:56:52.000Z"
     },
     {
       "category": "国内",
@@ -226,14 +218,6 @@
       "pubDate": "2026-11-15T05:07:12.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが11月17日にLマウントシネマカメラを発表？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/1117l.html",
-      "pubDate": "2026-11-15T04:36:30.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -256,30 +240,6 @@
       "title": "Netflixが値上げ 最安は990円に",
       "link": "https://news.yahoo.co.jp/pickup/6602619?source=rss",
       "pubDate": "2026-11-14T22:58:48.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニー「α7SIV」は動画カメラから「S」本来の超高感度カメラに方向性を変えてくるのではないだろうか？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/7sivs.html",
-      "pubDate": "2026-11-14T09:32:40.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックのLマウントシネマカメラが間もなく発表される？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/l-25.html",
-      "pubDate": "2026-11-14T07:37:10.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックとソニーの新型機が2027年初頭に発表される？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027.html",
-      "pubDate": "2026-11-13T12:48:40.000Z"
     }
   ]
 }
