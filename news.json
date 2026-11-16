@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:30:48.825Z",
+  "updatedAt": "2026-11-16T11:45:37.533Z",
   "items": [
     {
       "category": "国内",
@@ -16,6 +16,14 @@
       "title": "政府 19日の米中ロ首脳会談を注視",
       "link": "https://news.yahoo.co.jp/pickup/6602819?source=rss",
       "pubDate": "2026-11-16T10:16:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] Y!mobileの認定中古「iPhone 13（128GB）」、新規／MNPで1万4800円【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news077.html",
+      "pubDate": "2026-11-16T10:14:00.000Z"
     },
     {
       "category": "経済",
@@ -104,14 +112,6 @@
       "title": "ドコモ「5G SA」で障害 完全復旧",
       "link": "https://news.yahoo.co.jp/pickup/6602807?source=rss",
       "pubDate": "2026-11-16T08:04:49.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ドコモ、また「5G SA」で通信障害　今月3回目【復旧】",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
-      "pubDate": "2026-11-16T07:52:17.000Z"
     },
     {
       "category": "国際",
