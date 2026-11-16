@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-16T06:30:43.863Z",
+  "updatedAt": "2026-11-16T06:45:35.824Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "PS5の世界出荷1億台超 なぜ成功",
+      "link": "https://news.yahoo.co.jp/pickup/6602798?source=rss",
+      "pubDate": "2026-11-16T06:35:14.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ストレージ高騰でリファービッシュHDDが人気に／余ったSATA電源を有効活用！ アイネックスの“かゆいところに手が届く”新アイテムたち",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news066.html",
+      "pubDate": "2026-11-16T06:00:00.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -42,14 +58,6 @@
       "pubDate": "2026-11-16T04:35:00.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "PS5の世界出荷1億台 成功の背景",
-      "link": "https://news.yahoo.co.jp/pickup/6602776?source=rss",
-      "pubDate": "2026-11-16T04:34:07.000Z"
-    },
-    {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
@@ -72,14 +80,6 @@
       "title": "[ITmedia PC USER] 磁気研究所、スマートフォンから利用できる小型設計のラベルプリンタ",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news063.html",
       "pubDate": "2026-11-16T04:28:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ソフトバンク、最大30GBの2段階定額プラン「スマホデビュープラン2」　条件達成で5～18歳は半年間0円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news060.html",
-      "pubDate": "2026-11-16T04:07:00.000Z"
     },
     {
       "category": "国内",
