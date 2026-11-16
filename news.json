@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T07:45:34.725Z",
+  "updatedAt": "2026-11-16T08:00:58.205Z",
   "items": [
     {
       "category": "国際",
@@ -122,14 +122,6 @@
       "pubDate": "2026-11-16T03:07:35.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが11月17日のオンライン配信を予告（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/1117.html",
-      "pubDate": "2026-11-16T02:50:48.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -194,14 +186,6 @@
       "pubDate": "2026-11-15T22:20:16.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックのLマウントシネマカメラは新型センサーを搭載？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1972.html",
-      "pubDate": "2026-11-15T16:37:34.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -256,30 +240,6 @@
       "title": "SpaceX 宇宙船空中回収に初成功",
       "link": "https://news.yahoo.co.jp/pickup/6602675?source=rss",
       "pubDate": "2026-11-15T06:33:11.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが11月17日にLマウントシネマカメラを発表？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/1117l.html",
-      "pubDate": "2026-11-15T04:36:30.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニー「α7SIV」は動画カメラから「S」本来の超高感度カメラに方向性を変えてくるのではないだろうか？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/7sivs.html",
-      "pubDate": "2026-11-14T09:32:40.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックのLマウントシネマカメラが間もなく発表される？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/l-25.html",
-      "pubDate": "2026-11-14T07:37:10.000Z"
     }
   ]
 }
