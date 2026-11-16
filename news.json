@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-11-16T11:45:37.533Z",
+  "updatedAt": "2026-11-16T23:00:59.612Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "「オーケー」関西出店加速 強みは",
+      "link": "https://news.yahoo.co.jp/pickup/6602859?source=rss",
+      "pubDate": "2026-11-16T22:49:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因　負荷増と容量減が重なり世界に波及",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
+      "pubDate": "2026-11-16T22:05:16.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] メルカリが「赤いボタンを1画面に1つ」しか置かない理由　ユーザーを迷わせないUI設計",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/17/news009.html",
+      "pubDate": "2026-11-16T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 「記号3種類以上」「8文字以内」――煩雑過ぎるルールの中でパスワード使い回しをやめるには",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news022.html",
+      "pubDate": "2026-11-16T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] Metaの「Muse」を入れた人はClaudeをむしろ長く使う　それでもAnthropicが警戒すべき理由",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news021.html",
+      "pubDate": "2026-11-16T22:00:00.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "NY株大幅反落 ハイテク株に売り",
+      "link": "https://news.yahoo.co.jp/pickup/6602852?source=rss",
+      "pubDate": "2026-11-16T21:54:31.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "トランプ大統領 アジア歴訪へ出発",
+      "link": "https://news.yahoo.co.jp/pickup/6602850?source=rss",
+      "pubDate": "2026-11-16T21:21:32.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] NTTが宇宙光通信網の構築へ　「IOWN搭載」衛星と宇宙データセンターで米中に挑む",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/17/news039.html",
+      "pubDate": "2026-11-16T21:00:00.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "3カ国会談巡り中国「戦勝国」強調",
+      "link": "https://news.yahoo.co.jp/pickup/6602847?source=rss",
+      "pubDate": "2026-11-16T14:25:07.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "はやぶさ2に不具合 目的地を変更",
+      "link": "https://news.yahoo.co.jp/pickup/6602844?source=rss",
+      "pubDate": "2026-11-16T14:00:45.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "卵サンドつかむ客動画炎上 店説明",
+      "link": "https://news.yahoo.co.jp/pickup/6602840?source=rss",
+      "pubDate": "2026-11-16T13:31:14.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "立憲 党職員への「退職勧奨」検討",
+      "link": "https://news.yahoo.co.jp/pickup/6602838?source=rss",
+      "pubDate": "2026-11-16T13:20:34.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "喫煙率なぜ地域差 北日本上位独占",
+      "link": "https://news.yahoo.co.jp/pickup/6602835?source=rss",
+      "pubDate": "2026-11-16T13:09:02.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -16,14 +120,6 @@
       "title": "政府 19日の米中ロ首脳会談を注視",
       "link": "https://news.yahoo.co.jp/pickup/6602819?source=rss",
       "pubDate": "2026-11-16T10:16:28.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] Y!mobileの認定中古「iPhone 13（128GB）」、新規／MNPで1万4800円【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news077.html",
-      "pubDate": "2026-11-16T10:14:00.000Z"
     },
     {
       "category": "経済",
@@ -50,36 +146,12 @@
       "pubDate": "2026-11-16T09:17:39.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？　どうなる今後の半導体業界",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
-      "pubDate": "2026-11-16T09:05:36.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] Google Storeで「ブラックフライデーセール」開催　Pixelシリーズの割引やストアポイント付与あり",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news075.html",
-      "pubDate": "2026-11-16T08:56:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "どう思う 夫婦のセパレート帰省",
       "link": "https://news.yahoo.co.jp/pickup/6602815?source=rss",
       "pubDate": "2026-11-16T08:55:28.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ドコモの「5G SA」通信障害は15時58分に回復　一時的に設定変更した人は元に戻したか確認を",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news074.html",
-      "pubDate": "2026-11-16T08:45:00.000Z"
     },
     {
       "category": "科学",
@@ -98,14 +170,6 @@
       "pubDate": "2026-11-16T08:33:57.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] スマホの速度競争は「古い指標になるかもしれない」　KDDI松田社長が語る“AI前提社会”のネットワーク戦略",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news073.html",
-      "pubDate": "2026-11-16T08:05:00.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -122,14 +186,6 @@
       "pubDate": "2026-11-16T07:38:58.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日経平均は反落 AI株が下げ主導",
-      "link": "https://news.yahoo.co.jp/pickup/6602802?source=rss",
-      "pubDate": "2026-11-16T07:24:08.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -144,22 +200,6 @@
       "title": "富岳に不正アクセス 理研が明かす",
       "link": "https://news.yahoo.co.jp/pickup/6602790?source=rss",
       "pubDate": "2026-11-16T05:05:16.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "今週後半ほど気温低く 冬の空気に",
-      "link": "https://news.yahoo.co.jp/pickup/6602780?source=rss",
-      "pubDate": "2026-11-16T03:29:44.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "若者に広がる投資熱 その実態は",
-      "link": "https://news.yahoo.co.jp/pickup/6602779?source=rss",
-      "pubDate": "2026-11-16T03:11:43.000Z"
     },
     {
       "category": "IT",
@@ -194,52 +234,12 @@
       "pubDate": "2026-11-16T00:17:16.000Z"
     },
     {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "AIに思考丸投げ 16歳「今後怖い」",
-      "link": "https://news.yahoo.co.jp/pickup/6602749?source=rss",
-      "pubDate": "2026-11-15T23:22:11.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "エストニア ロシアとの国境閉鎖へ",
-      "link": "https://news.yahoo.co.jp/pickup/6602742?source=rss",
-      "pubDate": "2026-11-15T22:20:16.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "MS障害 インド政府機関混乱なし",
-      "link": "https://news.yahoo.co.jp/pickup/6602734?source=rss",
-      "pubDate": "2026-11-15T14:27:33.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "妻が酒でひょう変 限界感じた夫",
       "link": "https://news.yahoo.co.jp/pickup/6602718?source=rss",
       "pubDate": "2026-11-15T12:02:41.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "おじさん構文 AIの学会で発表の訳",
-      "link": "https://news.yahoo.co.jp/pickup/6602695?source=rss",
-      "pubDate": "2026-11-15T08:48:13.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "死んだンゴ 投稿者命日に寄付急増",
-      "link": "https://news.yahoo.co.jp/pickup/6602677?source=rss",
-      "pubDate": "2026-11-15T07:07:47.000Z"
     }
   ]
 }
