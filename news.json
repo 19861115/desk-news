@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-16T03:00:53.940Z",
+  "updatedAt": "2026-11-16T03:15:37.689Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "若者に広がる投資熱 その実態は",
+      "link": "https://news.yahoo.co.jp/pickup/6602779?source=rss",
+      "pubDate": "2026-11-16T03:11:43.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "フアン氏復帰求める署名 16万人超",
+      "link": "https://news.yahoo.co.jp/pickup/6602778?source=rss",
+      "pubDate": "2026-11-16T03:10:41.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "サイバー攻撃 AI「自律化」が脅威",
+      "link": "https://news.yahoo.co.jp/pickup/6602770?source=rss",
+      "pubDate": "2026-11-16T03:07:35.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ドコモ、また「5G SA」で通信障害　今月3回目【更新】",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
+      "pubDate": "2026-11-16T02:56:22.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] マネックス証券、免許証画像やマイナカード表面など1592件漏えいか　口座開設システムに不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003222/",
+      "pubDate": "2026-11-16T02:46:01.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -37,14 +77,6 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ドコモ、また「5G SA」で通信障害　今月3回目【更新】",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
-      "pubDate": "2026-11-16T01:58:42.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
       "title": "[ITmedia News] エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ　退職者などアクセス可能な状態、約13年続く",
       "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
       "pubDate": "2026-11-16T01:14:23.000Z"
@@ -56,14 +88,6 @@
       "title": "ウが露ネット関連施設攻撃 狙いは",
       "link": "https://news.yahoo.co.jp/pickup/6602761?source=rss",
       "pubDate": "2026-11-16T01:04:47.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 【ダイソー】1100円の「寝ながら　完全ワイヤレスステレオイヤホン」　タッチセンサー搭載、最大5時間再生",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news041.html",
-      "pubDate": "2026-11-16T01:00:00.000Z"
     },
     {
       "category": "経済",
@@ -128,22 +152,6 @@
       "title": "AI敵視から融和へ Disney路線変更",
       "link": "https://news.yahoo.co.jp/pickup/6602748?source=rss",
       "pubDate": "2026-11-15T22:52:25.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "JSR売却 差益9000億円超の見込み",
-      "link": "https://news.yahoo.co.jp/pickup/6602747?source=rss",
-      "pubDate": "2026-11-15T22:47:18.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "大学発ベンチャー過去10年で3.5倍",
-      "link": "https://news.yahoo.co.jp/pickup/6602745?source=rss",
-      "pubDate": "2026-11-15T22:43:59.000Z"
     },
     {
       "category": "国際",
@@ -248,14 +256,6 @@
       "title": "パナソニックが11月17日にLマウントシネマカメラを発表？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/1117l.html",
       "pubDate": "2026-11-15T04:36:30.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "検事の取り調べ AIでチェックへ",
-      "link": "https://news.yahoo.co.jp/pickup/6602643?source=rss",
-      "pubDate": "2026-11-15T01:48:48.000Z"
     },
     {
       "category": "デジカメinfo",
