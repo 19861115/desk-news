@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-16T06:00:58.541Z",
+  "updatedAt": "2026-11-16T06:15:33.243Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] フリップ式タッチディスプレイを搭載したアクションカメラ「Insta360 Ace Pro」が35％オフの2万9100円に",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news068.html",
+      "pubDate": "2026-11-16T05:40:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] VITRO、楽天Edyに対応した決済専用スマートリング　Makuakeで先行販売",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news067.html",
+      "pubDate": "2026-11-16T05:36:00.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -34,6 +50,14 @@
       "pubDate": "2026-11-16T04:34:07.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] Y!mobile、5～18歳＋家族向け「ワイモバ親子割」提供　各種割引適用で30GBが1年間月858円から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news064.html",
+      "pubDate": "2026-11-16T04:31:00.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -56,30 +80,6 @@
       "title": "[ITmedia Mobile] ソフトバンク、最大30GBの2段階定額プラン「スマホデビュープラン2」　条件達成で5～18歳は半年間0円に",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news060.html",
       "pubDate": "2026-11-16T04:07:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] AIによる誤った判断、責任を負うのは誰？　「9割」をAIに委ねる時代に向け、IDCが提言",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news042.html",
-      "pubDate": "2026-11-16T04:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] アクセンチュアが説く「業務そのものの創り直し」とは？　AI活用が事業成果に結びつかない企業に向けた2つのポイント",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/16/news056.html",
-      "pubDate": "2026-11-16T04:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] スパコン「富岳」に不正アクセス　理研が明らかに",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/",
-      "pubDate": "2026-11-16T03:42:48.000Z"
     },
     {
       "category": "国内",
