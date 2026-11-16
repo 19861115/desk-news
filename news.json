@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-16T03:30:43.404Z",
+  "updatedAt": "2026-11-16T03:45:34.083Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "今週後半ほど気温低く 冬の空気に",
+      "link": "https://news.yahoo.co.jp/pickup/6602780?source=rss",
+      "pubDate": "2026-11-16T03:29:44.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] プラネックス、全ポート2.5GbE接続に対応した5ポート／8ポートアンマネージドLANスイッチ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news061.html",
+      "pubDate": "2026-11-16T03:18:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -29,17 +45,33 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ドコモ、また「5G SA」で通信障害　今月3回目【更新】",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
-      "pubDate": "2026-11-16T02:56:22.000Z"
+      "title": "[ITmedia News] パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性　独大学の調査結果",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
+      "pubDate": "2026-11-16T03:00:00.000Z"
     },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] マネックス証券、免許証画像やマイナカード表面など1592件漏えいか　口座開設システムに不正アクセス",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003222/",
-      "pubDate": "2026-11-16T02:46:01.000Z"
+      "title": "[ITmedia PC USER] 復旧できないバックアップは意味がない――脱・NASメーカーを志向する Synologyが見据えるAI時代の“守れるインフラ“とは？",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news059.html",
+      "pubDate": "2026-11-16T03:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] フリーランス市場、受注者の約8割がAIを利用　自発的に開示は1割弱、両者に意識差　IBMリサーチなど調査",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003198/",
+      "pubDate": "2026-11-16T03:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ドコモ、また「5G SA」で通信障害　今月3回目【更新】",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
+      "pubDate": "2026-11-16T02:56:22.000Z"
     },
     {
       "category": "国内",
@@ -56,30 +88,6 @@
       "title": "ドコモ「5G SA」でまた通信障害",
       "link": "https://news.yahoo.co.jp/pickup/6602767?source=rss",
       "pubDate": "2026-11-16T02:26:41.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「艦これアーケード」「オンゲキ」など一部再開　不正アクセスで停止のセガ系システムが試験復旧",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003220/",
-      "pubDate": "2026-11-16T02:26:04.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ドコモの「5G SA」携帯電話回線で全国規模の通信障害　11月16日10時2分頃に発生【継続中】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news057.html",
-      "pubDate": "2026-11-16T02:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ　退職者などアクセス可能な状態、約13年続く",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
-      "pubDate": "2026-11-16T01:14:23.000Z"
     },
     {
       "category": "IT",
@@ -216,14 +224,6 @@
       "title": "仏のデモおさまらず みえぬ打開策",
       "link": "https://news.yahoo.co.jp/pickup/6602707?source=rss",
       "pubDate": "2026-11-15T10:26:37.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "防衛省AI活用の基本方針 見直しへ",
-      "link": "https://news.yahoo.co.jp/pickup/6602704?source=rss",
-      "pubDate": "2026-11-15T10:00:56.000Z"
     },
     {
       "category": "科学",
