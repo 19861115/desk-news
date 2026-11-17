@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-17T10:00:51.336Z",
+  "updatedAt": "2026-11-17T10:15:33.803Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "「女性専用」ジム拡大 悩みに対応",
+      "link": "https://news.yahoo.co.jp/pickup/6602937?source=rss",
+      "pubDate": "2026-11-17T10:05:34.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003274/",
+      "pubDate": "2026-11-17T09:56:19.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -53,6 +69,14 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] Y!mobileの縦折りスマホ「nubia Flip 3」値下げ　MNPで2年24円に【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news070.html",
+      "pubDate": "2026-11-17T08:42:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia News] 東京都、水道利用者個人情報871件含むHDD紛失　一部に口座番号も　10月に同様事案",
       "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003270/",
       "pubDate": "2026-11-17T08:18:24.000Z"
@@ -96,22 +120,6 @@
       "title": "米国防長官 12月の訪日で調整",
       "link": "https://news.yahoo.co.jp/pickup/6602913?source=rss",
       "pubDate": "2026-11-17T07:21:52.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ドコモ通信障害に「大変遺憾」――総務省がコメント　5G SAは“11月に3度も”つながらず",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news067.html",
-      "pubDate": "2026-11-17T07:15:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 実売7980円の衝撃！　15.6型の激安モバイルディスプレイ「EVICIV EVC-1506S」の実力をチェックした",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/17/news044.html",
-      "pubDate": "2026-11-17T07:00:00.000Z"
     },
     {
       "category": "国内",
@@ -160,14 +168,6 @@
       "title": "米中露 共同コミュニケを発表へ",
       "link": "https://news.yahoo.co.jp/pickup/6602883?source=rss",
       "pubDate": "2026-11-17T02:13:12.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "「白い麻婆豆腐」じわじわ拡大",
-      "link": "https://news.yahoo.co.jp/pickup/6602880?source=rss",
-      "pubDate": "2026-11-17T01:47:32.000Z"
     },
     {
       "category": "国内",
