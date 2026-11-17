@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-17T08:45:33.582Z",
+  "updatedAt": "2026-11-17T09:00:53.260Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "高速の深夜割引 年度内に見直し",
+      "link": "https://news.yahoo.co.jp/pickup/6602923?source=rss",
+      "pubDate": "2026-11-17T08:44:10.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -184,14 +192,6 @@
       "title": "「オーケー」関西出店加速 強みは",
       "link": "https://news.yahoo.co.jp/pickup/6602859?source=rss",
       "pubDate": "2026-11-16T22:49:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "NY株大幅反落 ハイテク株に売り",
-      "link": "https://news.yahoo.co.jp/pickup/6602852?source=rss",
-      "pubDate": "2026-11-16T21:54:31.000Z"
     },
     {
       "category": "デジカメinfo",
