@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-17T04:00:55.282Z",
+  "updatedAt": "2026-11-17T04:15:33.834Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003258/",
+      "pubDate": "2026-11-17T03:50:05.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] モリサワや「mineo」など会員情報漏えい　マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003257/",
+      "pubDate": "2026-11-17T03:35:13.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -40,22 +56,6 @@
       "title": "イラン「汚い爆弾」米高官狙いか",
       "link": "https://news.yahoo.co.jp/pickup/6602889?source=rss",
       "pubDate": "2026-11-17T02:45:26.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] Snapdragon X搭載の「LAVIE N15」登場　Microsoft Officeの有無で2モデル展開",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/17/news055.html",
-      "pubDate": "2026-11-17T02:30:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 規制の厳しい業界でAIエージェントをどう導入する？　MicrosoftとIBMが発表した基盤「3つの特徴」",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news015.html",
-      "pubDate": "2026-11-17T02:30:00.000Z"
     },
     {
       "category": "経済",
@@ -162,6 +162,22 @@
       "pubDate": "2026-11-16T21:54:31.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックの新しいLマウントシネマカメラにはIBISと液晶モニタが搭載される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/libis.html",
+      "pubDate": "2026-11-16T16:52:25.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックの新型Lマウントカメラの不鮮明な画像（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/l-26.html",
+      "pubDate": "2026-11-16T15:18:42.000Z"
+    },
+    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -240,6 +256,30 @@
       "title": "サイバー攻撃 AI「自律化」が脅威",
       "link": "https://news.yahoo.co.jp/pickup/6602770?source=rss",
       "pubDate": "2026-11-16T03:07:35.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが11月17日のオンライン配信を予告（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/1117.html",
+      "pubDate": "2026-11-16T02:50:48.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックのLマウントシネマカメラは新型センサーを搭載？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1972.html",
+      "pubDate": "2026-11-15T16:37:34.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが11月17日にLマウントシネマカメラを発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/1117l.html",
+      "pubDate": "2026-11-15T04:36:30.000Z"
     }
   ]
 }
