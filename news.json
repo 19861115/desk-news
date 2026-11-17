@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-17T07:45:45.790Z",
+  "updatedAt": "2026-11-17T08:00:58.535Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "駅そばを倍に値上げ 決断した75歳",
+      "link": "https://news.yahoo.co.jp/pickup/6602919?source=rss",
+      "pubDate": "2026-11-17T07:59:05.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "物議の選挙ポスター AIと認める",
+      "link": "https://news.yahoo.co.jp/pickup/6602918?source=rss",
+      "pubDate": "2026-11-17T07:58:54.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -178,22 +194,6 @@
       "pubDate": "2026-11-16T21:54:31.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックの新しいLマウントシネマカメラにはIBISと液晶モニタが搭載される？［内容更新]（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/libis.html",
-      "pubDate": "2026-11-16T16:52:25.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックの新型Lマウントカメラの不鮮明な画像（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/l-26.html",
-      "pubDate": "2026-11-16T15:18:42.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -218,14 +218,6 @@
       "pubDate": "2026-11-16T13:09:02.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "いきステに復活の兆し 改革の成果",
-      "link": "https://news.yahoo.co.jp/pickup/6602820?source=rss",
-      "pubDate": "2026-11-16T09:51:28.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -248,38 +240,6 @@
       "title": "富岳に不正アクセス 理研が明かす",
       "link": "https://news.yahoo.co.jp/pickup/6602790?source=rss",
       "pubDate": "2026-11-16T05:05:16.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "サイバー攻撃 AI「自律化」が脅威",
-      "link": "https://news.yahoo.co.jp/pickup/6602770?source=rss",
-      "pubDate": "2026-11-16T03:07:35.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが11月17日のオンライン配信を予告（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/1117.html",
-      "pubDate": "2026-11-16T02:50:48.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックのLマウントシネマカメラは新型センサーを搭載？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1972.html",
-      "pubDate": "2026-11-15T16:37:34.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが11月17日にLマウントシネマカメラを発表？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/1117l.html",
-      "pubDate": "2026-11-15T04:36:30.000Z"
     }
   ]
 }
