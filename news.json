@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-17T11:00:52.370Z",
+  "updatedAt": "2026-11-17T11:15:33.335Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか　「テスト環境」の一部情報が流出",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003275/",
+      "pubDate": "2026-11-17T10:53:02.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 楽天証券、最大1125万口座の情報漏えいか　447万口座は「年収」「資産情報」も対象",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/17/news072.html",
+      "pubDate": "2026-11-17T10:45:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003274/",
+      "pubDate": "2026-11-17T10:31:33.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -8,14 +32,6 @@
       "title": "[ITmedia Mobile] 「au Design projectから、新しい発表をお届けします」　INFOBARの新機種登場か、11月18日10時から",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news075.html",
       "pubDate": "2026-11-17T10:16:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News]  楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか　最大447万口座は金融資産情報も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003275/",
-      "pubDate": "2026-11-17T10:08:05.000Z"
     },
     {
       "category": "ITmedia",
@@ -32,14 +48,6 @@
       "title": "「女性専用」ジム拡大 悩みに対応",
       "link": "https://news.yahoo.co.jp/pickup/6602937?source=rss",
       "pubDate": "2026-11-17T10:05:34.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に",
-      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003274/",
-      "pubDate": "2026-11-17T09:56:19.000Z"
     },
     {
       "category": "国内",
@@ -88,14 +96,6 @@
       "title": "高速の深夜割引 年度内に見直し",
       "link": "https://news.yahoo.co.jp/pickup/6602923?source=rss",
       "pubDate": "2026-11-17T08:44:10.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] Y!mobileの縦折りスマホ「nubia Flip 3」値下げ　MNPで2年24円に【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news070.html",
-      "pubDate": "2026-11-17T08:42:00.000Z"
     },
     {
       "category": "経済",
