@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-17T10:30:49.829Z",
+  "updatedAt": "2026-11-17T10:45:34.154Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「au Design projectから、新しい発表をお届けします」　INFOBARの新機種登場か、11月18日10時から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news075.html",
+      "pubDate": "2026-11-17T10:16:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News]  楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか　最大447万口座は金融資産情報も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003275/",
+      "pubDate": "2026-11-17T10:08:05.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 国内300万世帯が使うSwitchBot、次の10年は「AIとロボティクス」へ　5ブランド体制の狙いと日本で出る新製品",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/17/news071.html",
+      "pubDate": "2026-11-17T10:08:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -74,14 +98,6 @@
       "pubDate": "2026-11-17T08:42:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 東京都、水道利用者個人情報871件含むHDD紛失　一部に口座番号も　10月に同様事案",
-      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003270/",
-      "pubDate": "2026-11-17T08:18:24.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -96,22 +112,6 @@
       "title": "物議の選挙ポスター AIと認める",
       "link": "https://news.yahoo.co.jp/pickup/6602918?source=rss",
       "pubDate": "2026-11-17T07:58:54.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 理化学研究所のスパコン「富岳」運用系に不正アクセス　情報漏えいの恐れ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/17/news064.html",
-      "pubDate": "2026-11-17T07:30:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] メルカリと駿河屋、米国で合弁　実店舗運営、AI活用した査定・価格設定も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003266/",
-      "pubDate": "2026-11-17T07:22:56.000Z"
     },
     {
       "category": "国際",
@@ -202,6 +202,22 @@
       "pubDate": "2026-11-16T23:58:55.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックの新しいLマウントシネマカメラにはIBISと液晶モニタが搭載される？［内容更新]（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/libis.html",
+      "pubDate": "2026-11-16T16:52:25.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックの新型Lマウントカメラの不鮮明な画像（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/l-26.html",
+      "pubDate": "2026-11-16T15:18:42.000Z"
+    },
+    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -240,6 +256,30 @@
       "title": "ドコモ「5G SA」で障害 完全復旧",
       "link": "https://news.yahoo.co.jp/pickup/6602807?source=rss",
       "pubDate": "2026-11-16T08:04:49.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが11月17日のオンライン配信を予告（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/1117.html",
+      "pubDate": "2026-11-16T02:50:48.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックのLマウントシネマカメラは新型センサーを搭載？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1972.html",
+      "pubDate": "2026-11-15T16:37:34.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが11月17日にLマウントシネマカメラを発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/1117l.html",
+      "pubDate": "2026-11-15T04:36:30.000Z"
     }
   ]
 }
