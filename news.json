@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-17T11:15:33.335Z",
+  "updatedAt": "2026-11-17T11:30:42.815Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "政府広報 陰謀論系YouTuber起用",
+      "link": "https://news.yahoo.co.jp/pickup/6602941?source=rss",
+      "pubDate": "2026-11-17T11:20:29.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -168,14 +176,6 @@
       "title": "米中露 共同コミュニケを発表へ",
       "link": "https://news.yahoo.co.jp/pickup/6602883?source=rss",
       "pubDate": "2026-11-17T02:13:12.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "推定ロシア機領空侵犯 福岡沖ノ島",
-      "link": "https://news.yahoo.co.jp/pickup/6602882?source=rss",
-      "pubDate": "2026-11-17T01:47:00.000Z"
     },
     {
       "category": "IT",
