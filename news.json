@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-17T09:15:34.954Z",
+  "updatedAt": "2026-11-17T09:30:44.049Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "首相と露大統領 接触の方向で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6602931?source=rss",
+      "pubDate": "2026-11-17T09:15:40.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -184,14 +192,6 @@
       "title": "ネパールに「ガチ中華」急増 なぜ",
       "link": "https://news.yahoo.co.jp/pickup/6602865?source=rss",
       "pubDate": "2026-11-16T23:58:55.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "日米豪印の共同文書案 概要が判明",
-      "link": "https://news.yahoo.co.jp/pickup/6602863?source=rss",
-      "pubDate": "2026-11-16T23:33:25.000Z"
     },
     {
       "category": "デジカメinfo",
