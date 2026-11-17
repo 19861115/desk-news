@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-17T08:30:45.020Z",
+  "updatedAt": "2026-11-17T08:45:33.582Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 東京都、水道利用者個人情報871件含むHDD紛失　一部に口座番号も　10月に同様事案",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003270/",
+      "pubDate": "2026-11-17T08:18:24.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -56,14 +64,6 @@
       "title": "[ITmedia PC USER] 実売7980円の衝撃！　15.6型の激安モバイルディスプレイ「EVICIV EVC-1506S」の実力をチェックした",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/17/news044.html",
       "pubDate": "2026-11-17T07:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] スマホサイズの約6型モノクロ電子ペーパー端末「BOOX Palma 3」発売　Android 16搭載で約185g、約5.5万円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news066.html",
-      "pubDate": "2026-11-17T06:56:00.000Z"
     },
     {
       "category": "国内",
