@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-17T23:00:55.226Z",
+  "updatedAt": "2026-11-17T23:15:32.970Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] OpenAI、「GPT-6.2」の「Astra」と「Sol」を公開　AI自己改善能力は初の「High」に",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003279/",
+      "pubDate": "2026-11-17T22:47:14.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -55,14 +63,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] パスキーの“弱点”はどこにある？　会員アプリの安全性を高める「持たない」設計とは",
       "link": "https://www.itmedia.co.jp/business/articles/2611/18/news008.html",
-      "pubDate": "2026-11-17T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] なぜ「2段階認証」しても情報漏えい？　会員アプリを守るには",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/18/news007.html",
       "pubDate": "2026-11-17T22:00:00.000Z"
     },
     {
