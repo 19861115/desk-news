@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-17T09:00:53.260Z",
+  "updatedAt": "2026-11-17T09:15:34.954Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "鳥の生食 宮崎・鹿児島で聞いた声",
+      "link": "https://news.yahoo.co.jp/pickup/6602925?source=rss",
+      "pubDate": "2026-11-17T09:01:49.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -184,14 +192,6 @@
       "title": "日米豪印の共同文書案 概要が判明",
       "link": "https://news.yahoo.co.jp/pickup/6602863?source=rss",
       "pubDate": "2026-11-16T23:33:25.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "「オーケー」関西出店加速 強みは",
-      "link": "https://news.yahoo.co.jp/pickup/6602859?source=rss",
-      "pubDate": "2026-11-16T22:49:00.000Z"
     },
     {
       "category": "デジカメinfo",
