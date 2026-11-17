@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-17T00:00:53.783Z",
+  "updatedAt": "2026-11-17T00:15:34.206Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米大統領 金正恩氏と会談の可能性",
+      "link": "https://news.yahoo.co.jp/pickup/6602867?source=rss",
+      "pubDate": "2026-11-17T00:09:18.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "「防衛産業基盤戦略」概要が判明",
+      "link": "https://news.yahoo.co.jp/pickup/6602866?source=rss",
+      "pubDate": "2026-11-17T00:05:44.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -16,6 +32,14 @@
       "title": "日米豪印の共同文書案 概要が判明",
       "link": "https://news.yahoo.co.jp/pickup/6602863?source=rss",
       "pubDate": "2026-11-16T23:33:25.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] OpenAIがロボット専任チームを解散　ロボ開発の競争軸は「頭脳」から「現場データ」へ",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/17/news034.html",
+      "pubDate": "2026-11-16T23:30:00.000Z"
     },
     {
       "category": "国際",
@@ -74,14 +98,6 @@
       "pubDate": "2026-11-16T22:05:16.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] メルカリが「赤いボタンを1画面に1つ」しか置かない理由　ユーザーを迷わせないUI設計",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/17/news009.html",
-      "pubDate": "2026-11-16T22:00:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -112,14 +128,6 @@
       "title": "パナソニックの新型Lマウントカメラの不鮮明な画像（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/l-26.html",
       "pubDate": "2026-11-16T15:18:42.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "3カ国会談巡り中国「戦勝国」強調",
-      "link": "https://news.yahoo.co.jp/pickup/6602847?source=rss",
-      "pubDate": "2026-11-16T14:25:07.000Z"
     },
     {
       "category": "科学",
@@ -192,14 +200,6 @@
       "title": "タイムズカーの会員数 1.4万人減",
       "link": "https://news.yahoo.co.jp/pickup/6602816?source=rss",
       "pubDate": "2026-11-16T09:17:39.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "どう思う 夫婦のセパレート帰省",
-      "link": "https://news.yahoo.co.jp/pickup/6602815?source=rss",
-      "pubDate": "2026-11-16T08:55:28.000Z"
     },
     {
       "category": "科学",
