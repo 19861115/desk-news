@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-17T01:30:42.122Z",
+  "updatedAt": "2026-11-17T01:45:33.222Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "MS大規模障害 幹部が原因を説明",
+      "link": "https://news.yahoo.co.jp/pickup/6602871?source=rss",
+      "pubDate": "2026-11-17T01:32:41.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] VAIOがノートPCの標準メーカー保証を改訂　「ユーザー過失」「火災／落雷／水害」でも回数制限なしで無償修理　2026年9月以降の新モデルから適用",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/17/news051.html",
+      "pubDate": "2026-11-17T01:15:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「京成スカイライナー」予約システム不正アクセス、最大約337万件の顧客情報漏えいか",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003250/",
+      "pubDate": "2026-11-17T01:09:00.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -8,6 +32,30 @@
       "title": "しし座流星群 17日深夜から見ごろ",
       "link": "https://news.yahoo.co.jp/pickup/6602874?source=rss",
       "pubDate": "2026-11-17T01:07:50.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 9万円台からの「AQUOS sense11」発表　厚さ7.6mm／157gに薄型軽量化、最大4回／6年のアップデートに対応",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news050.html",
+      "pubDate": "2026-11-17T01:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 楽天市場で中古「iPhone 15」が販売中　128GBモデルが約7.9万円から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news040.html",
+      "pubDate": "2026-11-17T01:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] シャープは“10万円前後のミッドレンジ”をどう訴求するのか　「AQUOS sense11」で見せる妥協なき戦略",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news007.html",
+      "pubDate": "2026-11-17T01:00:00.000Z"
     },
     {
       "category": "国際",
@@ -26,14 +74,6 @@
       "pubDate": "2026-11-17T00:05:44.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] OpenAI、Apollo ResearchやMETRなど外部4団体を社内に迎える「埋め込み型」安全性評価を開始",
-      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003248/",
-      "pubDate": "2026-11-17T00:03:15.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -42,28 +82,12 @@
       "pubDate": "2026-11-16T23:58:55.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] NTTの島田明社長、宇宙光通信構想を発表　月面インフラや宇宙データセンターの整備も",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/17/2000003247/",
-      "pubDate": "2026-11-16T23:57:45.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "日米豪印の共同文書案 概要が判明",
       "link": "https://news.yahoo.co.jp/pickup/6602863?source=rss",
       "pubDate": "2026-11-16T23:33:25.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] OpenAIがロボット専任チームを解散　ロボ開発の競争軸は「頭脳」から「現場データ」へ",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/17/news034.html",
-      "pubDate": "2026-11-16T23:30:00.000Z"
     },
     {
       "category": "国際",
@@ -80,22 +104,6 @@
       "title": "日露会談「否定しない」露報道官",
       "link": "https://news.yahoo.co.jp/pickup/6602860?source=rss",
       "pubDate": "2026-11-16T23:05:40.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] OpenAIをカリフォルニア州が提訴　「AIエージェントの制御を80回以上失った」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003246/",
-      "pubDate": "2026-11-16T23:04:43.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 空港ラウンジは待つ場所から“過ごす場所”に　刷新したJAL羽田国内線ラウンジを見てきた　個室ワークスペースや焼きカレーパンも",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news033.html",
-      "pubDate": "2026-11-16T23:00:00.000Z"
     },
     {
       "category": "経済",
@@ -248,14 +256,6 @@
       "title": "パナソニックが11月17日のオンライン配信を予告（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/1117.html",
       "pubDate": "2026-11-16T02:50:48.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ウが露ネット関連施設攻撃 狙いは",
-      "link": "https://news.yahoo.co.jp/pickup/6602761?source=rss",
-      "pubDate": "2026-11-16T01:04:47.000Z"
     },
     {
       "category": "科学",
