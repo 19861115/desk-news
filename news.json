@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-17T02:45:32.473Z",
+  "updatedAt": "2026-11-17T03:00:55.904Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "イラン「汚い爆弾」米高官狙いか",
+      "link": "https://news.yahoo.co.jp/pickup/6602889?source=rss",
+      "pubDate": "2026-11-17T02:45:26.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -128,14 +136,6 @@
       "title": "米大統領 フアン氏復帰検討に理解",
       "link": "https://news.yahoo.co.jp/pickup/6602861?source=rss",
       "pubDate": "2026-11-16T23:08:34.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "日露会談「否定しない」露報道官",
-      "link": "https://news.yahoo.co.jp/pickup/6602860?source=rss",
-      "pubDate": "2026-11-16T23:05:40.000Z"
     },
     {
       "category": "経済",
