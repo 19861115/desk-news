@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-17T02:01:00.597Z",
+  "updatedAt": "2026-11-17T02:15:34.518Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米中露 共同コミュニケを発表へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602883?source=rss",
+      "pubDate": "2026-11-17T02:13:12.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -18,12 +26,36 @@
       "pubDate": "2026-11-17T01:47:00.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開　ChatGPTで探すと24時間アカウント停止の警告も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003254/",
+      "pubDate": "2026-11-17T01:45:02.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] スパコン「富岳」不正アクセスで運用停止　研究データや外部接続用SSH鍵など流出の可能性　他システムへの接続試行も確認",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003253/",
+      "pubDate": "2026-11-17T01:44:12.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "MS大規模障害 幹部が原因を説明",
       "link": "https://news.yahoo.co.jp/pickup/6602871?source=rss",
       "pubDate": "2026-11-17T01:32:41.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] NTTの島田明社長、宇宙光通信構想を発表　月面インフラや宇宙データセンターの整備も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003252/",
+      "pubDate": "2026-11-17T01:30:57.000Z"
     },
     {
       "category": "ITmedia",
@@ -48,30 +80,6 @@
       "title": "しし座流星群 17日深夜から見ごろ",
       "link": "https://news.yahoo.co.jp/pickup/6602874?source=rss",
       "pubDate": "2026-11-17T01:07:50.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 9万円台からの「AQUOS sense11」発表　厚さ7.6mm／157gに薄型軽量化、最大4回／6年のアップデートに対応",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news050.html",
-      "pubDate": "2026-11-17T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 楽天市場で中古「iPhone 15」が販売中　128GBモデルが約7.9万円から",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news040.html",
-      "pubDate": "2026-11-17T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] シャープは“10万円前後のミッドレンジ”をどう訴求するのか　「AQUOS sense11」で見せる妥協なき戦略",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/17/news007.html",
-      "pubDate": "2026-11-17T01:00:00.000Z"
     },
     {
       "category": "国際",
@@ -136,14 +144,6 @@
       "title": "NY株大幅反落 ハイテク株に売り",
       "link": "https://news.yahoo.co.jp/pickup/6602852?source=rss",
       "pubDate": "2026-11-16T21:54:31.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "トランプ大統領 アジア歴訪へ出発",
-      "link": "https://news.yahoo.co.jp/pickup/6602850?source=rss",
-      "pubDate": "2026-11-16T21:21:32.000Z"
     },
     {
       "category": "科学",
