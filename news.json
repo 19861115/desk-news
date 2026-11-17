@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-16T23:45:33.435Z",
+  "updatedAt": "2026-11-17T00:00:53.783Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "ネパールに「ガチ中華」急増 なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6602865?source=rss",
+      "pubDate": "2026-11-16T23:58:55.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -208,14 +216,6 @@
       "title": "ドコモ「5G SA」で障害 完全復旧",
       "link": "https://news.yahoo.co.jp/pickup/6602807?source=rss",
       "pubDate": "2026-11-16T08:04:49.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "AIカンニングに韓国政府が危機感",
-      "link": "https://news.yahoo.co.jp/pickup/6602806?source=rss",
-      "pubDate": "2026-11-16T07:38:58.000Z"
     },
     {
       "category": "IT",
