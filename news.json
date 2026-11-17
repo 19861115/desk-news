@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-17T04:30:44.553Z",
+  "updatedAt": "2026-11-17T04:45:34.135Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "ドコモ障害再発防止求める 総務相",
+      "link": "https://news.yahoo.co.jp/pickup/6602899?source=rss",
+      "pubDate": "2026-11-17T04:34:33.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -208,14 +216,6 @@
       "title": "喫煙率なぜ地域差 北日本上位独占",
       "link": "https://news.yahoo.co.jp/pickup/6602835?source=rss",
       "pubDate": "2026-11-16T13:09:02.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "コカイン摘発 過去最多更新ペース",
-      "link": "https://news.yahoo.co.jp/pickup/6602825?source=rss",
-      "pubDate": "2026-11-16T11:00:04.000Z"
     },
     {
       "category": "経済",
