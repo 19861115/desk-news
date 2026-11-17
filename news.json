@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-17T07:15:34.270Z",
+  "updatedAt": "2026-11-17T07:30:44.186Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米国防長官 12月の訪日で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6602913?source=rss",
+      "pubDate": "2026-11-17T07:21:52.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -152,14 +160,6 @@
       "title": "日米豪印の共同文書案 概要が判明",
       "link": "https://news.yahoo.co.jp/pickup/6602863?source=rss",
       "pubDate": "2026-11-16T23:33:25.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米大統領 フアン氏復帰検討に理解",
-      "link": "https://news.yahoo.co.jp/pickup/6602861?source=rss",
-      "pubDate": "2026-11-16T23:08:34.000Z"
     },
     {
       "category": "経済",
