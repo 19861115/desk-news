@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-17T05:30:43.789Z",
+  "updatedAt": "2026-11-17T05:45:34.740Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "文科相のパーティー問題 残る疑問",
+      "link": "https://news.yahoo.co.jp/pickup/6602896?source=rss",
+      "pubDate": "2026-11-17T05:41:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] エイサー、最大360Hz駆動をサポートしたウルトラワイド34型湾曲ゲーミング液晶ディスプレイ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/17/news062.html",
+      "pubDate": "2026-11-17T05:18:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -47,14 +63,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia News] AIに打ち明けた相談は“広告トラッカー”に筒抜け？　ChatGPT、Claude、Gemini含む42サービスを米大が調査",
       "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
-      "pubDate": "2026-11-17T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 「Apple Watch Series 12」を試す　心拍センサー刷新で“中身”が進化、Series 11から買い替える価値はある？",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/17/news036.html",
       "pubDate": "2026-11-17T03:00:00.000Z"
     },
     {
@@ -200,14 +208,6 @@
       "title": "卵サンドつかむ客動画炎上 店説明",
       "link": "https://news.yahoo.co.jp/pickup/6602840?source=rss",
       "pubDate": "2026-11-16T13:31:14.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "立憲 党職員への「退職勧奨」検討",
-      "link": "https://news.yahoo.co.jp/pickup/6602838?source=rss",
-      "pubDate": "2026-11-16T13:20:34.000Z"
     },
     {
       "category": "科学",
