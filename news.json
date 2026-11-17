@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-17T23:30:42.318Z",
+  "updatedAt": "2026-11-17T23:45:31.763Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "NVIDIA会長 フアン氏CEO復帰ない",
+      "link": "https://news.yahoo.co.jp/pickup/6602988?source=rss",
+      "pubDate": "2026-11-17T23:30:40.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "個人向け国債 税優遇見送りで調整",
       "link": "https://news.yahoo.co.jp/pickup/6602987?source=rss",
       "pubDate": "2026-11-17T23:15:14.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 第56回：その承認印、本当に必要ですか？AI時代、職場の「謎ルール」を一掃すれば、週休3日制も夢ではない!?",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/18/2000003235/",
+      "pubDate": "2026-11-17T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 薄型軽量でヒンジ保護もMagSafeも“全部入り”　FOFVOのiPhone Duo用アラミド繊維ケースは満点に近い完成度",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news043.html",
+      "pubDate": "2026-11-17T23:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -55,22 +79,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia エンタープライズ] AIにクレカを渡せるか　OpenAI「ChatGPT Wallet」米国で提供開始",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news028.html",
-      "pubDate": "2026-11-17T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] AIツール「月3000円×全社員」、社長が納得してくれず決裁が通りません……どう説明すればいい？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/18/news024.html",
-      "pubDate": "2026-11-17T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] パスキーの“弱点”はどこにある？　会員アプリの安全性を高める「持たない」設計とは",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/18/news008.html",
       "pubDate": "2026-11-17T22:00:00.000Z"
     },
     {
@@ -168,14 +176,6 @@
       "title": "政府広報 陰謀論系YouTuber起用",
       "link": "https://news.yahoo.co.jp/pickup/6602941?source=rss",
       "pubDate": "2026-11-17T11:20:29.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "「女性専用」ジム拡大 悩みに対応",
-      "link": "https://news.yahoo.co.jp/pickup/6602937?source=rss",
-      "pubDate": "2026-11-17T10:05:34.000Z"
     },
     {
       "category": "科学",
