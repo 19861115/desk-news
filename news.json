@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T10:15:33.803Z",
+  "updatedAt": "2026-11-17T10:30:49.829Z",
   "items": [
     {
       "category": "経済",
@@ -202,22 +202,6 @@
       "pubDate": "2026-11-16T23:58:55.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックの新しいLマウントシネマカメラにはIBISと液晶モニタが搭載される？［内容更新]（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/libis.html",
-      "pubDate": "2026-11-16T16:52:25.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックの新型Lマウントカメラの不鮮明な画像（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/l-26.html",
-      "pubDate": "2026-11-16T15:18:42.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -256,30 +240,6 @@
       "title": "ドコモ「5G SA」で障害 完全復旧",
       "link": "https://news.yahoo.co.jp/pickup/6602807?source=rss",
       "pubDate": "2026-11-16T08:04:49.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが11月17日のオンライン配信を予告（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/1117.html",
-      "pubDate": "2026-11-16T02:50:48.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックのLマウントシネマカメラは新型センサーを搭載？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1972.html",
-      "pubDate": "2026-11-15T16:37:34.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが11月17日にLマウントシネマカメラを発表？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/1117l.html",
-      "pubDate": "2026-11-15T04:36:30.000Z"
     }
   ]
 }
