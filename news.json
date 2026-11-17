@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-17T23:15:32.970Z",
+  "updatedAt": "2026-11-17T23:30:42.318Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "個人向け国債 税優遇見送りで調整",
+      "link": "https://news.yahoo.co.jp/pickup/6602987?source=rss",
+      "pubDate": "2026-11-17T23:15:14.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -192,14 +200,6 @@
       "title": "首相と露大統領 接触の方向で調整",
       "link": "https://news.yahoo.co.jp/pickup/6602931?source=rss",
       "pubDate": "2026-11-17T09:15:40.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "鳥の生食 宮崎・鹿児島で聞いた声",
-      "link": "https://news.yahoo.co.jp/pickup/6602925?source=rss",
-      "pubDate": "2026-11-17T09:01:49.000Z"
     },
     {
       "category": "IT",
