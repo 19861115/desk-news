@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-17T06:30:45.238Z",
+  "updatedAt": "2026-11-17T06:45:34.798Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ドコモ3度の通信障害「大変遺憾」と総務相　「構造的な課題、洗い出し求める」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003261/",
+      "pubDate": "2026-11-17T06:06:05.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] XPPen、エントリー16型液晶ペンタブレット「Artist16 3rd」にWQHD解像度対応の新モデル",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/17/news063.html",
+      "pubDate": "2026-11-17T05:55:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -48,22 +64,6 @@
       "title": "レッサーパンダ風太 ギネスに認定",
       "link": "https://news.yahoo.co.jp/pickup/6602895?source=rss",
       "pubDate": "2026-11-17T03:33:33.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] BOOX、スマホサイズの6.13型モノクロ電子ペーパー端末　約185gの軽量設計",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/17/news058.html",
-      "pubDate": "2026-11-17T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] AIに打ち明けた相談は“広告トラッカー”に筒抜け？　ChatGPT、Claude、Gemini含む42サービスを米大が調査",
-      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
-      "pubDate": "2026-11-17T03:00:00.000Z"
     },
     {
       "category": "国際",
