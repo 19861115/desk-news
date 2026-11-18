@@ -1,13 +1,37 @@
 {
-  "updatedAt": "2026-11-18T07:30:44.550Z",
+  "updatedAt": "2026-11-18T07:45:34.380Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "日本車の部品 一部共通化する方針",
+      "link": "https://news.yahoo.co.jp/pickup/6603047?source=rss",
+      "pubDate": "2026-11-18T07:40:00.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米大統領に出前ふるまう 比大統領",
+      "link": "https://news.yahoo.co.jp/pickup/6603048?source=rss",
+      "pubDate": "2026-11-18T07:38:16.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "Suica新キャラ A案とC案も活用へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603046?source=rss",
+      "pubDate": "2026-11-18T07:32:25.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia News] ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？　「スマホが電話の再発明なら、これは再再発明」",
       "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
-      "pubDate": "2026-11-18T06:57:45.000Z"
+      "pubDate": "2026-11-18T07:01:59.000Z"
     },
     {
       "category": "国際",
@@ -138,14 +162,6 @@
       "pubDate": "2026-11-18T03:33:51.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "リニア開業時期 年内公表を断念",
-      "link": "https://news.yahoo.co.jp/pickup/6603011?source=rss",
-      "pubDate": "2026-11-18T02:58:23.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -162,14 +178,6 @@
       "pubDate": "2026-11-18T01:32:06.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "経済損失1.2兆円 男性更年期対策",
-      "link": "https://news.yahoo.co.jp/pickup/6602999?source=rss",
-      "pubDate": "2026-11-18T01:04:04.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -184,14 +192,6 @@
       "title": "小型船に緑ナンバー導入へ 国交省",
       "link": "https://news.yahoo.co.jp/pickup/6602995?source=rss",
       "pubDate": "2026-11-18T00:45:45.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "APECきょう開幕 付近は厳戒態勢",
-      "link": "https://news.yahoo.co.jp/pickup/6602997?source=rss",
-      "pubDate": "2026-11-18T00:37:51.000Z"
     },
     {
       "category": "科学",
