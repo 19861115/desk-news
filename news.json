@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-18T10:00:52.095Z",
+  "updatedAt": "2026-11-18T10:15:34.616Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] さらば「みんなの筆王」　無料年賀状サービスが約11年で終了　住所録の保存期限は2027年3月末まで",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/18/news084.html",
+      "pubDate": "2026-11-18T09:41:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -16,6 +24,14 @@
       "title": "顧客情報漏えいか 楽天証券が説明",
       "link": "https://news.yahoo.co.jp/pickup/6603062?source=rss",
       "pubDate": "2026-11-18T09:38:22.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「INFOBAR ZERO」はなぜ通話とSMSに特化したのか？　KDDIが提案する“つながらない余白”と25年越しの原点回帰",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news083.html",
+      "pubDate": "2026-11-18T09:36:00.000Z"
     },
     {
       "category": "IT",
@@ -72,22 +88,6 @@
       "title": "高市氏が中国到着 歓迎に各国と差",
       "link": "https://news.yahoo.co.jp/pickup/6603057?source=rss",
       "pubDate": "2026-11-18T08:42:41.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 日本で最も使われているパスワードは「pass1111」　NordPass調査",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003304/",
-      "pubDate": "2026-11-18T08:42:23.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？　「本番データでの確認が必要だった」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/",
-      "pubDate": "2026-11-18T08:40:07.000Z"
     },
     {
       "category": "経済",
