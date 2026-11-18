@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-18T08:45:33.275Z",
+  "updatedAt": "2026-11-18T09:00:52.815Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "大人も苦しむ感覚過敏 外出困難も",
+      "link": "https://news.yahoo.co.jp/pickup/6603045?source=rss",
+      "pubDate": "2026-11-18T08:54:40.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "DHC 顧客氏名など1911万件漏えい",
+      "link": "https://news.yahoo.co.jp/pickup/6603058?source=rss",
+      "pubDate": "2026-11-18T08:51:06.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -234,28 +250,12 @@
       "pubDate": "2026-11-17T12:30:05.000Z"
     },
     {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "緊急地震速報の誤報巡る対応 完了",
-      "link": "https://news.yahoo.co.jp/pickup/6602934?source=rss",
-      "pubDate": "2026-11-17T09:40:39.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "楽天証券 最大1125万口座分流出か",
       "link": "https://news.yahoo.co.jp/pickup/6602935?source=rss",
       "pubDate": "2026-11-17T09:38:48.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "物議の選挙ポスター AIと認める",
-      "link": "https://news.yahoo.co.jp/pickup/6602918?source=rss",
-      "pubDate": "2026-11-17T07:58:54.000Z"
     },
     {
       "category": "デジカメinfo",
