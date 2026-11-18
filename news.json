@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-18T04:30:40.966Z",
+  "updatedAt": "2026-11-18T04:45:33.539Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米中間選挙 上院で全議席が固まる",
+      "link": "https://news.yahoo.co.jp/pickup/6603024?source=rss",
+      "pubDate": "2026-11-18T04:35:35.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "半導体 調達ルート狭まる中国企業",
       "link": "https://news.yahoo.co.jp/pickup/6603014?source=rss",
       "pubDate": "2026-11-18T04:12:43.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] アイオー、ゲーミングディスプレイ「GCFX」に有機ELパネル採用の27型WQHDモデルを追加",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/18/news070.html",
+      "pubDate": "2026-11-18T04:06:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？　「スマホが電話の再発明なら、これは再再発明」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
+      "pubDate": "2026-11-18T04:05:07.000Z"
     },
     {
       "category": "IT",
@@ -56,22 +80,6 @@
       "title": "装備移転三原則「非核」の削除案",
       "link": "https://news.yahoo.co.jp/pickup/6603009?source=rss",
       "pubDate": "2026-11-18T02:46:21.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] サムスン、AIアシスタント機能を備えた軽量スマートグラス　韓国／米国で12月発売",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/18/news064.html",
-      "pubDate": "2026-11-18T02:33:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 図鑑4000冊が「10分で完売」！　登録者62万人の「有隣堂」YouTubeはなにがすごいのか",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/18/news045.html",
-      "pubDate": "2026-11-18T02:02:00.000Z"
     },
     {
       "category": "国内",
@@ -184,14 +192,6 @@
       "title": "日米豪印が共同文書 中国念頭",
       "link": "https://news.yahoo.co.jp/pickup/6602965?source=rss",
       "pubDate": "2026-11-17T14:00:52.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米大統領 冗談交じりに高市氏評す",
-      "link": "https://news.yahoo.co.jp/pickup/6602960?source=rss",
-      "pubDate": "2026-11-17T13:57:09.000Z"
     },
     {
       "category": "科学",
