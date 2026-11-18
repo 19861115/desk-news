@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-18T23:30:45.947Z",
+  "updatedAt": "2026-11-18T23:45:35.948Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "21日にかけ風強まる 暴風など警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6603109?source=rss",
+      "pubDate": "2026-11-18T23:35:57.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] Matlantis岡野原氏が挑む“AI×科学”の新たな主戦場「マイクロフィジカルAI」とは？",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/19/2000003239/",
+      "pubDate": "2026-11-18T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] SOMPOひまわり生命の社員はなぜ“睡眠に本気“？　「睡眠データを記録・分析」、見えてきた「生産性」への影響",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/19/news004.html",
+      "pubDate": "2026-11-18T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 工場の制御システム、セキュリティ監視を自社で担えるか？　外部委託が拡大【調査】",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news023.html",
+      "pubDate": "2026-11-18T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] AIで仕事は速くなったのに、チームの成果につながらないのはなぜ？　9500人調査が示した「落とし穴」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003314/",
+      "pubDate": "2026-11-18T23:00:00.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -8,6 +48,14 @@
       "title": "秋田のアシカ・リオン 移動中死ぬ",
       "link": "https://news.yahoo.co.jp/pickup/6603105?source=rss",
       "pubDate": "2026-11-18T22:59:18.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Google、「Gemini 4 Neon」発表　「Carbon」と「Hydrogen」の中間を担うモデル、「Pro」プランでも利用可能",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003315/",
+      "pubDate": "2026-11-18T22:58:41.000Z"
     },
     {
       "category": "国際",
@@ -42,68 +90,12 @@
       "pubDate": "2026-11-18T22:21:45.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] Microsoft障害、ユーザー補償どうなる？　「月額料金の最大100％分をクレジット付与」明記した“契約“の中身",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/19/news042.html",
-      "pubDate": "2026-11-18T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] ビジネスに効く自社バイブルAIの作り方：社員の頭の中を引き出すインタビュー術",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/19/2000003272/",
-      "pubDate": "2026-11-18T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 副業も「成果の一部」になる時代へ　日立Lumada担当部長が実践する「副業管理職」という働き方",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/19/news017.html",
-      "pubDate": "2026-11-18T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 孫正義氏が「墓石に刻んでほしい」と明かした言葉　流した涙、もう「時間との勝負」やり残したことは？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/19/news036.html",
-      "pubDate": "2026-11-18T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 大幅予算超過の組織、7割は「ダッシュボード導入済み」だった　AIエージェント支出の落とし穴",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news020.html",
-      "pubDate": "2026-11-18T22:00:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "首相 プーチン大統領と30分対話",
       "link": "https://news.yahoo.co.jp/pickup/6603096?source=rss",
       "pubDate": "2026-11-18T21:13:33.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "熊本県で震度5弱 津波の心配なし",
-      "link": "https://news.yahoo.co.jp/pickup/6603094?source=rss",
-      "pubDate": "2026-11-18T17:27:46.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルムが「X Summit Paris 2026」の開催を予告（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-summit-paris-2026.html",
-      "pubDate": "2026-11-18T15:21:27.000Z"
     },
     {
       "category": "経済",
@@ -160,14 +152,6 @@
       "title": "ボイジャー1号「1光日」に到達",
       "link": "https://news.yahoo.co.jp/pickup/6603070?source=rss",
       "pubDate": "2026-11-18T11:08:03.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーの次の新製品発表は2027年初頭になる？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027-1.html",
-      "pubDate": "2026-11-18T09:54:45.000Z"
     },
     {
       "category": "IT",
@@ -234,14 +218,6 @@
       "pubDate": "2026-11-18T05:06:26.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」は12月2日に発表される？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6122.html",
-      "pubDate": "2026-11-18T05:00:50.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -264,22 +240,6 @@
       "title": "ゾコーバ治験 米助成金削減が影響",
       "link": "https://news.yahoo.co.jp/pickup/6602992?source=rss",
       "pubDate": "2026-11-18T00:03:55.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが「LUMIX SHX1」を正式発表（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/lumix-shx1.html",
-      "pubDate": "2026-11-17T14:14:47.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックの新しいLマウントシネマカメラにはIBISと液晶モニタが搭載される？［内容更新]（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/libis.html",
-      "pubDate": "2026-11-16T16:52:25.000Z"
     }
   ]
 }
