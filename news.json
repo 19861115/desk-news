@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-18T04:00:49.834Z",
+  "updatedAt": "2026-11-18T04:15:36.028Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "半導体 調達ルート狭まる中国企業",
+      "link": "https://news.yahoo.co.jp/pickup/6603014?source=rss",
+      "pubDate": "2026-11-18T04:12:43.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -192,14 +200,6 @@
       "title": "交際1人でも子宮頸がん 子供諦め",
       "link": "https://news.yahoo.co.jp/pickup/6602962?source=rss",
       "pubDate": "2026-11-17T13:48:07.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "ASEAN 米大統領へ「特別待遇」",
-      "link": "https://news.yahoo.co.jp/pickup/6602954?source=rss",
-      "pubDate": "2026-11-17T13:02:27.000Z"
     },
     {
       "category": "IT",
