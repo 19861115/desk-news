@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-18T08:00:50.391Z",
+  "updatedAt": "2026-11-18T08:15:34.579Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "ボイジャー1号「1光日」に到達へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603051?source=rss",
+      "pubDate": "2026-11-18T08:06:09.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] NewsPicks漏えい、Metabase脆弱性が原因　パッチ適用前日にデータ窃取、JPCERT/CC公表「不審IPアドレス」で攻撃発覚",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003300/",
+      "pubDate": "2026-11-18T07:56:40.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -24,6 +40,14 @@
       "title": "Suica新キャラ A案とC案も活用へ",
       "link": "https://news.yahoo.co.jp/pickup/6603046?source=rss",
       "pubDate": "2026-11-18T07:32:25.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 駿河屋とメルカリ、合弁会社設立　米国で日本のカルチャー関連商品の買い取り、販売を展開",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/18/2000003298/",
+      "pubDate": "2026-11-18T07:31:35.000Z"
     },
     {
       "category": "ITmedia",
@@ -88,22 +112,6 @@
       "title": "[ITmedia News] AI脅威対処へ新枠組み　重要鉱物やエネルギーで連携　首相、ASEANとの首脳会議出席",
       "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003294/",
       "pubDate": "2026-11-18T06:10:28.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] Razer、ゲーミングマウス「Viper V4 Pro」「DeathAdder V4 Pro」にカーボンファイバー筐体採用の軽量モデル",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/18/news076.html",
-      "pubDate": "2026-11-18T06:09:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] アシックス富永社長「売上高1.5兆円を実現する」　オニツカタイガー分社化と株主還元4000億円",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/18/news050.html",
-      "pubDate": "2026-11-18T05:45:00.000Z"
     },
     {
       "category": "国際",
@@ -248,14 +256,6 @@
       "title": "物議の選挙ポスター AIと認める",
       "link": "https://news.yahoo.co.jp/pickup/6602918?source=rss",
       "pubDate": "2026-11-17T07:58:54.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "レッサーパンダ風太 ギネスに認定",
-      "link": "https://news.yahoo.co.jp/pickup/6602895?source=rss",
-      "pubDate": "2026-11-17T03:33:33.000Z"
     },
     {
       "category": "デジカメinfo",
