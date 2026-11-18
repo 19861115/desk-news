@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-18T08:30:43.350Z",
+  "updatedAt": "2026-11-18T08:45:33.275Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "高市氏が中国到着 歓迎に各国と差",
+      "link": "https://news.yahoo.co.jp/pickup/6603057?source=rss",
+      "pubDate": "2026-11-18T08:42:41.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -21,9 +29,17 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] Googleが2026年の人気アプリ・ゲームを発表　AI活用アプリや推し活ゲームが躍進、日本発IPの海外受賞も拡大",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news071.html",
+      "pubDate": "2026-11-18T08:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia News] NewsPicks漏えい、Metabase脆弱性が原因　パッチ適用前日にデータ窃取、JPCERT/CC公表「不審IPアドレス」で攻撃発覚",
       "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003300/",
-      "pubDate": "2026-11-18T07:56:40.000Z"
+      "pubDate": "2026-11-18T07:59:01.000Z"
     },
     {
       "category": "経済",
@@ -114,14 +130,6 @@
       "pubDate": "2026-11-18T06:11:31.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] AI脅威対処へ新枠組み　重要鉱物やエネルギーで連携　首相、ASEANとの首脳会議出席",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003294/",
-      "pubDate": "2026-11-18T06:10:28.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -152,14 +160,6 @@
       "title": "米中間選挙 上院で全議席が固まる",
       "link": "https://news.yahoo.co.jp/pickup/6603024?source=rss",
       "pubDate": "2026-11-18T04:35:35.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "半導体 調達ルート狭まる中国企業",
-      "link": "https://news.yahoo.co.jp/pickup/6603014?source=rss",
-      "pubDate": "2026-11-18T04:12:43.000Z"
     },
     {
       "category": "IT",
