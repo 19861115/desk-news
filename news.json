@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T01:45:32.966Z",
+  "updatedAt": "2026-11-18T02:00:55.715Z",
   "items": [
     {
       "category": "国内",
@@ -154,14 +154,6 @@
       "pubDate": "2026-11-17T15:15:40.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが「LUMIX SHX1」を正式発表（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/lumix-shx1.html",
-      "pubDate": "2026-11-17T14:14:47.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -242,44 +234,12 @@
       "pubDate": "2026-11-17T01:32:41.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックの新しいLマウントシネマカメラにはIBISと液晶モニタが搭載される？［内容更新]（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/libis.html",
-      "pubDate": "2026-11-16T16:52:25.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックの新型Lマウントカメラの不鮮明な画像（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/l-26.html",
-      "pubDate": "2026-11-16T15:18:42.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "卵サンドつかむ客動画炎上 店説明",
       "link": "https://news.yahoo.co.jp/pickup/6602840?source=rss",
       "pubDate": "2026-11-16T13:31:14.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが11月17日のオンライン配信を予告（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/1117.html",
-      "pubDate": "2026-11-16T02:50:48.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックのLマウントシネマカメラは新型センサーを搭載？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1972.html",
-      "pubDate": "2026-11-15T16:37:34.000Z"
     }
   ]
 }
