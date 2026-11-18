@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-18T05:30:53.011Z",
+  "updatedAt": "2026-11-18T05:45:32.995Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 消えていた「Android版メルカリ」Google Playストアに復帰　約1日半で復活",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003292/",
+      "pubDate": "2026-11-18T05:25:50.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -24,6 +32,22 @@
       "title": "楽天証券 情報漏えいの確認方法",
       "link": "https://news.yahoo.co.jp/pickup/6603030?source=rss",
       "pubDate": "2026-11-18T05:06:26.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」は12月2日に発表される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6122.html",
+      "pubDate": "2026-11-18T05:00:50.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] Suicaの新キャラクターは「B案（ウサギ）」に　キャラクター名を募集",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news072.html",
+      "pubDate": "2026-11-18T05:00:00.000Z"
     },
     {
       "category": "国際",
@@ -58,6 +82,14 @@
       "pubDate": "2026-11-18T04:05:07.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 最大50％オフの「Xiaomi Hyper Black Friday 2026」開催　スマホやタブレット、ロボット掃除機も対象",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news069.html",
+      "pubDate": "2026-11-18T03:57:00.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -66,36 +98,12 @@
       "pubDate": "2026-11-18T03:33:51.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 未成年の電動モビリティー事故、3カ月ごとに15?33％増　脳損傷は普通の自転車の2倍　米スタンフォード大が1.3万人分析",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003265/",
-      "pubDate": "2026-11-18T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] タッチ対応で実売2万円切りは買いか？　ONPU「ポータブルディスプレイ14 タッチ」の魅力と“惜しい点”",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/18/news060.html",
-      "pubDate": "2026-11-18T03:00:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "リニア開業時期 年内公表を断念",
       "link": "https://news.yahoo.co.jp/pickup/6603011?source=rss",
       "pubDate": "2026-11-18T02:58:23.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「JINS」最大約1829万件漏えいの可能性　RIZAPやしまむらも……「KARTE」不正アクセスの影響広がる",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003287/",
-      "pubDate": "2026-11-18T02:52:31.000Z"
     },
     {
       "category": "国内",
@@ -194,6 +202,14 @@
       "pubDate": "2026-11-17T15:15:40.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが「LUMIX SHX1」を正式発表（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/lumix-shx1.html",
+      "pubDate": "2026-11-17T14:14:47.000Z"
+    },
+    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -240,6 +256,30 @@
       "title": "レッサーパンダ風太 ギネスに認定",
       "link": "https://news.yahoo.co.jp/pickup/6602895?source=rss",
       "pubDate": "2026-11-17T03:33:33.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックの新しいLマウントシネマカメラにはIBISと液晶モニタが搭載される？［内容更新]（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/libis.html",
+      "pubDate": "2026-11-16T16:52:25.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックの新型Lマウントカメラの不鮮明な画像（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/l-26.html",
+      "pubDate": "2026-11-16T15:18:42.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが11月17日のオンライン配信を予告（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/1117.html",
+      "pubDate": "2026-11-16T02:50:48.000Z"
     }
   ]
 }
