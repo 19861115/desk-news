@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-18T11:30:43.125Z",
+  "updatedAt": "2026-11-18T11:45:33.788Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？　「本番データでの確認が必要だった」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/",
+      "pubDate": "2026-11-18T11:16:22.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "ボイジャー1号「1光日」に到達",
       "link": "https://news.yahoo.co.jp/pickup/6603070?source=rss",
       "pubDate": "2026-11-18T11:08:03.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] KDDI社長「INFOBAR ZEROの開発を直前まで知らなかった」　25年目に新たな名機を結実させた背景",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news085.html",
+      "pubDate": "2026-11-18T11:08:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -64,22 +80,6 @@
       "title": "ネット繋がらない新機種 開発経緯",
       "link": "https://news.yahoo.co.jp/pickup/6603060?source=rss",
       "pubDate": "2026-11-18T09:30:05.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 数千円で買える「スマホ用USBメモリ」の選び方　PCなしで写真をバックアップ、帰省先での家族への受け渡しにも",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news080.html",
-      "pubDate": "2026-11-18T09:25:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] JR東の新キャラはB案“紫うさぎ”に　「Suica券面に登場」など、IP展開の可能性は",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003307/",
-      "pubDate": "2026-11-18T09:20:45.000Z"
     },
     {
       "category": "科学",
