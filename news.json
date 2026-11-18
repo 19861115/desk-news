@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-18T10:30:43.414Z",
+  "updatedAt": "2026-11-18T10:45:34.023Z",
   "items": [
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーの次の新製品発表は2027年初頭になる？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/2027-1.html",
+      "pubDate": "2026-11-18T09:54:45.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -272,14 +280,6 @@
       "title": "パナソニックの新型Lマウントカメラの不鮮明な画像（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/l-26.html",
       "pubDate": "2026-11-16T15:18:42.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが11月17日のオンライン配信を予告（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/1117.html",
-      "pubDate": "2026-11-16T02:50:48.000Z"
     }
   ]
 }
