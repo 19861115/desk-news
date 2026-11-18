@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-18T02:00:55.715Z",
+  "updatedAt": "2026-11-18T02:15:40.094Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] わが社はChatGPTでどう紹介されている？　OpenAIが企業向けの確認機能を提供開始",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html",
+      "pubDate": "2026-11-18T01:40:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 口座情報漏えいの楽天証券、「ワンタイムキー発行に時間がかかっている」　出金やログインパス変更に必要",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003284/",
+      "pubDate": "2026-11-18T01:39:12.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -21,7 +37,15 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] KDDIが約8年ぶりに「INFOBAR ZERO」発表　通話とSMSに特化、povo2.0やセカンドナンバーに対応　深澤直人氏デザイン",
+      "title": "[ITmedia エンタープライズ] 禁止するだけでは防げない　パナソニックの無断アップロード事案で浮かんだ、シャドーAI対応の分かれ道",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news069.html",
+      "pubDate": "2026-11-18T01:20:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] KDDIが約8年ぶりに新「INFOBAR ZERO」発表　通話とSMSに特化　3万2780円で12月25日に発売",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news058.html",
       "pubDate": "2026-11-18T01:06:00.000Z"
     },
@@ -32,22 +56,6 @@
       "title": "経済損失1.2兆円 男性更年期対策",
       "link": "https://news.yahoo.co.jp/pickup/6602999?source=rss",
       "pubDate": "2026-11-18T01:04:04.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 【ダイソー】1100円の「イヤピタッ　完全ワイヤレスステレオイヤホン」　耳に挟んで圧迫感を軽減",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news046.html",
-      "pubDate": "2026-11-18T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「楽天証券」漏えい、あなたは対象？　ログインして「重要なお知らせ」確認を",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003281/",
-      "pubDate": "2026-11-18T00:57:48.000Z"
     },
     {
       "category": "経済",
@@ -72,14 +80,6 @@
       "title": "小型船に緑ナンバー導入へ 国交省",
       "link": "https://news.yahoo.co.jp/pickup/6602995?source=rss",
       "pubDate": "2026-11-18T00:45:45.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] NVIDIA、フアン氏退任後初の決算　取締役会「正式なCEOは急がず適任者を選ぶ」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003280/",
-      "pubDate": "2026-11-18T00:38:00.000Z"
     },
     {
       "category": "国際",
