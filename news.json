@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-18T09:30:44.653Z",
+  "updatedAt": "2026-11-18T09:45:33.873Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "EVなどに新税 28年5月導入で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6603065?source=rss",
+      "pubDate": "2026-11-18T09:40:12.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "顧客情報漏えいか 楽天証券が説明",
+      "link": "https://news.yahoo.co.jp/pickup/6603062?source=rss",
+      "pubDate": "2026-11-18T09:38:22.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ネット繋がらない新機種 開発経緯",
+      "link": "https://news.yahoo.co.jp/pickup/6603060?source=rss",
+      "pubDate": "2026-11-18T09:30:05.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 数千円で買える「スマホ用USBメモリ」の選び方　PCなしで写真をバックアップ、帰省先での家族への受け渡しにも",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news080.html",
+      "pubDate": "2026-11-18T09:25:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] JR東の新キャラはB案“紫うさぎ”に　「Suica券面に登場」など、IP展開の可能性は",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003307/",
+      "pubDate": "2026-11-18T09:20:45.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 8年ぶり復活の「INFOBAR ZERO」実機速攻レポート　先代「xv」と徹底比較して分かった“引き算の美学”と進化点",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news079.html",
+      "pubDate": "2026-11-18T09:10:00.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -58,22 +106,6 @@
       "pubDate": "2026-11-18T08:06:09.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] Googleが2026年の人気アプリ・ゲームを発表　AI活用アプリや推し活ゲームが躍進、日本発IPの海外受賞も拡大",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news071.html",
-      "pubDate": "2026-11-18T08:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] NewsPicks漏えい、Metabase脆弱性が原因　パッチ適用前日にデータ窃取、JPCERT/CC公表「不審IPアドレス」で攻撃発覚",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003300/",
-      "pubDate": "2026-11-18T07:59:01.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -96,14 +128,6 @@
       "title": "Suica新キャラ A案とC案も活用へ",
       "link": "https://news.yahoo.co.jp/pickup/6603046?source=rss",
       "pubDate": "2026-11-18T07:32:25.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 駿河屋とメルカリ、合弁会社設立　米国で日本のカルチャー関連商品の買い取り、販売を展開",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/18/2000003298/",
-      "pubDate": "2026-11-18T07:31:35.000Z"
     },
     {
       "category": "国際",
@@ -189,14 +213,6 @@
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
-      "title": "装備移転三原則「非核」の削除案",
-      "link": "https://news.yahoo.co.jp/pickup/6603009?source=rss",
-      "pubDate": "2026-11-18T02:46:21.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
       "title": "看護師の死 突きつける命の格差",
       "link": "https://news.yahoo.co.jp/pickup/6603003?source=rss",
       "pubDate": "2026-11-18T01:32:06.000Z"
@@ -240,22 +256,6 @@
       "title": "交際1人でも子宮頸がん 子供諦め",
       "link": "https://news.yahoo.co.jp/pickup/6602962?source=rss",
       "pubDate": "2026-11-17T13:48:07.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "「JINS」最大1829万件の情報流出",
-      "link": "https://news.yahoo.co.jp/pickup/6602951?source=rss",
-      "pubDate": "2026-11-17T12:30:05.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "楽天証券 最大1125万口座分流出か",
-      "link": "https://news.yahoo.co.jp/pickup/6602935?source=rss",
-      "pubDate": "2026-11-17T09:38:48.000Z"
     },
     {
       "category": "デジカメinfo",
