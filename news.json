@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-18T05:15:33.927Z",
+  "updatedAt": "2026-11-18T05:30:53.011Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "栄養失調の子25万人超恐れ ハイチ",
+      "link": "https://news.yahoo.co.jp/pickup/6603029?source=rss",
+      "pubDate": "2026-11-18T05:21:23.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "Suica新キャラは「紫のうさぎ」",
+      "link": "https://news.yahoo.co.jp/pickup/6603031?source=rss",
+      "pubDate": "2026-11-18T05:18:31.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -154,14 +170,6 @@
       "pubDate": "2026-11-17T23:30:40.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "個人向け国債 税優遇見送りで調整",
-      "link": "https://news.yahoo.co.jp/pickup/6602987?source=rss",
-      "pubDate": "2026-11-17T23:15:14.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -184,22 +192,6 @@
       "title": "韓国野党前代表 日本で入国拒否",
       "link": "https://news.yahoo.co.jp/pickup/6602969?source=rss",
       "pubDate": "2026-11-17T15:15:40.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが「LUMIX SHX1」を正式発表（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/lumix-shx1.html",
-      "pubDate": "2026-11-17T14:14:47.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "日米豪印が共同文書 中国念頭",
-      "link": "https://news.yahoo.co.jp/pickup/6602965?source=rss",
-      "pubDate": "2026-11-17T14:00:52.000Z"
     },
     {
       "category": "科学",
@@ -248,38 +240,6 @@
       "title": "レッサーパンダ風太 ギネスに認定",
       "link": "https://news.yahoo.co.jp/pickup/6602895?source=rss",
       "pubDate": "2026-11-17T03:33:33.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックの新しいLマウントシネマカメラにはIBISと液晶モニタが搭載される？［内容更新]（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/libis.html",
-      "pubDate": "2026-11-16T16:52:25.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックの新型Lマウントカメラの不鮮明な画像（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/l-26.html",
-      "pubDate": "2026-11-16T15:18:42.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが11月17日のオンライン配信を予告（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/1117.html",
-      "pubDate": "2026-11-16T02:50:48.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックのLマウントシネマカメラは新型センサーを搭載？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1972.html",
-      "pubDate": "2026-11-15T16:37:34.000Z"
     }
   ]
 }
