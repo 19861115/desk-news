@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-18T01:00:51.362Z",
+  "updatedAt": "2026-11-18T01:15:33.875Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "経済損失1.2兆円 男性更年期対策",
+      "link": "https://news.yahoo.co.jp/pickup/6602999?source=rss",
+      "pubDate": "2026-11-18T01:04:04.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -24,6 +32,22 @@
       "title": "小型船に緑ナンバー導入へ 国交省",
       "link": "https://news.yahoo.co.jp/pickup/6602995?source=rss",
       "pubDate": "2026-11-18T00:45:45.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「楽天証券」漏えい、あなたは対象？　ログインして「重要なお知らせ」確認を",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003281/",
+      "pubDate": "2026-11-18T00:43:36.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] NVIDIA、フアン氏退任後初の決算　取締役会「正式なCEOは急がず適任者を選ぶ」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003280/",
+      "pubDate": "2026-11-18T00:38:00.000Z"
     },
     {
       "category": "国際",
@@ -90,14 +114,6 @@
       "pubDate": "2026-11-17T23:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] OpenAI、「GPT-6.2」の「Astra」と「Sol」を公開　AI自己改善能力は初の「High」に",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003279/",
-      "pubDate": "2026-11-17T22:47:14.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -122,28 +138,12 @@
       "pubDate": "2026-11-17T22:14:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 部下は「NISA貧乏」　若手は付き合いが悪い……と放置する会社の悲惨な末路",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/18/news035.html",
-      "pubDate": "2026-11-17T22:00:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "小渕優子氏更迭 自民総務会で反発",
       "link": "https://news.yahoo.co.jp/pickup/6602978?source=rss",
       "pubDate": "2026-11-17T21:32:04.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "NHK 職員に「飲み会22時頃まで」",
-      "link": "https://news.yahoo.co.jp/pickup/6602976?source=rss",
-      "pubDate": "2026-11-17T21:19:02.000Z"
     },
     {
       "category": "国際",
