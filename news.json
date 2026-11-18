@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-18T02:45:33.394Z",
+  "updatedAt": "2026-11-18T03:00:52.587Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "リニア開業時期 年内公表を断念",
+      "link": "https://news.yahoo.co.jp/pickup/6603011?source=rss",
+      "pubDate": "2026-11-18T02:58:23.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "装備移転三原則「非核」の削除案",
+      "link": "https://news.yahoo.co.jp/pickup/6603009?source=rss",
+      "pubDate": "2026-11-18T02:46:21.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -122,28 +138,12 @@
       "pubDate": "2026-11-17T22:41:18.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "NVIDIA前CEO 復帰なら「光栄」",
-      "link": "https://news.yahoo.co.jp/pickup/6602983?source=rss",
-      "pubDate": "2026-11-17T22:22:28.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "日本版DBSに脆弱性 稼働延期へ",
       "link": "https://news.yahoo.co.jp/pickup/6602982?source=rss",
       "pubDate": "2026-11-17T22:14:00.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "小渕優子氏更迭 自民総務会で反発",
-      "link": "https://news.yahoo.co.jp/pickup/6602978?source=rss",
-      "pubDate": "2026-11-17T21:32:04.000Z"
     },
     {
       "category": "国際",
