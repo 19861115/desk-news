@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-18T00:45:33.325Z",
+  "updatedAt": "2026-11-18T01:00:51.362Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "横から見ると靴底に穴 人気の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6602998?source=rss",
+      "pubDate": "2026-11-18T00:54:07.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "硫黄島 新たな陸地ドーム10個分に",
+      "link": "https://news.yahoo.co.jp/pickup/6602996?source=rss",
+      "pubDate": "2026-11-18T00:50:50.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "小型船に緑ナンバー導入へ 国交省",
+      "link": "https://news.yahoo.co.jp/pickup/6602995?source=rss",
+      "pubDate": "2026-11-18T00:45:45.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -178,22 +202,6 @@
       "pubDate": "2026-11-17T12:30:05.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "JT ロシア問題で巨額損失の恐れ",
-      "link": "https://news.yahoo.co.jp/pickup/6602948?source=rss",
-      "pubDate": "2026-11-17T12:03:11.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "政府広報 陰謀論系YouTuber起用",
-      "link": "https://news.yahoo.co.jp/pickup/6602941?source=rss",
-      "pubDate": "2026-11-17T11:20:29.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -248,14 +256,6 @@
       "title": "パナソニックの新型Lマウントカメラの不鮮明な画像（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/l-26.html",
       "pubDate": "2026-11-16T15:18:42.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "はやぶさ2に不具合 目的地を変更",
-      "link": "https://news.yahoo.co.jp/pickup/6602844?source=rss",
-      "pubDate": "2026-11-16T14:00:45.000Z"
     },
     {
       "category": "IT",
