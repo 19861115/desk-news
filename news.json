@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-18T05:00:51.872Z",
+  "updatedAt": "2026-11-18T05:15:33.927Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "楽天証券 情報漏えいの確認方法",
+      "link": "https://news.yahoo.co.jp/pickup/6603030?source=rss",
+      "pubDate": "2026-11-18T05:06:26.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -240,14 +248,6 @@
       "title": "レッサーパンダ風太 ギネスに認定",
       "link": "https://news.yahoo.co.jp/pickup/6602895?source=rss",
       "pubDate": "2026-11-17T03:33:33.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "MS大規模障害 幹部が原因を説明",
-      "link": "https://news.yahoo.co.jp/pickup/6602871?source=rss",
-      "pubDate": "2026-11-17T01:32:41.000Z"
     },
     {
       "category": "デジカメinfo",
