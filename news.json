@@ -1,13 +1,157 @@
 {
-  "updatedAt": "2026-11-18T11:45:33.788Z",
+  "updatedAt": "2026-11-18T23:00:50.801Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "秋田のアシカ・リオン 移動中死ぬ",
+      "link": "https://news.yahoo.co.jp/pickup/6603105?source=rss",
+      "pubDate": "2026-11-18T22:59:18.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米史上初 黒人の下院議長誕生へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603104?source=rss",
+      "pubDate": "2026-11-18T22:57:28.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "少子化相 日本版DBS脆弱性を謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6603101?source=rss",
+      "pubDate": "2026-11-18T22:37:45.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "トランプ氏 露大統領と個別会談へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603100?source=rss",
+      "pubDate": "2026-11-18T22:21:47.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "防衛費財務省案 自民内で異論噴出",
+      "link": "https://news.yahoo.co.jp/pickup/6603099?source=rss",
+      "pubDate": "2026-11-18T22:21:45.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？　「本番データでの確認が必要だった」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/",
-      "pubDate": "2026-11-18T11:16:22.000Z"
+      "title": "[ITmedia ビジネスオンライン] Microsoft障害、ユーザー補償どうなる？　「月額料金の最大100％分をクレジット付与」明記した“契約“の中身",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/19/news042.html",
+      "pubDate": "2026-11-18T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] ビジネスに効く自社バイブルAIの作り方：社員の頭の中を引き出すインタビュー術",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/19/2000003272/",
+      "pubDate": "2026-11-18T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 副業も「成果の一部」になる時代へ　日立Lumada担当部長が実践する「副業管理職」という働き方",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/19/news017.html",
+      "pubDate": "2026-11-18T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 孫正義氏が「墓石に刻んでほしい」と明かした言葉　流した涙、もう「時間との勝負」やり残したことは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/19/news036.html",
+      "pubDate": "2026-11-18T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 大幅予算超過の組織、7割は「ダッシュボード導入済み」だった　AIエージェント支出の落とし穴",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news020.html",
+      "pubDate": "2026-11-18T22:00:00.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "首相 プーチン大統領と30分対話",
+      "link": "https://news.yahoo.co.jp/pickup/6603096?source=rss",
+      "pubDate": "2026-11-18T21:13:33.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "熊本県で震度5弱 津波の心配なし",
+      "link": "https://news.yahoo.co.jp/pickup/6603094?source=rss",
+      "pubDate": "2026-11-18T17:27:46.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルムが「X Summit Paris 2026」の開催を予告（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-summit-paris-2026.html",
+      "pubDate": "2026-11-18T15:21:27.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "NHK飲み会通達 記者が不満漏らす",
+      "link": "https://news.yahoo.co.jp/pickup/6603093?source=rss",
+      "pubDate": "2026-11-18T15:00:45.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "香港の夜景ショー 22年の歴史に幕",
+      "link": "https://news.yahoo.co.jp/pickup/6603088?source=rss",
+      "pubDate": "2026-11-18T13:36:13.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "日中首脳が握手 会談は見送りへ",
+      "link": "https://news.yahoo.co.jp/pickup/6603084?source=rss",
+      "pubDate": "2026-11-18T13:07:07.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "APEC首脳宣言 AI活用などで調整",
+      "link": "https://news.yahoo.co.jp/pickup/6603083?source=rss",
+      "pubDate": "2026-11-18T12:57:53.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "SA・PAのゴミ箱 280カ所で廃止へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603078?source=rss",
+      "pubDate": "2026-11-18T12:17:04.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "支援金 対象年収下限「56万円」案",
+      "link": "https://news.yahoo.co.jp/pickup/6603076?source=rss",
+      "pubDate": "2026-11-18T12:11:23.000Z"
     },
     {
       "category": "科学",
@@ -18,22 +162,6 @@
       "pubDate": "2026-11-18T11:08:03.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] KDDI社長「INFOBAR ZEROの開発を直前まで知らなかった」　25年目に新たな名機を結実させた背景",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news085.html",
-      "pubDate": "2026-11-18T11:08:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「OPPO Reno16 5G」、IIJmioにMNPで3万円割引→5万9800円に　11月30日まで【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news082.html",
-      "pubDate": "2026-11-18T10:00:00.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -42,36 +170,12 @@
       "pubDate": "2026-11-18T09:54:45.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] さらば「みんなの筆王」　無料年賀状サービスが約11年で終了　住所録の保存期限は2027年3月末まで",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/18/news084.html",
-      "pubDate": "2026-11-18T09:41:00.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "EVなどに新税 28年5月導入で調整",
-      "link": "https://news.yahoo.co.jp/pickup/6603065?source=rss",
-      "pubDate": "2026-11-18T09:40:12.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "顧客情報漏えいか 楽天証券が説明",
       "link": "https://news.yahoo.co.jp/pickup/6603062?source=rss",
       "pubDate": "2026-11-18T09:38:22.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「INFOBAR ZERO」はなぜ通話とSMSに特化したのか？　KDDIが提案する“つながらない余白”と25年越しの原点回帰",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news083.html",
-      "pubDate": "2026-11-18T09:36:00.000Z"
     },
     {
       "category": "IT",
@@ -98,14 +202,6 @@
       "pubDate": "2026-11-18T08:51:06.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "高市氏が中国到着 歓迎に各国と差",
-      "link": "https://news.yahoo.co.jp/pickup/6603057?source=rss",
-      "pubDate": "2026-11-18T08:42:41.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -122,68 +218,12 @@
       "pubDate": "2026-11-18T07:40:00.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米大統領に出前ふるまう 比大統領",
-      "link": "https://news.yahoo.co.jp/pickup/6603048?source=rss",
-      "pubDate": "2026-11-18T07:38:16.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "Suica新キャラ A案とC案も活用へ",
       "link": "https://news.yahoo.co.jp/pickup/6603046?source=rss",
       "pubDate": "2026-11-18T07:32:25.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "露大統領APEC議長国に立候補表明",
-      "link": "https://news.yahoo.co.jp/pickup/6603038?source=rss",
-      "pubDate": "2026-11-18T06:43:12.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "関文科相 24年3月にもパーティー",
-      "link": "https://news.yahoo.co.jp/pickup/6603037?source=rss",
-      "pubDate": "2026-11-18T06:40:22.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "NHK会長「飲み会」通達巡り言及",
-      "link": "https://news.yahoo.co.jp/pickup/6603039?source=rss",
-      "pubDate": "2026-11-18T06:37:52.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "受刑者の選挙権制限は合憲 最高裁",
-      "link": "https://news.yahoo.co.jp/pickup/6603035?source=rss",
-      "pubDate": "2026-11-18T06:17:47.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "Suica新キャラ紫のうさぎ X反応",
-      "link": "https://news.yahoo.co.jp/pickup/6603032?source=rss",
-      "pubDate": "2026-11-18T06:11:31.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "栄養失調の子25万人超恐れ ハイチ",
-      "link": "https://news.yahoo.co.jp/pickup/6603029?source=rss",
-      "pubDate": "2026-11-18T05:21:23.000Z"
     },
     {
       "category": "IT",
@@ -202,14 +242,6 @@
       "pubDate": "2026-11-18T05:00:50.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米中間選挙 上院で全議席が固まる",
-      "link": "https://news.yahoo.co.jp/pickup/6603024?source=rss",
-      "pubDate": "2026-11-18T04:35:35.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -218,28 +250,12 @@
       "pubDate": "2026-11-18T03:33:51.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "看護師の死 突きつける命の格差",
-      "link": "https://news.yahoo.co.jp/pickup/6603003?source=rss",
-      "pubDate": "2026-11-18T01:32:06.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "硫黄島 新たな陸地ドーム10個分に",
       "link": "https://news.yahoo.co.jp/pickup/6602996?source=rss",
       "pubDate": "2026-11-18T00:50:50.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "小型船に緑ナンバー導入へ 国交省",
-      "link": "https://news.yahoo.co.jp/pickup/6602995?source=rss",
-      "pubDate": "2026-11-18T00:45:45.000Z"
     },
     {
       "category": "科学",
@@ -258,28 +274,12 @@
       "pubDate": "2026-11-17T14:14:47.000Z"
     },
     {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "交際1人でも子宮頸がん 子供諦め",
-      "link": "https://news.yahoo.co.jp/pickup/6602962?source=rss",
-      "pubDate": "2026-11-17T13:48:07.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
       "title": "パナソニックの新しいLマウントシネマカメラにはIBISと液晶モニタが搭載される？［内容更新]（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/libis.html",
       "pubDate": "2026-11-16T16:52:25.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックの新型Lマウントカメラの不鮮明な画像（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/l-26.html",
-      "pubDate": "2026-11-16T15:18:42.000Z"
     }
   ]
 }
