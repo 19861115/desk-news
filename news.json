@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-18T03:30:41.508Z",
+  "updatedAt": "2026-11-18T03:45:32.461Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "KDDI新「INFOBAR」発表 8年ぶり",
+      "link": "https://news.yahoo.co.jp/pickup/6603018?source=rss",
+      "pubDate": "2026-11-18T03:33:51.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 未成年の電動モビリティー事故、3カ月ごとに15?33％増　脳損傷は普通の自転車の2倍　米スタンフォード大が1.3万人分析",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003265/",
+      "pubDate": "2026-11-18T03:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] タッチ対応で実売2万円切りは買いか？　ONPU「ポータブルディスプレイ14 タッチ」の魅力と“惜しい点”",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/18/news060.html",
+      "pubDate": "2026-11-18T03:00:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -40,22 +64,6 @@
       "title": "[ITmedia ビジネスオンライン] 図鑑4000冊が「10分で完売」！　登録者62万人の「有隣堂」YouTubeはなにがすごいのか",
       "link": "https://www.itmedia.co.jp/business/articles/2611/18/news045.html",
       "pubDate": "2026-11-18T02:02:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] エレコム、Bluetooth接続に対応したワイヤレス指紋認証リーダー",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/18/news027.html",
-      "pubDate": "2026-11-18T02:01:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] Dynabookが個人向けスタンダードノートPCの新モデルを発表　ミニマルデザインが光る14型「dynabook M6」など3機種",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/18/news025.html",
-      "pubDate": "2026-11-18T02:00:00.000Z"
     },
     {
       "category": "国内",
@@ -256,14 +264,6 @@
       "title": "パナソニックの新型Lマウントカメラの不鮮明な画像（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/l-26.html",
       "pubDate": "2026-11-16T15:18:42.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "卵サンドつかむ客動画炎上 店説明",
-      "link": "https://news.yahoo.co.jp/pickup/6602840?source=rss",
-      "pubDate": "2026-11-16T13:31:14.000Z"
     },
     {
       "category": "デジカメinfo",
