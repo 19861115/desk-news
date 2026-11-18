@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-18T08:15:34.579Z",
+  "updatedAt": "2026-11-18T08:30:43.350Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "Suica「紫のうさぎ」得票率51.7%",
+      "link": "https://news.yahoo.co.jp/pickup/6603054?source=rss",
+      "pubDate": "2026-11-18T08:26:46.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -120,14 +128,6 @@
       "title": "栄養失調の子25万人超恐れ ハイチ",
       "link": "https://news.yahoo.co.jp/pickup/6603029?source=rss",
       "pubDate": "2026-11-18T05:21:23.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "Suica新キャラは「紫のうさぎ」",
-      "link": "https://news.yahoo.co.jp/pickup/6603031?source=rss",
-      "pubDate": "2026-11-18T05:18:31.000Z"
     },
     {
       "category": "IT",
