@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T09:00:52.815Z",
+  "updatedAt": "2026-11-18T09:15:34.909Z",
   "items": [
     {
       "category": "科学",
@@ -24,6 +24,22 @@
       "title": "高市氏が中国到着 歓迎に各国と差",
       "link": "https://news.yahoo.co.jp/pickup/6603057?source=rss",
       "pubDate": "2026-11-18T08:42:41.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 日本で最も使われているパスワードは「pass1111」　NordPass調査",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003304/",
+      "pubDate": "2026-11-18T08:42:23.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？　「本番データでの確認が必要だった」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/",
+      "pubDate": "2026-11-18T08:40:07.000Z"
     },
     {
       "category": "経済",
@@ -90,14 +106,6 @@
       "pubDate": "2026-11-18T07:31:35.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？　「スマホが電話の再発明なら、これは再再発明」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
-      "pubDate": "2026-11-18T07:01:59.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -120,14 +128,6 @@
       "title": "NHK会長「飲み会」通達巡り言及",
       "link": "https://news.yahoo.co.jp/pickup/6603039?source=rss",
       "pubDate": "2026-11-18T06:37:52.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ハギワラソリューションズ、産業用ミニPCにホワイトリスト型セキュリティソフト導入モデルを追加",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/18/news077.html",
-      "pubDate": "2026-11-18T06:25:00.000Z"
     },
     {
       "category": "国内",
