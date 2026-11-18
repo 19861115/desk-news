@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-18T01:30:42.671Z",
+  "updatedAt": "2026-11-18T01:45:32.966Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "看護師の死 突きつける命の格差",
+      "link": "https://news.yahoo.co.jp/pickup/6603003?source=rss",
+      "pubDate": "2026-11-18T01:32:06.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] データセンター利用料が5年で17％上昇　契約更新前に確認すべき「9項目」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news020.html",
+      "pubDate": "2026-11-18T01:20:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] KDDIが約8年ぶりに「INFOBAR ZERO」発表　通話とSMSに特化、povo2.0やセカンドナンバーに対応　深澤直人氏デザイン",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news058.html",
+      "pubDate": "2026-11-18T01:06:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +32,22 @@
       "title": "経済損失1.2兆円 男性更年期対策",
       "link": "https://news.yahoo.co.jp/pickup/6602999?source=rss",
       "pubDate": "2026-11-18T01:04:04.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 【ダイソー】1100円の「イヤピタッ　完全ワイヤレスステレオイヤホン」　耳に挟んで圧迫感を軽減",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news046.html",
+      "pubDate": "2026-11-18T01:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「楽天証券」漏えい、あなたは対象？　ログインして「重要なお知らせ」確認を",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003281/",
+      "pubDate": "2026-11-18T00:57:48.000Z"
     },
     {
       "category": "経済",
@@ -37,14 +77,6 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「楽天証券」漏えい、あなたは対象？　ログインして「重要なお知らせ」確認を",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003281/",
-      "pubDate": "2026-11-18T00:43:36.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
       "title": "[ITmedia News] NVIDIA、フアン氏退任後初の決算　取締役会「正式なCEOは急がず適任者を選ぶ」",
       "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003280/",
       "pubDate": "2026-11-18T00:38:00.000Z"
@@ -58,28 +90,12 @@
       "pubDate": "2026-11-18T00:37:51.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "受診遅れ死亡 皆保険の日本でなぜ",
-      "link": "https://news.yahoo.co.jp/pickup/6602993?source=rss",
-      "pubDate": "2026-11-18T00:34:34.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "ゾコーバ治験 米助成金削減が影響",
       "link": "https://news.yahoo.co.jp/pickup/6602992?source=rss",
       "pubDate": "2026-11-18T00:03:55.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] Anthropic、IPO前夜に「SaaS殺し」へ舵？　Claudeに表計算を内蔵した、真の狙い",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/18/news020.html",
-      "pubDate": "2026-11-18T00:00:00.000Z"
     },
     {
       "category": "経済",
@@ -96,22 +112,6 @@
       "title": "個人向け国債 税優遇見送りで調整",
       "link": "https://news.yahoo.co.jp/pickup/6602987?source=rss",
       "pubDate": "2026-11-17T23:15:14.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 第56回：その承認印、本当に必要ですか？AI時代、職場の「謎ルール」を一掃すれば、週休3日制も夢ではない!?",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/18/2000003235/",
-      "pubDate": "2026-11-17T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 薄型軽量でヒンジ保護もMagSafeも“全部入り”　FOFVOのiPhone Duo用アラミド繊維ケースは満点に近い完成度",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/18/news043.html",
-      "pubDate": "2026-11-17T23:00:00.000Z"
     },
     {
       "category": "国内",
