@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-18T07:00:51.117Z",
+  "updatedAt": "2026-11-18T07:15:34.469Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？　「スマホが電話の再発明なら、これは再再発明」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
+      "pubDate": "2026-11-18T06:57:45.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -29,9 +37,9 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？　「スマホが電話の再発明なら、これは再再発明」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
-      "pubDate": "2026-11-18T06:25:07.000Z"
+      "title": "[ITmedia PC USER] ハギワラソリューションズ、産業用ミニPCにホワイトリスト型セキュリティソフト導入モデルを追加",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/18/news077.html",
+      "pubDate": "2026-11-18T06:25:00.000Z"
     },
     {
       "category": "国内",
@@ -71,14 +79,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] アシックス富永社長「売上高1.5兆円を実現する」　オニツカタイガー分社化と株主還元4000億円",
       "link": "https://www.itmedia.co.jp/business/articles/2611/18/news050.html",
-      "pubDate": "2026-11-18T05:45:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] なぜ今、ワタミは上場廃止するのか？　渡邉美樹社長「経営者人生、最大の挑戦」とは",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/18/news051.html",
       "pubDate": "2026-11-18T05:45:00.000Z"
     },
     {
