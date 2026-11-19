@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-19T02:15:32.897Z",
+  "updatedAt": "2026-11-19T02:30:41.521Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "東京近郊で外来種インコ繁殖 困惑",
+      "link": "https://news.yahoo.co.jp/pickup/6603131?source=rss",
+      "pubDate": "2026-11-19T02:22:47.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -256,14 +264,6 @@
       "title": "硫黄島 新たな陸地ドーム10個分に",
       "link": "https://news.yahoo.co.jp/pickup/6602996?source=rss",
       "pubDate": "2026-11-18T00:50:50.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "ゾコーバ治験 米助成金削減が影響",
-      "link": "https://news.yahoo.co.jp/pickup/6602992?source=rss",
-      "pubDate": "2026-11-18T00:03:55.000Z"
     },
     {
       "category": "デジカメinfo",
