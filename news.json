@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-19T01:45:32.115Z",
+  "updatedAt": "2026-11-19T02:00:50.346Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "北朝鮮非難の国連決議 米国が棄権",
+      "link": "https://news.yahoo.co.jp/pickup/6603126?source=rss",
+      "pubDate": "2026-11-19T01:50:20.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "NHK飲み会通達 記者が不満漏らす",
       "link": "https://news.yahoo.co.jp/pickup/6603093?source=rss",
       "pubDate": "2026-11-18T15:00:45.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "香港の夜景ショー 22年の歴史に幕",
-      "link": "https://news.yahoo.co.jp/pickup/6603088?source=rss",
-      "pubDate": "2026-11-18T13:36:13.000Z"
     },
     {
       "category": "経済",
