@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-19T05:30:41.737Z",
+  "updatedAt": "2026-11-19T05:45:32.434Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Webサーバソフト「nginx」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
+      "pubDate": "2026-11-19T05:11:07.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -64,14 +72,6 @@
       "title": "[ITmedia Mobile] mineoのユーザー情報が最大142万件漏えいした可能性　解約者も対象に",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news056.html",
       "pubDate": "2026-11-19T03:52:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Webサーバソフト「NGINX」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
-      "pubDate": "2026-11-19T03:34:25.000Z"
     },
     {
       "category": "国際",
