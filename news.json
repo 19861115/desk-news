@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-19T07:00:54.214Z",
+  "updatedAt": "2026-11-19T07:15:34.781Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "街に広がるAI画像 どこまで許容?",
+      "link": "https://news.yahoo.co.jp/pickup/6603166?source=rss",
+      "pubDate": "2026-11-19T07:06:39.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "JT 露の子会社7社を連結から除外",
+      "link": "https://news.yahoo.co.jp/pickup/6603167?source=rss",
+      "pubDate": "2026-11-19T07:03:54.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] MSI、RTX Sparkを搭載した小型AIデスクトップ「EdgeMesa N AI＋」",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/19/news069.html",
+      "pubDate": "2026-11-19T06:47:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] AnthropicのIPOに応募6倍、OpenAIは調達縮小　AI投資に「選別」の波",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/19/news043.html",
+      "pubDate": "2026-11-19T06:45:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +40,14 @@
       "title": "文科相進退 鍵を握る国民民主党",
       "link": "https://news.yahoo.co.jp/pickup/6603165?source=rss",
       "pubDate": "2026-11-19T06:32:19.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] nginx「緊急」脆弱性、官房長官が「必要な措置」呼び掛け",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003334/",
+      "pubDate": "2026-11-19T06:30:00.000Z"
     },
     {
       "category": "国内",
@@ -48,30 +88,6 @@
       "title": "戦車事故 陸自が原因を特定し公表",
       "link": "https://news.yahoo.co.jp/pickup/6603159?source=rss",
       "pubDate": "2026-11-19T05:58:27.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
-      "pubDate": "2026-11-19T05:58:26.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] VISAタッチ決済専用スマートリング「EVERING」に“ミャクミャク”コラボデザインモデルが追加",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/19/news063.html",
-      "pubDate": "2026-11-19T05:39:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Webサーバソフト「nginx」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
-      "pubDate": "2026-11-19T05:11:07.000Z"
     },
     {
       "category": "国際",
@@ -210,14 +226,6 @@
       "pubDate": "2026-11-18T15:00:45.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "SA・PAのゴミ箱 280カ所で廃止へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603078?source=rss",
-      "pubDate": "2026-11-18T12:17:04.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -256,14 +264,6 @@
       "title": "大人も苦しむ感覚過敏 外出困難も",
       "link": "https://news.yahoo.co.jp/pickup/6603045?source=rss",
       "pubDate": "2026-11-18T08:54:40.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "DHC 顧客氏名など1911万件漏えい",
-      "link": "https://news.yahoo.co.jp/pickup/6603058?source=rss",
-      "pubDate": "2026-11-18T08:51:06.000Z"
     },
     {
       "category": "デジカメinfo",
