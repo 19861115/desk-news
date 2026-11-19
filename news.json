@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-19T00:15:32.479Z",
+  "updatedAt": "2026-11-19T00:30:45.033Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米 ベネズエラと軍事協力で合意",
+      "link": "https://news.yahoo.co.jp/pickup/6603113?source=rss",
+      "pubDate": "2026-11-19T00:18:35.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ボージョレ 今年は「ふくよか」",
+      "link": "https://news.yahoo.co.jp/pickup/6603114?source=rss",
+      "pubDate": "2026-11-19T00:14:54.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -138,14 +154,6 @@
       "pubDate": "2026-11-18T13:07:07.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "APEC首脳宣言 AI活用などで調整",
-      "link": "https://news.yahoo.co.jp/pickup/6603083?source=rss",
-      "pubDate": "2026-11-18T12:57:53.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -224,14 +232,6 @@
       "title": "日本車の部品 一部共通化する方針",
       "link": "https://news.yahoo.co.jp/pickup/6603047?source=rss",
       "pubDate": "2026-11-18T07:40:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "Suica新キャラ A案とC案も活用へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603046?source=rss",
-      "pubDate": "2026-11-18T07:32:25.000Z"
     },
     {
       "category": "IT",
