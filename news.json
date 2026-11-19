@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-19T05:00:51.175Z",
+  "updatedAt": "2026-11-19T05:15:33.590Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "文科相の進退巡り 野党の足並み鍵",
+      "link": "https://news.yahoo.co.jp/pickup/6603144?source=rss",
+      "pubDate": "2026-11-19T05:03:53.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "ゴッホ晩年の大作 300億円で落札",
+      "link": "https://news.yahoo.co.jp/pickup/6603155?source=rss",
+      "pubDate": "2026-11-19T05:03:46.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "植物と動物の細胞融合 どう活用",
+      "link": "https://news.yahoo.co.jp/pickup/6603156?source=rss",
+      "pubDate": "2026-11-19T05:01:03.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +32,14 @@
       "title": "APEC 中国が見せた「線引き」",
       "link": "https://news.yahoo.co.jp/pickup/6603146?source=rss",
       "pubDate": "2026-11-19T04:37:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ASUS、RTX Sparkを搭載したローカルAI向けミニデスクトップ「ProArt GR1X」",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/19/news060.html",
+      "pubDate": "2026-11-19T04:25:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -74,14 +106,6 @@
       "pubDate": "2026-11-19T03:08:39.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] Harman Kardon、アンビエントライトを内蔵したコンパクト設計のBluetoothホームスピーカー",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/19/news054.html",
-      "pubDate": "2026-11-19T03:08:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -138,14 +162,6 @@
       "pubDate": "2026-11-19T00:34:59.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米 ベネズエラと軍事協力で合意",
-      "link": "https://news.yahoo.co.jp/pickup/6603113?source=rss",
-      "pubDate": "2026-11-19T00:18:35.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -176,14 +192,6 @@
       "title": "少子化相 日本版DBS脆弱性を謝罪",
       "link": "https://news.yahoo.co.jp/pickup/6603101?source=rss",
       "pubDate": "2026-11-18T22:37:45.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "防衛費財務省案 自民内で異論噴出",
-      "link": "https://news.yahoo.co.jp/pickup/6603099?source=rss",
-      "pubDate": "2026-11-18T22:21:45.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -264,14 +272,6 @@
       "title": "富士フイルム「X-T6」は12月2日に発表される？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/x-t6122.html",
       "pubDate": "2026-11-18T05:00:50.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "硫黄島 新たな陸地ドーム10個分に",
-      "link": "https://news.yahoo.co.jp/pickup/6602996?source=rss",
-      "pubDate": "2026-11-18T00:50:50.000Z"
     },
     {
       "category": "デジカメinfo",
