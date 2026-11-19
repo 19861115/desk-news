@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T04:15:33.178Z",
+  "updatedAt": "2026-11-19T04:30:43.822Z",
   "items": [
     {
       "category": "経済",
@@ -88,6 +88,14 @@
       "title": "日露首脳対話 関係改善の道険しく",
       "link": "https://news.yahoo.co.jp/pickup/6603135?source=rss",
       "pubDate": "2026-11-19T02:34:45.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックは「EVF内蔵のS9」の期待に応えられるよう取り組んでいる（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1973.html",
+      "pubDate": "2026-11-19T02:28:22.000Z"
     },
     {
       "category": "国際",
@@ -272,14 +280,6 @@
       "title": "パナソニックが「LUMIX SHX1」を正式発表（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/lumix-shx1.html",
       "pubDate": "2026-11-17T14:14:47.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックの新しいLマウントシネマカメラにはIBISと液晶モニタが搭載される？［内容更新]（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/libis.html",
-      "pubDate": "2026-11-16T16:52:25.000Z"
     }
   ]
 }
