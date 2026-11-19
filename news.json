@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-19T05:45:32.434Z",
+  "updatedAt": "2026-11-19T06:00:49.673Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "戦車事故 陸自が原因を特定し公表",
+      "link": "https://news.yahoo.co.jp/pickup/6603159?source=rss",
+      "pubDate": "2026-11-19T05:58:27.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -184,14 +192,6 @@
       "title": "秋田のアシカ・リオン 移動中死ぬ",
       "link": "https://news.yahoo.co.jp/pickup/6603105?source=rss",
       "pubDate": "2026-11-18T22:59:18.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "少子化相 日本版DBS脆弱性を謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6603101?source=rss",
-      "pubDate": "2026-11-18T22:37:45.000Z"
     },
     {
       "category": "デジカメinfo",
