@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T07:30:43.702Z",
+  "updatedAt": "2026-11-19T07:45:33.078Z",
   "items": [
     {
       "category": "IT",
@@ -32,6 +32,22 @@
       "title": "JT 露の子会社7社を連結から除外",
       "link": "https://news.yahoo.co.jp/pickup/6603167?source=rss",
       "pubDate": "2026-11-19T07:03:54.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 免許証画像の「保管義務はない」　レンタカー事業に対し、個人情報保護委員会が注意喚起",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/19/news067.html",
+      "pubDate": "2026-11-19T07:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 128GBメモリで120BクラスのLLMが動く！　マウスコンピューターの卓上ローカルAI向けミニPC「DAIV CX」の実力",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/19/news047.html",
+      "pubDate": "2026-11-19T07:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -72,22 +88,6 @@
       "title": "21日頃にかけ 山地中心に積雪か",
       "link": "https://news.yahoo.co.jp/pickup/6603162?source=rss",
       "pubDate": "2026-11-19T06:19:41.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] aiwa、Intel N100を搭載した着脱式2in1 Windowsタブレット3製品の一般販売を開始",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/19/news066.html",
-      "pubDate": "2026-11-19T06:16:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] ファミマ「飲料補充ロボット」を本格導入　24時間稼働で、従業員の作業時間を「7割」削減",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/19/news062.html",
-      "pubDate": "2026-11-19T06:09:00.000Z"
     },
     {
       "category": "国内",
