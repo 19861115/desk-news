@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-19T06:15:39.263Z",
+  "updatedAt": "2026-11-19T06:30:43.121Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "21日頃にかけ 山地中心に積雪か",
+      "link": "https://news.yahoo.co.jp/pickup/6603162?source=rss",
+      "pubDate": "2026-11-19T06:19:41.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -138,6 +146,14 @@
       "pubDate": "2026-11-19T02:34:45.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックは「EVF内蔵のS9」の期待に応えられるよう取り組んでいる（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1973.html",
+      "pubDate": "2026-11-19T02:28:22.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -170,20 +186,20 @@
       "pubDate": "2026-11-19T00:01:46.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "21日にかけ風強まる 暴風など警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6603109?source=rss",
-      "pubDate": "2026-11-18T23:35:57.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "秋田のアシカ・リオン 移動中死ぬ",
       "link": "https://news.yahoo.co.jp/pickup/6603105?source=rss",
       "pubDate": "2026-11-18T22:59:18.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルムが「X Summit Paris 2026」の開催を予告（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-summit-paris-2026.html",
+      "pubDate": "2026-11-18T15:21:27.000Z"
     },
     {
       "category": "経済",
@@ -208,6 +224,14 @@
       "title": "ボイジャー1号「1光日」に到達",
       "link": "https://news.yahoo.co.jp/pickup/6603070?source=rss",
       "pubDate": "2026-11-18T11:08:03.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーの次の新製品発表は2027年初頭になる？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/2027-1.html",
+      "pubDate": "2026-11-18T09:54:45.000Z"
     },
     {
       "category": "IT",
@@ -240,6 +264,22 @@
       "title": "DHC 顧客氏名など1911万件漏えい",
       "link": "https://news.yahoo.co.jp/pickup/6603058?source=rss",
       "pubDate": "2026-11-18T08:51:06.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」は12月2日に発表される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6122.html",
+      "pubDate": "2026-11-18T05:00:50.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが「LUMIX SHX1」を正式発表（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/lumix-shx1.html",
+      "pubDate": "2026-11-17T14:14:47.000Z"
     }
   ]
 }
