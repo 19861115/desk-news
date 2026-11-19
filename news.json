@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-19T11:00:51.996Z",
+  "updatedAt": "2026-11-19T11:15:34.247Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "3カ国会談 中露は「戦勝国」強調",
+      "link": "https://news.yahoo.co.jp/pickup/6603198?source=rss",
+      "pubDate": "2026-11-19T11:14:06.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -176,14 +184,6 @@
       "title": "植物と動物の細胞融合 どう活用",
       "link": "https://news.yahoo.co.jp/pickup/6603156?source=rss",
       "pubDate": "2026-11-19T05:01:03.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "APEC 中国が見せた「線引き」",
-      "link": "https://news.yahoo.co.jp/pickup/6603146?source=rss",
-      "pubDate": "2026-11-19T04:37:28.000Z"
     },
     {
       "category": "経済",
