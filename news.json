@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-19T02:00:50.346Z",
+  "updatedAt": "2026-11-19T02:15:32.897Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "市民デモ相次ぐ仏 警官が抗議デモ",
+      "link": "https://news.yahoo.co.jp/pickup/6603130?source=rss",
+      "pubDate": "2026-11-19T02:11:01.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -16,6 +24,14 @@
       "title": "賃上げより手取り増 食事補助注目",
       "link": "https://news.yahoo.co.jp/pickup/6603124?source=rss",
       "pubDate": "2026-11-19T01:41:55.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 中古「iPhone 14」、楽天市場で128GBモデルが約5万円から販売中",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news037.html",
+      "pubDate": "2026-11-19T01:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -90,14 +106,6 @@
       "pubDate": "2026-11-19T00:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 28年春導入の「手ぶら改札」　40駅の顔ぶれに透けるJR東の狙い　東京メトロも“陣営”入り",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003313/",
-      "pubDate": "2026-11-19T00:00:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -128,14 +136,6 @@
       "title": "少子化相 日本版DBS脆弱性を謝罪",
       "link": "https://news.yahoo.co.jp/pickup/6603101?source=rss",
       "pubDate": "2026-11-18T22:37:45.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "トランプ氏 露大統領と個別会談へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603100?source=rss",
-      "pubDate": "2026-11-18T22:21:47.000Z"
     },
     {
       "category": "国内",
