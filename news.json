@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-19T06:30:43.121Z",
+  "updatedAt": "2026-11-19T06:45:32.943Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "文科相進退 鍵を握る国民民主党",
+      "link": "https://news.yahoo.co.jp/pickup/6603165?source=rss",
+      "pubDate": "2026-11-19T06:32:19.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "21日頃にかけ 山地中心に積雪か",
       "link": "https://news.yahoo.co.jp/pickup/6603162?source=rss",
       "pubDate": "2026-11-19T06:19:41.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] aiwa、Intel N100を搭載した着脱式2in1 Windowsタブレット3製品の一般販売を開始",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/19/news066.html",
+      "pubDate": "2026-11-19T06:16:00.000Z"
     },
     {
       "category": "国際",
@@ -18,12 +34,28 @@
       "pubDate": "2026-11-19T06:12:39.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] ファミマ「飲料補充ロボット」を本格導入　24時間稼働で、従業員の作業時間を「7割」削減",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/19/news062.html",
+      "pubDate": "2026-11-19T06:09:00.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "戦車事故 陸自が原因を特定し公表",
       "link": "https://news.yahoo.co.jp/pickup/6603159?source=rss",
       "pubDate": "2026-11-19T05:58:27.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
+      "pubDate": "2026-11-19T05:58:26.000Z"
     },
     {
       "category": "ITmedia",
@@ -40,14 +72,6 @@
       "title": "[ITmedia News] Webサーバソフト「nginx」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け",
       "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
       "pubDate": "2026-11-19T05:11:07.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "文科相の進退巡り 野党の足並み鍵",
-      "link": "https://news.yahoo.co.jp/pickup/6603144?source=rss",
-      "pubDate": "2026-11-19T05:03:53.000Z"
     },
     {
       "category": "国際",
@@ -74,36 +98,12 @@
       "pubDate": "2026-11-19T04:37:28.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ASUS、RTX Sparkを搭載したローカルAI向けミニデスクトップ「ProArt GR1X」",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/19/news060.html",
-      "pubDate": "2026-11-19T04:25:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 認証なしでリモートコード実行の恐れ、Javaに脆弱性「Java4Shell」　JiraやJenkinsで攻撃実証の報告も",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news055.html",
-      "pubDate": "2026-11-19T04:15:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "スバル 米国製SUVを「逆輸入」",
       "link": "https://news.yahoo.co.jp/pickup/6603150?source=rss",
       "pubDate": "2026-11-19T04:05:33.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] mineoのユーザー情報が最大142万件漏えいした可能性　解約者も対象に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news056.html",
-      "pubDate": "2026-11-19T03:52:00.000Z"
     },
     {
       "category": "国際",
