@@ -1,13 +1,37 @@
 {
-  "updatedAt": "2026-11-19T03:00:55.214Z",
+  "updatedAt": "2026-11-19T03:15:33.036Z",
   "items": [
     {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
-      "title": "小便器体験 女性記者が受けた衝撃",
-      "link": "https://news.yahoo.co.jp/pickup/6603138?source=rss",
-      "pubDate": "2026-11-19T02:59:39.000Z"
+      "title": "小便器「丸見え」女性記者が驚き",
+      "link": "https://news.yahoo.co.jp/pickup/6603145?source=rss",
+      "pubDate": "2026-11-19T03:10:33.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "外来種のインコ増殖 住民は困惑",
+      "link": "https://news.yahoo.co.jp/pickup/6603143?source=rss",
+      "pubDate": "2026-11-19T03:08:39.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "タマホーム 高松以外も不正請求か",
+      "link": "https://news.yahoo.co.jp/pickup/6603142?source=rss",
+      "pubDate": "2026-11-19T03:05:48.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 体操、強化にAI導入　スポーツ振興センターと富士通が共同研究開始「無限の可能性ある」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003323/",
+      "pubDate": "2026-11-19T02:56:47.000Z"
     },
     {
       "category": "国内",
@@ -24,14 +48,6 @@
       "title": "[ITmedia News] JR東の新キャラはB案“紫うさぎ”に　「Suica券面に登場」など、IP展開の可能性は",
       "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003307/",
       "pubDate": "2026-11-19T02:24:39.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "東京近郊で外来種インコ繁殖 困惑",
-      "link": "https://news.yahoo.co.jp/pickup/6603131?source=rss",
-      "pubDate": "2026-11-19T02:22:47.000Z"
     },
     {
       "category": "ITmedia",
@@ -80,14 +96,6 @@
       "title": "[ITmedia Mobile] 中古「iPhone 14」、楽天市場で128GBモデルが約5万円から販売中",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news037.html",
       "pubDate": "2026-11-19T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Google、AIエージェント機能「Tasks in Gemini」を日本を含む6カ国で無料提供　旧「Gemini Spark」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003319/",
-      "pubDate": "2026-11-19T00:59:11.000Z"
     },
     {
       "category": "国際",
@@ -170,6 +178,14 @@
       "pubDate": "2026-11-18T22:21:45.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルムが「X Summit Paris 2026」の開催を予告（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-summit-paris-2026.html",
+      "pubDate": "2026-11-18T15:21:27.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -192,6 +208,14 @@
       "title": "ボイジャー1号「1光日」に到達",
       "link": "https://news.yahoo.co.jp/pickup/6603070?source=rss",
       "pubDate": "2026-11-18T11:08:03.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーの次の新製品発表は2027年初頭になる？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/2027-1.html",
+      "pubDate": "2026-11-18T09:54:45.000Z"
     },
     {
       "category": "IT",
@@ -226,12 +250,12 @@
       "pubDate": "2026-11-18T08:51:06.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "Suica「紫のうさぎ」得票率51.7%",
-      "link": "https://news.yahoo.co.jp/pickup/6603054?source=rss",
-      "pubDate": "2026-11-18T08:26:46.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」は12月2日に発表される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6122.html",
+      "pubDate": "2026-11-18T05:00:50.000Z"
     },
     {
       "category": "科学",
@@ -240,6 +264,22 @@
       "title": "硫黄島 新たな陸地ドーム10個分に",
       "link": "https://news.yahoo.co.jp/pickup/6602996?source=rss",
       "pubDate": "2026-11-18T00:50:50.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが「LUMIX SHX1」を正式発表（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/lumix-shx1.html",
+      "pubDate": "2026-11-17T14:14:47.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックの新しいLマウントシネマカメラにはIBISと液晶モニタが搭載される？［内容更新]（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/libis.html",
+      "pubDate": "2026-11-16T16:52:25.000Z"
     }
   ]
 }
