@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T10:00:51.161Z",
+  "updatedAt": "2026-11-19T10:15:33.682Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,22 @@
       "title": "内閣支持率は微増の42.8% 時事",
       "link": "https://news.yahoo.co.jp/pickup/6603191?source=rss",
       "pubDate": "2026-11-19T09:56:58.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「焼肉きんぐ」「ゆず庵」など11アプリ、会員の氏名・電話番号の項目を廃止　予定を前倒し",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003344/",
+      "pubDate": "2026-11-19T09:53:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 楽天証券、アンソロピックIPOで「抽選対象外」の表示不具合　後から「当選」の報告相次ぐ　「想定より申し込み多く」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003347/",
+      "pubDate": "2026-11-19T09:40:42.000Z"
     },
     {
       "category": "経済",
@@ -34,14 +50,6 @@
       "pubDate": "2026-11-19T09:18:57.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「焼肉きんぐ」「ゆず庵」など11アプリ、会員の氏名・電話番号の項目を廃止　漏えい受け予定から前倒し",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003344/",
-      "pubDate": "2026-11-19T09:02:50.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -56,6 +64,14 @@
       "title": "米中露首脳 核軍縮やイラン議論か",
       "link": "https://news.yahoo.co.jp/pickup/6603185?source=rss",
       "pubDate": "2026-11-19T08:51:30.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモ／ahamo光の「10ギガ」プランが最大12カ月目まで月額2970円に　12月からキャンペーン開催",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/19/news070.html",
+      "pubDate": "2026-11-19T08:33:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -80,14 +96,6 @@
       "title": "高市首相 外遊成果に「手応え」",
       "link": "https://news.yahoo.co.jp/pickup/6603175?source=rss",
       "pubDate": "2026-11-19T07:55:20.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 「XREAL Aura」は仕事で使える？　Android XRグラスとキーボードでMacBook Airの代わりになるか試した",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/19/news065.html",
-      "pubDate": "2026-11-19T07:54:00.000Z"
     },
     {
       "category": "IT",
@@ -120,14 +128,6 @@
       "title": "JT 露の子会社7社を連結から除外",
       "link": "https://news.yahoo.co.jp/pickup/6603167?source=rss",
       "pubDate": "2026-11-19T07:03:54.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 免許証画像の「保管義務はない」　レンタカー事業に対し、個人情報保護委員会が注意喚起",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/19/news067.html",
-      "pubDate": "2026-11-19T07:00:00.000Z"
     },
     {
       "category": "国内",
