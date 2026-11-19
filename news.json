@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-19T02:45:40.721Z",
+  "updatedAt": "2026-11-19T03:00:55.214Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "小便器体験 女性記者が受けた衝撃",
+      "link": "https://news.yahoo.co.jp/pickup/6603138?source=rss",
+      "pubDate": "2026-11-19T02:59:39.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "防衛費財務省案 自民内で異論噴出",
       "link": "https://news.yahoo.co.jp/pickup/6603099?source=rss",
       "pubDate": "2026-11-18T22:21:45.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "首相 プーチン大統領と30分対話",
-      "link": "https://news.yahoo.co.jp/pickup/6603096?source=rss",
-      "pubDate": "2026-11-18T21:13:33.000Z"
     },
     {
       "category": "経済",
