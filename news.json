@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-19T11:15:34.247Z",
+  "updatedAt": "2026-11-19T11:30:52.933Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ちいかわ寿司皿 抽選配布の問題点",
+      "link": "https://news.yahoo.co.jp/pickup/6603182?source=rss",
+      "pubDate": "2026-11-19T11:23:53.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -202,22 +210,6 @@
       "pubDate": "2026-11-19T03:08:39.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "タマホーム 高松以外も不正請求か",
-      "link": "https://news.yahoo.co.jp/pickup/6603142?source=rss",
-      "pubDate": "2026-11-19T03:05:48.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックは「EVF内蔵のS9」の期待に応えられるよう取り組んでいる（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1973.html",
-      "pubDate": "2026-11-19T02:28:22.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -242,44 +234,12 @@
       "pubDate": "2026-11-18T22:59:18.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルムが「X Summit Paris 2026」の開催を予告（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-summit-paris-2026.html",
-      "pubDate": "2026-11-18T15:21:27.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーの次の新製品発表は2027年初頭になる？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027-1.html",
-      "pubDate": "2026-11-18T09:54:45.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "顧客情報漏えいか 楽天証券が説明",
       "link": "https://news.yahoo.co.jp/pickup/6603062?source=rss",
       "pubDate": "2026-11-18T09:38:22.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」は12月2日に発表される？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6122.html",
-      "pubDate": "2026-11-18T05:00:50.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが「LUMIX SHX1」を正式発表（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/lumix-shx1.html",
-      "pubDate": "2026-11-17T14:14:47.000Z"
     }
   ]
 }
