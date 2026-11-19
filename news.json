@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-19T02:30:41.521Z",
+  "updatedAt": "2026-11-19T02:45:40.721Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "日露首脳対話 関係改善の道険しく",
+      "link": "https://news.yahoo.co.jp/pickup/6603135?source=rss",
+      "pubDate": "2026-11-19T02:34:45.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] JR東の新キャラはB案“紫うさぎ”に　「Suica券面に登場」など、IP展開の可能性は",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003307/",
+      "pubDate": "2026-11-19T02:24:39.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -10,12 +26,28 @@
       "pubDate": "2026-11-19T02:22:47.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] PHPが再び重大脆弱性を修正へ　10月の“緊急対応”と今回は何が違うのか",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news048.html",
+      "pubDate": "2026-11-19T02:15:00.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "市民デモ相次ぐ仏 警官が抗議デモ",
       "link": "https://news.yahoo.co.jp/pickup/6603130?source=rss",
       "pubDate": "2026-11-19T02:11:01.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] OpenAIのAIモデル、AMDのGPU回路設計を最大14％改善　独自チップ「ハラペーニョ」でも成果",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003321/",
+      "pubDate": "2026-11-19T02:09:22.000Z"
     },
     {
       "category": "国際",
@@ -66,28 +98,12 @@
       "pubDate": "2026-11-19T00:34:59.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 体操、強化にAI導入　スポーツ振興センターと富士通が共同研究開始「無限の可能性ある」",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/19/2000003317/",
-      "pubDate": "2026-11-19T00:34:33.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "米 ベネズエラと軍事協力で合意",
       "link": "https://news.yahoo.co.jp/pickup/6603113?source=rss",
       "pubDate": "2026-11-19T00:18:35.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] Windowsの脆弱性修正、1カ月で前年1年分超　Ignite 2026で見えた「守り」の新しい形",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news022.html",
-      "pubDate": "2026-11-19T00:15:00.000Z"
     },
     {
       "category": "経済",
@@ -104,14 +120,6 @@
       "title": "サーバーソフト「nginx」に脆弱性",
       "link": "https://news.yahoo.co.jp/pickup/6603112?source=rss",
       "pubDate": "2026-11-19T00:01:46.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] AIエージェント導入で「処理の遅延問題」悪化　意外と“古典的”な打開策とは？",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news028.html",
-      "pubDate": "2026-11-19T00:00:00.000Z"
     },
     {
       "category": "国内",
@@ -162,14 +170,6 @@
       "pubDate": "2026-11-18T21:13:33.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルムが「X Summit Paris 2026」の開催を予告（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-summit-paris-2026.html",
-      "pubDate": "2026-11-18T15:21:27.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -186,28 +186,12 @@
       "pubDate": "2026-11-18T12:17:04.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "支援金 対象年収下限「56万円」案",
-      "link": "https://news.yahoo.co.jp/pickup/6603076?source=rss",
-      "pubDate": "2026-11-18T12:11:23.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "ボイジャー1号「1光日」に到達",
       "link": "https://news.yahoo.co.jp/pickup/6603070?source=rss",
       "pubDate": "2026-11-18T11:08:03.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーの次の新製品発表は2027年初頭になる？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027-1.html",
-      "pubDate": "2026-11-18T09:54:45.000Z"
     },
     {
       "category": "IT",
@@ -250,36 +234,12 @@
       "pubDate": "2026-11-18T08:26:46.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」は12月2日に発表される？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6122.html",
-      "pubDate": "2026-11-18T05:00:50.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "硫黄島 新たな陸地ドーム10個分に",
       "link": "https://news.yahoo.co.jp/pickup/6602996?source=rss",
       "pubDate": "2026-11-18T00:50:50.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックが「LUMIX SHX1」を正式発表（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/lumix-shx1.html",
-      "pubDate": "2026-11-17T14:14:47.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックの新しいLマウントシネマカメラにはIBISと液晶モニタが搭載される？［内容更新]（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/libis.html",
-      "pubDate": "2026-11-16T16:52:25.000Z"
     }
   ]
 }
