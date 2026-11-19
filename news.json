@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-19T01:30:41.466Z",
+  "updatedAt": "2026-11-19T01:45:32.115Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "賃上げより手取り増 食事補助注目",
+      "link": "https://news.yahoo.co.jp/pickup/6603124?source=rss",
+      "pubDate": "2026-11-19T01:41:55.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Google、AIエージェント機能「Tasks in Gemini」を日本を含む6カ国で無料提供　旧「Gemini Spark」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003319/",
+      "pubDate": "2026-11-19T00:59:11.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -72,14 +88,6 @@
       "title": "[ITmedia News] 28年春導入の「手ぶら改札」　40駅の顔ぶれに透けるJR東の狙い　東京メトロも“陣営”入り",
       "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003313/",
       "pubDate": "2026-11-19T00:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 六花亭、カード番号全桁＋セキュリティコード約8000件流出か　決済画面のプログラム改ざん",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
-      "pubDate": "2026-11-18T23:59:10.000Z"
     },
     {
       "category": "国内",
@@ -232,14 +240,6 @@
       "title": "Suica「紫のうさぎ」得票率51.7%",
       "link": "https://news.yahoo.co.jp/pickup/6603054?source=rss",
       "pubDate": "2026-11-18T08:26:46.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日本車の部品 一部共通化する方針",
-      "link": "https://news.yahoo.co.jp/pickup/6603047?source=rss",
-      "pubDate": "2026-11-18T07:40:00.000Z"
     },
     {
       "category": "デジカメinfo",
