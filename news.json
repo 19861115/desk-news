@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-19T09:45:32.400Z",
+  "updatedAt": "2026-11-19T10:00:51.161Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "内閣支持率は微増の42.8% 時事",
+      "link": "https://news.yahoo.co.jp/pickup/6603191?source=rss",
+      "pubDate": "2026-11-19T09:56:58.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -128,14 +136,6 @@
       "title": "21日頃にかけ 山地中心に積雪か",
       "link": "https://news.yahoo.co.jp/pickup/6603162?source=rss",
       "pubDate": "2026-11-19T06:19:41.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "戦車事故 陸自が原因を特定し公表",
-      "link": "https://news.yahoo.co.jp/pickup/6603159?source=rss",
-      "pubDate": "2026-11-19T05:58:27.000Z"
     },
     {
       "category": "国際",
