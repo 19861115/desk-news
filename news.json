@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T08:15:37.844Z",
+  "updatedAt": "2026-11-19T08:30:47.413Z",
   "items": [
     {
       "category": "国内",
@@ -170,6 +170,14 @@
       "pubDate": "2026-11-19T03:05:48.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックは「EVF内蔵のS9」の期待に応えられるよう取り組んでいる（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1973.html",
+      "pubDate": "2026-11-19T02:28:22.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -210,6 +218,14 @@
       "pubDate": "2026-11-18T22:59:18.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルムが「X Summit Paris 2026」の開催を予告（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-summit-paris-2026.html",
+      "pubDate": "2026-11-18T15:21:27.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -226,6 +242,14 @@
       "pubDate": "2026-11-18T11:08:03.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーの次の新製品発表は2027年初頭になる？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/2027-1.html",
+      "pubDate": "2026-11-18T09:54:45.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -240,6 +264,22 @@
       "title": "大人も苦しむ感覚過敏 外出困難も",
       "link": "https://news.yahoo.co.jp/pickup/6603045?source=rss",
       "pubDate": "2026-11-18T08:54:40.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」は12月2日に発表される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6122.html",
+      "pubDate": "2026-11-18T05:00:50.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックが「LUMIX SHX1」を正式発表（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/lumix-shx1.html",
+      "pubDate": "2026-11-17T14:14:47.000Z"
     }
   ]
 }
