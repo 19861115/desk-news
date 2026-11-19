@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-19T23:30:43.466Z",
+  "updatedAt": "2026-11-19T23:45:31.266Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "露 クリミア橋攻撃受け報復宣言",
+      "link": "https://news.yahoo.co.jp/pickup/6603235?source=rss",
+      "pubDate": "2026-11-19T23:31:08.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -10,12 +18,36 @@
       "pubDate": "2026-11-19T23:18:13.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 湘南美容クリニックのSBC、162万人分の個人情報流出　パスワードは「暗号化せず保存していた」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
+      "pubDate": "2026-11-19T23:17:42.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "大学教員40歳はまだ「若手」背景",
       "link": "https://news.yahoo.co.jp/pickup/6603234?source=rss",
       "pubDate": "2026-11-19T23:15:11.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 「名ばかりFDE」を見抜けるか？　依頼検討時に確認したい10項目",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/20/news028.html",
+      "pubDate": "2026-11-19T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] なぜ今、「科学のためのAI」が注目されるのか――ENEOSとNVIDIAが挑む材料開発のブレイクスルー",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/20/2000003240/",
+      "pubDate": "2026-11-19T23:00:00.000Z"
     },
     {
       "category": "科学",
@@ -71,30 +103,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia エンタープライズ] M365の世界的障害、重なった3つの要因とは？　日本マイクロソフトが説明",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2611/20/news023.html",
-      "pubDate": "2026-11-19T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 大規模障害から2年、カーネル依存を減らすWindows新基盤　CrowdStrikeら8社はいつ対応？",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/20/news015.html",
-      "pubDate": "2026-11-19T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 伊藤忠が月1.3万時間削減、数千件の「二重業務」解消へ　AI推進で経営陣を動かした「定量の匂い」とは？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/20/news042.html",
-      "pubDate": "2026-11-19T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] AI需要で「シェア0→50％」急成長　半導体設計のアーム社が仕掛ける“新ビジネス“の正体は？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/20/news041.html",
       "pubDate": "2026-11-19T22:00:00.000Z"
     },
     {
@@ -184,14 +192,6 @@
       "title": "楽天証券に報告徴求命令 金融庁",
       "link": "https://news.yahoo.co.jp/pickup/6603203?source=rss",
       "pubDate": "2026-11-19T12:06:41.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米中露首脳「平和宣言」を発表",
-      "link": "https://news.yahoo.co.jp/pickup/6603204?source=rss",
-      "pubDate": "2026-11-19T11:59:20.000Z"
     },
     {
       "category": "経済",
