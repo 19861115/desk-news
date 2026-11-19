@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-19T04:30:43.822Z",
+  "updatedAt": "2026-11-19T04:45:33.601Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "APEC 中国が見せた「線引き」",
+      "link": "https://news.yahoo.co.jp/pickup/6603146?source=rss",
+      "pubDate": "2026-11-19T04:37:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 認証なしでリモートコード実行の恐れ、Javaに脆弱性「Java4Shell」　JiraやJenkinsで攻撃実証の報告も",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news055.html",
+      "pubDate": "2026-11-19T04:15:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -74,14 +90,6 @@
       "pubDate": "2026-11-19T03:05:48.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 楽天証券漏えい、“テスト環境に顧客情報”のマズさ　識者「一般的でない」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003312/",
-      "pubDate": "2026-11-19T03:00:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -120,14 +128,6 @@
       "title": "賃上げより手取り増 食事補助注目",
       "link": "https://news.yahoo.co.jp/pickup/6603124?source=rss",
       "pubDate": "2026-11-19T01:41:55.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "韓国で大学入試 AI不正の対策徹底",
-      "link": "https://news.yahoo.co.jp/pickup/6603120?source=rss",
-      "pubDate": "2026-11-19T00:57:12.000Z"
     },
     {
       "category": "IT",
