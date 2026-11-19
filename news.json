@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-19T09:30:43.041Z",
+  "updatedAt": "2026-11-19T09:45:32.400Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "くら寿司 ちいかわ寿司皿再配布へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603187?source=rss",
+      "pubDate": "2026-11-19T09:35:31.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "政府 配信者の発言全ては確認せず",
       "link": "https://news.yahoo.co.jp/pickup/6603188?source=rss",
       "pubDate": "2026-11-19T09:26:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 脆弱性で話題「nginx」なんて読む？　「ンギンクス」ではなく……",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003338/",
+      "pubDate": "2026-11-19T09:18:57.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「焼肉きんぐ」「ゆず庵」など11アプリ、会員の氏名・電話番号の項目を廃止　漏えい受け予定から前倒し",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003344/",
+      "pubDate": "2026-11-19T09:02:50.000Z"
     },
     {
       "category": "経済",
@@ -98,22 +122,6 @@
       "pubDate": "2026-11-19T07:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 128GBメモリで120BクラスのLLMが動く！　マウスコンピューターの卓上ローカルAI向けミニPC「DAIV CX」の実力",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/19/news047.html",
-      "pubDate": "2026-11-19T07:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] MSI、RTX Sparkを搭載した小型AIデスクトップ「EdgeMesa N AI＋」",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/19/news069.html",
-      "pubDate": "2026-11-19T06:47:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -192,14 +200,6 @@
       "title": "北朝鮮非難の国連決議 米国が棄権",
       "link": "https://news.yahoo.co.jp/pickup/6603126?source=rss",
       "pubDate": "2026-11-19T01:50:20.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "賃上げより手取り増 食事補助注目",
-      "link": "https://news.yahoo.co.jp/pickup/6603124?source=rss",
-      "pubDate": "2026-11-19T01:41:55.000Z"
     },
     {
       "category": "IT",
