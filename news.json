@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T01:00:50.920Z",
+  "updatedAt": "2026-11-19T01:15:33.282Z",
   "items": [
     {
       "category": "国際",
@@ -16,6 +16,14 @@
       "title": "Anthropic IPO公開価格は83ドル",
       "link": "https://news.yahoo.co.jp/pickup/6603117?source=rss",
       "pubDate": "2026-11-19T00:34:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 体操、強化にAI導入　スポーツ振興センターと富士通が共同研究開始「無限の可能性ある」",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/19/2000003317/",
+      "pubDate": "2026-11-19T00:34:33.000Z"
     },
     {
       "category": "国際",
@@ -80,14 +88,6 @@
       "title": "21日にかけ風強まる 暴風など警戒",
       "link": "https://news.yahoo.co.jp/pickup/6603109?source=rss",
       "pubDate": "2026-11-18T23:35:57.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] Matlantis岡野原氏が挑む“AI×科学”の新たな主戦場「マイクロフィジカルAI」とは？",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/19/2000003239/",
-      "pubDate": "2026-11-18T23:00:00.000Z"
     },
     {
       "category": "科学",
