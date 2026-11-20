@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-20T02:30:41.692Z",
+  "updatedAt": "2026-11-20T02:45:31.667Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "徒競走に順位つけるべきか 論争",
+      "link": "https://news.yahoo.co.jp/pickup/6603258?source=rss",
+      "pubDate": "2026-11-20T02:29:42.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "楽天証券へ訴訟準備 1.5万人登録",
+      "link": "https://news.yahoo.co.jp/pickup/6603257?source=rss",
+      "pubDate": "2026-11-20T02:29:20.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -10,12 +26,36 @@
       "pubDate": "2026-11-20T02:24:51.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算　3.5万人の新会社トップが語る「戦略の2本柱」とは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/20/news024.html",
+      "pubDate": "2026-11-20T02:15:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「dカード プリペイド」2027年9月30日にサービス終了へ　新規発行は2026年12月20日まで",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news050.html",
+      "pubDate": "2026-11-20T02:12:00.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "楽天証券の情報流出 遺憾と金融相",
       "link": "https://news.yahoo.co.jp/pickup/6603253?source=rss",
       "pubDate": "2026-11-20T02:04:19.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 東武百貨店、顔認証決済を導入　広域の優良顧客で購買データの質向上",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/20/2000003361/",
+      "pubDate": "2026-11-20T01:58:15.000Z"
     },
     {
       "category": "経済",
@@ -74,30 +114,6 @@
       "pubDate": "2026-11-20T00:24:46.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] PHP「緊急」脆弱性、サービス一時停止の動き再び　ウマ娘やグラブル、イープラスなど緊急メンテ",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003357/",
-      "pubDate": "2026-11-20T00:17:02.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 日本で受け入れられるのか？　ネットにつながらない携帯「INFOBAR ZERO」　KDDIが語った発売の意図",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003330/",
-      "pubDate": "2026-11-19T23:45:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加　まず米国で",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
-      "pubDate": "2026-11-19T23:41:04.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -138,14 +154,6 @@
       "pubDate": "2026-11-19T22:44:21.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "アンソロピック 初日終値約97ドル",
-      "link": "https://news.yahoo.co.jp/pickup/6603229?source=rss",
-      "pubDate": "2026-11-19T22:36:03.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -176,14 +184,6 @@
       "title": "アンソロピック 米ナスダック上場",
       "link": "https://news.yahoo.co.jp/pickup/6603220?source=rss",
       "pubDate": "2026-11-19T14:50:41.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "麻生氏 アジア大会トラブルに苦言",
-      "link": "https://news.yahoo.co.jp/pickup/6603218?source=rss",
-      "pubDate": "2026-11-19T14:16:37.000Z"
     },
     {
       "category": "科学",
