@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-20T08:45:32.015Z",
+  "updatedAt": "2026-11-20T09:00:51.506Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "サイバー捜査支援部隊 警察庁設置",
+      "link": "https://news.yahoo.co.jp/pickup/6603313?source=rss",
+      "pubDate": "2026-11-20T08:54:58.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -168,14 +176,6 @@
       "title": "独メルツ首相 米中露会談を批判",
       "link": "https://news.yahoo.co.jp/pickup/6603280?source=rss",
       "pubDate": "2026-11-20T04:28:15.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "法務省とラヴ上等 タイアップ経緯",
-      "link": "https://news.yahoo.co.jp/pickup/6603265?source=rss",
-      "pubDate": "2026-11-20T03:05:50.000Z"
     },
     {
       "category": "科学",
