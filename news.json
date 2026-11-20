@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-20T06:00:48.816Z",
+  "updatedAt": "2026-11-20T06:15:33.261Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "H3ロケット打ち上げを民間移管",
+      "link": "https://news.yahoo.co.jp/pickup/6603289?source=rss",
+      "pubDate": "2026-11-20T06:11:30.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -112,14 +120,6 @@
       "title": "MSに再発防止を要請 デジタル相",
       "link": "https://news.yahoo.co.jp/pickup/6603263?source=rss",
       "pubDate": "2026-11-20T03:02:03.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "H3ロケット打ち上げ 民間移管へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603260?source=rss",
-      "pubDate": "2026-11-20T02:48:23.000Z"
     },
     {
       "category": "国内",
