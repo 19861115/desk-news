@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-20T07:15:38.166Z",
+  "updatedAt": "2026-11-20T07:30:47.758Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "首相が中国到着時 タラップに段差",
+      "link": "https://news.yahoo.co.jp/pickup/6603300?source=rss",
+      "pubDate": "2026-11-20T07:25:56.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "虐待死受け緊急点検 こども家庭庁",
+      "link": "https://news.yahoo.co.jp/pickup/6603299?source=rss",
+      "pubDate": "2026-11-20T07:23:04.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "置き配は玄関前で配達完了 指針案",
+      "link": "https://news.yahoo.co.jp/pickup/6603298?source=rss",
+      "pubDate": "2026-11-20T07:20:05.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -82,14 +106,6 @@
       "pubDate": "2026-11-20T06:07:00.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ニコン「Z70」の発表は12月初旬？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/z70-2.html",
-      "pubDate": "2026-11-20T06:04:44.000Z"
-    },
-    {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
@@ -114,14 +130,6 @@
       "pubDate": "2026-11-20T04:34:35.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ホンダ 新型3列SUVを世界初公開",
-      "link": "https://news.yahoo.co.jp/pickup/6603281?source=rss",
-      "pubDate": "2026-11-20T04:32:04.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -144,22 +152,6 @@
       "title": "MSに再発防止を要請 デジタル相",
       "link": "https://news.yahoo.co.jp/pickup/6603263?source=rss",
       "pubDate": "2026-11-20T03:02:03.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "徒競走に順位つけるべきか 論争",
-      "link": "https://news.yahoo.co.jp/pickup/6603258?source=rss",
-      "pubDate": "2026-11-20T02:29:42.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "米国頼みの高市外交 限界浮き彫り",
-      "link": "https://news.yahoo.co.jp/pickup/6603256?source=rss",
-      "pubDate": "2026-11-20T02:24:51.000Z"
     },
     {
       "category": "科学",
@@ -210,14 +202,6 @@
       "pubDate": "2026-11-19T22:22:36.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックの動画機はなぜソニーFXに挑戦しないのか？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/lumixfx.html",
-      "pubDate": "2026-11-19T15:11:25.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -250,36 +234,12 @@
       "pubDate": "2026-11-19T07:06:39.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックは「EVF内蔵のS9」の期待に応えられるよう取り組んでいる（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1973.html",
-      "pubDate": "2026-11-19T02:28:22.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "Anthropic IPO公開価格は83ドル",
       "link": "https://news.yahoo.co.jp/pickup/6603117?source=rss",
       "pubDate": "2026-11-19T00:34:59.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルムが「X Summit Paris 2026」の開催を予告（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-summit-paris-2026.html",
-      "pubDate": "2026-11-18T15:21:27.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーの次の新製品発表は2027年初頭になる？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027-1.html",
-      "pubDate": "2026-11-18T09:54:45.000Z"
     }
   ]
 }
