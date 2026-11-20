@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-20T00:30:41.823Z",
+  "updatedAt": "2026-11-20T00:45:32.566Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "日経平均 一時2000円以上の下落",
+      "link": "https://news.yahoo.co.jp/pickup/6603246?source=rss",
+      "pubDate": "2026-11-20T00:39:14.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Google、宇宙AIデータセンター構想「Project Suncatcher」でベゾス氏のBlue Originと提携　2029年に衛星打ち上げへ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003358/",
+      "pubDate": "2026-11-20T00:25:43.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "ロヒンギャ巡る判決 内容精査と米",
       "link": "https://news.yahoo.co.jp/pickup/6603242?source=rss",
       "pubDate": "2026-11-20T00:24:46.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] PHP「緊急」脆弱性、サービス一時停止の動き再び　ウマ娘やグラブル、イープラスなど緊急メンテ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003357/",
+      "pubDate": "2026-11-20T00:17:02.000Z"
     },
     {
       "category": "ITmedia",
@@ -56,22 +80,6 @@
       "title": "大学教員40歳はまだ「若手」背景",
       "link": "https://news.yahoo.co.jp/pickup/6603234?source=rss",
       "pubDate": "2026-11-19T23:15:11.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 「名ばかりFDE」を見抜けるか？　依頼検討時に確認したい10項目",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/20/news028.html",
-      "pubDate": "2026-11-19T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] なぜ今、「科学のためのAI」が注目されるのか――ENEOSとNVIDIAが挑む材料開発のブレイクスルー",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/20/2000003240/",
-      "pubDate": "2026-11-19T23:00:00.000Z"
     },
     {
       "category": "科学",
@@ -192,14 +200,6 @@
       "title": "楽天証券に報告徴求命令 金融庁",
       "link": "https://news.yahoo.co.jp/pickup/6603203?source=rss",
       "pubDate": "2026-11-19T12:06:41.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "NHK ラジオで関係ない音声を放送",
-      "link": "https://news.yahoo.co.jp/pickup/6603200?source=rss",
-      "pubDate": "2026-11-19T11:29:30.000Z"
     },
     {
       "category": "科学",
