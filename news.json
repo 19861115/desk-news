@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-20T03:00:51.588Z",
+  "updatedAt": "2026-11-20T03:15:31.818Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "法務省とラヴ上等 タイアップ経緯",
+      "link": "https://news.yahoo.co.jp/pickup/6603265?source=rss",
+      "pubDate": "2026-11-20T03:05:50.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "MSに再発防止を要請 デジタル相",
+      "link": "https://news.yahoo.co.jp/pickup/6603263?source=rss",
+      "pubDate": "2026-11-20T03:02:03.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "H3ロケット打ち上げ 民間移管へ",
       "link": "https://news.yahoo.co.jp/pickup/6603260?source=rss",
       "pubDate": "2026-11-20T02:48:23.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] ニチレイへの攻撃はなぜ起きた？　「たまたま選ばれる」被害の構造",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/20/news049.html",
+      "pubDate": "2026-11-20T02:40:00.000Z"
     },
     {
       "category": "国内",
@@ -106,14 +130,6 @@
       "pubDate": "2026-11-20T00:49:54.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Google、宇宙AIデータセンター構想「Project Suncatcher」でベゾス氏のBlue Originと提携　2029年に衛星打ち上げへ",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003358/",
-      "pubDate": "2026-11-20T00:25:43.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -128,14 +144,6 @@
       "title": "露 クリミア橋攻撃受け報復宣言",
       "link": "https://news.yahoo.co.jp/pickup/6603235?source=rss",
       "pubDate": "2026-11-19T23:31:08.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "21日にかけ寒波 北陸など暴風警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6603236?source=rss",
-      "pubDate": "2026-11-19T23:18:13.000Z"
     },
     {
       "category": "国内",
@@ -160,14 +168,6 @@
       "title": "体調不良でAI相談 回答うのみ注意",
       "link": "https://news.yahoo.co.jp/pickup/6603231?source=rss",
       "pubDate": "2026-11-19T22:44:21.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "首相の中国訪問「新ヤルタ」警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6603228?source=rss",
-      "pubDate": "2026-11-19T22:35:06.000Z"
     },
     {
       "category": "国際",
