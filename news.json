@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T04:00:50.012Z",
+  "updatedAt": "2026-11-20T04:15:33.355Z",
   "items": [
     {
       "category": "経済",
@@ -58,6 +58,14 @@
       "pubDate": "2026-11-20T03:00:00.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] Nintendo Switch 2に直接接続　バッテリーレスのモバイルWi-Fi「Switch Direct Link」予約開始",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news051.html",
+      "pubDate": "2026-11-20T02:53:00.000Z"
+    },
+    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -96,14 +104,6 @@
       "title": "米国頼みの高市外交 限界浮き彫り",
       "link": "https://news.yahoo.co.jp/pickup/6603256?source=rss",
       "pubDate": "2026-11-20T02:24:51.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算　3.5万人の新会社トップが語る「戦略の2本柱」とは？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/20/news024.html",
-      "pubDate": "2026-11-20T02:15:00.000Z"
     },
     {
       "category": "経済",
