@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-20T09:30:42.824Z",
+  "updatedAt": "2026-11-20T09:45:33.102Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "今年のインフル「だらだら流行」",
+      "link": "https://news.yahoo.co.jp/pickup/6603316?source=rss",
+      "pubDate": "2026-11-20T09:41:50.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "公認会計士 14歳が史上最年少合格",
+      "link": "https://news.yahoo.co.jp/pickup/6603321?source=rss",
+      "pubDate": "2026-11-20T09:38:47.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "政府内部資料流出か 不正アクセス",
+      "link": "https://news.yahoo.co.jp/pickup/6603320?source=rss",
+      "pubDate": "2026-11-20T09:36:38.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -162,14 +186,6 @@
       "pubDate": "2026-11-20T06:04:44.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "日中会談はなし 難しい関係修復",
-      "link": "https://news.yahoo.co.jp/pickup/6603266?source=rss",
-      "pubDate": "2026-11-20T04:34:35.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -234,28 +250,12 @@
       "pubDate": "2026-11-19T14:50:41.000Z"
     },
     {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "太田裕美さん死去 乳がんを解説",
-      "link": "https://news.yahoo.co.jp/pickup/6603215?source=rss",
-      "pubDate": "2026-11-19T13:51:02.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "六花亭 セキュリティコード流出か",
       "link": "https://news.yahoo.co.jp/pickup/6603168?source=rss",
       "pubDate": "2026-11-19T07:20:54.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "街に広がるAI画像 どこまで許容?",
-      "link": "https://news.yahoo.co.jp/pickup/6603166?source=rss",
-      "pubDate": "2026-11-19T07:06:39.000Z"
     },
     {
       "category": "デジカメinfo",
