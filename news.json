@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-20T08:15:32.641Z",
+  "updatedAt": "2026-11-20T08:30:47.757Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "スマホ無限スクロール どう思う?",
+      "link": "https://news.yahoo.co.jp/pickup/6603307?source=rss",
+      "pubDate": "2026-11-20T08:24:49.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -122,14 +130,6 @@
       "pubDate": "2026-11-20T06:07:00.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ニコン「Z70」の発表は12月初旬？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/z70-2.html",
-      "pubDate": "2026-11-20T06:04:44.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -210,14 +210,6 @@
       "pubDate": "2026-11-19T22:22:36.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックの動画機はなぜソニーFXに挑戦しないのか？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/lumixfx.html",
-      "pubDate": "2026-11-19T15:11:25.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -248,38 +240,6 @@
       "title": "街に広がるAI画像 どこまで許容?",
       "link": "https://news.yahoo.co.jp/pickup/6603166?source=rss",
       "pubDate": "2026-11-19T07:06:39.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "パナソニックは「EVF内蔵のS9」の期待に応えられるよう取り組んでいる（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1973.html",
-      "pubDate": "2026-11-19T02:28:22.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "Anthropic IPO公開価格は83ドル",
-      "link": "https://news.yahoo.co.jp/pickup/6603117?source=rss",
-      "pubDate": "2026-11-19T00:34:59.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルムが「X Summit Paris 2026」の開催を予告（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-summit-paris-2026.html",
-      "pubDate": "2026-11-18T15:21:27.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーの次の新製品発表は2027年初頭になる？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027-1.html",
-      "pubDate": "2026-11-18T09:54:45.000Z"
     }
   ]
 }
