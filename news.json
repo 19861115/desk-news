@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-20T11:00:53.664Z",
+  "updatedAt": "2026-11-20T11:15:34.242Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "大型クロマグロ漁獲枠 25%増合意",
+      "link": "https://news.yahoo.co.jp/pickup/6603329?source=rss",
+      "pubDate": "2026-11-20T11:09:13.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -152,14 +160,6 @@
       "title": "ドンキ AI社員「近藤あい」の狙い",
       "link": "https://news.yahoo.co.jp/pickup/6603294?source=rss",
       "pubDate": "2026-11-20T06:51:42.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日経平均終値3007円安 AI巡り混乱",
-      "link": "https://news.yahoo.co.jp/pickup/6603296?source=rss",
-      "pubDate": "2026-11-20T06:48:16.000Z"
     },
     {
       "category": "国際",
