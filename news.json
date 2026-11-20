@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-20T00:00:58.526Z",
+  "updatedAt": "2026-11-20T00:15:38.157Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 日本で受け入れられるのか？　ネットにつながらない携帯「INFOBAR ZERO」　KDDIが語った発売の意図",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003330/",
+      "pubDate": "2026-11-19T23:45:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加　まず米国で",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
+      "pubDate": "2026-11-19T23:41:04.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -88,22 +104,6 @@
       "title": "習氏 台湾問題で米大統領をけん制",
       "link": "https://news.yahoo.co.jp/pickup/6603226?source=rss",
       "pubDate": "2026-11-19T22:22:36.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] AIが使うデータは「今この瞬間」でも信頼できるか　PwCが特許を取得した仕組みとは",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/20/news017.html",
-      "pubDate": "2026-11-19T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] M365の世界的障害、重なった3つの要因とは？　日本マイクロソフトが説明",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/20/news023.html",
-      "pubDate": "2026-11-19T22:00:00.000Z"
     },
     {
       "category": "経済",
