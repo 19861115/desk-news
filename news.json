@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-20T03:15:31.818Z",
+  "updatedAt": "2026-11-20T03:30:42.085Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "GMO会見なぜ炎上 識者の指摘3点",
+      "link": "https://news.yahoo.co.jp/pickup/6603273?source=rss",
+      "pubDate": "2026-11-20T03:29:11.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "東海道新幹線 1日で最多504本運行",
+      "link": "https://news.yahoo.co.jp/pickup/6603269?source=rss",
+      "pubDate": "2026-11-20T03:19:25.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -106,28 +122,12 @@
       "pubDate": "2026-11-20T01:41:37.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日経平均 一時2800円以上値下がり",
-      "link": "https://news.yahoo.co.jp/pickup/6603248?source=rss",
-      "pubDate": "2026-11-20T01:12:04.000Z"
-    },
-    {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia Mobile] 【ダイソー】330円の屋内向けの「センサーライト」　人を感知して自動で点灯／消灯",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news035.html",
       "pubDate": "2026-11-20T01:00:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "10月の消費者物価指数 2.2%上昇",
-      "link": "https://news.yahoo.co.jp/pickup/6603241?source=rss",
-      "pubDate": "2026-11-20T00:49:54.000Z"
     },
     {
       "category": "国際",
