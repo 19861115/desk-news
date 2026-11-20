@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-20T08:30:47.757Z",
+  "updatedAt": "2026-11-20T08:45:32.015Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "明治「スーパーカップ」値上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6603309?source=rss",
+      "pubDate": "2026-11-20T08:40:19.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "上海で邦人死亡 別の邦人を拘束",
+      "link": "https://news.yahoo.co.jp/pickup/6603308?source=rss",
+      "pubDate": "2026-11-20T08:31:46.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -10,20 +26,28 @@
       "pubDate": "2026-11-20T08:24:49.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 片山財務相、楽天証券は「顧客の不安解消に、できること全部していただきたい」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003371/",
+      "pubDate": "2026-11-20T08:13:16.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] H3ロケット打ち上げ、JAXAから三菱重工に移管　来年1月の11号機から",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
+      "pubDate": "2026-11-20T08:09:25.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "3連休前半 日本海側中心に冬の嵐",
       "link": "https://news.yahoo.co.jp/pickup/6603306?source=rss",
       "pubDate": "2026-11-20T08:07:19.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 片山財務相、楽天証券は「顧客の不安解消に、できること全部していただきたい」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003371/",
-      "pubDate": "2026-11-20T07:32:08.000Z"
     },
     {
       "category": "国内",
@@ -122,20 +146,12 @@
       "pubDate": "2026-11-20T06:11:05.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ASUS、“競技シーン向け”をうたった高リフレッシュレート表示対応の24.5型フルHDゲーミングディスプレイ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/20/news057.html",
-      "pubDate": "2026-11-20T06:07:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "駅にサンドイッチ自販機 人気理由",
-      "link": "https://news.yahoo.co.jp/pickup/6603282?source=rss",
-      "pubDate": "2026-11-20T04:35:08.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ニコン「Z70」の発表は12月初旬？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/z70-2.html",
+      "pubDate": "2026-11-20T06:04:44.000Z"
     },
     {
       "category": "国内",
@@ -202,12 +218,12 @@
       "pubDate": "2026-11-19T22:44:21.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "習氏 台湾問題で米大統領をけん制",
-      "link": "https://news.yahoo.co.jp/pickup/6603226?source=rss",
-      "pubDate": "2026-11-19T22:22:36.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックの動画機はなぜソニーFXに挑戦しないのか？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/lumixfx.html",
+      "pubDate": "2026-11-19T15:11:25.000Z"
     },
     {
       "category": "IT",
@@ -240,6 +256,30 @@
       "title": "街に広がるAI画像 どこまで許容?",
       "link": "https://news.yahoo.co.jp/pickup/6603166?source=rss",
       "pubDate": "2026-11-19T07:06:39.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックは「EVF内蔵のS9」の期待に応えられるよう取り組んでいる（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1973.html",
+      "pubDate": "2026-11-19T02:28:22.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルムが「X Summit Paris 2026」の開催を予告（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-summit-paris-2026.html",
+      "pubDate": "2026-11-18T15:21:27.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーの次の新製品発表は2027年初頭になる？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/2027-1.html",
+      "pubDate": "2026-11-18T09:54:45.000Z"
     }
   ]
 }
