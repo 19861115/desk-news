@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-20T02:15:31.816Z",
+  "updatedAt": "2026-11-20T02:30:41.692Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "米国頼みの高市外交 限界浮き彫り",
+      "link": "https://news.yahoo.co.jp/pickup/6603256?source=rss",
+      "pubDate": "2026-11-20T02:24:51.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -176,14 +184,6 @@
       "title": "麻生氏 アジア大会トラブルに苦言",
       "link": "https://news.yahoo.co.jp/pickup/6603218?source=rss",
       "pubDate": "2026-11-19T14:16:37.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "高市首相 トランプ氏と電話会談",
-      "link": "https://news.yahoo.co.jp/pickup/6603216?source=rss",
-      "pubDate": "2026-11-19T14:00:34.000Z"
     },
     {
       "category": "科学",
