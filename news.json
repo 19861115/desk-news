@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-20T04:30:42.555Z",
+  "updatedAt": "2026-11-20T04:45:30.379Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "駅にサンドイッチ自販機 人気理由",
+      "link": "https://news.yahoo.co.jp/pickup/6603282?source=rss",
+      "pubDate": "2026-11-20T04:35:08.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "日中会談はなし 難しい関係修復",
+      "link": "https://news.yahoo.co.jp/pickup/6603266?source=rss",
+      "pubDate": "2026-11-20T04:34:35.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ホンダ 新型3列SUVを世界初公開",
+      "link": "https://news.yahoo.co.jp/pickup/6603281?source=rss",
+      "pubDate": "2026-11-20T04:32:04.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +32,14 @@
       "title": "独メルツ首相 米中露会談を批判",
       "link": "https://news.yahoo.co.jp/pickup/6603280?source=rss",
       "pubDate": "2026-11-20T04:28:15.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ハンコヤドットコム、カード番号やセキュリティコード8220件漏えいか　決済画面改ざんされる",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003367/",
+      "pubDate": "2026-11-20T04:05:21.000Z"
     },
     {
       "category": "経済",
@@ -82,14 +114,6 @@
       "pubDate": "2026-11-20T02:48:23.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] ニチレイへの攻撃はなぜ起きた？　「たまたま選ばれる」被害の構造",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/20/news049.html",
-      "pubDate": "2026-11-20T02:40:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -114,22 +138,6 @@
       "pubDate": "2026-11-20T02:24:51.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "楽天証券の情報流出 遺憾と金融相",
-      "link": "https://news.yahoo.co.jp/pickup/6603253?source=rss",
-      "pubDate": "2026-11-20T02:04:19.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "空港で靴磨き 航空会社の元社長",
-      "link": "https://news.yahoo.co.jp/pickup/6603252?source=rss",
-      "pubDate": "2026-11-20T01:41:41.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -152,14 +160,6 @@
       "title": "露 クリミア橋攻撃受け報復宣言",
       "link": "https://news.yahoo.co.jp/pickup/6603235?source=rss",
       "pubDate": "2026-11-19T23:31:08.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "大学教員40歳はまだ「若手」背景",
-      "link": "https://news.yahoo.co.jp/pickup/6603234?source=rss",
-      "pubDate": "2026-11-19T23:15:11.000Z"
     },
     {
       "category": "科学",
