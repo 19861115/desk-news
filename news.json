@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-20T09:45:33.102Z",
+  "updatedAt": "2026-11-20T10:00:48.995Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "カット野菜が進化 選ばれる理由",
+      "link": "https://news.yahoo.co.jp/pickup/6603322?source=rss",
+      "pubDate": "2026-11-20T09:43:45.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "ネパールで邦人35人拘束 詐欺疑い",
       "link": "https://news.yahoo.co.jp/pickup/6603293?source=rss",
       "pubDate": "2026-11-20T06:30:01.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "「GTA6」発売 5日休み与えた会社",
-      "link": "https://news.yahoo.co.jp/pickup/6603292?source=rss",
-      "pubDate": "2026-11-20T06:16:53.000Z"
     },
     {
       "category": "科学",
