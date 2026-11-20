@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-20T06:30:51.368Z",
+  "updatedAt": "2026-11-20T06:45:33.325Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "ネパールで邦人35人拘束 詐欺疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6603293?source=rss",
+      "pubDate": "2026-11-20T06:30:01.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -26,12 +34,36 @@
       "pubDate": "2026-11-20T06:11:30.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] ドンキのAI社員「近藤あい」が正式デビュー　販促POPや動画で活躍へ　運営元「すでに裏に20人ぐらいいる」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
+      "pubDate": "2026-11-20T06:11:05.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ASUS、“競技シーン向け”をうたった高リフレッシュレート表示対応の24.5型フルHDゲーミングディスプレイ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/20/news057.html",
+      "pubDate": "2026-11-20T06:07:00.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "日経平均 一時3000円以上の下落",
       "link": "https://news.yahoo.co.jp/pickup/6603288?source=rss",
       "pubDate": "2026-11-20T05:58:26.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 光回線サービスの満足度は「eo光」がトップ、利用は「ドコモ光」が最多　MMD研究所調べ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news055.html",
+      "pubDate": "2026-11-20T05:22:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -80,30 +112,6 @@
       "title": "独メルツ首相 米中露会談を批判",
       "link": "https://news.yahoo.co.jp/pickup/6603280?source=rss",
       "pubDate": "2026-11-20T04:28:15.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] デル、ノイズキャンセリングマイクを標準装備したビジネス向けヘッドセット5製品",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/20/news053.html",
-      "pubDate": "2026-11-20T04:22:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] ハンコヤドットコム、カード番号やセキュリティコード8220件漏えいか　決済画面改ざんされる",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003367/",
-      "pubDate": "2026-11-20T04:05:21.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] IK Multimedia、プロ向け仕様のBluetooth対応小型デスクトップスピーカー",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/20/news052.html",
-      "pubDate": "2026-11-20T03:17:00.000Z"
     },
     {
       "category": "国内",
@@ -186,6 +194,14 @@
       "pubDate": "2026-11-19T22:22:36.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックの動画機はなぜソニーFXに挑戦しないのか？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/lumixfx.html",
+      "pubDate": "2026-11-19T15:11:25.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -200,14 +216,6 @@
       "title": "太田裕美さん死去 乳がんを解説",
       "link": "https://news.yahoo.co.jp/pickup/6603215?source=rss",
       "pubDate": "2026-11-19T13:51:02.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "APECが閉幕 AI活用の推進で一致",
-      "link": "https://news.yahoo.co.jp/pickup/6603210?source=rss",
-      "pubDate": "2026-11-19T13:23:12.000Z"
     },
     {
       "category": "IT",
@@ -226,6 +234,14 @@
       "pubDate": "2026-11-19T07:06:39.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "パナソニックは「EVF内蔵のS9」の期待に応えられるよう取り組んでいる（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1973.html",
+      "pubDate": "2026-11-19T02:28:22.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -240,6 +256,30 @@
       "title": "サーバーソフト「nginx」に脆弱性",
       "link": "https://news.yahoo.co.jp/pickup/6603112?source=rss",
       "pubDate": "2026-11-19T00:01:46.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルムが「X Summit Paris 2026」の開催を予告（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-summit-paris-2026.html",
+      "pubDate": "2026-11-18T15:21:27.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーの次の新製品発表は2027年初頭になる？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/2027-1.html",
+      "pubDate": "2026-11-18T09:54:45.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」は12月2日に発表される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6122.html",
+      "pubDate": "2026-11-18T05:00:50.000Z"
     }
   ]
 }
