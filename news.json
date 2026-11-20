@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-20T01:00:50.273Z",
+  "updatedAt": "2026-11-20T01:15:33.644Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "日経平均 一時2800円以上値下がり",
+      "link": "https://news.yahoo.co.jp/pickup/6603248?source=rss",
+      "pubDate": "2026-11-20T01:12:04.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -16,14 +24,6 @@
       "title": "10月の消費者物価指数 2.2%上昇",
       "link": "https://news.yahoo.co.jp/pickup/6603241?source=rss",
       "pubDate": "2026-11-20T00:49:54.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日経平均 一時2000円以上の下落",
-      "link": "https://news.yahoo.co.jp/pickup/6603246?source=rss",
-      "pubDate": "2026-11-20T00:39:14.000Z"
     },
     {
       "category": "ITmedia",
