@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-20T08:00:49.248Z",
+  "updatedAt": "2026-11-20T08:15:32.641Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "3連休前半 日本海側中心に冬の嵐",
+      "link": "https://news.yahoo.co.jp/pickup/6603306?source=rss",
+      "pubDate": "2026-11-20T08:07:19.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 片山財務相、楽天証券は「顧客の不安解消に、できること全部していただきたい」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003371/",
+      "pubDate": "2026-11-20T07:32:08.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -114,14 +130,6 @@
       "pubDate": "2026-11-20T06:04:44.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 光回線サービスの満足度は「eo光」がトップ、利用は「ドコモ光」が最多　MMD研究所調べ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news055.html",
-      "pubDate": "2026-11-20T05:22:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -152,14 +160,6 @@
       "title": "法務省とラヴ上等 タイアップ経緯",
       "link": "https://news.yahoo.co.jp/pickup/6603265?source=rss",
       "pubDate": "2026-11-20T03:05:50.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "MSに再発防止を要請 デジタル相",
-      "link": "https://news.yahoo.co.jp/pickup/6603263?source=rss",
-      "pubDate": "2026-11-20T03:02:03.000Z"
     },
     {
       "category": "科学",
