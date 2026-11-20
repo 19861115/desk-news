@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T10:00:48.995Z",
+  "updatedAt": "2026-11-20T10:15:32.848Z",
   "items": [
     {
       "category": "経済",
@@ -32,6 +32,22 @@
       "title": "政府内部資料流出か 不正アクセス",
       "link": "https://news.yahoo.co.jp/pickup/6603320?source=rss",
       "pubDate": "2026-11-20T09:36:38.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] iPhone Duoで「顔認証によるロック解除」が追加へ　iOS 27.3 Beta 2で確認、ただしFace IDとは別物",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news066.html",
+      "pubDate": "2026-11-20T09:25:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 政府システムで「個人情報」漏えいか　7月から“非正規のアクセス”――デジタル庁の説明は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/20/news065.html",
+      "pubDate": "2026-11-20T09:20:00.000Z"
     },
     {
       "category": "経済",
@@ -98,14 +114,6 @@
       "pubDate": "2026-11-20T08:13:16.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] H3ロケット打ち上げ、JAXAから三菱重工に移管　来年1月の11号機から",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
-      "pubDate": "2026-11-20T08:09:25.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -152,14 +160,6 @@
       "title": "日経平均終値3007円安 AI巡り混乱",
       "link": "https://news.yahoo.co.jp/pickup/6603296?source=rss",
       "pubDate": "2026-11-20T06:48:16.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 配線不要の準固体バッテリー内蔵ソーラー充電式ドラレコ「SDR-01」、オートバックスで先行販売　1万9800円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news059.html",
-      "pubDate": "2026-11-20T06:46:00.000Z"
     },
     {
       "category": "国際",
