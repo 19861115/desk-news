@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-20T01:30:41.483Z",
+  "updatedAt": "2026-11-20T01:45:34.097Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "空港で靴磨き 航空会社の元社長",
+      "link": "https://news.yahoo.co.jp/pickup/6603252?source=rss",
+      "pubDate": "2026-11-20T01:41:41.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "人気の米のカバ死ぬ ニット帽誤飲",
+      "link": "https://news.yahoo.co.jp/pickup/6603251?source=rss",
+      "pubDate": "2026-11-20T01:41:37.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "日経平均 一時2800円以上値下がり",
       "link": "https://news.yahoo.co.jp/pickup/6603248?source=rss",
       "pubDate": "2026-11-20T01:12:04.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 【ダイソー】330円の屋内向けの「センサーライト」　人を感知して自動で点灯／消灯",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/20/news035.html",
+      "pubDate": "2026-11-20T01:00:00.000Z"
     },
     {
       "category": "経済",
@@ -82,14 +106,6 @@
       "pubDate": "2026-11-19T23:18:13.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 湘南美容クリニックのSBC、162万人分の個人情報流出　パスワードは「暗号化せず保存していた」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
-      "pubDate": "2026-11-19T23:17:42.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -136,14 +152,6 @@
       "title": "習氏 台湾問題で米大統領をけん制",
       "link": "https://news.yahoo.co.jp/pickup/6603226?source=rss",
       "pubDate": "2026-11-19T22:22:36.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "楽天証券に対し集団訴訟の動き",
-      "link": "https://news.yahoo.co.jp/pickup/6603224?source=rss",
-      "pubDate": "2026-11-19T21:42:41.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -208,14 +216,6 @@
       "title": "「気嵐」いつ現れる 発生条件検証",
       "link": "https://news.yahoo.co.jp/pickup/6603196?source=rss",
       "pubDate": "2026-11-19T10:53:46.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "育休とった男性の心身不調 症状は",
-      "link": "https://news.yahoo.co.jp/pickup/6603193?source=rss",
-      "pubDate": "2026-11-19T10:32:57.000Z"
     },
     {
       "category": "IT",
