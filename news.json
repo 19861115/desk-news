@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-20T05:45:31.983Z",
+  "updatedAt": "2026-11-20T06:00:48.816Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "日経平均 一時3000円以上の下落",
+      "link": "https://news.yahoo.co.jp/pickup/6603288?source=rss",
+      "pubDate": "2026-11-20T05:58:26.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -120,14 +128,6 @@
       "title": "徒競走に順位つけるべきか 論争",
       "link": "https://news.yahoo.co.jp/pickup/6603258?source=rss",
       "pubDate": "2026-11-20T02:29:42.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "楽天証券へ訴訟準備 1.5万人登録",
-      "link": "https://news.yahoo.co.jp/pickup/6603257?source=rss",
-      "pubDate": "2026-11-20T02:29:20.000Z"
     },
     {
       "category": "国内",
