@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-22T23:00:49.354Z",
+  "updatedAt": "2026-11-22T23:15:32.781Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "北極航路 温暖化で氷解け通航量増",
+      "link": "https://news.yahoo.co.jp/pickup/6603627?source=rss",
+      "pubDate": "2026-11-22T23:09:55.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "SOS見せず突然退職 企業どう防ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6603628?source=rss",
+      "pubDate": "2026-11-22T23:08:33.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
+      "pubDate": "2026-11-22T22:49:18.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -178,14 +202,6 @@
       "pubDate": "2026-11-22T04:53:00.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "うーん 買い取り店で揺れる人の心",
-      "link": "https://news.yahoo.co.jp/pickup/6603538?source=rss",
-      "pubDate": "2026-11-22T04:44:13.000Z"
-    },
-    {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
@@ -218,14 +234,6 @@
       "pubDate": "2026-11-22T02:31:54.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] MetaのAIエージェント「Muse」は何ができる？　ChatGPTやGeminiとの違い、注意点を解説",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html",
-      "pubDate": "2026-11-22T02:14:00.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -248,14 +256,6 @@
       "title": "4歳で1型糖尿病発症 向き合う小2",
       "link": "https://news.yahoo.co.jp/pickup/6603453?source=rss",
       "pubDate": "2026-11-21T10:51:03.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "幻の植物の新種 ミャンマーで発見",
-      "link": "https://news.yahoo.co.jp/pickup/6603422?source=rss",
-      "pubDate": "2026-11-21T08:01:07.000Z"
     },
     {
       "category": "デジカメinfo",
