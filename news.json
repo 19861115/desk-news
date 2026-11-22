@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-22T23:30:41.593Z",
+  "updatedAt": "2026-11-22T23:45:35.504Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米民主党が下‌院で258議席 報道",
+      "link": "https://news.yahoo.co.jp/pickup/6603631?source=rss",
+      "pubDate": "2026-11-22T23:30:14.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -24,6 +32,22 @@
       "title": "SOS見せず突然退職 企業どう防ぐ",
       "link": "https://news.yahoo.co.jp/pickup/6603628?source=rss",
       "pubDate": "2026-11-22T23:08:33.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 半導体不足が深刻化、8割が「買い負け」経験　メモリ在庫がギリギリ、確保量は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/23/news003.html",
+      "pubDate": "2026-11-22T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] なぜバックオフィスの業務改善は挫折するのか？　「Excel・紙・メール」頼みの職場がつまずく“壁”",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/23/news004.html",
+      "pubDate": "2026-11-22T23:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -200,30 +224,6 @@
       "title": "ヨドバシの10月下期のランキングで初登場の「EOS R8 Mark II」が2位に（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/10eos-r8-mark-ii2.html",
       "pubDate": "2026-11-22T07:53:19.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] iPhone Duo専用の耐衝撃ケース「GRAVITY」登場　MagSafe対応やリングスタンド付きも",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/22/news007.html",
-      "pubDate": "2026-11-22T04:53:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 楽天モバイルが「最強衛星サービス」に加えてJ-LEOにも参入――なぜ、4番目のキャリアに2つも衛星サービスが必要なのか",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/22/news006.html",
-      "pubDate": "2026-11-22T04:00:00.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "ウ大統領出身地に露「3連続」攻撃",
-      "link": "https://news.yahoo.co.jp/pickup/6603535?source=rss",
-      "pubDate": "2026-11-22T03:59:29.000Z"
     },
     {
       "category": "IT",
