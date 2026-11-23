@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-23T00:30:42.916Z",
+  "updatedAt": "2026-11-23T00:45:33.656Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "野党 文科相の「問責」提出の構え",
+      "link": "https://news.yahoo.co.jp/pickup/6603638?source=rss",
+      "pubDate": "2026-11-23T00:34:04.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -184,14 +192,6 @@
       "title": "タワーレコード 1100万件情報流出",
       "link": "https://news.yahoo.co.jp/pickup/6603588?source=rss",
       "pubDate": "2026-11-22T10:41:54.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "「普天間」負担軽減会議 開催へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603582?source=rss",
-      "pubDate": "2026-11-22T10:07:41.000Z"
     },
     {
       "category": "科学",
