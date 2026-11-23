@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-23T11:15:32.007Z",
+  "updatedAt": "2026-11-23T11:30:42.976Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "視神経細胞をシート化 東北大開発",
+      "link": "https://news.yahoo.co.jp/pickup/6603710?source=rss",
+      "pubDate": "2026-11-23T11:19:43.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -256,14 +264,6 @@
       "title": "夫が酒飲み暴力 謝罪も妻は許せず",
       "link": "https://news.yahoo.co.jp/pickup/6603465?source=rss",
       "pubDate": "2026-11-21T11:51:29.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "4歳で1型糖尿病発症 向き合う小2",
-      "link": "https://news.yahoo.co.jp/pickup/6603453?source=rss",
-      "pubDate": "2026-11-21T10:51:03.000Z"
     },
     {
       "category": "デジカメinfo",
