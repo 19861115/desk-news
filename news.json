@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-22T23:45:35.504Z",
+  "updatedAt": "2026-11-23T00:00:51.516Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "首相の国会出席削減 自民が議論",
+      "link": "https://news.yahoo.co.jp/pickup/6603632?source=rss",
+      "pubDate": "2026-11-22T23:48:06.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -184,14 +192,6 @@
       "title": "ホルムズ海峡を遠泳 環境被害訴え",
       "link": "https://news.yahoo.co.jp/pickup/6603576?source=rss",
       "pubDate": "2026-11-22T09:08:26.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "三原則例外 被爆者「言語道断だ」",
-      "link": "https://news.yahoo.co.jp/pickup/6603573?source=rss",
-      "pubDate": "2026-11-22T08:45:05.000Z"
     },
     {
       "category": "科学",
