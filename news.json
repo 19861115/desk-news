@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-23T00:15:33.102Z",
+  "updatedAt": "2026-11-23T00:30:42.916Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "リビアで露軍艦爆発 無人機攻撃か",
+      "link": "https://news.yahoo.co.jp/pickup/6603637?source=rss",
+      "pubDate": "2026-11-23T00:25:34.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "「ほぼ日手帳」海外で人気のワケ",
+      "link": "https://news.yahoo.co.jp/pickup/6603636?source=rss",
+      "pubDate": "2026-11-23T00:20:14.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -146,14 +162,6 @@
       "pubDate": "2026-11-22T12:11:40.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "「サイバー保険」に加入 企業増加",
-      "link": "https://news.yahoo.co.jp/pickup/6603591?source=rss",
-      "pubDate": "2026-11-22T11:11:10.000Z"
-    },
-    {
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
@@ -184,14 +192,6 @@
       "title": "「普天間」負担軽減会議 開催へ",
       "link": "https://news.yahoo.co.jp/pickup/6603582?source=rss",
       "pubDate": "2026-11-22T10:07:41.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "ホルムズ海峡を遠泳 環境被害訴え",
-      "link": "https://news.yahoo.co.jp/pickup/6603576?source=rss",
-      "pubDate": "2026-11-22T09:08:26.000Z"
     },
     {
       "category": "科学",
