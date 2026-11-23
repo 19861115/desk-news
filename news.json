@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-23T09:45:36.525Z",
+  "updatedAt": "2026-11-23T10:00:51.264Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "タッチ決済改札 利用者が戸惑いも",
+      "link": "https://news.yahoo.co.jp/pickup/6603699?source=rss",
+      "pubDate": "2026-11-23T09:53:19.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -240,14 +248,6 @@
       "title": "既婚者専用マッチングアプリ 実態",
       "link": "https://news.yahoo.co.jp/pickup/6603531?source=rss",
       "pubDate": "2026-11-22T03:19:01.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "AI兵器先行の米露 規制に消極姿勢",
-      "link": "https://news.yahoo.co.jp/pickup/6603522?source=rss",
-      "pubDate": "2026-11-22T02:31:54.000Z"
     },
     {
       "category": "科学",
