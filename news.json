@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-23T01:30:41.793Z",
+  "updatedAt": "2026-11-23T01:45:36.974Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 楽天市場、ほぼ新品のSIMフリー「Xperia 10 VI」を約5万円で販売中",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/23/news007.html",
+      "pubDate": "2026-11-23T01:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 高級感のためだけじゃない　財布やバッグの新しいアイデアが“革製品”から生まれる理由",
+      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003389/",
+      "pubDate": "2026-11-23T01:00:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -114,28 +130,12 @@
       "pubDate": "2026-11-22T22:11:46.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] Microsoftが4万8000ドルを支払った脆弱性　文書1つでCopilotを乗っ取る「ChatMate」攻撃とは",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/23/news001.html",
-      "pubDate": "2026-11-22T22:00:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "COP31 合意文書採択できず閉幕",
       "link": "https://news.yahoo.co.jp/pickup/6603614?source=rss",
       "pubDate": "2026-11-22T21:58:55.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "OMDSのカメラブランド名は「Zuiko」にするべきだった（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/omdszuiko.html",
-      "pubDate": "2026-11-22T15:22:21.000Z"
     },
     {
       "category": "国内",
@@ -168,14 +168,6 @@
       "title": "米大統領側 訪日時のオバマ氏やゆ",
       "link": "https://news.yahoo.co.jp/pickup/6603598?source=rss",
       "pubDate": "2026-11-22T12:11:40.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「圏外が当たり前」の尾瀬国立公園に“つながる安心”を　KDDI×Starlinkでどう変わったのか",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/22/news008.html",
-      "pubDate": "2026-11-22T11:00:00.000Z"
     },
     {
       "category": "国際",
@@ -218,14 +210,6 @@
       "pubDate": "2026-11-22T08:07:46.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ヨドバシの10月下期のランキングで初登場の「EOS R8 Mark II」が2位に（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/10eos-r8-mark-ii2.html",
-      "pubDate": "2026-11-22T07:53:19.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -256,30 +240,6 @@
       "title": "4歳で1型糖尿病発症 向き合う小2",
       "link": "https://news.yahoo.co.jp/pickup/6603453?source=rss",
       "pubDate": "2026-11-21T10:51:03.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルムが未発表カメラ（Xシリーズのエントリーモデル？）を登録（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-32.html",
-      "pubDate": "2026-11-21T07:47:14.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーがエントリークラスの未発表カメラ「WW816852」を登録（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/ww816852.html",
-      "pubDate": "2026-11-21T06:42:24.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」の新型センサーには他にはない新技術が採用される？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6-10.html",
-      "pubDate": "2026-11-21T02:57:35.000Z"
     }
   ]
 }
