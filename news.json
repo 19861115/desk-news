@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T23:15:31.934Z",
+  "updatedAt": "2026-11-23T23:30:47.570Z",
   "items": [
     {
       "category": "国内",
@@ -88,14 +88,6 @@
       "title": "米正副大統領 フアン氏復帰に関与",
       "link": "https://news.yahoo.co.jp/pickup/6603736?source=rss",
       "pubDate": "2026-11-23T21:28:40.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニー「FE 100-400mm F5.6-8 OSS」は3300万画素までなら優れた性能（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/fe-100-400mm-f56-8-oss-1.html",
-      "pubDate": "2026-11-23T15:07:35.000Z"
     },
     {
       "category": "国際",
@@ -194,14 +186,6 @@
       "pubDate": "2026-11-23T09:53:19.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーから2027年初頭に2機種（ことによると3機種）のカメラが登場？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/202723.html",
-      "pubDate": "2026-11-23T07:51:09.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -216,14 +200,6 @@
       "title": "北極航路 温暖化で氷解け通航量増",
       "link": "https://news.yahoo.co.jp/pickup/6603627?source=rss",
       "pubDate": "2026-11-22T23:09:55.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "OMDSのカメラブランド名は「Zuiko」にするべきだった（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/omdszuiko.html",
-      "pubDate": "2026-11-22T15:22:21.000Z"
     },
     {
       "category": "IT",
@@ -258,28 +234,12 @@
       "pubDate": "2026-11-22T08:07:46.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ヨドバシの10月下期のランキングで初登場の「EOS R8 Mark II」が2位に（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/10eos-r8-mark-ii2.html",
-      "pubDate": "2026-11-22T07:53:19.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "既婚者専用マッチングアプリ 実態",
       "link": "https://news.yahoo.co.jp/pickup/6603531?source=rss",
       "pubDate": "2026-11-22T03:19:01.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルムが未発表カメラ（Xシリーズのエントリーモデル？）を登録（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-32.html",
-      "pubDate": "2026-11-21T07:47:14.000Z"
     }
   ]
 }
