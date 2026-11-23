@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-23T10:30:41.285Z",
+  "updatedAt": "2026-11-23T10:45:33.963Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "勤労感謝の日に70円ラーメン提供",
+      "link": "https://news.yahoo.co.jp/pickup/6603705?source=rss",
+      "pubDate": "2026-11-23T10:31:55.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -72,14 +80,6 @@
       "title": "食べるポン酢「どろぽん」人気",
       "link": "https://news.yahoo.co.jp/pickup/6603679?source=rss",
       "pubDate": "2026-11-23T07:11:29.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "カスハラ対策 試行錯誤する企業",
-      "link": "https://news.yahoo.co.jp/pickup/6603677?source=rss",
-      "pubDate": "2026-11-23T07:10:18.000Z"
     },
     {
       "category": "国際",
