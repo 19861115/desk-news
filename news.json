@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T06:30:41.995Z",
+  "updatedAt": "2026-11-23T06:45:31.897Z",
   "items": [
     {
       "category": "国際",
@@ -16,6 +16,14 @@
       "title": "常識覆す JR東海の異端営業マン",
       "link": "https://news.yahoo.co.jp/pickup/6603671?source=rss",
       "pubDate": "2026-11-23T06:11:18.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 推論はクラウド、実行はPCで――最先端AIがローカルのPhotoshopを直接動かす衝撃　「Adobe MAX 2026」で見えたクリエイティブの未来",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/23/news009.html",
+      "pubDate": "2026-11-23T06:00:00.000Z"
     },
     {
       "category": "経済",
@@ -104,14 +112,6 @@
       "title": "[ITmedia Mobile] なぜ駅の改札機で混乱？　Suica、クレカ、QRコードの集約で「立ち止まらない快適さ」を奪う理由",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/23/news005.html",
       "pubDate": "2026-11-23T02:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 楽天市場、ほぼ新品のSIMフリー「Xperia 10 VI」を約5万円で販売中",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/23/news007.html",
-      "pubDate": "2026-11-23T01:00:00.000Z"
     },
     {
       "category": "国内",
