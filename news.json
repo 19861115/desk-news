@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-23T03:00:50.234Z",
+  "updatedAt": "2026-11-23T03:15:37.584Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "謎の迷惑行為「少林寺」拡散背景",
+      "link": "https://news.yahoo.co.jp/pickup/6603654?source=rss",
+      "pubDate": "2026-11-23T03:12:38.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] iPhone DuoとGalaxy Z Fold8でサイゼリヤの注文画面を開いて分かった意外な事実　折りたたみならではの活用法も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/23/news006.html",
+      "pubDate": "2026-11-23T02:30:00.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -114,14 +130,6 @@
       "pubDate": "2026-11-22T23:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] なぜバックオフィスの業務改善は挫折するのか？　「Excel・紙・メール」頼みの職場がつまずく“壁”",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/23/news004.html",
-      "pubDate": "2026-11-22T23:00:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -176,14 +184,6 @@
       "title": "アンソロピックIPO巡り銀行に制約",
       "link": "https://news.yahoo.co.jp/pickup/6603609?source=rss",
       "pubDate": "2026-11-22T13:45:03.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "文科相の「交代示唆」木原氏否定",
-      "link": "https://news.yahoo.co.jp/pickup/6603601?source=rss",
-      "pubDate": "2026-11-22T12:39:35.000Z"
     },
     {
       "category": "IT",
