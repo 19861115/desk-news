@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-23T07:00:51.489Z",
+  "updatedAt": "2026-11-23T07:15:32.871Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "食べるポン酢「どろぽん」人気",
+      "link": "https://news.yahoo.co.jp/pickup/6603679?source=rss",
+      "pubDate": "2026-11-23T07:11:29.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "カスハラ対策 試行錯誤する企業",
+      "link": "https://news.yahoo.co.jp/pickup/6603677?source=rss",
+      "pubDate": "2026-11-23T07:10:18.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -56,14 +72,6 @@
       "title": "COP31閉幕 化石燃料を巡り対立",
       "link": "https://news.yahoo.co.jp/pickup/6603661?source=rss",
       "pubDate": "2026-11-23T04:22:01.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "お湯注ぐだけ「カップご飯」好調",
-      "link": "https://news.yahoo.co.jp/pickup/6603656?source=rss",
-      "pubDate": "2026-11-23T03:34:51.000Z"
     },
     {
       "category": "国内",
@@ -128,14 +136,6 @@
       "title": "リビアで露軍艦爆発 無人機攻撃か",
       "link": "https://news.yahoo.co.jp/pickup/6603637?source=rss",
       "pubDate": "2026-11-23T00:25:34.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "「ほぼ日手帳」海外で人気のワケ",
-      "link": "https://news.yahoo.co.jp/pickup/6603636?source=rss",
-      "pubDate": "2026-11-23T00:20:14.000Z"
     },
     {
       "category": "国内",
