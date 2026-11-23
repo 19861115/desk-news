@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-23T04:15:33.305Z",
+  "updatedAt": "2026-11-23T04:30:41.404Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "COP31閉幕 化石燃料を巡り対立",
+      "link": "https://news.yahoo.co.jp/pickup/6603661?source=rss",
+      "pubDate": "2026-11-23T04:22:01.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "たまごっち30周年「復活」の歴史",
       "link": "https://news.yahoo.co.jp/pickup/6603615?source=rss",
       "pubDate": "2026-11-22T22:11:46.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "COP31 合意文書採択できず閉幕",
-      "link": "https://news.yahoo.co.jp/pickup/6603614?source=rss",
-      "pubDate": "2026-11-22T21:58:55.000Z"
     },
     {
       "category": "デジカメinfo",
