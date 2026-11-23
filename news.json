@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-23T23:00:52.033Z",
+  "updatedAt": "2026-11-23T23:15:31.934Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "前線通過 全国的に荒れた天気に",
+      "link": "https://news.yahoo.co.jp/pickup/6603747?source=rss",
+      "pubDate": "2026-11-23T23:10:25.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -176,14 +184,6 @@
       "title": "視神経細胞をシート化 東北大開発",
       "link": "https://news.yahoo.co.jp/pickup/6603710?source=rss",
       "pubDate": "2026-11-23T11:19:43.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "野党 24日にも文科相問責案を協議",
-      "link": "https://news.yahoo.co.jp/pickup/6603704?source=rss",
-      "pubDate": "2026-11-23T10:12:28.000Z"
     },
     {
       "category": "IT",
