@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-23T06:00:49.127Z",
+  "updatedAt": "2026-11-23T06:15:34.036Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "常識覆す JR東海の異端営業マン",
+      "link": "https://news.yahoo.co.jp/pickup/6603671?source=rss",
+      "pubDate": "2026-11-23T06:11:18.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -152,14 +160,6 @@
       "title": "北極航路 温暖化で氷解け通航量増",
       "link": "https://news.yahoo.co.jp/pickup/6603627?source=rss",
       "pubDate": "2026-11-22T23:09:55.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "SOS見せず突然退職 企業どう防ぐ",
-      "link": "https://news.yahoo.co.jp/pickup/6603628?source=rss",
-      "pubDate": "2026-11-22T23:08:33.000Z"
     },
     {
       "category": "国内",
