@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-23T07:30:42.010Z",
+  "updatedAt": "2026-11-23T07:45:33.755Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "気圧低下 24日は頭痛やめまい注意",
+      "link": "https://news.yahoo.co.jp/pickup/6603682?source=rss",
+      "pubDate": "2026-11-23T07:35:25.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "北極航路 温暖化で氷解け通航量増",
       "link": "https://news.yahoo.co.jp/pickup/6603627?source=rss",
       "pubDate": "2026-11-22T23:09:55.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "連休最終日 西-東日本は行楽日和",
-      "link": "https://news.yahoo.co.jp/pickup/6603622?source=rss",
-      "pubDate": "2026-11-22T22:35:06.000Z"
     },
     {
       "category": "デジカメinfo",
