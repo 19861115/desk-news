@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-23T10:00:51.264Z",
+  "updatedAt": "2026-11-23T10:15:32.776Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "野党 24日にも文科相問責案を協議",
+      "link": "https://news.yahoo.co.jp/pickup/6603704?source=rss",
+      "pubDate": "2026-11-23T10:12:28.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "ウがリビア沖で露軍艦を「撃沈」",
+      "link": "https://news.yahoo.co.jp/pickup/6603703?source=rss",
+      "pubDate": "2026-11-23T10:12:22.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -114,14 +130,6 @@
       "pubDate": "2026-11-23T04:30:00.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "COP31閉幕 化石燃料を巡り対立",
-      "link": "https://news.yahoo.co.jp/pickup/6603661?source=rss",
-      "pubDate": "2026-11-23T04:22:01.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -152,14 +160,6 @@
       "title": "[ITmedia Mobile] なぜ駅の改札機で混乱？　Suica、クレカ、QRコードの集約で「立ち止まらない快適さ」を奪う理由",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/23/news005.html",
       "pubDate": "2026-11-23T02:00:00.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "野党 文科相の「問責」提出の構え",
-      "link": "https://news.yahoo.co.jp/pickup/6603638?source=rss",
-      "pubDate": "2026-11-23T00:34:04.000Z"
     },
     {
       "category": "国内",
