@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T01:45:36.974Z",
+  "updatedAt": "2026-11-23T02:00:49.789Z",
   "items": [
     {
       "category": "ITmedia",
@@ -138,6 +138,14 @@
       "pubDate": "2026-11-22T21:58:55.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "OMDSのカメラブランド名は「Zuiko」にするべきだった（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/omdszuiko.html",
+      "pubDate": "2026-11-22T15:22:21.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -210,6 +218,14 @@
       "pubDate": "2026-11-22T08:07:46.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ヨドバシの10月下期のランキングで初登場の「EOS R8 Mark II」が2位に（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/10eos-r8-mark-ii2.html",
+      "pubDate": "2026-11-22T07:53:19.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -240,6 +256,30 @@
       "title": "4歳で1型糖尿病発症 向き合う小2",
       "link": "https://news.yahoo.co.jp/pickup/6603453?source=rss",
       "pubDate": "2026-11-21T10:51:03.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルムが未発表カメラ（Xシリーズのエントリーモデル？）を登録（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-32.html",
+      "pubDate": "2026-11-21T07:47:14.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーがエントリークラスの未発表カメラ「WW816852」を登録（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/ww816852.html",
+      "pubDate": "2026-11-21T06:42:24.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」の新型センサーには他にはない新技術が採用される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6-10.html",
+      "pubDate": "2026-11-21T02:57:35.000Z"
     }
   ]
 }
