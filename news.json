@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-23T05:15:36.877Z",
+  "updatedAt": "2026-11-23T05:30:44.930Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "リフォーム工事業の倒産 過去最多",
+      "link": "https://news.yahoo.co.jp/pickup/6603667?source=rss",
+      "pubDate": "2026-11-23T05:26:29.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "福利厚生フル活用「ガチ勢」生活",
+      "link": "https://news.yahoo.co.jp/pickup/6603669?source=rss",
+      "pubDate": "2026-11-23T05:25:51.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -152,22 +168,6 @@
       "title": "連休最終日 西-東日本は行楽日和",
       "link": "https://news.yahoo.co.jp/pickup/6603622?source=rss",
       "pubDate": "2026-11-22T22:35:06.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "24年の1億円超所得者 10年で倍増",
-      "link": "https://news.yahoo.co.jp/pickup/6603620?source=rss",
-      "pubDate": "2026-11-22T22:21:56.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "たまごっち30周年「復活」の歴史",
-      "link": "https://news.yahoo.co.jp/pickup/6603615?source=rss",
-      "pubDate": "2026-11-22T22:11:46.000Z"
     },
     {
       "category": "国内",
