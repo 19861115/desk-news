@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-23T06:15:34.036Z",
+  "updatedAt": "2026-11-23T06:30:41.995Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "番組中にわいせつな音 BBCが謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6603674?source=rss",
+      "pubDate": "2026-11-23T06:15:44.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -136,14 +144,6 @@
       "title": "首相の国会出席削減 自民が議論",
       "link": "https://news.yahoo.co.jp/pickup/6603632?source=rss",
       "pubDate": "2026-11-22T23:48:06.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米民主党が下‌院で258議席 報道",
-      "link": "https://news.yahoo.co.jp/pickup/6603631?source=rss",
-      "pubDate": "2026-11-22T23:30:14.000Z"
     },
     {
       "category": "IT",
