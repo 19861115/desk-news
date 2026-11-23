@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-23T02:00:49.789Z",
+  "updatedAt": "2026-11-23T02:15:32.643Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "トランプ氏 イラン再攻撃に言及",
+      "link": "https://news.yahoo.co.jp/pickup/6603648?source=rss",
+      "pubDate": "2026-11-23T02:04:58.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -176,14 +184,6 @@
       "title": "米大統領側 訪日時のオバマ氏やゆ",
       "link": "https://news.yahoo.co.jp/pickup/6603598?source=rss",
       "pubDate": "2026-11-22T12:11:40.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "工場火災30人超不明 インドネシア",
-      "link": "https://news.yahoo.co.jp/pickup/6603590?source=rss",
-      "pubDate": "2026-11-22T10:50:38.000Z"
     },
     {
       "category": "IT",
