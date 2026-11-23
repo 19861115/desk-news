@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-23T03:30:41.584Z",
+  "updatedAt": "2026-11-23T03:45:31.980Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "お湯注ぐだけ「カップご飯」好調",
+      "link": "https://news.yahoo.co.jp/pickup/6603656?source=rss",
+      "pubDate": "2026-11-23T03:34:51.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -13,7 +21,15 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] iPhone DuoとGalaxy Z Fold8でサイゼリヤの注文画面を開いて分かった意外な事実　折りたたみならではの活用法も",
+      "title": "[ITmedia News] 「Microsoft To Do」、2027年6月にアプリ提供終了　法人向けは「Planner」へ移行、個人向けは代替なし",
+      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003395/",
+      "pubDate": "2026-11-23T03:12:33.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] iPhone DuoとGalaxy Z Fold8で「サイゼリヤの注文画面」を開いて分かった意外な事実　折りたたみならではの活用法も",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/23/news006.html",
       "pubDate": "2026-11-23T02:30:00.000Z"
     },
@@ -122,14 +138,6 @@
       "pubDate": "2026-11-22T23:08:33.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 半導体不足が深刻化、8割が「買い負け」経験　メモリ在庫がギリギリ、確保量は？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/23/news003.html",
-      "pubDate": "2026-11-22T23:00:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -176,14 +184,6 @@
       "title": "参政党が首長選に積極擁立 狙い",
       "link": "https://news.yahoo.co.jp/pickup/6603611?source=rss",
       "pubDate": "2026-11-22T14:22:39.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "アンソロピックIPO巡り銀行に制約",
-      "link": "https://news.yahoo.co.jp/pickup/6603609?source=rss",
-      "pubDate": "2026-11-22T13:45:03.000Z"
     },
     {
       "category": "IT",
