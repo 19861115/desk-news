@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T02:30:41.979Z",
+  "updatedAt": "2026-11-23T02:45:32.878Z",
   "items": [
     {
       "category": "国際",
@@ -16,6 +16,14 @@
       "title": "トランプ氏 イラン再攻撃に言及",
       "link": "https://news.yahoo.co.jp/pickup/6603648?source=rss",
       "pubDate": "2026-11-23T02:04:58.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] なぜ駅の改札機で混乱？　Suica、クレカ、QRコードの集約で「立ち止まらない快適さ」を奪う理由",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/23/news005.html",
+      "pubDate": "2026-11-23T02:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -112,14 +120,6 @@
       "title": "[ITmedia ビジネスオンライン] なぜバックオフィスの業務改善は挫折するのか？　「Excel・紙・メール」頼みの職場がつまずく“壁”",
       "link": "https://www.itmedia.co.jp/business/articles/2611/23/news004.html",
       "pubDate": "2026-11-22T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
-      "pubDate": "2026-11-22T22:49:18.000Z"
     },
     {
       "category": "国内",
