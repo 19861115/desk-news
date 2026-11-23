@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T08:45:33.570Z",
+  "updatedAt": "2026-11-23T09:00:55.072Z",
   "items": [
     {
       "category": "国際",
@@ -8,6 +8,14 @@
       "title": "COP31決裂 影響力みせたサウジ",
       "link": "https://news.yahoo.co.jp/pickup/6603685?source=rss",
       "pubDate": "2026-11-23T07:54:20.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーから2027年初頭に2機種（ことによると3機種）のカメラが登場？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/202723.html",
+      "pubDate": "2026-11-23T07:51:09.000Z"
     },
     {
       "category": "国際",
@@ -272,14 +280,6 @@
       "title": "ソニーがエントリークラスの未発表カメラ「WW816852」を登録（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/ww816852.html",
       "pubDate": "2026-11-21T06:42:24.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」の新型センサーには他にはない新技術が採用される？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6-10.html",
-      "pubDate": "2026-11-21T02:57:35.000Z"
     }
   ]
 }
