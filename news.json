@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T07:30:41.222Z",
+  "updatedAt": "2026-11-24T07:45:32.921Z",
   "items": [
     {
       "category": "経済",
@@ -8,6 +8,14 @@
       "title": "キッコーマン 来年58品目値上げ",
       "link": "https://news.yahoo.co.jp/pickup/6603805?source=rss",
       "pubDate": "2026-11-24T07:02:11.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] AIへの長文指示も「声」で解決！　Genspark連携のデスクトップ型AIデバイス「VoicePad」の実力は？",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news037.html",
+      "pubDate": "2026-11-24T07:00:00.000Z"
     },
     {
       "category": "IT",
@@ -64,14 +72,6 @@
       "title": "[ITmedia News] 月に3度の障害……揺らぐドコモの信頼　通信品質が安定しない理由は？",
       "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003405/",
       "pubDate": "2026-11-24T06:08:49.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 爆増するサイバー攻撃、魔の手はITだけでなく「OT」にも　元米軍のセキュリティ専門家が警鐘",
-      "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003408/",
-      "pubDate": "2026-11-24T06:06:51.000Z"
     },
     {
       "category": "経済",
