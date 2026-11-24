@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-24T07:00:54.631Z",
+  "updatedAt": "2026-11-24T07:15:36.249Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "キッコーマン 来年58品目値上げ",
+      "link": "https://news.yahoo.co.jp/pickup/6603805?source=rss",
+      "pubDate": "2026-11-24T07:02:11.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -18,12 +26,28 @@
       "pubDate": "2026-11-24T06:54:39.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] エレコム、28mm厚のスリムデザインを採用した6ボタン搭載ワイヤレスマウス",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news066.html",
+      "pubDate": "2026-11-24T06:44:00.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "政府初の防災「国家戦略」案判明",
       "link": "https://news.yahoo.co.jp/pickup/6603804?source=rss",
       "pubDate": "2026-11-24T06:38:58.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] パナソニック コネクト、ローカル環境で利用できるAI議事録作成アプリ「Panasonic PC Edge AI Note Taker」　同社製対応PCで無償利用が可能",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news065.html",
+      "pubDate": "2026-11-24T06:34:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -82,22 +106,6 @@
       "pubDate": "2026-11-24T04:43:42.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] CrowdStrikeがZscalerを約439億ドルで買収へ　顧客の契約は「いつ」「どう」変わる？",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news053.html",
-      "pubDate": "2026-11-24T04:30:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] “つながらないストレス”、povoで解消しませんか？　KDDIが街中で攻勢かけるワケ",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/24/news058.html",
-      "pubDate": "2026-11-24T04:25:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -120,14 +128,6 @@
       "title": "NVIDIAフアンCEO復帰 3つの懸念",
       "link": "https://news.yahoo.co.jp/pickup/6603782?source=rss",
       "pubDate": "2026-11-24T03:34:48.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "松屋の一人負け? 牛丼業界で明暗",
-      "link": "https://news.yahoo.co.jp/pickup/6603780?source=rss",
-      "pubDate": "2026-11-24T02:58:23.000Z"
     },
     {
       "category": "国内",
