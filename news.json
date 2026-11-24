@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-24T08:45:33.421Z",
+  "updatedAt": "2026-11-24T09:00:51.849Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "取材中拾った練習球売る 懲戒解雇",
+      "link": "https://news.yahoo.co.jp/pickup/6603823?source=rss",
+      "pubDate": "2026-11-24T08:51:58.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -72,14 +80,6 @@
       "title": "[ITmedia PC USER] エプソン、Tシャツやミニタオルなども印刷できるA3対応昇華転写プリンタ",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news067.html",
       "pubDate": "2026-11-24T07:25:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "キッコーマン 来年58品目値上げ",
-      "link": "https://news.yahoo.co.jp/pickup/6603805?source=rss",
-      "pubDate": "2026-11-24T07:02:11.000Z"
     },
     {
       "category": "ITmedia",
