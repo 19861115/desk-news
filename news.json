@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-24T04:15:32.325Z",
+  "updatedAt": "2026-11-24T04:30:42.656Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "くら寿司22品値上げ 34品値下げ",
+      "link": "https://news.yahoo.co.jp/pickup/6603792?source=rss",
+      "pubDate": "2026-11-24T04:18:22.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -120,14 +128,6 @@
       "title": "立憲 最大5万円給付案を参院提出",
       "link": "https://news.yahoo.co.jp/pickup/6603770?source=rss",
       "pubDate": "2026-11-24T01:28:07.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日経平均 一時2800円超値上がり",
-      "link": "https://news.yahoo.co.jp/pickup/6603771?source=rss",
-      "pubDate": "2026-11-24T01:15:25.000Z"
     },
     {
       "category": "国内",
