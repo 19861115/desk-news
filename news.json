@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-24T00:30:45.069Z",
+  "updatedAt": "2026-11-24T00:45:32.633Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "フアン氏のCEO復帰 米議会反発",
+      "link": "https://news.yahoo.co.jp/pickup/6603761?source=rss",
+      "pubDate": "2026-11-24T00:40:56.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "日経平均 一時2200円超値上がり",
+      "link": "https://news.yahoo.co.jp/pickup/6603764?source=rss",
+      "pubDate": "2026-11-24T00:36:37.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -106,14 +122,6 @@
       "pubDate": "2026-11-23T15:07:35.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米大統領 フアン氏のCEO復帰歓迎",
-      "link": "https://news.yahoo.co.jp/pickup/6603733?source=rss",
-      "pubDate": "2026-11-23T14:44:13.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -160,14 +168,6 @@
       "title": "露が核衛星を年内打ち上げか 報道",
       "link": "https://news.yahoo.co.jp/pickup/6603720?source=rss",
       "pubDate": "2026-11-23T12:54:35.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "地銀など定期預金金利を大幅上げ",
-      "link": "https://news.yahoo.co.jp/pickup/6603719?source=rss",
-      "pubDate": "2026-11-23T12:48:48.000Z"
     },
     {
       "category": "国際",
