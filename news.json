@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-24T00:45:32.633Z",
+  "updatedAt": "2026-11-24T01:00:49.764Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "NVIDIA時価総額 1日で151兆円増",
+      "link": "https://news.yahoo.co.jp/pickup/6603765?source=rss",
+      "pubDate": "2026-11-24T00:47:37.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "文科相 自宅家賃を政治資金で支出",
+      "link": "https://news.yahoo.co.jp/pickup/6603766?source=rss",
+      "pubDate": "2026-11-24T00:46:28.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -130,28 +146,12 @@
       "pubDate": "2026-11-23T14:20:12.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "フアン氏 エヌビディアCEOに復帰",
-      "link": "https://news.yahoo.co.jp/pickup/6603732?source=rss",
-      "pubDate": "2026-11-23T14:17:46.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "「演説妨害」規制への議論 焦点は",
       "link": "https://news.yahoo.co.jp/pickup/6603729?source=rss",
       "pubDate": "2026-11-23T14:08:42.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "拘束の記者 駐露日本大使が面会",
-      "link": "https://news.yahoo.co.jp/pickup/6603725?source=rss",
-      "pubDate": "2026-11-23T13:33:03.000Z"
     },
     {
       "category": "科学",
