@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-24T06:30:40.984Z",
+  "updatedAt": "2026-11-24T06:45:33.403Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "政府初の防災「国家戦略」案判明",
+      "link": "https://news.yahoo.co.jp/pickup/6603804?source=rss",
+      "pubDate": "2026-11-24T06:38:58.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 東京都内自治体の中小企業向けサイバーセキュリティー支援相次ぐ　専門家訪問や窓口開設",
+      "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003409/",
+      "pubDate": "2026-11-24T06:24:19.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 月に3度の障害……揺らぐドコモの信頼　通信品質が安定しない理由は？",
+      "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003405/",
+      "pubDate": "2026-11-24T06:08:49.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 爆増するサイバー攻撃、魔の手はITだけでなく「OT」にも　元米軍のセキュリティ専門家が警鐘",
+      "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003408/",
+      "pubDate": "2026-11-24T06:06:51.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -48,30 +80,6 @@
       "title": "[ITmedia Mobile] “つながらないストレス”、povoで解消しませんか？　KDDIが街中で攻勢かけるワケ",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/24/news058.html",
       "pubDate": "2026-11-24T04:25:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 「ノーコード」の次は何か？　AIを組み込むkintoneの“新しい呼び名”を考える",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html",
-      "pubDate": "2026-11-24T04:20:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ファーウェイ、文庫本サイズの小型筐体を採用するWi-Fi 6無線LANルーター",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news055.html",
-      "pubDate": "2026-11-24T04:20:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] Kodakブランドのキーホルダー型トラッカー「SlideTag」発売　Appleの「探す」とGoogleの「Find Hub」に両対応　Amazonで6400円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/24/news056.html",
-      "pubDate": "2026-11-24T04:20:00.000Z"
     },
     {
       "category": "経済",
@@ -136,14 +144,6 @@
       "title": "登場が噂されているニコンの新製品のリスト（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1974.html",
       "pubDate": "2026-11-24T02:15:33.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "立憲 最大5万円給付案を参院提出",
-      "link": "https://news.yahoo.co.jp/pickup/6603770?source=rss",
-      "pubDate": "2026-11-24T01:28:07.000Z"
     },
     {
       "category": "国際",
