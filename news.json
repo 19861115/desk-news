@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-24T10:15:32.740Z",
+  "updatedAt": "2026-11-24T10:30:48.489Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "首相 関氏は説明責任果たしている",
+      "link": "https://news.yahoo.co.jp/pickup/6603831?source=rss",
+      "pubDate": "2026-11-24T10:19:11.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -154,14 +162,6 @@
       "pubDate": "2026-11-24T05:52:46.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "自民「宇宙庁」早期実現の提言案",
-      "link": "https://news.yahoo.co.jp/pickup/6603797?source=rss",
-      "pubDate": "2026-11-24T05:08:09.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -186,14 +186,6 @@
       "pubDate": "2026-11-24T02:37:47.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "登場が噂されているニコンの新製品のリスト（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1974.html",
-      "pubDate": "2026-11-24T02:15:33.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -208,14 +200,6 @@
       "title": "タジキスタンがICC脱退を通告",
       "link": "https://news.yahoo.co.jp/pickup/6603758?source=rss",
       "pubDate": "2026-11-24T00:19:01.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニー「FE 100-400mm F5.6-8 OSS」は3300万画素までなら優れた性能（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/fe-100-400mm-f56-8-oss-1.html",
-      "pubDate": "2026-11-23T15:07:35.000Z"
     },
     {
       "category": "科学",
@@ -242,14 +226,6 @@
       "pubDate": "2026-11-23T09:53:19.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーから2027年初頭に2機種（ことによると3機種）のカメラが登場？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/202723.html",
-      "pubDate": "2026-11-23T07:51:09.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -258,28 +234,12 @@
       "pubDate": "2026-11-22T23:09:55.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "OMDSのカメラブランド名は「Zuiko」にするべきだった（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/omdszuiko.html",
-      "pubDate": "2026-11-22T15:22:21.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "融雪剤散布でアリの食に変化 研究",
       "link": "https://news.yahoo.co.jp/pickup/6603572?source=rss",
       "pubDate": "2026-11-22T08:37:10.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ヨドバシの10月下期のランキングで初登場の「EOS R8 Mark II」が2位に（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/10eos-r8-mark-ii2.html",
-      "pubDate": "2026-11-22T07:53:19.000Z"
     }
   ]
 }
