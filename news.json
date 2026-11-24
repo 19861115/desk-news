@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-24T09:45:33.243Z",
+  "updatedAt": "2026-11-24T10:00:50.820Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "個人消費判断 約3年ぶり下方修正",
+      "link": "https://news.yahoo.co.jp/pickup/6603828?source=rss",
+      "pubDate": "2026-11-24T09:50:22.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "カイロス 1/22に4号機打ち上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6603824?source=rss",
+      "pubDate": "2026-11-24T09:45:14.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -149,14 +165,6 @@
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
-      "title": "年末ジャンボ発売 朝から行列",
-      "link": "https://news.yahoo.co.jp/pickup/6603795?source=rss",
-      "pubDate": "2026-11-24T04:43:42.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
       "title": "くら寿司22品値上げ 34品値下げ",
       "link": "https://news.yahoo.co.jp/pickup/6603792?source=rss",
       "pubDate": "2026-11-24T04:18:22.000Z"
@@ -264,14 +272,6 @@
       "title": "融雪剤散布でアリの食に変化 研究",
       "link": "https://news.yahoo.co.jp/pickup/6603572?source=rss",
       "pubDate": "2026-11-22T08:37:10.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "日本の探査機「みお」水星に到着",
-      "link": "https://news.yahoo.co.jp/pickup/6603570?source=rss",
-      "pubDate": "2026-11-22T08:28:45.000Z"
     },
     {
       "category": "デジカメinfo",
