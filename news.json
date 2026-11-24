@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-24T23:30:43.958Z",
+  "updatedAt": "2026-11-24T23:45:34.243Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "新型ウォークマン 旗艦品は65万円",
+      "link": "https://news.yahoo.co.jp/pickup/6603871?source=rss",
+      "pubDate": "2026-11-24T23:35:31.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "NVIDIAは善良な企業 米司法長官",
+      "link": "https://news.yahoo.co.jp/pickup/6603870?source=rss",
+      "pubDate": "2026-11-24T23:32:03.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +24,22 @@
       "title": "米中に次ぐAI国家確立へ 政府案",
       "link": "https://news.yahoo.co.jp/pickup/6603868?source=rss",
       "pubDate": "2026-11-24T23:10:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 「新リース会計基準」対応、実は「総務」が重要なワケ　契約管理“魔のサイクル“に陥らないためのポイントは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news046.html",
+      "pubDate": "2026-11-24T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] “悪意なき情報漏えい”をどう防ぐ？　生成AI時代のシャドーIT対策",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/25/news016.html",
+      "pubDate": "2026-11-24T23:00:00.000Z"
     },
     {
       "category": "国内",
@@ -47,22 +79,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] 毎回「いいですね」と返してくるAIにイライラ……“イエスマンAI”を辛口の相談相手に変える方法【プロンプト紹介】",
       "link": "https://www.itmedia.co.jp/business/articles/2611/25/news012.html",
-      "pubDate": "2026-11-24T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 中部電力、AI活用で「人の役割を見直す」　2万人が使う400超のシステムサポートの舞台裏",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news011.html",
-      "pubDate": "2026-11-24T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 経理が「2人→1人」に減る現場　弥生の開発陣が警鐘を鳴らす「なんとなく経営」の限界",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news020.html",
       "pubDate": "2026-11-24T22:00:00.000Z"
     },
     {
@@ -112,14 +128,6 @@
       "title": "EUのEV優遇 修正案でも日本除外",
       "link": "https://news.yahoo.co.jp/pickup/6603839?source=rss",
       "pubDate": "2026-11-24T12:39:02.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "台湾 フアン氏のCEO復帰に沸く",
-      "link": "https://news.yahoo.co.jp/pickup/6603832?source=rss",
-      "pubDate": "2026-11-24T10:43:18.000Z"
     },
     {
       "category": "経済",
@@ -200,14 +208,6 @@
       "title": "東電 廃炉・復興で新組織設立へ",
       "link": "https://news.yahoo.co.jp/pickup/6603802?source=rss",
       "pubDate": "2026-11-24T05:52:46.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "くら寿司22品値上げ 34品値下げ",
-      "link": "https://news.yahoo.co.jp/pickup/6603792?source=rss",
-      "pubDate": "2026-11-24T04:18:22.000Z"
     },
     {
       "category": "IT",
