@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-24T08:30:40.798Z",
+  "updatedAt": "2026-11-24T08:45:33.421Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "重要土地法の改正案が衆院可決",
+      "link": "https://news.yahoo.co.jp/pickup/6603817?source=rss",
+      "pubDate": "2026-11-24T08:43:20.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "禁止解除の「GTA」サウジで人気",
+      "link": "https://news.yahoo.co.jp/pickup/6603816?source=rss",
+      "pubDate": "2026-11-24T08:41:28.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -16,6 +32,14 @@
       "title": "情報流出相次ぐ 防犯グッズ人気",
       "link": "https://news.yahoo.co.jp/pickup/6603815?source=rss",
       "pubDate": "2026-11-24T08:02:55.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] アンソロピックはなぜ、OpenAIを差し置いて「史上最大IPO」できたのか　“事業展開のうまさ“を識者が語る",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/24/news035.html",
+      "pubDate": "2026-11-24T08:00:00.000Z"
     },
     {
       "category": "国際",
@@ -98,14 +122,6 @@
       "pubDate": "2026-11-24T06:34:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 東京都内自治体の中小企業向けサイバーセキュリティー支援相次ぐ　専門家訪問や窓口開設",
-      "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003409/",
-      "pubDate": "2026-11-24T06:24:19.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -120,14 +136,6 @@
       "title": "自民「宇宙庁」早期実現の提言案",
       "link": "https://news.yahoo.co.jp/pickup/6603797?source=rss",
       "pubDate": "2026-11-24T05:08:09.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "食料安保 政府広報の裏で廃棄課題",
-      "link": "https://news.yahoo.co.jp/pickup/6603799?source=rss",
-      "pubDate": "2026-11-24T05:03:50.000Z"
     },
     {
       "category": "経済",
@@ -184,14 +192,6 @@
       "title": "タジキスタンがICC脱退を通告",
       "link": "https://news.yahoo.co.jp/pickup/6603758?source=rss",
       "pubDate": "2026-11-24T00:19:01.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米正副大統領 フアン氏復帰に関与",
-      "link": "https://news.yahoo.co.jp/pickup/6603736?source=rss",
-      "pubDate": "2026-11-23T21:28:40.000Z"
     },
     {
       "category": "デジカメinfo",
