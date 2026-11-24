@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-24T11:30:42.345Z",
+  "updatedAt": "2026-11-24T11:45:32.268Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "衆院定数31削減法案 成立の行方は",
+      "link": "https://news.yahoo.co.jp/pickup/6603821?source=rss",
+      "pubDate": "2026-11-24T11:38:00.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -152,14 +160,6 @@
       "title": "ヴェレダ クレカ4万件超漏えいか",
       "link": "https://news.yahoo.co.jp/pickup/6603807?source=rss",
       "pubDate": "2026-11-24T06:57:01.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "政府初の防災「国家戦略」案判明",
-      "link": "https://news.yahoo.co.jp/pickup/6603804?source=rss",
-      "pubDate": "2026-11-24T06:38:58.000Z"
     },
     {
       "category": "経済",
