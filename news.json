@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-24T09:00:51.849Z",
+  "updatedAt": "2026-11-24T09:15:32.749Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "京王グループ 約1063万件漏えいか",
+      "link": "https://news.yahoo.co.jp/pickup/6603825?source=rss",
+      "pubDate": "2026-11-24T09:13:58.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -232,14 +240,6 @@
       "title": "ソニーから2027年初頭に2機種（ことによると3機種）のカメラが登場？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/202723.html",
       "pubDate": "2026-11-23T07:51:09.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "攻撃急増 背景にセキュリティ軽視",
-      "link": "https://news.yahoo.co.jp/pickup/6603626?source=rss",
-      "pubDate": "2026-11-22T23:18:11.000Z"
     },
     {
       "category": "科学",
