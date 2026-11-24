@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-24T05:45:31.647Z",
+  "updatedAt": "2026-11-24T06:00:47.729Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "東電 廃炉・復興で新組織設立へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603802?source=rss",
+      "pubDate": "2026-11-24T05:52:46.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -112,14 +120,6 @@
       "title": "野党 文科相への問責案提出で一致",
       "link": "https://news.yahoo.co.jp/pickup/6603783?source=rss",
       "pubDate": "2026-11-24T02:44:46.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "セカストが急成長 人気の要因は",
-      "link": "https://news.yahoo.co.jp/pickup/6603777?source=rss",
-      "pubDate": "2026-11-24T02:39:20.000Z"
     },
     {
       "category": "IT",
