@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T03:15:34.079Z",
+  "updatedAt": "2026-11-24T03:30:42.655Z",
   "items": [
     {
       "category": "経済",
@@ -40,6 +40,14 @@
       "title": "バザールでござーる サイト終了へ",
       "link": "https://news.yahoo.co.jp/pickup/6603779?source=rss",
       "pubDate": "2026-11-24T02:37:47.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "登場が噂されているニコンの新製品のリスト（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1974.html",
+      "pubDate": "2026-11-24T02:15:33.000Z"
     },
     {
       "category": "経済",
@@ -272,14 +280,6 @@
       "title": "ヨドバシの10月下期のランキングで初登場の「EOS R8 Mark II」が2位に（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/10eos-r8-mark-ii2.html",
       "pubDate": "2026-11-22T07:53:19.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルムが未発表カメラ（Xシリーズのエントリーモデル？）を登録（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-32.html",
-      "pubDate": "2026-11-21T07:47:14.000Z"
     }
   ]
 }
