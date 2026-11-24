@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-24T00:15:32.946Z",
+  "updatedAt": "2026-11-24T00:30:45.069Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "タジキスタンがICC脱退を通告",
+      "link": "https://news.yahoo.co.jp/pickup/6603758?source=rss",
+      "pubDate": "2026-11-24T00:19:01.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -120,14 +128,6 @@
       "title": "フアン氏 エヌビディアCEOに復帰",
       "link": "https://news.yahoo.co.jp/pickup/6603732?source=rss",
       "pubDate": "2026-11-23T14:17:46.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "COP 脱化石遅れで農業へ影響深刻",
-      "link": "https://news.yahoo.co.jp/pickup/6603730?source=rss",
-      "pubDate": "2026-11-23T14:10:38.000Z"
     },
     {
       "category": "国内",
