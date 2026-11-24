@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-24T04:30:42.656Z",
+  "updatedAt": "2026-11-24T04:45:34.578Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "年末ジャンボ発売 朝から行列",
+      "link": "https://news.yahoo.co.jp/pickup/6603795?source=rss",
+      "pubDate": "2026-11-24T04:43:42.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 「ノーコード」の次は何か？　AIを組み込むkintoneの“新しい呼び名”を考える",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html",
+      "pubDate": "2026-11-24T04:20:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ファーウェイ、文庫本サイズの小型筐体を採用するWi-Fi 6無線LANルーター",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news055.html",
+      "pubDate": "2026-11-24T04:20:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] Kodakブランドのキーホルダー型トラッカー「SlideTag」発売　Appleの「探す」とGoogleの「Find Hub」に両対応　Amazonで6400円",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/24/news056.html",
+      "pubDate": "2026-11-24T04:20:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -42,14 +74,6 @@
       "pubDate": "2026-11-24T03:03:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] メモリ24GBという“現実解”　Acerの最新ポータブルゲーミングPC「Predator Atlas 8」で重いゲームはどこまで動く？　軽めのタイトルは何時間プレイできた？",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news043.html",
-      "pubDate": "2026-11-24T03:00:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -74,14 +98,6 @@
       "pubDate": "2026-11-24T02:44:46.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 2026年最後の「楽天マジ得フェスティバル」　楽天カード＆楽天モバイル申し込みで最大3万ポイント還元",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/24/news046.html",
-      "pubDate": "2026-11-24T02:40:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -104,22 +120,6 @@
       "title": "登場が噂されているニコンの新製品のリスト（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1974.html",
       "pubDate": "2026-11-24T02:15:33.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "世界遺産が舞台の結婚式 人気",
-      "link": "https://news.yahoo.co.jp/pickup/6603772?source=rss",
-      "pubDate": "2026-11-24T01:38:24.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] OPPOスマホ4機種が2万円～3万円オフ　LIBMOが台数限定で特価キャンペーン",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/24/news044.html",
-      "pubDate": "2026-11-24T01:34:00.000Z"
     },
     {
       "category": "国内",
