@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-24T07:45:32.921Z",
+  "updatedAt": "2026-11-24T08:00:49.062Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "高市首相の到着時 タラップ故障か",
+      "link": "https://news.yahoo.co.jp/pickup/6603810?source=rss",
+      "pubDate": "2026-11-24T07:52:18.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "首相とICC赤根所長面会 支持伝達",
+      "link": "https://news.yahoo.co.jp/pickup/6603812?source=rss",
+      "pubDate": "2026-11-24T07:51:52.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "作家の矢作俊彦さんが死去 76歳",
+      "link": "https://news.yahoo.co.jp/pickup/6603813?source=rss",
+      "pubDate": "2026-11-24T07:45:10.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -114,28 +138,12 @@
       "pubDate": "2026-11-24T04:18:22.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "辺野古事故受け7割が校外活動点検",
-      "link": "https://news.yahoo.co.jp/pickup/6603791?source=rss",
-      "pubDate": "2026-11-24T04:07:49.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "NVIDIAフアンCEO復帰 3つの懸念",
       "link": "https://news.yahoo.co.jp/pickup/6603782?source=rss",
       "pubDate": "2026-11-24T03:34:48.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "野党 文科相への問責案提出で一致",
-      "link": "https://news.yahoo.co.jp/pickup/6603783?source=rss",
-      "pubDate": "2026-11-24T02:44:46.000Z"
     },
     {
       "category": "IT",
@@ -192,14 +200,6 @@
       "title": "インフル「偽陰性」時間長く 注意",
       "link": "https://news.yahoo.co.jp/pickup/6603721?source=rss",
       "pubDate": "2026-11-23T13:08:54.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "露が核衛星を年内打ち上げか 報道",
-      "link": "https://news.yahoo.co.jp/pickup/6603720?source=rss",
-      "pubDate": "2026-11-23T12:54:35.000Z"
     },
     {
       "category": "科学",
