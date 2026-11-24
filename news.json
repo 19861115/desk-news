@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T10:00:50.820Z",
+  "updatedAt": "2026-11-24T10:15:32.740Z",
   "items": [
     {
       "category": "経済",
@@ -24,6 +24,14 @@
       "title": "[ITmedia News] 無印良品、不正アクセスで株主優待が“紙に逆戻り”　電子クーポンにはいつ戻る？　広報に聞いた",
       "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003419/",
       "pubDate": "2026-11-24T09:25:45.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] JALマイルが100円ごとに5マイルたまる、海外eSIM「JAL ABC eSIM」登場　トリファとJALエービーシーが提供",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/24/news070.html",
+      "pubDate": "2026-11-24T09:25:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -120,14 +128,6 @@
       "title": "[ITmedia PC USER] エプソン、Tシャツやミニタオルなども印刷できるA3対応昇華転写プリンタ",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news067.html",
       "pubDate": "2026-11-24T07:25:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] AIへの長文指示も「声」で解決！　Genspark連携のデスクトップ型AIデバイス「VoicePad」の実力は？",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news037.html",
-      "pubDate": "2026-11-24T07:00:00.000Z"
     },
     {
       "category": "IT",
