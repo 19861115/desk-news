@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-24T02:30:42.875Z",
+  "updatedAt": "2026-11-24T02:45:32.621Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "セカストが急成長 人気の要因は",
+      "link": "https://news.yahoo.co.jp/pickup/6603777?source=rss",
+      "pubDate": "2026-11-24T02:39:20.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "バザールでござーる サイト終了へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603779?source=rss",
+      "pubDate": "2026-11-24T02:37:47.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -112,14 +128,6 @@
       "title": "事務職の新卒採用減らす2割 調査",
       "link": "https://news.yahoo.co.jp/pickup/6603745?source=rss",
       "pubDate": "2026-11-23T22:58:24.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "奨学金利率が急上昇 負担減求める",
-      "link": "https://news.yahoo.co.jp/pickup/6603744?source=rss",
-      "pubDate": "2026-11-23T22:45:42.000Z"
     },
     {
       "category": "国内",
@@ -264,14 +272,6 @@
       "title": "ヨドバシの10月下期のランキングで初登場の「EOS R8 Mark II」が2位に（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/10eos-r8-mark-ii2.html",
       "pubDate": "2026-11-22T07:53:19.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "既婚者専用マッチングアプリ 実態",
-      "link": "https://news.yahoo.co.jp/pickup/6603531?source=rss",
-      "pubDate": "2026-11-22T03:19:01.000Z"
     },
     {
       "category": "デジカメinfo",
