@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-24T09:30:43.030Z",
+  "updatedAt": "2026-11-24T09:45:33.243Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 無印良品、不正アクセスで株主優待が“紙に逆戻り”　電子クーポンにはいつ戻る？　広報に聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003419/",
+      "pubDate": "2026-11-24T09:25:45.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 月に3度の障害……揺らぐドコモの信頼　通信品質が安定しない理由は？",
+      "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003405/",
+      "pubDate": "2026-11-24T09:20:17.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -106,28 +122,12 @@
       "pubDate": "2026-11-24T06:57:01.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] エレコム、28mm厚のスリムデザインを採用した6ボタン搭載ワイヤレスマウス",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news066.html",
-      "pubDate": "2026-11-24T06:44:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "政府初の防災「国家戦略」案判明",
       "link": "https://news.yahoo.co.jp/pickup/6603804?source=rss",
       "pubDate": "2026-11-24T06:38:58.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] パナソニック コネクト、ローカル環境で利用できるAI議事録作成アプリ「Panasonic PC Edge AI Note Taker」　同社製対応PCで無償利用が可能",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news065.html",
-      "pubDate": "2026-11-24T06:34:00.000Z"
     },
     {
       "category": "経済",
