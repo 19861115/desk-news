@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-24T23:00:49.137Z",
+  "updatedAt": "2026-11-24T23:15:33.422Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "米中に次ぐAI国家確立へ 政府案",
+      "link": "https://news.yahoo.co.jp/pickup/6603868?source=rss",
+      "pubDate": "2026-11-24T23:10:28.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -16,6 +24,14 @@
       "title": "米で鳥インフルに3人感染 WHO",
       "link": "https://news.yahoo.co.jp/pickup/6603865?source=rss",
       "pubDate": "2026-11-24T22:54:06.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] AIエージェントは隙あらばサンドボックスの外に出るのか　Anthropicが評価手法「Siren」を発表",
+      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003430/",
+      "pubDate": "2026-11-24T22:41:42.000Z"
     },
     {
       "category": "ITmedia",
@@ -47,14 +63,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] 経理が「2人→1人」に減る現場　弥生の開発陣が警鐘を鳴らす「なんとなく経営」の限界",
       "link": "https://www.itmedia.co.jp/business/articles/2611/25/news020.html",
-      "pubDate": "2026-11-24T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] BIの生成AI機能、8割超が「不安」　データの行き先を「十分に把握」は何割か",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/20/news056.html",
       "pubDate": "2026-11-24T22:00:00.000Z"
     },
     {
@@ -96,14 +104,6 @@
       "title": "首相 第2次補正予算案編成を指示",
       "link": "https://news.yahoo.co.jp/pickup/6603844?source=rss",
       "pubDate": "2026-11-24T13:13:01.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "支援金「最大年27万円」の給付案",
-      "link": "https://news.yahoo.co.jp/pickup/6603841?source=rss",
-      "pubDate": "2026-11-24T13:03:48.000Z"
     },
     {
       "category": "国際",
