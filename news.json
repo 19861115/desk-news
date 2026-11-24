@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-24T00:00:51.878Z",
+  "updatedAt": "2026-11-24T00:15:32.946Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] SpaceXをオレゴン州とバージニア州が提訴　Grokの性的画像生成で",
+      "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003399/",
+      "pubDate": "2026-11-23T23:39:38.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -72,14 +80,6 @@
       "title": "[ITmedia News] CrowdStrike、Zscalerを約439億ドルで買収へ　狙いはAIエージェントの安全確保",
       "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
       "pubDate": "2026-11-23T22:20:30.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 脆弱性公開から約1日で攻撃コード　Microsoft、守りをAIエージェントに任せる「Perception」一般提供",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news013.html",
-      "pubDate": "2026-11-23T22:00:00.000Z"
     },
     {
       "category": "国際",
