@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-24T06:45:33.403Z",
+  "updatedAt": "2026-11-24T07:00:54.631Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ヴェレダ クレカ4万件超漏えいか",
+      "link": "https://news.yahoo.co.jp/pickup/6603807?source=rss",
+      "pubDate": "2026-11-24T06:57:01.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "情報流出で不安 防犯グッズ売れる",
+      "link": "https://news.yahoo.co.jp/pickup/6603803?source=rss",
+      "pubDate": "2026-11-24T06:54:39.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -114,14 +130,6 @@
       "pubDate": "2026-11-24T02:58:23.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ミスド並び方に戸惑いも 運営見解",
-      "link": "https://news.yahoo.co.jp/pickup/6603786?source=rss",
-      "pubDate": "2026-11-24T02:54:09.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -136,14 +144,6 @@
       "title": "バザールでござーる サイト終了へ",
       "link": "https://news.yahoo.co.jp/pickup/6603779?source=rss",
       "pubDate": "2026-11-24T02:37:47.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "登場が噂されているニコンの新製品のリスト（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1974.html",
-      "pubDate": "2026-11-24T02:15:33.000Z"
     },
     {
       "category": "国際",
@@ -168,14 +168,6 @@
       "title": "米正副大統領 フアン氏復帰に関与",
       "link": "https://news.yahoo.co.jp/pickup/6603736?source=rss",
       "pubDate": "2026-11-23T21:28:40.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニー「FE 100-400mm F5.6-8 OSS」は3300万画素までなら優れた性能（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/fe-100-400mm-f56-8-oss-1.html",
-      "pubDate": "2026-11-23T15:07:35.000Z"
     },
     {
       "category": "科学",
@@ -210,14 +202,6 @@
       "pubDate": "2026-11-23T09:53:19.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーから2027年初頭に2機種（ことによると3機種）のカメラが登場？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/202723.html",
-      "pubDate": "2026-11-23T07:51:09.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -232,14 +216,6 @@
       "title": "北極航路 温暖化で氷解け通航量増",
       "link": "https://news.yahoo.co.jp/pickup/6603627?source=rss",
       "pubDate": "2026-11-22T23:09:55.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "OMDSのカメラブランド名は「Zuiko」にするべきだった（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/omdszuiko.html",
-      "pubDate": "2026-11-22T15:22:21.000Z"
     },
     {
       "category": "IT",
@@ -264,22 +240,6 @@
       "title": "日本の探査機「みお」水星に到着",
       "link": "https://news.yahoo.co.jp/pickup/6603570?source=rss",
       "pubDate": "2026-11-22T08:28:45.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "リーマン予想 AI証明巡り共同声明",
-      "link": "https://news.yahoo.co.jp/pickup/6603568?source=rss",
-      "pubDate": "2026-11-22T08:07:46.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ヨドバシの10月下期のランキングで初登場の「EOS R8 Mark II」が2位に（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/10eos-r8-mark-ii2.html",
-      "pubDate": "2026-11-22T07:53:19.000Z"
     }
   ]
 }
