@@ -1,13 +1,29 @@
 {
-  "updatedAt": "2026-11-25T00:15:41.246Z",
+  "updatedAt": "2026-11-25T00:30:45.737Z",
   "items": [
     {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
-      "title": "新型ウォークマン 旗艦品は65万円",
-      "link": "https://news.yahoo.co.jp/pickup/6603871?source=rss",
-      "pubDate": "2026-11-24T23:35:31.000Z"
+      "title": "フアン氏 エヌビディア社員に謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6603877?source=rss",
+      "pubDate": "2026-11-25T00:26:32.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "首相が文科相擁護 辞任ドミノ懸念",
+      "link": "https://news.yahoo.co.jp/pickup/6603876?source=rss",
+      "pubDate": "2026-11-25T00:18:57.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "新型ウォークマン 歴代最高65万円",
+      "link": "https://news.yahoo.co.jp/pickup/6603878?source=rss",
+      "pubDate": "2026-11-25T00:16:25.000Z"
     },
     {
       "category": "国際",
@@ -90,6 +106,14 @@
       "pubDate": "2026-11-24T21:51:04.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーが2027年に超ハイエンド機を含む多くのカメラを発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/2027-2.html",
+      "pubDate": "2026-11-24T15:10:00.000Z"
+    },
+    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -104,14 +128,6 @@
       "title": "未払い督促強化のNHK 事業収入増",
       "link": "https://news.yahoo.co.jp/pickup/6603852?source=rss",
       "pubDate": "2026-11-24T13:55:39.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "首相 第2次補正予算案編成を指示",
-      "link": "https://news.yahoo.co.jp/pickup/6603844?source=rss",
-      "pubDate": "2026-11-24T13:13:01.000Z"
     },
     {
       "category": "国際",
@@ -194,20 +210,28 @@
       "pubDate": "2026-11-24T06:57:01.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "東電 廃炉・復興で新組織設立へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603802?source=rss",
-      "pubDate": "2026-11-24T05:52:46.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "バザールでござーる サイト終了へ",
       "link": "https://news.yahoo.co.jp/pickup/6603779?source=rss",
       "pubDate": "2026-11-24T02:37:47.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "登場が噂されているニコンの新製品のリスト（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1974.html",
+      "pubDate": "2026-11-24T02:15:33.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニー「FE 100-400mm F5.6-8 OSS」は3300万画素までなら優れた性能（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/fe-100-400mm-f56-8-oss-1.html",
+      "pubDate": "2026-11-23T15:07:35.000Z"
     },
     {
       "category": "科学",
@@ -234,12 +258,28 @@
       "pubDate": "2026-11-23T09:53:19.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーから2027年初頭に2機種（ことによると3機種）のカメラが登場？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/202723.html",
+      "pubDate": "2026-11-23T07:51:09.000Z"
+    },
+    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "北極航路 温暖化で氷解け通航量増",
       "link": "https://news.yahoo.co.jp/pickup/6603627?source=rss",
       "pubDate": "2026-11-22T23:09:55.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "OMDSのカメラブランド名は「Zuiko」にするべきだった（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/omdszuiko.html",
+      "pubDate": "2026-11-22T15:22:21.000Z"
     }
   ]
 }
