@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T03:30:42.343Z",
+  "updatedAt": "2026-11-25T03:45:36.048Z",
   "items": [
     {
       "category": "国際",
@@ -16,6 +16,22 @@
       "title": "Microsoft 障害受けコードレッド",
       "link": "https://news.yahoo.co.jp/pickup/6603903?source=rss",
       "pubDate": "2026-11-25T03:02:26.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] AIでドーピングしたコンサルの実力は　使わない人材との能力差、BCG約500人で検証　Nature系列誌",
+      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003421/",
+      "pubDate": "2026-11-25T03:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] eSIM内蔵ケースで録音を即クラウドへ！　AIイヤフォン「Plaud One」を発売前に試して分かったこと",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/25/news019.html",
+      "pubDate": "2026-11-25T03:00:00.000Z"
     },
     {
       "category": "国内",
@@ -96,22 +112,6 @@
       "title": "バンダイなど3社連携 模倣品対応",
       "link": "https://news.yahoo.co.jp/pickup/6603893?source=rss",
       "pubDate": "2026-11-25T02:10:21.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] chocoZAPの「広告事業」、なぜ好調？　「月額2980円」維持のために開始、手ごたえを感じた施策は",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news031.html",
-      "pubDate": "2026-11-25T02:10:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 管理者ログインに“アナログ”要素を入れてセキュリティを向上――アイオーデータがLinuxベースのハイエンドビジネスNASを投入　31万9000円から",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/25/news052.html",
-      "pubDate": "2026-11-25T02:00:00.000Z"
     },
     {
       "category": "科学",
@@ -202,14 +202,6 @@
       "pubDate": "2026-11-24T22:54:06.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーが2027年に超ハイエンド機を含む多くのカメラを発表？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027-2.html",
-      "pubDate": "2026-11-24T15:10:00.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -242,44 +234,12 @@
       "pubDate": "2026-11-24T06:57:01.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "登場が噂されているニコンの新製品のリスト（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1974.html",
-      "pubDate": "2026-11-24T02:15:33.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニー「FE 100-400mm F5.6-8 OSS」は3300万画素までなら優れた性能（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/fe-100-400mm-f56-8-oss-1.html",
-      "pubDate": "2026-11-23T15:07:35.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "インフル「偽陰性」時間長く 注意",
       "link": "https://news.yahoo.co.jp/pickup/6603721?source=rss",
       "pubDate": "2026-11-23T13:08:54.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーから2027年初頭に2機種（ことによると3機種）のカメラが登場？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/202723.html",
-      "pubDate": "2026-11-23T07:51:09.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "OMDSのカメラブランド名は「Zuiko」にするべきだった（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/omdszuiko.html",
-      "pubDate": "2026-11-22T15:22:21.000Z"
     }
   ]
 }
