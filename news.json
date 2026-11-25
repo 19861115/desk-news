@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T09:30:43.387Z",
+  "updatedAt": "2026-11-25T09:45:34.262Z",
   "items": [
     {
       "category": "国内",
@@ -10,12 +10,36 @@
       "pubDate": "2026-11-25T09:17:21.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 海外経由の接続は見放題、議論尽くせるか　「ブロッキング」法制化、識者の見方は",
+      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003458/",
+      "pubDate": "2026-11-25T09:16:02.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] バッテリーは4年前のノートPCの約2.5倍長持ち！　Ryzen AI 7搭載の「ASUS ExpertBook A7」を試す",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/25/news067.html",
+      "pubDate": "2026-11-25T09:00:00.000Z"
+    },
+    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "介護保険料 一部高齢者負担増検討",
       "link": "https://news.yahoo.co.jp/pickup/6603939?source=rss",
       "pubDate": "2026-11-25T08:04:47.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ベルキン初、追跡機能付きウォレットスタンド発売　最大80dBのアラート音で知らせる",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news068.html",
+      "pubDate": "2026-11-25T08:04:00.000Z"
     },
     {
       "category": "経済",
@@ -64,30 +88,6 @@
       "title": "露船撃沈 場所にリビア選ばれた訳",
       "link": "https://news.yahoo.co.jp/pickup/6603931?source=rss",
       "pubDate": "2026-11-25T06:32:03.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 三陽合同がトラックボールを内蔵する左右分割キーボード「conductor」を販売開始",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/25/news064.html",
-      "pubDate": "2026-11-25T06:27:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 突然「未来の約定通知」届く……三菱UFJ eスマート証券、メンテ中のミス謝罪",
-      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003445/",
-      "pubDate": "2026-11-25T06:12:33.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ASUS、3K有機ELディスプレイを備えた法人向けスリム14型ノート「ASUS ExpertBook A7」",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/25/news063.html",
-      "pubDate": "2026-11-25T06:12:00.000Z"
     },
     {
       "category": "経済",
