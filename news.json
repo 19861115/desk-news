@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-25T00:45:32.950Z",
+  "updatedAt": "2026-11-25T01:00:50.535Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "AI登場「創造性」問い直す機会に",
+      "link": "https://news.yahoo.co.jp/pickup/6603882?source=rss",
+      "pubDate": "2026-11-25T00:55:13.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -248,14 +256,6 @@
       "title": "視神経細胞をシート化 東北大開発",
       "link": "https://news.yahoo.co.jp/pickup/6603710?source=rss",
       "pubDate": "2026-11-23T11:19:43.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "タッチ決済改札 利用者が戸惑いも",
-      "link": "https://news.yahoo.co.jp/pickup/6603699?source=rss",
-      "pubDate": "2026-11-23T09:53:19.000Z"
     },
     {
       "category": "デジカメinfo",
