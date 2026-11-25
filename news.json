@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-25T07:15:32.747Z",
+  "updatedAt": "2026-11-25T07:30:43.016Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "オンライン賭博の判事に罷免判決",
+      "link": "https://news.yahoo.co.jp/pickup/6603934?source=rss",
+      "pubDate": "2026-11-25T07:18:08.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -208,14 +216,6 @@
       "title": "首相が文科相擁護 辞任ドミノ懸念",
       "link": "https://news.yahoo.co.jp/pickup/6603876?source=rss",
       "pubDate": "2026-11-25T00:18:57.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "米中に次ぐAI国家確立へ 政府案",
-      "link": "https://news.yahoo.co.jp/pickup/6603868?source=rss",
-      "pubDate": "2026-11-24T23:10:28.000Z"
     },
     {
       "category": "科学",
