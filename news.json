@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T07:00:55.828Z",
+  "updatedAt": "2026-11-25T07:15:32.747Z",
   "items": [
     {
       "category": "科学",
@@ -16,6 +16,14 @@
       "title": "露船撃沈 場所にリビア選ばれた訳",
       "link": "https://news.yahoo.co.jp/pickup/6603931?source=rss",
       "pubDate": "2026-11-25T06:32:03.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 三陽合同がトラックボールを内蔵する左右分割キーボード「conductor」を販売開始",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/25/news064.html",
+      "pubDate": "2026-11-25T06:27:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -74,14 +82,6 @@
       "pubDate": "2026-11-25T05:27:54.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 六花亭のカード情報流出、対応が「誠実」と評判　再発行時の「伝え方」まで明記",
-      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003437/",
-      "pubDate": "2026-11-25T05:21:43.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -120,6 +120,14 @@
       "title": "くら寿司 値上げ・値下げ同時なぜ",
       "link": "https://news.yahoo.co.jp/pickup/6603897?source=rss",
       "pubDate": "2026-11-25T02:37:57.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」は白のピクセルを含むRGBWセンサーを採用？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6rgbw.html",
+      "pubDate": "2026-11-25T02:33:52.000Z"
     },
     {
       "category": "国際",
@@ -218,6 +226,14 @@
       "pubDate": "2026-11-24T22:54:06.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーが2027年に超ハイエンド機を含む多くのカメラを発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/2027-2.html",
+      "pubDate": "2026-11-24T15:10:00.000Z"
+    },
+    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -240,6 +256,30 @@
       "title": "Z世代トレンド 大賞「ドパガキ」",
       "link": "https://news.yahoo.co.jp/pickup/6603814?source=rss",
       "pubDate": "2026-11-24T08:06:50.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "登場が噂されているニコンの新製品のリスト（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1974.html",
+      "pubDate": "2026-11-24T02:15:33.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニー「FE 100-400mm F5.6-8 OSS」は3300万画素までなら優れた性能（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/fe-100-400mm-f56-8-oss-1.html",
+      "pubDate": "2026-11-23T15:07:35.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーから2027年初頭に2機種（ことによると3機種）のカメラが登場？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/202723.html",
+      "pubDate": "2026-11-23T07:51:09.000Z"
     }
   ]
 }
