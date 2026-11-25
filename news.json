@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T01:30:44.329Z",
+  "updatedAt": "2026-11-25T01:45:31.891Z",
   "items": [
     {
       "category": "科学",
@@ -16,6 +16,30 @@
       "title": "米CIAのシステム ハッカーが侵入",
       "link": "https://news.yahoo.co.jp/pickup/6603881?source=rss",
       "pubDate": "2026-11-25T01:12:51.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「Claude」で作ったアプリをMac／Windowsにインストール可能に　全プランでβ提供",
+      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003431/",
+      "pubDate": "2026-11-25T01:07:59.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] あなたの会社は「実験」で終わるか、「商売」を始めるか――米中から見る、2030年に淘汰される企業とは",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/25/2000003263/",
+      "pubDate": "2026-11-25T01:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 楽天市場で新品未開封「AQUOS sense9」が5万8500円　2眼カメラや5000mAhバッテリー搭載",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news041.html",
+      "pubDate": "2026-11-25T01:00:00.000Z"
     },
     {
       "category": "IT",
@@ -82,14 +106,6 @@
       "pubDate": "2026-11-24T23:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] “悪意なき情報漏えい”をどう防ぐ？　生成AI時代のシャドーIT対策",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/25/news016.html",
-      "pubDate": "2026-11-24T23:00:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -104,22 +120,6 @@
       "title": "米で鳥インフルに3人感染 WHO",
       "link": "https://news.yahoo.co.jp/pickup/6603865?source=rss",
       "pubDate": "2026-11-24T22:54:06.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] AIエージェントは隙あらばサンドボックスの外に出るのか　Anthropicが評価手法「Siren」を発表",
-      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003430/",
-      "pubDate": "2026-11-24T22:41:42.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 仮想化の年間ライセンス費を最大70％削減　豪外科医団体は更新期限までに何を変えた",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/25/news018.html",
-      "pubDate": "2026-11-24T22:00:00.000Z"
     },
     {
       "category": "国内",
