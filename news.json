@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-25T11:30:43.180Z",
+  "updatedAt": "2026-11-25T11:45:34.658Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "JAXA 月探査車の試験走行を公開",
+      "link": "https://news.yahoo.co.jp/pickup/6603968?source=rss",
+      "pubDate": "2026-11-25T11:38:25.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「motorola signature」発表　24時間対応の“人間コンシェルジュ”も付帯　折りたたみ新型「razr」の行方は？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news070.html",
+      "pubDate": "2026-11-25T10:24:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -24,6 +40,14 @@
       "title": "国立成育医療研究センターで不正",
       "link": "https://news.yahoo.co.jp/pickup/6603960?source=rss",
       "pubDate": "2026-11-25T09:57:33.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 片手に収まる3軸ジンバルカメラ「Buren」発売　KEIYOから約4.4万円",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news069.html",
+      "pubDate": "2026-11-25T09:33:00.000Z"
     },
     {
       "category": "国内",
@@ -74,14 +98,6 @@
       "pubDate": "2026-11-25T07:59:22.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ゴールド特典改定後も好調、PayPayカードの勝算を宮崎CEOに聞く　ポイント還元以外の強みとは？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news066.html",
-      "pubDate": "2026-11-25T07:33:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -96,14 +112,6 @@
       "title": "海遊館 ラッコ4頭を12月から展示",
       "link": "https://news.yahoo.co.jp/pickup/6603928?source=rss",
       "pubDate": "2026-11-25T06:58:43.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] Y!mobile、認定中古「iPhone SE（第3世代）」がMNPで1円に【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news062.html",
-      "pubDate": "2026-11-25T06:57:00.000Z"
     },
     {
       "category": "国際",
@@ -232,14 +240,6 @@
       "title": "ソニーが2027年に超ハイエンド機を含む多くのカメラを発表？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/2027-2.html",
       "pubDate": "2026-11-24T15:10:00.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "カイロス 1/22に4号機打ち上げへ",
-      "link": "https://news.yahoo.co.jp/pickup/6603824?source=rss",
-      "pubDate": "2026-11-24T09:45:14.000Z"
     },
     {
       "category": "IT",
