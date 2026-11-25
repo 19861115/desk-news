@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-25T23:15:33.324Z",
+  "updatedAt": "2026-11-25T23:30:43.815Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "エジプトで複数台事故 30人超死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6604004?source=rss",
+      "pubDate": "2026-11-25T23:29:24.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -200,14 +208,6 @@
       "title": "富士フイルム「X-T6」は白のピクセルを含むRGBWセンサーを採用？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/x-t6rgbw.html",
       "pubDate": "2026-11-25T02:33:52.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "SHEINが和解金160億円支払いへ 米",
-      "link": "https://news.yahoo.co.jp/pickup/6603899?source=rss",
-      "pubDate": "2026-11-25T02:29:53.000Z"
     },
     {
       "category": "科学",
