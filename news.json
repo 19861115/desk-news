@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-25T04:00:49.482Z",
+  "updatedAt": "2026-11-25T04:15:35.447Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「My au」が衛星通信の「au Starlink Direct SOS」に対応　RCS公式アカウントで「開封済み」確認も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news058.html",
+      "pubDate": "2026-11-25T03:45:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 「1年以内に超知能誕生の確率は3分の1」　OpenAI財団理事が開発の一時停止を提言",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news043.html",
+      "pubDate": "2026-11-25T03:30:00.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -42,20 +58,20 @@
       "pubDate": "2026-11-25T02:47:00.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモ、「スマートウォッチ03」で日比谷花壇コラボレザーバンド発売　QVC限定アイテムも",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news055.html",
+      "pubDate": "2026-11-25T02:40:00.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "くら寿司 値上げ・値下げ同時なぜ",
       "link": "https://news.yahoo.co.jp/pickup/6603897?source=rss",
       "pubDate": "2026-11-25T02:37:57.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 六花亭のカード情報流出、対応が「誠実」と評判　再発行時の「伝え方」まで明記",
-      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003437/",
-      "pubDate": "2026-11-25T02:34:15.000Z"
     },
     {
       "category": "国際",
@@ -72,22 +88,6 @@
       "title": "日経平均 一時2000円超値下がり",
       "link": "https://news.yahoo.co.jp/pickup/6603901?source=rss",
       "pubDate": "2026-11-25T02:28:04.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 楽天証券、金融資産情報など約441万件の漏えい確認　ログインIDなど約1198万口座分も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003435/",
-      "pubDate": "2026-11-25T02:25:59.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 復旧費用1000万円超が6割　被害相次ぐサイバー攻撃、保険広がるも中小企業に死角",
-      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003436/",
-      "pubDate": "2026-11-25T02:22:20.000Z"
     },
     {
       "category": "国内",
