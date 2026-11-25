@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-25T23:30:43.815Z",
+  "updatedAt": "2026-11-25T23:45:32.967Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "中小企業の賃上げ税制 縮小で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6604006?source=rss",
+      "pubDate": "2026-11-25T23:39:50.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -144,14 +152,6 @@
       "title": "JAXA 月探査車の試験走行を公開",
       "link": "https://news.yahoo.co.jp/pickup/6603968?source=rss",
       "pubDate": "2026-11-25T11:38:25.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "トヨタ「新型カムリ」12月に発売",
-      "link": "https://news.yahoo.co.jp/pickup/6603964?source=rss",
-      "pubDate": "2026-11-25T10:08:02.000Z"
     },
     {
       "category": "国内",
