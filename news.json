@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-25T05:15:37.263Z",
+  "updatedAt": "2026-11-25T05:30:43.278Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "中国の富裕層マネーが香港に 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6603920?source=rss",
+      "pubDate": "2026-11-25T05:27:54.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "ラヴ上等ポスター文言 法務省指定",
+      "link": "https://news.yahoo.co.jp/pickup/6603918?source=rss",
+      "pubDate": "2026-11-25T05:18:03.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "中国短尺ドラマ課金被害 日本にも",
+      "link": "https://news.yahoo.co.jp/pickup/6603908?source=rss",
+      "pubDate": "2026-11-25T05:15:27.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -178,28 +202,12 @@
       "pubDate": "2026-11-25T00:16:25.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "NVIDIAは善良な企業 米司法長官",
-      "link": "https://news.yahoo.co.jp/pickup/6603870?source=rss",
-      "pubDate": "2026-11-24T23:32:03.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "米中に次ぐAI国家確立へ 政府案",
       "link": "https://news.yahoo.co.jp/pickup/6603868?source=rss",
       "pubDate": "2026-11-24T23:10:28.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "直木賞ノミネート 5作品決まる",
-      "link": "https://news.yahoo.co.jp/pickup/6603867?source=rss",
-      "pubDate": "2026-11-24T22:56:25.000Z"
     },
     {
       "category": "科学",
@@ -240,14 +248,6 @@
       "title": "Z世代トレンド 大賞「ドパガキ」",
       "link": "https://news.yahoo.co.jp/pickup/6603814?source=rss",
       "pubDate": "2026-11-24T08:06:50.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ヴェレダ クレカ4万件超漏えいか",
-      "link": "https://news.yahoo.co.jp/pickup/6603807?source=rss",
-      "pubDate": "2026-11-24T06:57:01.000Z"
     },
     {
       "category": "デジカメinfo",
