@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-25T02:00:50.687Z",
+  "updatedAt": "2026-11-25T02:15:34.701Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "バンダイなど3社連携 模倣品対応",
+      "link": "https://news.yahoo.co.jp/pickup/6603893?source=rss",
+      "pubDate": "2026-11-25T02:10:21.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "琵琶湖水面に大量の水草 漁協嘆き",
       "link": "https://news.yahoo.co.jp/pickup/6603890?source=rss",
       "pubDate": "2026-11-25T01:48:13.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] JAXAの衛星データ提供システムに不正アクセス　コマンドインジェクション脆弱性悪用、アカウント情報流出",
+      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003432/",
+      "pubDate": "2026-11-25T01:31:48.000Z"
     },
     {
       "category": "科学",
@@ -104,14 +120,6 @@
       "title": "米中に次ぐAI国家確立へ 政府案",
       "link": "https://news.yahoo.co.jp/pickup/6603868?source=rss",
       "pubDate": "2026-11-24T23:10:28.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 「新リース会計基準」対応、実は「総務」が重要なワケ　契約管理“魔のサイクル“に陥らないためのポイントは？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news046.html",
-      "pubDate": "2026-11-24T23:00:00.000Z"
     },
     {
       "category": "国内",
@@ -216,14 +224,6 @@
       "title": "Z世代トレンド 大賞「ドパガキ」",
       "link": "https://news.yahoo.co.jp/pickup/6603814?source=rss",
       "pubDate": "2026-11-24T08:06:50.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "情報流出相次ぐ 防犯グッズ人気",
-      "link": "https://news.yahoo.co.jp/pickup/6603815?source=rss",
-      "pubDate": "2026-11-24T08:02:55.000Z"
     },
     {
       "category": "IT",
