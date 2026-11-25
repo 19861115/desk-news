@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-25T05:00:47.882Z",
+  "updatedAt": "2026-11-25T05:15:37.263Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] マウス、Ryzenを搭載した手のひらサイズのミニデスクトップPCを発売",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/25/news060.html",
+      "pubDate": "2026-11-25T04:33:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] タワレコ、会員情報約1100万件流出　「3年以内の退会者」も対象　通販サイト停止続く",
+      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003439/",
+      "pubDate": "2026-11-25T04:27:21.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -42,28 +58,12 @@
       "pubDate": "2026-11-25T03:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] eSIM内蔵ケースで録音を即クラウドへ！　AIイヤフォン「Plaud One」を発売前に試して分かったこと",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/25/news019.html",
-      "pubDate": "2026-11-25T03:00:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "消えた技能実習生 今も6600人不明",
       "link": "https://news.yahoo.co.jp/pickup/6603898?source=rss",
       "pubDate": "2026-11-25T02:47:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ドコモ、「スマートウォッチ03」で日比谷花壇コラボレザーバンド発売　QVC限定アイテムも",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news055.html",
-      "pubDate": "2026-11-25T02:40:00.000Z"
     },
     {
       "category": "経済",
