@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T04:30:44.567Z",
+  "updatedAt": "2026-11-25T04:45:35.129Z",
   "items": [
     {
       "category": "ITmedia",
@@ -72,6 +72,14 @@
       "title": "くら寿司 値上げ・値下げ同時なぜ",
       "link": "https://news.yahoo.co.jp/pickup/6603897?source=rss",
       "pubDate": "2026-11-25T02:37:57.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」は白のピクセルを含むRGBWセンサーを採用？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6rgbw.html",
+      "pubDate": "2026-11-25T02:33:52.000Z"
     },
     {
       "category": "国際",
@@ -272,14 +280,6 @@
       "title": "ソニーから2027年初頭に2機種（ことによると3機種）のカメラが登場？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/202723.html",
       "pubDate": "2026-11-23T07:51:09.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "OMDSのカメラブランド名は「Zuiko」にするべきだった（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/omdszuiko.html",
-      "pubDate": "2026-11-22T15:22:21.000Z"
     }
   ]
 }
