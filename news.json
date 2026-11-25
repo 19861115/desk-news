@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-25T09:15:35.033Z",
+  "updatedAt": "2026-11-25T09:30:43.387Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "首相 政治部門ベストドレッサー賞",
+      "link": "https://news.yahoo.co.jp/pickup/6603955?source=rss",
+      "pubDate": "2026-11-25T09:17:21.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -168,14 +176,6 @@
       "title": "日経平均 一時2000円超値下がり",
       "link": "https://news.yahoo.co.jp/pickup/6603901?source=rss",
       "pubDate": "2026-11-25T02:28:04.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "週後半は気温上昇予想 寒暖差注意",
-      "link": "https://news.yahoo.co.jp/pickup/6603895?source=rss",
-      "pubDate": "2026-11-25T02:17:33.000Z"
     },
     {
       "category": "国際",
