@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-25T08:00:51.068Z",
+  "updatedAt": "2026-11-25T08:15:38.409Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "介護保険料 一部高齢者負担増検討",
+      "link": "https://news.yahoo.co.jp/pickup/6603939?source=rss",
+      "pubDate": "2026-11-25T08:04:47.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "プルデンシャル 新規契約が92%減",
+      "link": "https://news.yahoo.co.jp/pickup/6603940?source=rss",
+      "pubDate": "2026-11-25T07:59:22.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ゴールド特典改定後も好調、PayPayカードの勝算を宮崎CEOに聞く　ポイント還元以外の強みとは？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news066.html",
+      "pubDate": "2026-11-25T07:33:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -66,14 +90,6 @@
       "pubDate": "2026-11-25T05:42:06.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] エプソンダイレクト、14世代Coreプロセッサも搭載可能なBTO対応スリムデスクトップ",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/25/news061.html",
-      "pubDate": "2026-11-25T05:37:00.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -128,14 +144,6 @@
       "title": "くら寿司 値上げ・値下げ同時なぜ",
       "link": "https://news.yahoo.co.jp/pickup/6603897?source=rss",
       "pubDate": "2026-11-25T02:37:57.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」は白のピクセルを含むRGBWセンサーを採用？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6rgbw.html",
-      "pubDate": "2026-11-25T02:33:52.000Z"
     },
     {
       "category": "国際",
@@ -202,36 +210,12 @@
       "pubDate": "2026-11-25T00:55:13.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "フアン氏 エヌビディア社員に謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6603877?source=rss",
-      "pubDate": "2026-11-25T00:26:32.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "首相が文科相擁護 辞任ドミノ懸念",
-      "link": "https://news.yahoo.co.jp/pickup/6603876?source=rss",
-      "pubDate": "2026-11-25T00:18:57.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "米で鳥インフルに3人感染 WHO",
       "link": "https://news.yahoo.co.jp/pickup/6603865?source=rss",
       "pubDate": "2026-11-24T22:54:06.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーが2027年に超ハイエンド機を含む多くのカメラを発表？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027-2.html",
-      "pubDate": "2026-11-24T15:10:00.000Z"
     },
     {
       "category": "科学",
@@ -256,30 +240,6 @@
       "title": "Z世代トレンド 大賞「ドパガキ」",
       "link": "https://news.yahoo.co.jp/pickup/6603814?source=rss",
       "pubDate": "2026-11-24T08:06:50.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "登場が噂されているニコンの新製品のリスト（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1974.html",
-      "pubDate": "2026-11-24T02:15:33.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニー「FE 100-400mm F5.6-8 OSS」は3300万画素までなら優れた性能（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/fe-100-400mm-f56-8-oss-1.html",
-      "pubDate": "2026-11-23T15:07:35.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーから2027年初頭に2機種（ことによると3機種）のカメラが登場？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/202723.html",
-      "pubDate": "2026-11-23T07:51:09.000Z"
     }
   ]
 }
