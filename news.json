@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-11-25T11:45:34.658Z",
+  "updatedAt": "2026-11-25T23:00:53.639Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "日本語試験の増設を検討 外務省",
+      "link": "https://news.yahoo.co.jp/pickup/6603996?source=rss",
+      "pubDate": "2026-11-25T22:52:44.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "AI法改正案の概要判明 罰則新設",
+      "link": "https://news.yahoo.co.jp/pickup/6603997?source=rss",
+      "pubDate": "2026-11-25T22:44:06.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 1Password、一部顧客の氏名やメールアドレスが流出　保管庫内のデータに「影響なし」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003466/",
+      "pubDate": "2026-11-25T22:01:52.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 「AIでデータが増えた」84％　“いずれ見直す”のまま膨らむクラウドの移動コスト",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news024.html",
+      "pubDate": "2026-11-25T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] JTBが54社の会計を「標準機能95％」で統合　それでも「AIエージェントは全部は使えない」と言う理由",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news011.html",
+      "pubDate": "2026-11-25T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] SpaceX、売上の半分以上は「AI関連」　ロケット技術で「発電設備」まで内製化したワケ",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news041.html",
+      "pubDate": "2026-11-25T22:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] Claudeで作ったツールがPCアプリに　管理者が知っておくべき“記録されない操作”",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news036.html",
+      "pubDate": "2026-11-25T22:00:00.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "フアン氏の復帰 企業統治に批判",
+      "link": "https://news.yahoo.co.jp/pickup/6603991?source=rss",
+      "pubDate": "2026-11-25T21:15:51.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米 日中やEUなどに新関税を提案",
+      "link": "https://news.yahoo.co.jp/pickup/6603990?source=rss",
+      "pubDate": "2026-11-25T15:17:03.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "くら寿司 ちいかわ企画初日で終了",
+      "link": "https://news.yahoo.co.jp/pickup/6603987?source=rss",
+      "pubDate": "2026-11-25T14:17:26.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "3文書 防衛力整備計画の指針判明",
+      "link": "https://news.yahoo.co.jp/pickup/6603985?source=rss",
+      "pubDate": "2026-11-25T14:12:01.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "キヤノンが2027年Q1に「EOS R7」「EOS R10」後継機を含む多くの新製品を投入？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/2027q1eos-r7eos-r10.html",
+      "pubDate": "2026-11-25T13:22:45.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "問責決議案巡り 与野党攻防が激化",
+      "link": "https://news.yahoo.co.jp/pickup/6603980?source=rss",
+      "pubDate": "2026-11-25T13:17:28.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "パイロット不足 航空の2030年問題",
+      "link": "https://news.yahoo.co.jp/pickup/6603979?source=rss",
+      "pubDate": "2026-11-25T13:01:50.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "東海テレビに2.4億円所得隠し指摘",
+      "link": "https://news.yahoo.co.jp/pickup/6603974?source=rss",
+      "pubDate": "2026-11-25T12:10:10.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -8,14 +128,6 @@
       "title": "JAXA 月探査車の試験走行を公開",
       "link": "https://news.yahoo.co.jp/pickup/6603968?source=rss",
       "pubDate": "2026-11-25T11:38:25.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「motorola signature」発表　24時間対応の“人間コンシェルジュ”も付帯　折りたたみ新型「razr」の行方は？",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news070.html",
-      "pubDate": "2026-11-25T10:24:00.000Z"
     },
     {
       "category": "経済",
@@ -26,84 +138,12 @@
       "pubDate": "2026-11-25T10:08:02.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ANA パイロット養成会社を設立",
-      "link": "https://news.yahoo.co.jp/pickup/6603962?source=rss",
-      "pubDate": "2026-11-25T10:00:10.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "国立成育医療研究センターで不正",
       "link": "https://news.yahoo.co.jp/pickup/6603960?source=rss",
       "pubDate": "2026-11-25T09:57:33.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 片手に収まる3軸ジンバルカメラ「Buren」発売　KEIYOから約4.4万円",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news069.html",
-      "pubDate": "2026-11-25T09:33:00.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "首相 政治部門ベストドレッサー賞",
-      "link": "https://news.yahoo.co.jp/pickup/6603955?source=rss",
-      "pubDate": "2026-11-25T09:17:21.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 海外経由の接続は見放題、議論尽くせるか　「ブロッキング」法制化、識者の見方は",
-      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003458/",
-      "pubDate": "2026-11-25T09:16:02.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] バッテリーは4年前のノートPCの約2.5倍長持ち！　Ryzen AI 7搭載の「ASUS ExpertBook A7」を試す",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/25/news067.html",
-      "pubDate": "2026-11-25T09:00:00.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "介護保険料 一部高齢者負担増検討",
-      "link": "https://news.yahoo.co.jp/pickup/6603939?source=rss",
-      "pubDate": "2026-11-25T08:04:47.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ベルキン初、追跡機能付きウォレットスタンド発売　最大80dBのアラート音で知らせる",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/25/news068.html",
-      "pubDate": "2026-11-25T08:04:00.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "プルデンシャル 新規契約が92%減",
-      "link": "https://news.yahoo.co.jp/pickup/6603940?source=rss",
-      "pubDate": "2026-11-25T07:59:22.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "オンライン賭博の判事に罷免判決",
-      "link": "https://news.yahoo.co.jp/pickup/6603934?source=rss",
-      "pubDate": "2026-11-25T07:18:08.000Z"
     },
     {
       "category": "科学",
@@ -122,14 +162,6 @@
       "pubDate": "2026-11-25T06:32:03.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "擬態段ボールも 置き配の盗難対策",
-      "link": "https://news.yahoo.co.jp/pickup/6603919?source=rss",
-      "pubDate": "2026-11-25T05:42:06.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -146,36 +178,12 @@
       "pubDate": "2026-11-25T05:27:54.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "ラヴ上等ポスター文言 法務省指定",
-      "link": "https://news.yahoo.co.jp/pickup/6603918?source=rss",
-      "pubDate": "2026-11-25T05:18:03.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "中国ファーウェイに有罪評決 米",
-      "link": "https://news.yahoo.co.jp/pickup/6603905?source=rss",
-      "pubDate": "2026-11-25T03:06:55.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "Microsoft 障害受けコードレッド",
       "link": "https://news.yahoo.co.jp/pickup/6603903?source=rss",
       "pubDate": "2026-11-25T03:02:26.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "くら寿司 値上げ・値下げ同時なぜ",
-      "link": "https://news.yahoo.co.jp/pickup/6603897?source=rss",
-      "pubDate": "2026-11-25T02:37:57.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -272,14 +280,6 @@
       "title": "ソニー「FE 100-400mm F5.6-8 OSS」は3300万画素までなら優れた性能（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/fe-100-400mm-f56-8-oss-1.html",
       "pubDate": "2026-11-23T15:07:35.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーから2027年初頭に2機種（ことによると3機種）のカメラが登場？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/202723.html",
-      "pubDate": "2026-11-23T07:51:09.000Z"
     }
   ]
 }
