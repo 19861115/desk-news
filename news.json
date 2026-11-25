@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-25T01:00:50.535Z",
+  "updatedAt": "2026-11-25T01:15:33.444Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "米CIAのシステム ハッカーが侵入",
+      "link": "https://news.yahoo.co.jp/pickup/6603881?source=rss",
+      "pubDate": "2026-11-25T01:12:51.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "AI登場「創造性」問い直す機会に",
       "link": "https://news.yahoo.co.jp/pickup/6603882?source=rss",
       "pubDate": "2026-11-25T00:55:13.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] BtoBマーケター苦戦　「生成AIでマーケティングが難しくなった」4割弱、何が起きている？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news013.html",
+      "pubDate": "2026-11-25T00:30:00.000Z"
     },
     {
       "category": "経済",
@@ -95,14 +111,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia エンタープライズ] 仮想化の年間ライセンス費を最大70％削減　豪外科医団体は更新期限までに何を変えた",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2611/25/news018.html",
-      "pubDate": "2026-11-24T22:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 毎回「いいですね」と返してくるAIにイライラ……“イエスマンAI”を辛口の相談相手に変える方法【プロンプト紹介】",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news012.html",
       "pubDate": "2026-11-24T22:00:00.000Z"
     },
     {
@@ -200,14 +208,6 @@
       "title": "情報流出相次ぐ 防犯グッズ人気",
       "link": "https://news.yahoo.co.jp/pickup/6603815?source=rss",
       "pubDate": "2026-11-24T08:02:55.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "高市首相の到着時 タラップ故障か",
-      "link": "https://news.yahoo.co.jp/pickup/6603810?source=rss",
-      "pubDate": "2026-11-24T07:52:18.000Z"
     },
     {
       "category": "IT",
