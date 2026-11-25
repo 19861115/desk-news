@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-25T10:00:57.741Z",
+  "updatedAt": "2026-11-25T10:15:38.529Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "トヨタ「新型カムリ」12月に発売",
+      "link": "https://news.yahoo.co.jp/pickup/6603964?source=rss",
+      "pubDate": "2026-11-25T10:08:02.000Z"
+    },
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "ANA パイロット養成会社を設立",
+      "link": "https://news.yahoo.co.jp/pickup/6603962?source=rss",
+      "pubDate": "2026-11-25T10:00:10.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -162,28 +178,12 @@
       "pubDate": "2026-11-25T02:29:53.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "日経平均 一時2000円超値下がり",
-      "link": "https://news.yahoo.co.jp/pickup/6603901?source=rss",
-      "pubDate": "2026-11-25T02:28:04.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "米比首脳会談の合意巡り食い違い",
       "link": "https://news.yahoo.co.jp/pickup/6603894?source=rss",
       "pubDate": "2026-11-25T02:15:52.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "バンダイなど3社連携 模倣品対応",
-      "link": "https://news.yahoo.co.jp/pickup/6603893?source=rss",
-      "pubDate": "2026-11-25T02:10:21.000Z"
     },
     {
       "category": "科学",
