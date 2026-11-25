@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-25T03:00:51.460Z",
+  "updatedAt": "2026-11-25T03:15:31.559Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "中国ファーウェイに有罪評決 米",
+      "link": "https://news.yahoo.co.jp/pickup/6603905?source=rss",
+      "pubDate": "2026-11-25T03:06:55.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "Microsoft 障害受けコードレッド",
+      "link": "https://news.yahoo.co.jp/pickup/6603903?source=rss",
+      "pubDate": "2026-11-25T03:02:26.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -16,6 +32,14 @@
       "title": "くら寿司 値上げ・値下げ同時なぜ",
       "link": "https://news.yahoo.co.jp/pickup/6603897?source=rss",
       "pubDate": "2026-11-25T02:37:57.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 六花亭のカード情報流出、対応が「誠実」と評判　再発行時の「伝え方」まで明記",
+      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003437/",
+      "pubDate": "2026-11-25T02:34:15.000Z"
     },
     {
       "category": "国際",
@@ -87,14 +111,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia PC USER] 管理者ログインに“アナログ”要素を入れてセキュリティを向上――アイオーデータがLinuxベースのハイエンドビジネスNASを投入　31万9000円から",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/25/news052.html",
-      "pubDate": "2026-11-25T02:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 「安全でも高ければ普及しない」――エレコムが発火対策バッテリーと“熱くなりにくい”65W充電器を発売　限定4980円から",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/25/news036.html",
       "pubDate": "2026-11-25T02:00:00.000Z"
     },
     {
@@ -194,14 +210,6 @@
       "pubDate": "2026-11-24T15:10:00.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "上海市トップを調査 規律違反疑い",
-      "link": "https://news.yahoo.co.jp/pickup/6603853?source=rss",
-      "pubDate": "2026-11-24T14:10:09.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -232,14 +240,6 @@
       "title": "ヴェレダ クレカ4万件超漏えいか",
       "link": "https://news.yahoo.co.jp/pickup/6603807?source=rss",
       "pubDate": "2026-11-24T06:57:01.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "バザールでござーる サイト終了へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603779?source=rss",
-      "pubDate": "2026-11-24T02:37:47.000Z"
     },
     {
       "category": "デジカメinfo",
