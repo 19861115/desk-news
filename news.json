@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-25T01:15:33.444Z",
+  "updatedAt": "2026-11-25T01:30:44.329Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "中国の宇宙船 初の外国人乗組員",
+      "link": "https://news.yahoo.co.jp/pickup/6603886?source=rss",
+      "pubDate": "2026-11-25T01:22:17.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -264,14 +272,6 @@
       "title": "ソニーから2027年初頭に2機種（ことによると3機種）のカメラが登場？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/202723.html",
       "pubDate": "2026-11-23T07:51:09.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "北極航路 温暖化で氷解け通航量増",
-      "link": "https://news.yahoo.co.jp/pickup/6603627?source=rss",
-      "pubDate": "2026-11-22T23:09:55.000Z"
     },
     {
       "category": "デジカメinfo",
