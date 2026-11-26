@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-26T05:30:45.190Z",
+  "updatedAt": "2026-11-26T05:45:36.293Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] KDDI、Xのデータ利用で包括契約　通信品質向上や法人向けサービスに活用へ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003480/",
+      "pubDate": "2026-11-26T05:11:44.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News]  脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
+      "pubDate": "2026-11-26T05:04:44.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「PayPayマネーライト」現金化サービス出現も、「企画・運営に一切関与していない」とPayPay　利用規約で禁止している",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news067.html",
+      "pubDate": "2026-11-26T04:59:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -34,44 +58,12 @@
       "pubDate": "2026-11-26T04:35:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] KDDI、Xのデータ利用で包括契約　通信品質向上や法人向けサービスに活用へ",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003480/",
-      "pubDate": "2026-11-26T04:34:25.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] Character.AIのチャット履歴競売に41州とワシントンD.C.が異議　未成年者の約210万アカウント分も対象",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003479/",
-      "pubDate": "2026-11-26T04:32:50.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] MINISFORUM、Core Ultra X7を搭載した高性能ミニデスクトップ「M2 PRO」",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news064.html",
-      "pubDate": "2026-11-26T04:26:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "ホンダ 逆輸入のアキュラ来月発売",
       "link": "https://news.yahoo.co.jp/pickup/6604052?source=rss",
       "pubDate": "2026-11-26T04:25:06.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーが12月1日に何らかの発表を行う？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/121-4.html",
-      "pubDate": "2026-11-26T03:55:15.000Z"
     },
     {
       "category": "国内",
@@ -96,14 +88,6 @@
       "title": "香港高層住宅火災1年 遺族の思い",
       "link": "https://news.yahoo.co.jp/pickup/6604041?source=rss",
       "pubDate": "2026-11-26T03:15:50.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「XF50-140mmF2.8II」は小型化されるが引き続きインナーズームを採用？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/xf50-140mmf28ii.html",
-      "pubDate": "2026-11-26T03:10:53.000Z"
     },
     {
       "category": "国内",
@@ -136,14 +120,6 @@
       "title": "若者が注目「フリース」再ブーム",
       "link": "https://news.yahoo.co.jp/pickup/6604026?source=rss",
       "pubDate": "2026-11-26T02:26:05.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/omds43.html",
-      "pubDate": "2026-11-26T02:22:48.000Z"
     },
     {
       "category": "国際",
@@ -210,14 +186,6 @@
       "pubDate": "2026-11-25T22:52:44.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "キヤノンが2027年Q1に「EOS R7」「EOS R10」後継機を含む多くの新製品を投入？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027q1eos-r7eos-r10.html",
-      "pubDate": "2026-11-25T13:22:45.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -248,14 +216,6 @@
       "title": "Microsoft 障害受けコードレッド",
       "link": "https://news.yahoo.co.jp/pickup/6603903?source=rss",
       "pubDate": "2026-11-25T03:02:26.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」は白のピクセルを含むRGBWセンサーを採用？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6rgbw.html",
-      "pubDate": "2026-11-25T02:33:52.000Z"
     },
     {
       "category": "科学",
