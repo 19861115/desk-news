@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T06:30:42.380Z",
+  "updatedAt": "2026-11-26T06:45:32.189Z",
   "items": [
     {
       "category": "国際",
@@ -40,6 +40,14 @@
       "title": "は虫類やウサギ ペットの防災解説",
       "link": "https://news.yahoo.co.jp/pickup/6604067?source=rss",
       "pubDate": "2026-11-26T06:16:40.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 楽天CMOが語る　「企業が伝えたいこと」と「顧客が知りたいこと」は違う――では、どうする？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news060.html",
+      "pubDate": "2026-11-26T06:00:00.000Z"
     },
     {
       "category": "国際",
@@ -96,14 +104,6 @@
       "title": "アニメとコラボのおせち 多彩に",
       "link": "https://news.yahoo.co.jp/pickup/6604055?source=rss",
       "pubDate": "2026-11-26T04:43:40.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] バッファロー、“残量メーター”付き録画用HDDに6TBモデルを追加",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news065.html",
-      "pubDate": "2026-11-26T04:37:00.000Z"
     },
     {
       "category": "経済",
