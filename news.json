@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T03:00:52.737Z",
+  "updatedAt": "2026-11-26T03:15:33.979Z",
   "items": [
     {
       "category": "国内",
@@ -26,6 +26,14 @@
       "pubDate": "2026-11-26T02:40:18.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「PayPayマネーライト現金化」サービス、PayPay「当社は関与していない」「絶対に利用しないで」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003474/",
+      "pubDate": "2026-11-26T02:27:43.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -40,6 +48,14 @@
       "title": "[ITmedia News] AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定　AI企業間で議論",
       "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003473/",
       "pubDate": "2026-11-26T02:24:00.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/omds43.html",
+      "pubDate": "2026-11-26T02:22:48.000Z"
     },
     {
       "category": "ITmedia",
@@ -88,14 +104,6 @@
       "title": "[ITmedia Mobile] 「AQUOS sense11」の価格まとめ　ソフトバンクは2年24円から、IIJmioもMNP特価あり　8000円相当の還元も",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news052.html",
       "pubDate": "2026-11-26T01:21:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News]  脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
-      "pubDate": "2026-11-26T01:00:00.000Z"
     },
     {
       "category": "経済",
@@ -272,14 +280,6 @@
       "title": "登場が噂されているニコンの新製品のリスト（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/post-1974.html",
       "pubDate": "2026-11-24T02:15:33.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニー「FE 100-400mm F5.6-8 OSS」は3300万画素までなら優れた性能（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/fe-100-400mm-f56-8-oss-1.html",
-      "pubDate": "2026-11-23T15:07:35.000Z"
     }
   ]
 }
