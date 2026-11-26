@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-26T11:15:34.752Z",
+  "updatedAt": "2026-11-26T11:30:44.669Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "獨協大「イブニング入試」狙いは",
+      "link": "https://news.yahoo.co.jp/pickup/6604105?source=rss",
+      "pubDate": "2026-11-26T11:16:05.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -128,14 +136,6 @@
       "title": "[ITmedia Mobile] KDDIがXのデータを活用　通信品質の改善、法人向けサービスに役立てる　個人情報のひもづけはなし",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news076.html",
       "pubDate": "2026-11-26T07:36:00.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "補正予算でガソリン補助継続 政府",
-      "link": "https://news.yahoo.co.jp/pickup/6604071?source=rss",
-      "pubDate": "2026-11-26T07:16:32.000Z"
     },
     {
       "category": "国際",
