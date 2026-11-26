@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-26T00:00:56.604Z",
+  "updatedAt": "2026-11-26T00:15:34.895Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "窓開けリンゴ確保 クマの学習能力",
+      "link": "https://news.yahoo.co.jp/pickup/6604008?source=rss",
+      "pubDate": "2026-11-26T00:04:16.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "中小企業の賃上げ税制 縮小で調整",
       "link": "https://news.yahoo.co.jp/pickup/6604006?source=rss",
       "pubDate": "2026-11-25T23:39:50.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] M&amp;A検討資料など最大数千社分漏えいか　ミロク情報子会社に不正アクセス　役職員の認証情報取得される",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003467/",
+      "pubDate": "2026-11-25T23:35:38.000Z"
     },
     {
       "category": "国際",
@@ -74,14 +90,6 @@
       "pubDate": "2026-11-25T22:00:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] SpaceX、売上の半分以上は「AI関連」　ロケット技術で「発電設備」まで内製化したワケ",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news041.html",
-      "pubDate": "2026-11-25T22:00:00.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -112,6 +120,14 @@
       "title": "3文書 防衛力整備計画の指針判明",
       "link": "https://news.yahoo.co.jp/pickup/6603985?source=rss",
       "pubDate": "2026-11-25T14:12:01.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "キヤノンが2027年Q1に「EOS R7」「EOS R10」後継機を含む多くの新製品を投入？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/2027q1eos-r7eos-r10.html",
+      "pubDate": "2026-11-25T13:22:45.000Z"
     },
     {
       "category": "国内",
@@ -194,6 +210,14 @@
       "pubDate": "2026-11-25T03:02:26.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」は白のピクセルを含むRGBWセンサーを採用？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6rgbw.html",
+      "pubDate": "2026-11-25T02:33:52.000Z"
+    },
+    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -218,12 +242,12 @@
       "pubDate": "2026-11-25T00:55:13.000Z"
     },
     {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "米で鳥インフルに3人感染 WHO",
-      "link": "https://news.yahoo.co.jp/pickup/6603865?source=rss",
-      "pubDate": "2026-11-24T22:54:06.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーが2027年に超ハイエンド機を含む多くのカメラを発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/2027-2.html",
+      "pubDate": "2026-11-24T15:10:00.000Z"
     },
     {
       "category": "IT",
@@ -240,6 +264,22 @@
       "title": "Z世代トレンド 大賞「ドパガキ」",
       "link": "https://news.yahoo.co.jp/pickup/6603814?source=rss",
       "pubDate": "2026-11-24T08:06:50.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "登場が噂されているニコンの新製品のリスト（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/post-1974.html",
+      "pubDate": "2026-11-24T02:15:33.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニー「FE 100-400mm F5.6-8 OSS」は3300万画素までなら優れた性能（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/fe-100-400mm-f56-8-oss-1.html",
+      "pubDate": "2026-11-23T15:07:35.000Z"
     }
   ]
 }
