@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-26T06:15:32.585Z",
+  "updatedAt": "2026-11-26T06:30:42.380Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "もう限界 カナリア諸島に移民殺到",
+      "link": "https://news.yahoo.co.jp/pickup/6604068?source=rss",
+      "pubDate": "2026-11-26T06:27:34.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "香港高層住宅火災1年 遺族の憤り",
+      "link": "https://news.yahoo.co.jp/pickup/6604069?source=rss",
+      "pubDate": "2026-11-26T06:19:56.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "KDDI 米Xとデータ利用で包括契約",
+      "link": "https://news.yahoo.co.jp/pickup/6604066?source=rss",
+      "pubDate": "2026-11-26T06:18:28.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "習近平氏の粛清止まらず 後継者は",
+      "link": "https://news.yahoo.co.jp/pickup/6604044?source=rss",
+      "pubDate": "2026-11-26T06:17:22.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "は虫類やウサギ ペットの防災解説",
+      "link": "https://news.yahoo.co.jp/pickup/6604067?source=rss",
+      "pubDate": "2026-11-26T06:16:40.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -98,14 +138,6 @@
       "pubDate": "2026-11-26T03:16:33.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "香港高層住宅火災1年 遺族の思い",
-      "link": "https://news.yahoo.co.jp/pickup/6604041?source=rss",
-      "pubDate": "2026-11-26T03:15:50.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -154,14 +186,6 @@
       "pubDate": "2026-11-26T02:22:48.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "インドネシアの鉱山浸水 13人死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6604028?source=rss",
-      "pubDate": "2026-11-26T02:10:28.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -192,14 +216,6 @@
       "title": "窓開けリンゴ確保 クマの学習能力",
       "link": "https://news.yahoo.co.jp/pickup/6604008?source=rss",
       "pubDate": "2026-11-26T00:04:16.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "エジプトで複数台事故 30人超死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6604004?source=rss",
-      "pubDate": "2026-11-25T23:29:24.000Z"
     },
     {
       "category": "国内",
@@ -264,22 +280,6 @@
       "title": "琵琶湖水面に大量の水草 漁協嘆き",
       "link": "https://news.yahoo.co.jp/pickup/6603890?source=rss",
       "pubDate": "2026-11-25T01:48:13.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "中国の宇宙船 初の外国人乗組員",
-      "link": "https://news.yahoo.co.jp/pickup/6603886?source=rss",
-      "pubDate": "2026-11-25T01:22:17.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "AI登場「創造性」問い直す機会に",
-      "link": "https://news.yahoo.co.jp/pickup/6603882?source=rss",
-      "pubDate": "2026-11-25T00:55:13.000Z"
     }
   ]
 }
