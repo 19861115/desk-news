@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-26T23:15:34.497Z",
+  "updatedAt": "2026-11-26T23:30:44.451Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "実刑判決 AIとの会話履歴が証拠に",
+      "link": "https://news.yahoo.co.jp/pickup/6604140?source=rss",
+      "pubDate": "2026-11-26T23:28:06.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "ロシア 高市氏との首脳対話認める",
+      "link": "https://news.yahoo.co.jp/pickup/6604138?source=rss",
+      "pubDate": "2026-11-26T23:17:23.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -178,14 +194,6 @@
       "pubDate": "2026-11-26T09:15:50.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "もう限界 カナリア諸島に移民殺到",
-      "link": "https://news.yahoo.co.jp/pickup/6604068?source=rss",
-      "pubDate": "2026-11-26T06:27:34.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -264,14 +272,6 @@
       "title": "中国で短尺ドラマ課金 被害相次ぐ",
       "link": "https://news.yahoo.co.jp/pickup/6603921?source=rss",
       "pubDate": "2026-11-25T05:34:24.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "Microsoft 障害受けコードレッド",
-      "link": "https://news.yahoo.co.jp/pickup/6603903?source=rss",
-      "pubDate": "2026-11-25T03:02:26.000Z"
     },
     {
       "category": "デジカメinfo",
