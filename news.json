@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T03:30:43.745Z",
+  "updatedAt": "2026-11-26T03:45:37.010Z",
   "items": [
     {
       "category": "国際",
@@ -16,6 +16,46 @@
       "title": "香港高層住宅火災1年 遺族の思い",
       "link": "https://news.yahoo.co.jp/pickup/6604041?source=rss",
       "pubDate": "2026-11-26T03:15:50.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] AAEON、Core Ultraシリーズ3を採用した小型設計のエッジPC",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news058.html",
+      "pubDate": "2026-11-26T03:07:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
+      "pubDate": "2026-11-26T03:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] GitHubに「人には見えない隠し文字」　小型AIの操作狙うものも……1億4500万件を調査",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
+      "pubDate": "2026-11-26T03:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] 画面に映り込まず、デスク全体が明るい！　BenQ初のデュアルディスプレイ対応ライト「ScreenBar Max」＆iMac専用「iScreenBar」を試す",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news022.html",
+      "pubDate": "2026-11-26T03:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 旅行会社に残る価値は？　生成AIに「旅の相談」が当たり前の今、業界の生存戦略",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news033.html",
+      "pubDate": "2026-11-26T03:00:00.000Z"
     },
     {
       "category": "国内",
@@ -42,44 +82,12 @@
       "pubDate": "2026-11-26T02:40:18.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「PayPayマネーライト現金化」サービス、PayPay「当社は関与していない」「絶対に利用しないで」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003474/",
-      "pubDate": "2026-11-26T02:27:43.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "若者が注目「フリース」再ブーム",
       "link": "https://news.yahoo.co.jp/pickup/6604026?source=rss",
       "pubDate": "2026-11-26T02:26:05.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定　AI企業間で議論",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003473/",
-      "pubDate": "2026-11-26T02:24:00.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/omds43.html",
-      "pubDate": "2026-11-26T02:22:48.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ソフトバンクが「シンプルスマホ8」発売　AIが詐欺電話を判定、書類のゆがみ補正撮影も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news055.html",
-      "pubDate": "2026-11-26T02:20:00.000Z"
     },
     {
       "category": "国際",
@@ -98,28 +106,12 @@
       "pubDate": "2026-11-26T01:44:40.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 都が育児支援で配った「QUOカードPay」が「使えない」「残高減っている」……委託先への不正アクセスが関係か",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003472/",
-      "pubDate": "2026-11-26T01:32:28.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "野党 文科相の問責案を参院に提出",
       "link": "https://news.yahoo.co.jp/pickup/6604023?source=rss",
       "pubDate": "2026-11-26T01:21:49.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「AQUOS sense11」の価格まとめ　ソフトバンクは2年24円から、IIJmioもMNP特価あり　8000円相当の還元も",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news052.html",
-      "pubDate": "2026-11-26T01:21:00.000Z"
     },
     {
       "category": "経済",
@@ -194,14 +186,6 @@
       "pubDate": "2026-11-25T14:17:26.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "キヤノンが2027年Q1に「EOS R7」「EOS R10」後継機を含む多くの新製品を投入？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027q1eos-r7eos-r10.html",
-      "pubDate": "2026-11-25T13:22:45.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -234,14 +218,6 @@
       "pubDate": "2026-11-25T03:02:26.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」は白のピクセルを含むRGBWセンサーを採用？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6rgbw.html",
-      "pubDate": "2026-11-25T02:33:52.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -264,22 +240,6 @@
       "title": "AI登場「創造性」問い直す機会に",
       "link": "https://news.yahoo.co.jp/pickup/6603882?source=rss",
       "pubDate": "2026-11-25T00:55:13.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーが2027年に超ハイエンド機を含む多くのカメラを発表？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027-2.html",
-      "pubDate": "2026-11-24T15:10:00.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "登場が噂されているニコンの新製品のリスト（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/post-1974.html",
-      "pubDate": "2026-11-24T02:15:33.000Z"
     }
   ]
 }
