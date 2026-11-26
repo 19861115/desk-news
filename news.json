@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T05:00:49.983Z",
+  "updatedAt": "2026-11-26T05:15:32.116Z",
   "items": [
     {
       "category": "経済",
@@ -18,28 +18,52 @@
       "pubDate": "2026-11-26T04:43:40.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] バッファロー、“残量メーター”付き録画用HDDに6TBモデルを追加",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news065.html",
+      "pubDate": "2026-11-26T04:37:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] KDDIとMBS、観客が密集するゴルフ場で安定伝送　「Starlink×5G SAスライシング」で中継映像を配信",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news066.html",
+      "pubDate": "2026-11-26T04:35:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] KDDI、Xのデータ利用で包括契約　通信品質向上や法人向けサービスに活用へ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003480/",
+      "pubDate": "2026-11-26T04:34:25.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] Character.AIのチャット履歴競売に41州とワシントンD.C.が異議　未成年者の約210万アカウント分も対象",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003479/",
+      "pubDate": "2026-11-26T04:32:50.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] MINISFORUM、Core Ultra X7を搭載した高性能ミニデスクトップ「M2 PRO」",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news064.html",
+      "pubDate": "2026-11-26T04:26:00.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
       "title": "ホンダ 逆輸入のアキュラ来月発売",
       "link": "https://news.yahoo.co.jp/pickup/6604052?source=rss",
       "pubDate": "2026-11-26T04:25:06.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 1Passwordに不正アクセス、顧客の氏名など流出　「保管庫は無事」でも残る注意点は",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news054.html",
-      "pubDate": "2026-11-26T04:15:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] ホットペッパーグルメ「席押さえ」好調　テレビCMで苦戦→成功に導いた新施策は？　新規利用者数は「目標比140％」",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news043.html",
-      "pubDate": "2026-11-26T04:00:00.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -56,14 +80,6 @@
       "title": "米国の新関税案 木原氏「遺憾」",
       "link": "https://news.yahoo.co.jp/pickup/6604050?source=rss",
       "pubDate": "2026-11-26T03:49:34.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エグゼクティブ] 自動車整備士の技術に光を　政府がガレージ文化振興へ、大手8社が一堂に「車のアトリエ」",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/26/2000003476/",
-      "pubDate": "2026-11-26T03:39:28.000Z"
     },
     {
       "category": "国際",
@@ -88,22 +104,6 @@
       "title": "富士フイルム「XF50-140mmF2.8II」は小型化されるが引き続きインナーズームを採用？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/xf50-140mmf28ii.html",
       "pubDate": "2026-11-26T03:10:53.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] AAEON、Core Ultraシリーズ3を採用した小型設計のエッジPC",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news058.html",
-      "pubDate": "2026-11-26T03:07:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
-      "pubDate": "2026-11-26T03:00:00.000Z"
     },
     {
       "category": "国内",
