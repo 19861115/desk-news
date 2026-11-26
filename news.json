@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-26T02:30:43.984Z",
+  "updatedAt": "2026-11-26T02:45:32.960Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "ファクトチェック組織 誤情報掲載",
+      "link": "https://news.yahoo.co.jp/pickup/6604032?source=rss",
+      "pubDate": "2026-11-26T02:40:18.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "若者が注目「フリース」再ブーム",
       "link": "https://news.yahoo.co.jp/pickup/6604026?source=rss",
       "pubDate": "2026-11-26T02:26:05.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定　AI企業間で議論",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003473/",
+      "pubDate": "2026-11-26T02:24:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ソフトバンクが「シンプルスマホ8」発売　AIが詐欺電話を判定、書類のゆがみ補正撮影も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news055.html",
+      "pubDate": "2026-11-26T02:20:00.000Z"
     },
     {
       "category": "国際",
@@ -56,22 +80,6 @@
       "title": "[ITmedia News]  脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
       "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
       "pubDate": "2026-11-26T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 【3COINS】880円の「クリアインナーイヤーワイヤードイヤホン：1.2m」　USB Type-Cで接続",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news048.html",
-      "pubDate": "2026-11-26T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 内製化してもリードタイムが縮まらない　コクヨが約150件を自動化した方法",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news023.html",
-      "pubDate": "2026-11-26T00:45:00.000Z"
     },
     {
       "category": "経済",
@@ -256,14 +264,6 @@
       "title": "京王グループ 約1063万件漏えいか",
       "link": "https://news.yahoo.co.jp/pickup/6603825?source=rss",
       "pubDate": "2026-11-24T09:13:58.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "Z世代トレンド 大賞「ドパガキ」",
-      "link": "https://news.yahoo.co.jp/pickup/6603814?source=rss",
-      "pubDate": "2026-11-24T08:06:50.000Z"
     },
     {
       "category": "デジカメinfo",
