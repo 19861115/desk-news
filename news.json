@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-26T00:45:32.515Z",
+  "updatedAt": "2026-11-26T01:00:55.662Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "NVIDIAを格下げ方向で見直し S&amp;P",
+      "link": "https://news.yahoo.co.jp/pickup/6604015?source=rss",
+      "pubDate": "2026-11-26T00:44:56.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -144,14 +152,6 @@
       "title": "パイロット不足 航空の2030年問題",
       "link": "https://news.yahoo.co.jp/pickup/6603979?source=rss",
       "pubDate": "2026-11-25T13:01:50.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "東海テレビに2.4億円所得隠し指摘",
-      "link": "https://news.yahoo.co.jp/pickup/6603974?source=rss",
-      "pubDate": "2026-11-25T12:10:10.000Z"
     },
     {
       "category": "科学",
