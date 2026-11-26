@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-26T07:15:34.036Z",
+  "updatedAt": "2026-11-26T07:30:41.957Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "補正予算でガソリン補助継続 政府",
+      "link": "https://news.yahoo.co.jp/pickup/6604071?source=rss",
+      "pubDate": "2026-11-26T07:16:32.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -216,14 +224,6 @@
       "title": "窓開けリンゴ確保 クマの学習能力",
       "link": "https://news.yahoo.co.jp/pickup/6604008?source=rss",
       "pubDate": "2026-11-26T00:04:16.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "日本語試験の増設を検討 外務省",
-      "link": "https://news.yahoo.co.jp/pickup/6603996?source=rss",
-      "pubDate": "2026-11-25T22:52:44.000Z"
     },
     {
       "category": "デジカメinfo",
