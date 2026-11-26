@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T01:30:43.410Z",
+  "updatedAt": "2026-11-26T01:45:33.087Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,30 @@
       "title": "野党 文科相の問責案を参院に提出",
       "link": "https://news.yahoo.co.jp/pickup/6604023?source=rss",
       "pubDate": "2026-11-26T01:21:49.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「AQUOS sense11」の価格まとめ　ソフトバンクは2年24円から、IIJmioもMNP特価あり　8000円相当の還元も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news052.html",
+      "pubDate": "2026-11-26T01:21:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News]  脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
+      "pubDate": "2026-11-26T01:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 【3COINS】880円の「クリアインナーイヤーワイヤードイヤホン：1.2m」　USB Type-Cで接続",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news048.html",
+      "pubDate": "2026-11-26T01:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -34,22 +58,6 @@
       "pubDate": "2026-11-26T00:35:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「サツドラ」顧客情報22万件流出　委託先サイバーエージェントがデータ誤公開、1年以上気づかず",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003469/",
-      "pubDate": "2026-11-26T00:23:25.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] SpaceXの軌道上データセンター衛星「Starmind」、米FCCが最大100万基を承認",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003468/",
-      "pubDate": "2026-11-26T00:15:54.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -64,14 +72,6 @@
       "title": "中小企業の賃上げ税制 縮小で調整",
       "link": "https://news.yahoo.co.jp/pickup/6604006?source=rss",
       "pubDate": "2026-11-25T23:39:50.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] M&amp;A検討資料など最大数千社分漏えいか　ミロク情報子会社に不正アクセス　役職員の認証情報取得される",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003467/",
-      "pubDate": "2026-11-25T23:35:38.000Z"
     },
     {
       "category": "国際",
