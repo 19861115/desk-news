@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-26T02:45:32.960Z",
+  "updatedAt": "2026-11-26T03:00:52.737Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "問責案受け 文科相「説明尽くす」",
+      "link": "https://news.yahoo.co.jp/pickup/6604038?source=rss",
+      "pubDate": "2026-11-26T02:53:54.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "宇宙DC 米当局が条件付きで認可",
+      "link": "https://news.yahoo.co.jp/pickup/6604033?source=rss",
+      "pubDate": "2026-11-26T02:46:05.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -162,14 +178,6 @@
       "pubDate": "2026-11-25T14:17:26.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "3文書 防衛力整備計画の指針判明",
-      "link": "https://news.yahoo.co.jp/pickup/6603985?source=rss",
-      "pubDate": "2026-11-25T14:12:01.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -256,14 +264,6 @@
       "title": "ソニーが2027年に超ハイエンド機を含む多くのカメラを発表？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/2027-2.html",
       "pubDate": "2026-11-24T15:10:00.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "京王グループ 約1063万件漏えいか",
-      "link": "https://news.yahoo.co.jp/pickup/6603825?source=rss",
-      "pubDate": "2026-11-24T09:13:58.000Z"
     },
     {
       "category": "デジカメinfo",
