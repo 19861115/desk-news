@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-26T09:15:35.324Z",
+  "updatedAt": "2026-11-26T09:30:45.193Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "性的いじめ8158件 文科省が初調査",
+      "link": "https://news.yahoo.co.jp/pickup/6604089?source=rss",
+      "pubDate": "2026-11-26T09:15:50.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -176,14 +184,6 @@
       "title": "富士フイルム「XF50-140mmF2.8II」は小型化されるが引き続きインナーズームを採用？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/xf50-140mmf28ii.html",
       "pubDate": "2026-11-26T03:10:53.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "問責案受け 文科相「説明尽くす」",
-      "link": "https://news.yahoo.co.jp/pickup/6604038?source=rss",
-      "pubDate": "2026-11-26T02:53:54.000Z"
     },
     {
       "category": "IT",
