@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-26T07:00:52.239Z",
+  "updatedAt": "2026-11-26T07:15:34.036Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] バッファロー、10GbEポート×2を備える法人向けNAS「TeraStation WS6010」にラックマウントモデルを追加",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news072.html",
+      "pubDate": "2026-11-26T06:46:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 鉄道運転シミュレーターをマイクロバスに搭載「ライドライブ」　東急テクノシステムが開発",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003492/",
+      "pubDate": "2026-11-26T06:34:12.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "もう限界 カナリア諸島に移民殺到",
       "link": "https://news.yahoo.co.jp/pickup/6604068?source=rss",
       "pubDate": "2026-11-26T06:27:34.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ニトリ、サブウーファーを付属したコンパクト設計のサウンドバー「SBR-31」",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news070.html",
+      "pubDate": "2026-11-26T06:25:00.000Z"
     },
     {
       "category": "国際",
@@ -64,30 +88,6 @@
       "title": "[ITmedia News] アディーレ法律事務所、個人情報約1828件漏えい　氏名や問い合わせ内容など……委託先「メール商人」に不正アクセス",
       "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003484/",
       "pubDate": "2026-11-26T05:31:18.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] KDDI、Xのデータ利用で包括契約　通信品質向上や法人向けサービスに活用へ",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003480/",
-      "pubDate": "2026-11-26T05:11:44.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News]  脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
-      "pubDate": "2026-11-26T05:04:44.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「PayPayマネーライト」現金化サービス出現も、「企画・運営に一切関与していない」とPayPay　利用規約で禁止している",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news067.html",
-      "pubDate": "2026-11-26T04:59:00.000Z"
     },
     {
       "category": "経済",
