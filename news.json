@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-26T07:30:41.957Z",
+  "updatedAt": "2026-11-26T07:45:33.158Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "中部電 不正関わった社員6人処分",
+      "link": "https://news.yahoo.co.jp/pickup/6604080?source=rss",
+      "pubDate": "2026-11-26T07:37:47.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "補正予算でガソリン補助継続 政府",
       "link": "https://news.yahoo.co.jp/pickup/6604071?source=rss",
       "pubDate": "2026-11-26T07:16:32.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ドコモに聞く「新ahamo」の狙い　3段階制と165円値上げ、既存契約者に“40GBリミッター”実装の理由",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news074.html",
+      "pubDate": "2026-11-26T07:09:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
+      "pubDate": "2026-11-26T07:06:43.000Z"
     },
     {
       "category": "ITmedia",
@@ -74,36 +98,12 @@
       "pubDate": "2026-11-26T06:16:40.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 楽天CMOが語る　「企業が伝えたいこと」と「顧客が知りたいこと」は違う――では、どうする？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news060.html",
-      "pubDate": "2026-11-26T06:00:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "ネパール災害3カ月 移転拒む住民",
       "link": "https://news.yahoo.co.jp/pickup/6604063?source=rss",
       "pubDate": "2026-11-26T05:50:53.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] アディーレ法律事務所、個人情報約1828件漏えい　氏名や問い合わせ内容など……委託先「メール商人」に不正アクセス",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003484/",
-      "pubDate": "2026-11-26T05:31:18.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "中部電 不正関わった関係者処分へ",
-      "link": "https://news.yahoo.co.jp/pickup/6604056?source=rss",
-      "pubDate": "2026-11-26T04:57:37.000Z"
     },
     {
       "category": "経済",
