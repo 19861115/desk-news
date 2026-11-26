@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T06:00:52.150Z",
+  "updatedAt": "2026-11-26T06:15:32.585Z",
   "items": [
     {
       "category": "国際",
@@ -8,6 +8,14 @@
       "title": "ネパール災害3カ月 移転拒む住民",
       "link": "https://news.yahoo.co.jp/pickup/6604063?source=rss",
       "pubDate": "2026-11-26T05:50:53.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] アディーレ法律事務所、個人情報約1828件漏えい　氏名や問い合わせ内容など……委託先「メール商人」に不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003484/",
+      "pubDate": "2026-11-26T05:31:18.000Z"
     },
     {
       "category": "ITmedia",
@@ -56,14 +64,6 @@
       "title": "[ITmedia PC USER] バッファロー、“残量メーター”付き録画用HDDに6TBモデルを追加",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news065.html",
       "pubDate": "2026-11-26T04:37:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] KDDIとMBS、観客が密集するゴルフ場で安定伝送　「Starlink×5G SAスライシング」で中継映像を配信",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news066.html",
-      "pubDate": "2026-11-26T04:35:00.000Z"
     },
     {
       "category": "経済",
