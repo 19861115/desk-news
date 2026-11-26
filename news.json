@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-26T02:15:34.050Z",
+  "updatedAt": "2026-11-26T02:30:43.984Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "若者が注目「フリース」再ブーム",
+      "link": "https://news.yahoo.co.jp/pickup/6604026?source=rss",
+      "pubDate": "2026-11-26T02:26:05.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "キヤノンが2027年Q1に「EOS R7」「EOS R10」後継機を含む多くの新製品を投入？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/2027q1eos-r7eos-r10.html",
       "pubDate": "2026-11-25T13:22:45.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "パイロット不足 航空の2030年問題",
-      "link": "https://news.yahoo.co.jp/pickup/6603979?source=rss",
-      "pubDate": "2026-11-25T13:01:50.000Z"
     },
     {
       "category": "科学",
