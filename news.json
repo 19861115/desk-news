@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T23:30:44.451Z",
+  "updatedAt": "2026-11-26T23:45:32.125Z",
   "items": [
     {
       "category": "IT",
@@ -16,6 +16,30 @@
       "title": "ロシア 高市氏との首脳対話認める",
       "link": "https://news.yahoo.co.jp/pickup/6604138?source=rss",
       "pubDate": "2026-11-26T23:17:23.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 「なぜ派遣を選ぶの？」　デリカシーのない上司の“思い込み“は、チームにどれだけ悪影響をもたらすのか",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/27/news026.html",
+      "pubDate": "2026-11-26T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 会社「賃上げしました」社員「それでも生活苦しい」――なぜ？　20年分のデータで暴く「見えない負担」と3つの改革",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/27/news045.html",
+      "pubDate": "2026-11-26T23:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 「コスト削減」の“次”の成果、どう設定する？　ビジネス変革に結び付けるための「期待の中身」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/27/news025.html",
+      "pubDate": "2026-11-26T23:00:00.000Z"
     },
     {
       "category": "経済",
@@ -82,22 +106,6 @@
       "pubDate": "2026-11-26T21:06:20.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] GPU一強に異変！　AIエージェント時代に「CPU復権」、構成比「8対1→1対1」へ接近した事情",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/27/news027.html",
-      "pubDate": "2026-11-26T21:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] AI時代に生き残るのは「高コストなシニア社員」か、それとも「デジタルネイティブな新卒社員」か",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/27/news022.html",
-      "pubDate": "2026-11-26T20:30:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -120,14 +128,6 @@
       "title": "スバル 4車種約18万台リコール",
       "link": "https://news.yahoo.co.jp/pickup/6604115?source=rss",
       "pubDate": "2026-11-26T12:29:02.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 「Amazonブラックフライデー」11月27日から先行セール　iPhone AirやAirPods Pro 3が“今年最安値”で登場",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news085.html",
-      "pubDate": "2026-11-26T12:03:00.000Z"
     },
     {
       "category": "国内",
