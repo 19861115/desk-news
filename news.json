@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-26T10:00:52.244Z",
+  "updatedAt": "2026-11-26T10:15:34.792Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "「夜行新幹線」年末年始に運行へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604098?source=rss",
+      "pubDate": "2026-11-26T10:13:28.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "「ドーパミン」身近に どんな物質",
+      "link": "https://news.yahoo.co.jp/pickup/6604092?source=rss",
+      "pubDate": "2026-11-26T10:04:31.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -210,14 +226,6 @@
       "pubDate": "2026-11-26T02:40:18.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "若者が注目「フリース」再ブーム",
-      "link": "https://news.yahoo.co.jp/pickup/6604026?source=rss",
-      "pubDate": "2026-11-26T02:26:05.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
@@ -248,14 +256,6 @@
       "title": "JAXA 月探査車の試験走行を公開",
       "link": "https://news.yahoo.co.jp/pickup/6603968?source=rss",
       "pubDate": "2026-11-25T11:38:25.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "海遊館 ラッコ4頭を12月から展示",
-      "link": "https://news.yahoo.co.jp/pickup/6603928?source=rss",
-      "pubDate": "2026-11-25T06:58:43.000Z"
     },
     {
       "category": "IT",
