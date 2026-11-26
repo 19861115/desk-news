@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T04:00:52.890Z",
+  "updatedAt": "2026-11-26T04:15:33.938Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,14 @@
       "title": "米国の新関税案 木原氏「遺憾」",
       "link": "https://news.yahoo.co.jp/pickup/6604050?source=rss",
       "pubDate": "2026-11-26T03:49:34.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エグゼクティブ] 自動車整備士の技術に光を　政府がガレージ文化振興へ、大手8社が一堂に「車のアトリエ」",
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2611/26/2000003476/",
+      "pubDate": "2026-11-26T03:39:28.000Z"
     },
     {
       "category": "国際",
@@ -63,14 +71,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia PC USER] 画面に映り込まず、デスク全体が明るい！　BenQ初のデュアルディスプレイ対応ライト「ScreenBar Max」＆iMac専用「iScreenBar」を試す",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news022.html",
-      "pubDate": "2026-11-26T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 旅行会社に残る価値は？　生成AIに「旅の相談」が当たり前の今、業界の生存戦略",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news033.html",
       "pubDate": "2026-11-26T03:00:00.000Z"
     },
     {
