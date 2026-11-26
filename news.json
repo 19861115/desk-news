@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-26T04:30:44.241Z",
+  "updatedAt": "2026-11-26T04:45:32.243Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "アニメとコラボのおせち 多彩に",
+      "link": "https://news.yahoo.co.jp/pickup/6604055?source=rss",
+      "pubDate": "2026-11-26T04:43:40.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +16,22 @@
       "title": "ホンダ 逆輸入のアキュラ来月発売",
       "link": "https://news.yahoo.co.jp/pickup/6604052?source=rss",
       "pubDate": "2026-11-26T04:25:06.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 1Passwordに不正アクセス、顧客の氏名など流出　「保管庫は無事」でも残る注意点は",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news054.html",
+      "pubDate": "2026-11-26T04:15:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] ホットペッパーグルメ「席押さえ」好調　テレビCMで苦戦→成功に導いた新施策は？　新規利用者数は「目標比140％」",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news043.html",
+      "pubDate": "2026-11-26T04:00:00.000Z"
     },
     {
       "category": "デジカメinfo",
@@ -71,22 +95,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia News] 飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解",
       "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
-      "pubDate": "2026-11-26T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] GitHubに「人には見えない隠し文字」　小型AIの操作狙うものも……1億4500万件を調査",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
-      "pubDate": "2026-11-26T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 画面に映り込まず、デスク全体が明るい！　BenQ初のデュアルディスプレイ対応ライト「ScreenBar Max」＆iMac専用「iScreenBar」を試す",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news022.html",
       "pubDate": "2026-11-26T03:00:00.000Z"
     },
     {
@@ -200,14 +208,6 @@
       "title": "日本語試験の増設を検討 外務省",
       "link": "https://news.yahoo.co.jp/pickup/6603996?source=rss",
       "pubDate": "2026-11-25T22:52:44.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "フアン氏の復帰 企業統治に批判",
-      "link": "https://news.yahoo.co.jp/pickup/6603991?source=rss",
-      "pubDate": "2026-11-25T21:15:51.000Z"
     },
     {
       "category": "デジカメinfo",
