@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T09:00:52.158Z",
+  "updatedAt": "2026-11-26T09:15:35.324Z",
   "items": [
     {
       "category": "経済",
@@ -24,6 +24,30 @@
       "title": "井林国交相 企業から違法献金疑い",
       "link": "https://news.yahoo.co.jp/pickup/6604085?source=rss",
       "pubDate": "2026-11-26T08:31:52.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] フォルダブルスマホを折りたたむ時は“異物”がないか確認を――国民生活センターが注意喚起",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news077.html",
+      "pubDate": "2026-11-26T08:30:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 法人向けレンタル「Reboot」、京セラのタフネススマホやモトローラなど7機種を追加",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news079.html",
+      "pubDate": "2026-11-26T08:26:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] エレコム、ショルダーバッグ2モデル発売　ペットボトルと荷物を分けて収納できる専用ポケット搭載",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news073.html",
+      "pubDate": "2026-11-26T07:49:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -56,30 +80,6 @@
       "title": "補正予算でガソリン補助継続 政府",
       "link": "https://news.yahoo.co.jp/pickup/6604071?source=rss",
       "pubDate": "2026-11-26T07:16:32.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ドコモに聞く「新ahamo」の狙い　3段階制と165円値上げ、既存契約者に“40GBリミッター”実装の理由",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news074.html",
-      "pubDate": "2026-11-26T07:09:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
-      "pubDate": "2026-11-26T07:06:43.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] バッファロー、10GbEポート×2を備える法人向けNAS「TeraStation WS6010」にラックマウントモデルを追加",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news072.html",
-      "pubDate": "2026-11-26T06:46:00.000Z"
     },
     {
       "category": "国際",
