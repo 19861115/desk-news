@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-26T04:45:32.243Z",
+  "updatedAt": "2026-11-26T05:00:49.983Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "中部電 不正関わった関係者処分へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604056?source=rss",
+      "pubDate": "2026-11-26T04:57:37.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -176,14 +184,6 @@
       "title": "窓開けリンゴ確保 クマの学習能力",
       "link": "https://news.yahoo.co.jp/pickup/6604008?source=rss",
       "pubDate": "2026-11-26T00:04:16.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "中小企業の賃上げ税制 縮小で調整",
-      "link": "https://news.yahoo.co.jp/pickup/6604006?source=rss",
-      "pubDate": "2026-11-25T23:39:50.000Z"
     },
     {
       "category": "国際",
