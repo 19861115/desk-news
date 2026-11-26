@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-26T01:45:33.087Z",
+  "updatedAt": "2026-11-26T02:00:51.223Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "料理家・辰巳芳子さん死去 101歳",
+      "link": "https://news.yahoo.co.jp/pickup/6604025?source=rss",
+      "pubDate": "2026-11-26T01:44:40.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "JAXA 月探査車の試験走行を公開",
       "link": "https://news.yahoo.co.jp/pickup/6603968?source=rss",
       "pubDate": "2026-11-25T11:38:25.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "国立成育医療研究センターで不正",
-      "link": "https://news.yahoo.co.jp/pickup/6603960?source=rss",
-      "pubDate": "2026-11-25T09:57:33.000Z"
     },
     {
       "category": "科学",
