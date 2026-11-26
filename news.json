@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-26T08:45:33.332Z",
+  "updatedAt": "2026-11-26T09:00:52.158Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "吉野家HD ダチョウ事業を売却",
+      "link": "https://news.yahoo.co.jp/pickup/6604087?source=rss",
+      "pubDate": "2026-11-26T08:44:48.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -208,14 +216,6 @@
       "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/omds43.html",
       "pubDate": "2026-11-26T02:22:48.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "NVIDIAを格下げ方向で見直し S&amp;P",
-      "link": "https://news.yahoo.co.jp/pickup/6604015?source=rss",
-      "pubDate": "2026-11-26T00:44:56.000Z"
     },
     {
       "category": "科学",
