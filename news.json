@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-26T03:15:33.979Z",
+  "updatedAt": "2026-11-26T03:30:43.745Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "露のCS戦場使用巡り EUなど声明",
+      "link": "https://news.yahoo.co.jp/pickup/6604039?source=rss",
+      "pubDate": "2026-11-26T03:16:33.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "香港高層住宅火災1年 遺族の思い",
+      "link": "https://news.yahoo.co.jp/pickup/6604041?source=rss",
+      "pubDate": "2026-11-26T03:15:50.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -170,14 +186,6 @@
       "pubDate": "2026-11-25T21:15:51.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "米 日中やEUなどに新関税を提案",
-      "link": "https://news.yahoo.co.jp/pickup/6603990?source=rss",
-      "pubDate": "2026-11-25T15:17:03.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -208,14 +216,6 @@
       "title": "海遊館 ラッコ4頭を12月から展示",
       "link": "https://news.yahoo.co.jp/pickup/6603928?source=rss",
       "pubDate": "2026-11-25T06:58:43.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "露船撃沈 場所にリビア選ばれた訳",
-      "link": "https://news.yahoo.co.jp/pickup/6603931?source=rss",
-      "pubDate": "2026-11-25T06:32:03.000Z"
     },
     {
       "category": "IT",
