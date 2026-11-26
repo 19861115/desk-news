@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-26T08:30:42.085Z",
+  "updatedAt": "2026-11-26T08:45:33.332Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "不登校の小中学生 最多の35.9万人",
+      "link": "https://news.yahoo.co.jp/pickup/6604086?source=rss",
+      "pubDate": "2026-11-26T08:37:45.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "井林国交相 企業から違法献金疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6604085?source=rss",
+      "pubDate": "2026-11-26T08:31:52.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -192,22 +208,6 @@
       "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/omds43.html",
       "pubDate": "2026-11-26T02:22:48.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "料理家・辰巳芳子さん死去 101歳",
-      "link": "https://news.yahoo.co.jp/pickup/6604025?source=rss",
-      "pubDate": "2026-11-26T01:44:40.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "野党 文科相の問責案を参院に提出",
-      "link": "https://news.yahoo.co.jp/pickup/6604023?source=rss",
-      "pubDate": "2026-11-26T01:21:49.000Z"
     },
     {
       "category": "経済",
