@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-27T08:15:39.644Z",
+  "updatedAt": "2026-11-27T08:30:48.850Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "問責案否決 自民議員も関氏に苦言",
+      "link": "https://news.yahoo.co.jp/pickup/6604205?source=rss",
+      "pubDate": "2026-11-27T08:24:06.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "関東など 朝にかけ大雨になる所も",
+      "link": "https://news.yahoo.co.jp/pickup/6604206?source=rss",
+      "pubDate": "2026-11-27T08:15:34.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -114,14 +130,6 @@
       "pubDate": "2026-11-27T05:38:41.000Z"
     },
     {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "食べ残し持ち帰り 政府が呼びかけ",
-      "link": "https://news.yahoo.co.jp/pickup/6604166?source=rss",
-      "pubDate": "2026-11-27T04:36:49.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -136,14 +144,6 @@
       "title": "AIの果実を国民へ 米台韓で動き",
       "link": "https://news.yahoo.co.jp/pickup/6604165?source=rss",
       "pubDate": "2026-11-27T04:24:22.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "首相 関文科相を続投させる構え",
-      "link": "https://news.yahoo.co.jp/pickup/6604175?source=rss",
-      "pubDate": "2026-11-27T04:23:01.000Z"
     },
     {
       "category": "経済",
