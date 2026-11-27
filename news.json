@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T04:00:49.605Z",
+  "updatedAt": "2026-11-27T04:15:34.495Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,38 @@
       "title": "28日は関東で警報級大雨の恐れ",
       "link": "https://news.yahoo.co.jp/pickup/6604174?source=rss",
       "pubDate": "2026-11-27T03:51:33.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 独自の冷却システム搭載「Xiaomi POCO X8 Pro（8GB＋256GB）」が31％オフの5万4980円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news070.html",
+      "pubDate": "2026-11-27T03:48:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ライカ監修カメラ搭載「Xiaomi 17T Pro」がセールで14％オフの11万9800円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news068.html",
+      "pubDate": "2026-11-27T03:42:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] エントリースマホ「arrows We3（8GB＋128GB）」が21％オフの4万4990円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news067.html",
+      "pubDate": "2026-11-27T03:32:00.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ライカが12月3日に「Q3 43モノクローム」を発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/123q3-43.html",
+      "pubDate": "2026-11-27T03:26:49.000Z"
     },
     {
       "category": "経済",
@@ -40,30 +72,6 @@
       "title": "[ITmedia PC USER] セール中の「Echo Dot（第6世代）」は買いか？　Echo Dot MaxやEcho Timeとの違いは？　スマートホームハブ内蔵＆Alexa+対応の進化点を実機検証",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news056.html",
       "pubDate": "2026-11-27T03:10:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 頑丈ボディーの「arrows Alpha2（8GB＋128GB）」がセールで21％オフの7万5250円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news064.html",
-      "pubDate": "2026-11-27T03:04:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 冬の運動不足解消や本格アウトドアにピッタリ　「Amazfit」のスマートウォッチがおトク！",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news039.html",
-      "pubDate": "2026-11-27T03:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] サブスクの「お試し→自動更新」は客を逃していた？　新規購読者数は「お試し→自動解約」比23％減　140万人で実験",
-      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003503/",
-      "pubDate": "2026-11-27T03:00:00.000Z"
     },
     {
       "category": "国内",
@@ -272,14 +280,6 @@
       "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/omds43.html",
       "pubDate": "2026-11-26T02:22:48.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "キヤノンが2027年Q1に「EOS R7」「EOS R10」後継機を含む多くの新製品を投入？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027q1eos-r7eos-r10.html",
-      "pubDate": "2026-11-25T13:22:45.000Z"
     }
   ]
 }
