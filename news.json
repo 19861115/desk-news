@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-27T09:00:57.699Z",
+  "updatedAt": "2026-11-27T09:15:35.422Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "文科相の問責決議案 紙一重の否決",
+      "link": "https://news.yahoo.co.jp/pickup/6604218?source=rss",
+      "pubDate": "2026-11-27T09:13:14.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "マイナアプリ 旧Ver.に脆弱性",
+      "link": "https://news.yahoo.co.jp/pickup/6604215?source=rss",
+      "pubDate": "2026-11-27T09:12:52.000Z"
+    },
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "韓国の入試不正 前年より69.9%増",
+      "link": "https://news.yahoo.co.jp/pickup/6604213?source=rss",
+      "pubDate": "2026-11-27T09:09:00.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -8,14 +32,6 @@
       "title": "露指示とされる破壊工作 欧州激化",
       "link": "https://news.yahoo.co.jp/pickup/6604208?source=rss",
       "pubDate": "2026-11-27T08:37:30.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "問責案否決 自民議員も関氏に苦言",
-      "link": "https://news.yahoo.co.jp/pickup/6604205?source=rss",
-      "pubDate": "2026-11-27T08:24:06.000Z"
     },
     {
       "category": "国内",
@@ -154,6 +170,14 @@
       "pubDate": "2026-11-27T04:24:22.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ライカが12月3日に「Q3 43モノクローム」を発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/123q3-43.html",
+      "pubDate": "2026-11-27T03:26:49.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -168,6 +192,14 @@
       "title": "「バブみ」メイク 下まぶたがキモ",
       "link": "https://news.yahoo.co.jp/pickup/6604169?source=rss",
       "pubDate": "2026-11-27T03:12:58.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」はIBISの性能が8段分に改善される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6ibis8.html",
+      "pubDate": "2026-11-27T02:18:54.000Z"
     },
     {
       "category": "科学",
@@ -218,14 +250,6 @@
       "pubDate": "2026-11-26T23:17:23.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "製油所で爆発9人負傷 バンコク",
-      "link": "https://news.yahoo.co.jp/pickup/6604135?source=rss",
-      "pubDate": "2026-11-26T22:49:45.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -234,12 +258,28 @@
       "pubDate": "2026-11-26T11:10:56.000Z"
     },
     {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "KDDI 米Xとデータ利用で包括契約",
-      "link": "https://news.yahoo.co.jp/pickup/6604066?source=rss",
-      "pubDate": "2026-11-26T06:18:28.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーが12月1日に何らかの発表を行う？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/121-4.html",
+      "pubDate": "2026-11-26T03:55:15.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「XF50-140mmF2.8II」は小型化されるが引き続きインナーズームを採用？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/xf50-140mmf28ii.html",
+      "pubDate": "2026-11-26T03:10:53.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/omds43.html",
+      "pubDate": "2026-11-26T02:22:48.000Z"
     }
   ]
 }
