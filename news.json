@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-27T06:00:51.679Z",
+  "updatedAt": "2026-11-27T06:15:32.632Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "第3子以降出産で1千万円 自民が案",
+      "link": "https://news.yahoo.co.jp/pickup/6604188?source=rss",
+      "pubDate": "2026-11-27T05:59:41.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 止まらないKARTE漏えい　契約終了後「削除されたはず」のデータ流出相次ぐ　「人的オペレーションと管理の不備」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003517/",
+      "pubDate": "2026-11-27T05:55:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +24,14 @@
       "title": "貨物列車が牛と衝突 巻き込み停車",
       "link": "https://news.yahoo.co.jp/pickup/6604187?source=rss",
       "pubDate": "2026-11-27T05:38:41.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ASUS、計12ボタンを搭載した多機能ゲーミングマウス「ROG Spatha X 65K」",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news077.html",
+      "pubDate": "2026-11-27T05:33:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -42,28 +66,12 @@
       "pubDate": "2026-11-27T04:36:49.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] MCPに新機能「Skills over MCP」登場　ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
-      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003513/",
-      "pubDate": "2026-11-27T04:33:51.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "新種のクラゲ 日本のチームが発見",
       "link": "https://news.yahoo.co.jp/pickup/6604176?source=rss",
       "pubDate": "2026-11-27T04:33:32.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] Steamで各社がブラックフライデーを開催中！　10周年の「Steamアワード」もノミネート受付スタート",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news072.html",
-      "pubDate": "2026-11-27T04:30:00.000Z"
     },
     {
       "category": "IT",
@@ -128,14 +136,6 @@
       "title": "富士フイルム「X-T6」はIBISの性能が8段分に改善される？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/x-t6ibis8.html",
       "pubDate": "2026-11-27T02:18:54.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "神崎武法・元公明党代表が死去",
-      "link": "https://news.yahoo.co.jp/pickup/6604157?source=rss",
-      "pubDate": "2026-11-27T01:45:48.000Z"
     },
     {
       "category": "経済",
