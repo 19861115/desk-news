@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T00:30:45.611Z",
+  "updatedAt": "2026-11-27T00:45:39.304Z",
   "items": [
     {
       "category": "国内",
@@ -8,6 +8,14 @@
       "title": "関氏「問責決議案」3つのシナリオ",
       "link": "https://news.yahoo.co.jp/pickup/6604141?source=rss",
       "pubDate": "2026-11-27T00:20:48.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 文部科学省の入札システムに不正アクセス　最大16万件漏えいか",
+      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003508/",
+      "pubDate": "2026-11-27T00:08:04.000Z"
     },
     {
       "category": "国内",
@@ -96,14 +104,6 @@
       "title": "製油所で爆発9人負傷 バンコク",
       "link": "https://news.yahoo.co.jp/pickup/6604135?source=rss",
       "pubDate": "2026-11-26T22:49:45.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] X、「ペアレンタルコントロール」を導入　メッセージ内容は見られず",
-      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003506/",
-      "pubDate": "2026-11-26T22:25:54.000Z"
     },
     {
       "category": "経済",
@@ -226,22 +226,6 @@
       "pubDate": "2026-11-26T06:16:40.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーが12月1日に何らかの発表を行う？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/121-4.html",
-      "pubDate": "2026-11-26T03:55:15.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「XF50-140mmF2.8II」は小型化されるが引き続きインナーズームを採用？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/xf50-140mmf28ii.html",
-      "pubDate": "2026-11-26T03:10:53.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -256,30 +240,6 @@
       "title": "ファクトチェック組織 誤情報掲載",
       "link": "https://news.yahoo.co.jp/pickup/6604032?source=rss",
       "pubDate": "2026-11-26T02:40:18.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/omds43.html",
-      "pubDate": "2026-11-26T02:22:48.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "キヤノンが2027年Q1に「EOS R7」「EOS R10」後継機を含む多くの新製品を投入？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027q1eos-r7eos-r10.html",
-      "pubDate": "2026-11-25T13:22:45.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」は白のピクセルを含むRGBWセンサーを採用？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6rgbw.html",
-      "pubDate": "2026-11-25T02:33:52.000Z"
     }
   ]
 }
