@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-27T07:30:44.916Z",
+  "updatedAt": "2026-11-27T07:45:32.655Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "タイ邦人殺害19年 来年11月時効",
+      "link": "https://news.yahoo.co.jp/pickup/6604195?source=rss",
+      "pubDate": "2026-11-27T07:31:46.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 「AI関連の需要強い」京セラ　5年で設備投資9000億円、データセンター需要狙う",
+      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003521/",
+      "pubDate": "2026-11-27T07:19:56.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] XYZA、何度も自由に描き替え可能なカラーE Ink搭載スマートキーホルダー",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news083.html",
+      "pubDate": "2026-11-27T06:59:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -48,22 +72,6 @@
       "title": "[ITmedia Mobile] 初期iPhoneは「携帯電話としてあり得ない」と思った　ガングロギャルが教えてくれた“技術普及の絶対条件”",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news079.html",
       "pubDate": "2026-11-27T06:22:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] AI時代は「技術を隠す」戦略が通用しない？　営業秘密の限界と知財戦略の転換",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/27/news043.html",
-      "pubDate": "2026-11-27T06:15:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 京セラ「設備投資9000億円の8割」をAI部品へ集中　社長が語った狙いは？",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news082.html",
-      "pubDate": "2026-11-27T06:15:00.000Z"
     },
     {
       "category": "国内",
@@ -122,14 +130,6 @@
       "pubDate": "2026-11-27T03:51:33.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ライカが12月3日に「Q3 43モノクローム」を発表？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/123q3-43.html",
-      "pubDate": "2026-11-27T03:26:49.000Z"
-    },
-    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -152,14 +152,6 @@
       "title": "関文科相の問責決議案 否決",
       "link": "https://news.yahoo.co.jp/pickup/6604161?source=rss",
       "pubDate": "2026-11-27T02:40:11.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」はIBISの性能が8段分に改善される？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6ibis8.html",
-      "pubDate": "2026-11-27T02:18:54.000Z"
     },
     {
       "category": "経済",
@@ -234,14 +226,6 @@
       "pubDate": "2026-11-26T21:06:20.000Z"
     },
     {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "北朝鮮が露軍事支援停止か ウ発表",
-      "link": "https://news.yahoo.co.jp/pickup/6604122?source=rss",
-      "pubDate": "2026-11-26T14:22:48.000Z"
-    },
-    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
@@ -256,30 +240,6 @@
       "title": "KDDI 米Xとデータ利用で包括契約",
       "link": "https://news.yahoo.co.jp/pickup/6604066?source=rss",
       "pubDate": "2026-11-26T06:18:28.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーが12月1日に何らかの発表を行う？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/121-4.html",
-      "pubDate": "2026-11-26T03:55:15.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「XF50-140mmF2.8II」は小型化されるが引き続きインナーズームを採用？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/xf50-140mmf28ii.html",
-      "pubDate": "2026-11-26T03:10:53.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/omds43.html",
-      "pubDate": "2026-11-26T02:22:48.000Z"
     }
   ]
 }
