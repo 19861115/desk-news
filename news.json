@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-27T05:00:53.446Z",
+  "updatedAt": "2026-11-27T05:15:34.980Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 聴覚障害の社員にスマートグラス支給　会話をリアルタイムに文字表示　ソフトバンク、連携アプリも独自開発",
+      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003516/",
+      "pubDate": "2026-11-27T04:41:50.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -10,12 +18,28 @@
       "pubDate": "2026-11-27T04:36:49.000Z"
     },
     {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] MCPに新機能「Skills over MCP」登場　ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003513/",
+      "pubDate": "2026-11-27T04:33:51.000Z"
+    },
+    {
       "category": "科学",
       "group": "ニュース",
       "badgeClass": "badge-science",
       "title": "新種のクラゲ 日本のチームが発見",
       "link": "https://news.yahoo.co.jp/pickup/6604176?source=rss",
       "pubDate": "2026-11-27T04:33:32.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] Steamで各社がブラックフライデーを開催中！　10周年の「Steamアワード」もノミネート受付スタート",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news072.html",
+      "pubDate": "2026-11-27T04:30:00.000Z"
     },
     {
       "category": "IT",
@@ -37,33 +61,17 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] ASUS、手のひらサイズ筐体を採用したCore Ultra搭載ミニデスクトップ「ASUS NUC」2シリーズを発売",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news074.html",
+      "pubDate": "2026-11-27T04:20:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia Mobile] Nothingが最大40％オフの「ブラックフライデーセール」開催　スマホ、イヤフォン、ウォッチがお得に",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news063.html",
       "pubDate": "2026-11-27T04:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 部屋の乾燥対策、スマホアプリで操作できるスマート加湿器は便利なのか？",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news071.html",
-      "pubDate": "2026-11-27T04:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] AMDが10年選手のSocket AM4向けに“新型”CPU「Ryzen 5 5500F」を投入　ボックス版は約1.7万円",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news069.html",
-      "pubDate": "2026-11-27T04:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 1万mAh大容量バッテリー搭載の「REDMI Note 17 Pro Max 5G」が17％オフの6万6481円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news071.html",
-      "pubDate": "2026-11-27T03:55:00.000Z"
     },
     {
       "category": "国内",
@@ -72,22 +80,6 @@
       "title": "28日は関東で警報級大雨の恐れ",
       "link": "https://news.yahoo.co.jp/pickup/6604174?source=rss",
       "pubDate": "2026-11-27T03:51:33.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 独自の冷却システム搭載「Xiaomi POCO X8 Pro（8GB＋256GB）」が31％オフの5万4980円に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news070.html",
-      "pubDate": "2026-11-27T03:48:00.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ライカが12月3日に「Q3 43モノクローム」を発表？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/123q3-43.html",
-      "pubDate": "2026-11-27T03:26:49.000Z"
     },
     {
       "category": "経済",
@@ -112,14 +104,6 @@
       "title": "関文科相の問責決議案 否決",
       "link": "https://news.yahoo.co.jp/pickup/6604161?source=rss",
       "pubDate": "2026-11-27T02:40:11.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」はIBISの性能が8段分に改善される？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6ibis8.html",
-      "pubDate": "2026-11-27T02:18:54.000Z"
     },
     {
       "category": "国内",
@@ -250,36 +234,12 @@
       "pubDate": "2026-11-26T06:18:28.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーが12月1日に何らかの発表を行う？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/121-4.html",
-      "pubDate": "2026-11-26T03:55:15.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「XF50-140mmF2.8II」は小型化されるが引き続きインナーズームを採用？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/xf50-140mmf28ii.html",
-      "pubDate": "2026-11-26T03:10:53.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "宇宙DC 米当局が条件付きで認可",
       "link": "https://news.yahoo.co.jp/pickup/6604033?source=rss",
       "pubDate": "2026-11-26T02:46:05.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/omds43.html",
-      "pubDate": "2026-11-26T02:22:48.000Z"
     }
   ]
 }
