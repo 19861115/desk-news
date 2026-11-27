@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-27T03:15:31.887Z",
+  "updatedAt": "2026-11-27T03:30:44.938Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "マック 休止の新チキン商品再開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604171?source=rss",
+      "pubDate": "2026-11-27T03:20:40.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -32,6 +40,14 @@
       "title": "[ITmedia News] JAXA宇宙飛行士、5年ぶり募集へ　月面探査を担う人材育成",
       "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003512/",
       "pubDate": "2026-11-27T02:21:41.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」はIBISの性能が8段分に改善される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6ibis8.html",
+      "pubDate": "2026-11-27T02:18:54.000Z"
     },
     {
       "category": "ITmedia",
@@ -154,14 +170,6 @@
       "pubDate": "2026-11-26T21:56:12.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "アメ横周辺の道に机 営業停止処分",
-      "link": "https://news.yahoo.co.jp/pickup/6604126?source=rss",
-      "pubDate": "2026-11-26T21:20:31.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -272,14 +280,6 @@
       "title": "キヤノンが2027年Q1に「EOS R7」「EOS R10」後継機を含む多くの新製品を投入？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/2027q1eos-r7eos-r10.html",
       "pubDate": "2026-11-25T13:22:45.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」は白のピクセルを含むRGBWセンサーを採用？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6rgbw.html",
-      "pubDate": "2026-11-25T02:33:52.000Z"
     }
   ]
 }
