@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-27T01:45:38.223Z",
+  "updatedAt": "2026-11-27T02:00:52.510Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "神崎武法・元公明党代表が死去",
+      "link": "https://news.yahoo.co.jp/pickup/6604157?source=rss",
+      "pubDate": "2026-11-27T01:45:48.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -208,14 +216,6 @@
       "title": "「ドーパミン」身近に どんな物質",
       "link": "https://news.yahoo.co.jp/pickup/6604092?source=rss",
       "pubDate": "2026-11-26T10:04:31.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "治療目的の不適切入国 規制強化案",
-      "link": "https://news.yahoo.co.jp/pickup/6604095?source=rss",
-      "pubDate": "2026-11-26T09:30:07.000Z"
     },
     {
       "category": "IT",
