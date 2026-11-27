@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-27T01:00:53.608Z",
+  "updatedAt": "2026-11-27T01:15:33.702Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] 航空会社Peach、「KARTE」から最大約944万件の顧客情報漏えい　契約終了後も削除されず残存",
+      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003509/",
+      "pubDate": "2026-11-27T00:55:22.000Z"
+    },
     {
       "category": "科学",
       "group": "ニュース",
@@ -87,14 +95,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] 会社「賃上げしました」社員「それでも生活苦しい」――なぜ？　20年分のデータで暴く「見えない負担」と3つの改革",
       "link": "https://www.itmedia.co.jp/business/articles/2611/27/news045.html",
-      "pubDate": "2026-11-26T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] 「コスト削減」の“次”の成果、どう設定する？　ビジネス変革に結び付けるための「期待の中身」",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/27/news025.html",
       "pubDate": "2026-11-26T23:00:00.000Z"
     },
     {
