@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-27T01:15:33.702Z",
+  "updatedAt": "2026-11-27T01:30:43.055Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "子供の遊び場設置で売上増も 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6604150?source=rss",
+      "pubDate": "2026-11-27T01:18:50.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "絶滅危惧種ペンギン 人工授精成功",
+      "link": "https://news.yahoo.co.jp/pickup/6604156?source=rss",
+      "pubDate": "2026-11-27T01:17:35.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -154,14 +170,6 @@
       "pubDate": "2026-11-26T14:17:58.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "スバル 4車種約18万台リコール",
-      "link": "https://news.yahoo.co.jp/pickup/6604115?source=rss",
-      "pubDate": "2026-11-26T12:29:02.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
@@ -200,14 +208,6 @@
       "title": "「ドーパミン」身近に どんな物質",
       "link": "https://news.yahoo.co.jp/pickup/6604092?source=rss",
       "pubDate": "2026-11-26T10:04:31.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "大雪停電で200匹死ぬ 水族館思い",
-      "link": "https://news.yahoo.co.jp/pickup/6604094?source=rss",
-      "pubDate": "2026-11-26T09:40:42.000Z"
     },
     {
       "category": "国内",
