@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-27T06:45:35.497Z",
+  "updatedAt": "2026-11-27T07:00:50.627Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "熊本ふっこう応援割 第2弾実施へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604192?source=rss",
+      "pubDate": "2026-11-27T06:53:26.000Z"
+    },
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "新INFOBAR 日本の若者に刺さるか",
+      "link": "https://news.yahoo.co.jp/pickup/6604193?source=rss",
+      "pubDate": "2026-11-27T06:51:08.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -202,14 +218,6 @@
       "pubDate": "2026-11-26T23:17:23.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "JTなど 英たばこ大手買収検討か",
-      "link": "https://news.yahoo.co.jp/pickup/6604136?source=rss",
-      "pubDate": "2026-11-26T22:56:24.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -264,14 +272,6 @@
       "title": "富士フイルム「XF50-140mmF2.8II」は小型化されるが引き続きインナーズームを採用？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/xf50-140mmf28ii.html",
       "pubDate": "2026-11-26T03:10:53.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "宇宙DC 米当局が条件付きで認可",
-      "link": "https://news.yahoo.co.jp/pickup/6604033?source=rss",
-      "pubDate": "2026-11-26T02:46:05.000Z"
     },
     {
       "category": "デジカメinfo",
