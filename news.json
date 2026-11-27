@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-27T03:00:55.405Z",
+  "updatedAt": "2026-11-27T03:15:31.887Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "「バブみ」メイク 下まぶたがキモ",
+      "link": "https://news.yahoo.co.jp/pickup/6604169?source=rss",
+      "pubDate": "2026-11-27T03:12:58.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -8,6 +16,14 @@
       "title": "関文科相の問責決議案 否決",
       "link": "https://news.yahoo.co.jp/pickup/6604161?source=rss",
       "pubDate": "2026-11-27T02:40:11.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 「Xiaomi 18 Pro／18 Pro Max」投入の狙い　なぜMaxのみFeliCa？　ただの飛び道具ではない背面ディスプレイ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news062.html",
+      "pubDate": "2026-11-27T02:37:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -24,6 +40,14 @@
       "title": "[ITmedia エンタープライズ] 退会者の免許証がなぜ7年残る？　漏えいが問う“データの持ち方”",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2611/27/news030.html",
       "pubDate": "2026-11-27T02:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] AIリスク監査の実施、わずか5.7％　内部監査が追い付かない「もう一つのリスク」とは？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news037.html",
+      "pubDate": "2026-11-27T01:50:00.000Z"
     },
     {
       "category": "国内",
@@ -56,22 +80,6 @@
       "title": "絶滅危惧種ペンギン 人工授精成功",
       "link": "https://news.yahoo.co.jp/pickup/6604156?source=rss",
       "pubDate": "2026-11-27T01:17:35.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 中古「Apple Watch Series 10」、楽天市場で約4.2万円で販売中",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news048.html",
-      "pubDate": "2026-11-27T01:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 航空会社Peach、「KARTE」から最大約944万件の顧客情報漏えい　契約終了後も削除されず残存",
-      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003509/",
-      "pubDate": "2026-11-27T00:55:22.000Z"
     },
     {
       "category": "科学",
@@ -168,14 +176,6 @@
       "title": "北朝鮮が露軍事支援停止か ウ発表",
       "link": "https://news.yahoo.co.jp/pickup/6604122?source=rss",
       "pubDate": "2026-11-26T14:22:48.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "年末年始の「夜行新幹線」続々",
-      "link": "https://news.yahoo.co.jp/pickup/6604121?source=rss",
-      "pubDate": "2026-11-26T14:17:58.000Z"
     },
     {
       "category": "国内",
