@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-27T07:45:32.655Z",
+  "updatedAt": "2026-11-27T08:00:54.619Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "「負動産」有料引き取り広がる",
+      "link": "https://news.yahoo.co.jp/pickup/6604200?source=rss",
+      "pubDate": "2026-11-27T07:49:09.000Z"
+    },
     {
       "category": "国際",
       "group": "ニュース",
@@ -152,14 +160,6 @@
       "title": "関文科相の問責決議案 否決",
       "link": "https://news.yahoo.co.jp/pickup/6604161?source=rss",
       "pubDate": "2026-11-27T02:40:11.000Z"
-    },
-    {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "子供の遊び場設置で売上増も 背景",
-      "link": "https://news.yahoo.co.jp/pickup/6604150?source=rss",
-      "pubDate": "2026-11-27T01:18:50.000Z"
     },
     {
       "category": "科学",
