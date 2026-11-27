@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-27T00:00:52.985Z",
+  "updatedAt": "2026-11-27T00:15:35.036Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "ネットいじめ 初めて3万件超える",
+      "link": "https://news.yahoo.co.jp/pickup/6604145?source=rss",
+      "pubDate": "2026-11-27T00:02:40.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -16,6 +24,14 @@
       "title": "国内絶滅危惧のラン 新たな自生地",
       "link": "https://news.yahoo.co.jp/pickup/6604144?source=rss",
       "pubDate": "2026-11-26T23:57:11.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] SpaceXとマスク氏、米国の子どもに自社株を計2株ずつ贈与へ　トランプ政権の「Trump Account」経由で",
+      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003507/",
+      "pubDate": "2026-11-26T23:52:03.000Z"
     },
     {
       "category": "IT",
@@ -88,14 +104,6 @@
       "title": "[ITmedia News] X、「ペアレンタルコントロール」を導入　メッセージ内容は見られず",
       "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003506/",
       "pubDate": "2026-11-26T22:25:54.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] ChatGPTは6割使うのに、なぜ内製AIは「みんな使わない」のか？　ひろぎんHDが直面した企業文化の壁",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/27/news018.html",
-      "pubDate": "2026-11-26T22:00:00.000Z"
     },
     {
       "category": "経済",
@@ -200,14 +208,6 @@
       "title": "治療目的の不適切入国 規制強化案",
       "link": "https://news.yahoo.co.jp/pickup/6604095?source=rss",
       "pubDate": "2026-11-26T09:30:07.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "性的いじめ8158件 文科省が初調査",
-      "link": "https://news.yahoo.co.jp/pickup/6604089?source=rss",
-      "pubDate": "2026-11-26T09:15:50.000Z"
     },
     {
       "category": "IT",
