@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-27T10:30:47.332Z",
+  "updatedAt": "2026-11-27T10:45:33.597Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "ふるさと納税仲介料上限 政府検討",
+      "link": "https://news.yahoo.co.jp/pickup/6604225?source=rss",
+      "pubDate": "2026-11-27T10:41:27.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "防衛省がAI活用新指針 3つの課題",
+      "link": "https://news.yahoo.co.jp/pickup/6604211?source=rss",
+      "pubDate": "2026-11-27T10:33:40.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "神崎武法さん死去 語ったCM内幕",
+      "link": "https://news.yahoo.co.jp/pickup/6604224?source=rss",
+      "pubDate": "2026-11-27T10:32:28.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ブラックフライデーで安く買えるGalaxy製品は？　S26 UltraやZ Fold8 Ultra、Galaxy Tabの注目モデルと選び方",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news091.html",
+      "pubDate": "2026-11-27T10:15:00.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -32,6 +64,14 @@
       "title": "[ITmedia Mobile] 7000mAhバッテリー搭載の「OPPO Reno15 A（8GB＋128GB）」が19％オフの5万2633円に",
       "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news088.html",
       "pubDate": "2026-11-27T09:37:00.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ニコン「D850」の生産終了が販売店に通知（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/d850-20.html",
+      "pubDate": "2026-11-27T09:35:02.000Z"
     },
     {
       "category": "ITmedia",
@@ -74,44 +114,12 @@
       "pubDate": "2026-11-27T09:09:00.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ベルキン、iPhone 18 Proシリーズ対応アクセサリー他50製品以上が最大38％オフ：Amazonブラックフライデー",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news085.html",
-      "pubDate": "2026-11-27T08:55:00.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "露指示とされる破壊工作 欧州激化",
       "link": "https://news.yahoo.co.jp/pickup/6604208?source=rss",
       "pubDate": "2026-11-27T08:37:30.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "関東など 朝にかけ大雨になる所も",
-      "link": "https://news.yahoo.co.jp/pickup/6604206?source=rss",
-      "pubDate": "2026-11-27T08:15:34.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "神崎武法さんが死去 選挙CM話題",
-      "link": "https://news.yahoo.co.jp/pickup/6604203?source=rss",
-      "pubDate": "2026-11-27T08:08:59.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "政府 防災の「国家戦略」を初策定",
-      "link": "https://news.yahoo.co.jp/pickup/6604199?source=rss",
-      "pubDate": "2026-11-27T08:06:09.000Z"
     },
     {
       "category": "経済",
@@ -272,14 +280,6 @@
       "title": "富士フイルム「XF50-140mmF2.8II」は小型化されるが引き続きインナーズームを採用？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/xf50-140mmf28ii.html",
       "pubDate": "2026-11-26T03:10:53.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/omds43.html",
-      "pubDate": "2026-11-26T02:22:48.000Z"
     }
   ]
 }
