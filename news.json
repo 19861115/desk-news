@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T01:30:43.055Z",
+  "updatedAt": "2026-11-27T01:45:38.223Z",
   "items": [
     {
       "category": "経済",
@@ -16,6 +16,14 @@
       "title": "絶滅危惧種ペンギン 人工授精成功",
       "link": "https://news.yahoo.co.jp/pickup/6604156?source=rss",
       "pubDate": "2026-11-27T01:17:35.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 中古「Apple Watch Series 10」、楽天市場で約4.2万円で販売中",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news048.html",
+      "pubDate": "2026-11-27T01:00:00.000Z"
     },
     {
       "category": "ITmedia",
@@ -103,14 +111,6 @@
       "badgeClass": "badge-itmedia",
       "title": "[ITmedia ビジネスオンライン] 「なぜ派遣を選ぶの？」　デリカシーのない上司の“思い込み“は、チームにどれだけ悪影響をもたらすのか",
       "link": "https://www.itmedia.co.jp/business/articles/2611/27/news026.html",
-      "pubDate": "2026-11-26T23:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia ビジネスオンライン] 会社「賃上げしました」社員「それでも生活苦しい」――なぜ？　20年分のデータで暴く「見えない負担」と3つの改革",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/27/news045.html",
       "pubDate": "2026-11-26T23:00:00.000Z"
     },
     {
@@ -226,22 +226,6 @@
       "pubDate": "2026-11-26T06:18:28.000Z"
     },
     {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "ソニーが12月1日に何らかの発表を行う？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/121-4.html",
-      "pubDate": "2026-11-26T03:55:15.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「XF50-140mmF2.8II」は小型化されるが引き続きインナーズームを採用？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/xf50-140mmf28ii.html",
-      "pubDate": "2026-11-26T03:10:53.000Z"
-    },
-    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
@@ -256,30 +240,6 @@
       "title": "ファクトチェック組織 誤情報掲載",
       "link": "https://news.yahoo.co.jp/pickup/6604032?source=rss",
       "pubDate": "2026-11-26T02:40:18.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/omds43.html",
-      "pubDate": "2026-11-26T02:22:48.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "キヤノンが2027年Q1に「EOS R7」「EOS R10」後継機を含む多くの新製品を投入？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/2027q1eos-r7eos-r10.html",
-      "pubDate": "2026-11-25T13:22:45.000Z"
-    },
-    {
-      "category": "デジカメinfo",
-      "group": "カメラ・ホビー",
-      "badgeClass": "badge-camera",
-      "title": "富士フイルム「X-T6」は白のピクセルを含むRGBWセンサーを採用？（デジカメinfo）",
-      "link": "https://digicame-info.com/2026/11/x-t6rgbw.html",
-      "pubDate": "2026-11-25T02:33:52.000Z"
     }
   ]
 }
