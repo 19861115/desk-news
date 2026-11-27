@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-26T23:45:32.125Z",
+  "updatedAt": "2026-11-27T00:00:52.985Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "「ひとり情シス」役場職員の不安",
+      "link": "https://news.yahoo.co.jp/pickup/6604146?source=rss",
+      "pubDate": "2026-11-26T23:57:20.000Z"
+    },
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "国内絶滅危惧のラン 新たな自生地",
+      "link": "https://news.yahoo.co.jp/pickup/6604144?source=rss",
+      "pubDate": "2026-11-26T23:57:11.000Z"
+    },
     {
       "category": "IT",
       "group": "ニュース",
@@ -250,28 +266,12 @@
       "pubDate": "2026-11-26T02:22:48.000Z"
     },
     {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "窓開けリンゴ確保 クマの学習能力",
-      "link": "https://news.yahoo.co.jp/pickup/6604008?source=rss",
-      "pubDate": "2026-11-26T00:04:16.000Z"
-    },
-    {
       "category": "デジカメinfo",
       "group": "カメラ・ホビー",
       "badgeClass": "badge-camera",
       "title": "キヤノンが2027年Q1に「EOS R7」「EOS R10」後継機を含む多くの新製品を投入？（デジカメinfo）",
       "link": "https://digicame-info.com/2026/11/2027q1eos-r7eos-r10.html",
       "pubDate": "2026-11-25T13:22:45.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "中国で短尺ドラマ課金 被害相次ぐ",
-      "link": "https://news.yahoo.co.jp/pickup/6603921?source=rss",
-      "pubDate": "2026-11-25T05:34:24.000Z"
     },
     {
       "category": "デジカメinfo",
