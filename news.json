@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-27T11:15:35.036Z",
+  "updatedAt": "2026-11-27T11:30:46.938Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "新種のクラゲ 不老不死能力持つ?",
+      "link": "https://news.yahoo.co.jp/pickup/6604231?source=rss",
+      "pubDate": "2026-11-27T11:18:38.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -160,14 +168,6 @@
       "title": "インド最大野党 メタと政府を提訴",
       "link": "https://news.yahoo.co.jp/pickup/6604190?source=rss",
       "pubDate": "2026-11-27T06:23:19.000Z"
-    },
-    {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "新種のクラゲ 日本のチームが発見",
-      "link": "https://news.yahoo.co.jp/pickup/6604176?source=rss",
-      "pubDate": "2026-11-27T04:33:32.000Z"
     },
     {
       "category": "IT",
