@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-27T03:45:33.235Z",
+  "updatedAt": "2026-11-27T04:00:49.605Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "28日は関東で警報級大雨の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6604174?source=rss",
+      "pubDate": "2026-11-27T03:51:33.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -200,14 +208,6 @@
       "title": "中国 アメリカの新関税案に反発",
       "link": "https://news.yahoo.co.jp/pickup/6604107?source=rss",
       "pubDate": "2026-11-26T11:37:31.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "獨協大「イブニング入試」狙いは",
-      "link": "https://news.yahoo.co.jp/pickup/6604105?source=rss",
-      "pubDate": "2026-11-26T11:16:05.000Z"
     },
     {
       "category": "科学",
