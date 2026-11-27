@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-27T02:30:43.850Z",
+  "updatedAt": "2026-11-27T02:45:32.774Z",
   "items": [
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "関文科相の問責決議案 否決",
+      "link": "https://news.yahoo.co.jp/pickup/6604161?source=rss",
+      "pubDate": "2026-11-27T02:40:11.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia News] JAXA宇宙飛行士、5年ぶり募集へ　月面探査を担う人材育成",
+      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003512/",
+      "pubDate": "2026-11-27T02:21:41.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] 退会者の免許証がなぜ7年残る？　漏えいが問う“データの持ち方”",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/27/news030.html",
+      "pubDate": "2026-11-27T02:00:00.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -61,22 +85,6 @@
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
-      "title": "関氏「問責決議案」3つのシナリオ",
-      "link": "https://news.yahoo.co.jp/pickup/6604141?source=rss",
-      "pubDate": "2026-11-27T00:20:48.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 文部科学省の入札システムに不正アクセス　最大16万件漏えいか",
-      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003508/",
-      "pubDate": "2026-11-27T00:08:04.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
       "title": "ネットいじめ 初めて3万件超える",
       "link": "https://news.yahoo.co.jp/pickup/6604145?source=rss",
       "pubDate": "2026-11-27T00:02:40.000Z"
@@ -96,14 +104,6 @@
       "title": "国内絶滅危惧のラン 新たな自生地",
       "link": "https://news.yahoo.co.jp/pickup/6604144?source=rss",
       "pubDate": "2026-11-26T23:57:11.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] SpaceXとマスク氏、米国の子どもに自社株を計2株ずつ贈与へ　トランプ政権の「Trump Account」経由で",
-      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003507/",
-      "pubDate": "2026-11-26T23:52:03.000Z"
     },
     {
       "category": "IT",
