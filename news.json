@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-27T10:00:56.033Z",
+  "updatedAt": "2026-11-27T10:15:32.769Z",
   "items": [
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 12GBメモリ＋7000mAhバッテリー搭載「motorola edge 70 fusion」が13％オフの6万2820円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news090.html",
+      "pubDate": "2026-11-27T09:51:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ブラックフライデーで安くなっているApple製品まとめ　iPhone Airは23％オフの14万5900円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news087.html",
+      "pubDate": "2026-11-27T09:40:00.000Z"
+    },
     {
       "category": "経済",
       "group": "ニュース",
@@ -8,6 +24,22 @@
       "title": "GMO サイバー攻撃防ぐ構想発表",
       "link": "https://news.yahoo.co.jp/pickup/6604216?source=rss",
       "pubDate": "2026-11-27T09:37:15.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 7000mAhバッテリー搭載の「OPPO Reno15 A（8GB＋128GB）」が19％オフの5万2633円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news088.html",
+      "pubDate": "2026-11-27T09:37:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 光学10倍超望遠や2億画素カメラ搭載の「OPPO Find X9 Ultra」が24％オフの20万9800円に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news086.html",
+      "pubDate": "2026-11-27T09:31:00.000Z"
     },
     {
       "category": "国内",
@@ -90,44 +122,12 @@
       "pubDate": "2026-11-27T07:49:09.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 顧客情報を守るため、売上15％の自社ECを閉店　ドールメーカーが明かした「決断」の背景",
-      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003518/",
-      "pubDate": "2026-11-27T07:47:38.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
       "title": "タイ邦人殺害19年 来年11月時効",
       "link": "https://news.yahoo.co.jp/pickup/6604195?source=rss",
       "pubDate": "2026-11-27T07:31:46.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 「AI関連の需要強い」京セラ　5年で設備投資9000億円、データセンター需要狙う",
-      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003521/",
-      "pubDate": "2026-11-27T07:19:56.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] ソフトバンクの「AQUOS sense11」、MNPだと2年24年に【スマホお得情報】",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news081.html",
-      "pubDate": "2026-11-27T07:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] XYZA、何度も自由に描き替え可能なカラーE Ink搭載スマートキーホルダー",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news083.html",
-      "pubDate": "2026-11-27T06:59:00.000Z"
     },
     {
       "category": "経済",
@@ -170,6 +170,14 @@
       "pubDate": "2026-11-27T04:24:22.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ライカが12月3日に「Q3 43モノクローム」を発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/123q3-43.html",
+      "pubDate": "2026-11-27T03:26:49.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -184,6 +192,14 @@
       "title": "「バブみ」メイク 下まぶたがキモ",
       "link": "https://news.yahoo.co.jp/pickup/6604169?source=rss",
       "pubDate": "2026-11-27T03:12:58.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」はIBISの性能が8段分に改善される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6ibis8.html",
+      "pubDate": "2026-11-27T02:18:54.000Z"
     },
     {
       "category": "科学",
@@ -240,6 +256,30 @@
       "title": "介護やケア 長女に頼った母の後悔",
       "link": "https://news.yahoo.co.jp/pickup/6604104?source=rss",
       "pubDate": "2026-11-26T11:10:56.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーが12月1日に何らかの発表を行う？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/121-4.html",
+      "pubDate": "2026-11-26T03:55:15.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「XF50-140mmF2.8II」は小型化されるが引き続きインナーズームを採用？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/xf50-140mmf28ii.html",
+      "pubDate": "2026-11-26T03:10:53.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/omds43.html",
+      "pubDate": "2026-11-26T02:22:48.000Z"
     }
   ]
 }
