@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-27T00:45:39.304Z",
+  "updatedAt": "2026-11-27T01:00:53.608Z",
   "items": [
+    {
+      "category": "科学",
+      "group": "ニュース",
+      "badgeClass": "badge-science",
+      "title": "JAXA 日本人宇宙飛行士を募集へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604153?source=rss",
+      "pubDate": "2026-11-27T00:52:49.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -218,12 +226,20 @@
       "pubDate": "2026-11-26T06:18:28.000Z"
     },
     {
-      "category": "科学",
-      "group": "ニュース",
-      "badgeClass": "badge-science",
-      "title": "は虫類やウサギ ペットの防災解説",
-      "link": "https://news.yahoo.co.jp/pickup/6604067?source=rss",
-      "pubDate": "2026-11-26T06:16:40.000Z"
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーが12月1日に何らかの発表を行う？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/121-4.html",
+      "pubDate": "2026-11-26T03:55:15.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「XF50-140mmF2.8II」は小型化されるが引き続きインナーズームを採用？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/xf50-140mmf28ii.html",
+      "pubDate": "2026-11-26T03:10:53.000Z"
     },
     {
       "category": "IT",
@@ -240,6 +256,30 @@
       "title": "ファクトチェック組織 誤情報掲載",
       "link": "https://news.yahoo.co.jp/pickup/6604032?source=rss",
       "pubDate": "2026-11-26T02:40:18.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/omds43.html",
+      "pubDate": "2026-11-26T02:22:48.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "キヤノンが2027年Q1に「EOS R7」「EOS R10」後継機を含む多くの新製品を投入？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/2027q1eos-r7eos-r10.html",
+      "pubDate": "2026-11-25T13:22:45.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」は白のピクセルを含むRGBWセンサーを採用？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6rgbw.html",
+      "pubDate": "2026-11-25T02:33:52.000Z"
     }
   ]
 }
