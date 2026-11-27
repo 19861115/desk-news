@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T06:30:46.816Z",
+  "updatedAt": "2026-11-27T06:45:35.497Z",
   "items": [
     {
       "category": "国際",
@@ -8,6 +8,30 @@
       "title": "インド最大野党 メタと政府を提訴",
       "link": "https://news.yahoo.co.jp/pickup/6604190?source=rss",
       "pubDate": "2026-11-27T06:23:19.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] AI時代は「技術を隠す」戦略が通用しない？　営業秘密の限界と知財戦略の転換",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/27/news043.html",
+      "pubDate": "2026-11-27T06:15:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia ビジネスオンライン] 京セラ「設備投資9000億円の8割」をAI部品へ集中　社長が語った狙いは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news082.html",
+      "pubDate": "2026-11-27T06:15:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia PC USER] なぜ現場の作業員は保護ケースを外してしまうのか　TOUGHBOOK初のCopilot+ PC「FZ-G3」が挑んだ“頑丈／軽量／長時間駆動“の同時実現",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news028.html",
+      "pubDate": "2026-11-27T06:00:00.000Z"
     },
     {
       "category": "国内",
@@ -40,30 +64,6 @@
       "title": "[ITmedia PC USER] ASUS、計12ボタンを搭載した多機能ゲーミングマウス「ROG Spatha X 65K」",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news077.html",
       "pubDate": "2026-11-27T05:33:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] 通話とSMSだけの「INFOBAR ZERO」は若者に刺さるか？　米国のダムフォンブームが日本で起きない理由",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news076.html",
-      "pubDate": "2026-11-27T05:15:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia エンタープライズ] ClaudeのMCP連携に新機能　スキルもMCP経由で提供、削除前の確認も",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/27/news029.html",
-      "pubDate": "2026-11-27T05:00:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia News] 聴覚障害の社員にスマートグラス支給　会話をリアルタイムに文字表示　ソフトバンク、連携アプリも独自開発",
-      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003516/",
-      "pubDate": "2026-11-27T04:41:50.000Z"
     },
     {
       "category": "国内",
@@ -106,6 +106,14 @@
       "pubDate": "2026-11-27T03:51:33.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ライカが12月3日に「Q3 43モノクローム」を発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/123q3-43.html",
+      "pubDate": "2026-11-27T03:26:49.000Z"
+    },
+    {
       "category": "経済",
       "group": "ニュース",
       "badgeClass": "badge-business",
@@ -128,6 +136,14 @@
       "title": "関文科相の問責決議案 否決",
       "link": "https://news.yahoo.co.jp/pickup/6604161?source=rss",
       "pubDate": "2026-11-27T02:40:11.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」はIBISの性能が8段分に改善される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6ibis8.html",
+      "pubDate": "2026-11-27T02:18:54.000Z"
     },
     {
       "category": "経済",
@@ -234,12 +250,36 @@
       "pubDate": "2026-11-26T06:18:28.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーが12月1日に何らかの発表を行う？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/121-4.html",
+      "pubDate": "2026-11-26T03:55:15.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「XF50-140mmF2.8II」は小型化されるが引き続きインナーズームを採用？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/xf50-140mmf28ii.html",
+      "pubDate": "2026-11-26T03:10:53.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "宇宙DC 米当局が条件付きで認可",
       "link": "https://news.yahoo.co.jp/pickup/6604033?source=rss",
       "pubDate": "2026-11-26T02:46:05.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/omds43.html",
+      "pubDate": "2026-11-26T02:22:48.000Z"
     }
   ]
 }
