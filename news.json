@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-27T08:30:48.850Z",
+  "updatedAt": "2026-11-27T08:45:37.113Z",
   "items": [
+    {
+      "category": "国際",
+      "group": "ニュース",
+      "badgeClass": "badge-world",
+      "title": "露指示とされる破壊工作 欧州激化",
+      "link": "https://news.yahoo.co.jp/pickup/6604208?source=rss",
+      "pubDate": "2026-11-27T08:37:30.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -69,6 +77,14 @@
       "category": "ITmedia",
       "group": "IT・メディア",
       "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] ソフトバンクの「AQUOS sense11」、MNPだと2年24年に【スマホお得情報】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/26/news081.html",
+      "pubDate": "2026-11-27T07:00:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
       "title": "[ITmedia PC USER] XYZA、何度も自由に描き替え可能なカラーE Ink搭載スマートキーホルダー",
       "link": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news083.html",
       "pubDate": "2026-11-27T06:59:00.000Z"
@@ -96,14 +112,6 @@
       "title": "[ITmedia News] 「時給1280円?」「在宅勤務」　ローソンが募集する「アバターオペレーター」という謎のお仕事",
       "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003511/",
       "pubDate": "2026-11-27T06:42:43.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] 自由に曲げ伸ばしできるぬいぐるみ風リストレスト「へびねこ」",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news080.html",
-      "pubDate": "2026-11-27T06:34:00.000Z"
     },
     {
       "category": "国際",
@@ -216,14 +224,6 @@
       "title": "製油所で爆発9人負傷 バンコク",
       "link": "https://news.yahoo.co.jp/pickup/6604135?source=rss",
       "pubDate": "2026-11-26T22:49:45.000Z"
-    },
-    {
-      "category": "国際",
-      "group": "ニュース",
-      "badgeClass": "badge-world",
-      "title": "ECB総裁にデコス氏 EU首脳が合意",
-      "link": "https://news.yahoo.co.jp/pickup/6604124?source=rss",
-      "pubDate": "2026-11-26T21:06:20.000Z"
     },
     {
       "category": "科学",
