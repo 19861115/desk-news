@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-27T04:15:34.495Z",
+  "updatedAt": "2026-11-27T04:30:43.845Z",
   "items": [
+    {
+      "category": "IT",
+      "group": "ニュース",
+      "badgeClass": "badge-it",
+      "title": "AIの果実を国民へ 米台韓で動き",
+      "link": "https://news.yahoo.co.jp/pickup/6604165?source=rss",
+      "pubDate": "2026-11-27T04:24:22.000Z"
+    },
+    {
+      "category": "国内",
+      "group": "ニュース",
+      "badgeClass": "badge-domestic",
+      "title": "首相 関文科相を続投させる構え",
+      "link": "https://news.yahoo.co.jp/pickup/6604175?source=rss",
+      "pubDate": "2026-11-27T04:23:01.000Z"
+    },
     {
       "category": "国内",
       "group": "ニュース",
@@ -120,14 +136,6 @@
       "title": "JAXA 日本人宇宙飛行士を募集へ",
       "link": "https://news.yahoo.co.jp/pickup/6604153?source=rss",
       "pubDate": "2026-11-27T00:52:49.000Z"
-    },
-    {
-      "category": "国内",
-      "group": "ニュース",
-      "badgeClass": "badge-domestic",
-      "title": "ネットいじめ 初めて3万件超える",
-      "link": "https://news.yahoo.co.jp/pickup/6604145?source=rss",
-      "pubDate": "2026-11-27T00:02:40.000Z"
     },
     {
       "category": "IT",
@@ -264,14 +272,6 @@
       "title": "宇宙DC 米当局が条件付きで認可",
       "link": "https://news.yahoo.co.jp/pickup/6604033?source=rss",
       "pubDate": "2026-11-26T02:46:05.000Z"
-    },
-    {
-      "category": "IT",
-      "group": "ニュース",
-      "badgeClass": "badge-it",
-      "title": "ファクトチェック組織 誤情報掲載",
-      "link": "https://news.yahoo.co.jp/pickup/6604032?source=rss",
-      "pubDate": "2026-11-26T02:40:18.000Z"
     },
     {
       "category": "デジカメinfo",
