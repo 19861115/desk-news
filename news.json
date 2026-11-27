@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-27T05:30:46.694Z",
+  "updatedAt": "2026-11-27T05:45:34.227Z",
   "items": [
+    {
+      "category": "経済",
+      "group": "ニュース",
+      "badgeClass": "badge-business",
+      "title": "貨物列車が牛と衝突 巻き込み停車",
+      "link": "https://news.yahoo.co.jp/pickup/6604187?source=rss",
+      "pubDate": "2026-11-27T05:38:41.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia Mobile] 通話とSMSだけの「INFOBAR ZERO」は若者に刺さるか？　米国のダムフォンブームが日本で起きない理由",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news076.html",
+      "pubDate": "2026-11-27T05:15:00.000Z"
+    },
+    {
+      "category": "ITmedia",
+      "group": "IT・メディア",
+      "badgeClass": "badge-itmedia",
+      "title": "[ITmedia エンタープライズ] ClaudeのMCP連携に新機能　スキルもMCP経由で提供、削除前の確認も",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/27/news029.html",
+      "pubDate": "2026-11-27T05:00:00.000Z"
+    },
     {
       "category": "ITmedia",
       "group": "IT・メディア",
@@ -58,28 +82,20 @@
       "pubDate": "2026-11-27T04:23:01.000Z"
     },
     {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia PC USER] ASUS、手のひらサイズ筐体を採用したCore Ultra搭載ミニデスクトップ「ASUS NUC」2シリーズを発売",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news074.html",
-      "pubDate": "2026-11-27T04:20:00.000Z"
-    },
-    {
-      "category": "ITmedia",
-      "group": "IT・メディア",
-      "badgeClass": "badge-itmedia",
-      "title": "[ITmedia Mobile] Nothingが最大40％オフの「ブラックフライデーセール」開催　スマホ、イヤフォン、ウォッチがお得に",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2611/27/news063.html",
-      "pubDate": "2026-11-27T04:00:00.000Z"
-    },
-    {
       "category": "国内",
       "group": "ニュース",
       "badgeClass": "badge-domestic",
       "title": "28日は関東で警報級大雨の恐れ",
       "link": "https://news.yahoo.co.jp/pickup/6604174?source=rss",
       "pubDate": "2026-11-27T03:51:33.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ライカが12月3日に「Q3 43モノクローム」を発表？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/123q3-43.html",
+      "pubDate": "2026-11-27T03:26:49.000Z"
     },
     {
       "category": "経済",
@@ -104,6 +120,14 @@
       "title": "関文科相の問責決議案 否決",
       "link": "https://news.yahoo.co.jp/pickup/6604161?source=rss",
       "pubDate": "2026-11-27T02:40:11.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「X-T6」はIBISの性能が8段分に改善される？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/x-t6ibis8.html",
+      "pubDate": "2026-11-27T02:18:54.000Z"
     },
     {
       "category": "国内",
@@ -186,14 +210,6 @@
       "pubDate": "2026-11-26T22:49:45.000Z"
     },
     {
-      "category": "経済",
-      "group": "ニュース",
-      "badgeClass": "badge-business",
-      "title": "ちいかわイベ グッズ早期完売謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6604129?source=rss",
-      "pubDate": "2026-11-26T21:56:12.000Z"
-    },
-    {
       "category": "国際",
       "group": "ニュース",
       "badgeClass": "badge-world",
@@ -234,12 +250,36 @@
       "pubDate": "2026-11-26T06:18:28.000Z"
     },
     {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "ソニーが12月1日に何らかの発表を行う？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/121-4.html",
+      "pubDate": "2026-11-26T03:55:15.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "富士フイルム「XF50-140mmF2.8II」は小型化されるが引き続きインナーズームを採用？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/xf50-140mmf28ii.html",
+      "pubDate": "2026-11-26T03:10:53.000Z"
+    },
+    {
       "category": "IT",
       "group": "ニュース",
       "badgeClass": "badge-it",
       "title": "宇宙DC 米当局が条件付きで認可",
       "link": "https://news.yahoo.co.jp/pickup/6604033?source=rss",
       "pubDate": "2026-11-26T02:46:05.000Z"
+    },
+    {
+      "category": "デジカメinfo",
+      "group": "カメラ・ホビー",
+      "badgeClass": "badge-camera",
+      "title": "OMDSが新世代の高性能43センサーを入手、次世代機に搭載予定？（デジカメinfo）",
+      "link": "https://digicame-info.com/2026/11/omds43.html",
+      "pubDate": "2026-11-26T02:22:48.000Z"
     }
   ]
 }
